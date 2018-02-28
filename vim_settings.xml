@@ -15,13 +15,13 @@
       <file name="/Dummy.txt" timestamp="1517872582366">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1518636870267">
+      <file name="/code.py" timestamp="1519842857830">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="10" />
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1518626023067">
+      <file name="/Python Console" timestamp="1519844115480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/ncd/ncd_gzip.py" timestamp="1514495521860">
@@ -65,11 +65,11 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/python_basics.py" timestamp="1518627943328">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="1" />
+      <file name="$USER_HOME$/Downloads/python_basics.py" timestamp="1519844268414">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+        <mark key="^" line="1" column="2" />
       </file>
       <file name="$USER_HOME$/github/ncd/ncds.py" timestamp="1514480517151">
         <mark key="[" line="37" column="0" />
@@ -123,10 +123,11 @@
       <jump line="11" column="1" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="17" column="8" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Downloads/python_basics.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>maxsplit=2,'AUG')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>maxsplit=2,'AUG')</text>
@@ -138,34 +139,34 @@
         <text>AUGACACGUUACGCAGUCAGUCAGAUCAGCUAUCAGUCAUGCAUGCAUGUAGAGAGAGUCAUGUGUAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUGACGAGCAGUUUAGCAGUCAUUUUUUUUGACUACUGCA</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnNsZGtmdCgpYWpzaGRma2phc2Rma2hqYXNmZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGQuRAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnNsZGtmdCgpYWpzaGRma2phc2Rma2hqYXNmZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBidWlsdGlucyBpbXBvcnQgcHJpbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ezogIGZvciAgaW4gfQpbIGZvciAgaW4gXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29tcHJlc3NlZC5rZXlzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIG5jZChmYSwgZmIpOgo=</text>
+        <text encoding="base64">ZnJvbSBidWlsdGlucyBpbXBvcnQgcHJpbnQK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
