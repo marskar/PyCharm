@@ -21,7 +21,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1520449064865">
+      <file name="/Python Console" timestamp="1520515816245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/ncd/ncd_gzip.py" timestamp="1514495521860">
@@ -37,6 +37,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" timestamp="1520515966493">
+        <mark key="'" line="5" column="9" />
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1514157350872">
         <mark key="[" line="2" column="0" />
@@ -75,6 +82,12 @@
       <file name="$USER_HOME$/github/ncd/ncds.py" timestamp="1514480517151">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Adaptive Python1/lesson1/task1/pd_df_list.py" timestamp="1520514782028">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/output.py" timestamp="1514243017667">
         <mark key="a" line="131" column="6" />
@@ -126,19 +139,26 @@
       <jump line="17" column="8" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/python_basics.py" />
       <jump line="12" column="11" filename="$USER_HOME$/Downloads/python_basics.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
+      <jump line="9" column="20" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
+      <jump line="11" column="2" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
+      <jump line="3" column="2" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGYyID0gZGYuYXN0eXBlKCdvYmplY3QnKSAgIyBjaGFuZ2UgdG8gb2JqZWN0IHR5cGUK</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>1, 2, 3)</text>
       </register>
       <register name="/" type="4">
-        <text>tan</text>
+        <text encoding="base64">IFwj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">djIgPSBucC52YXIoeDIpCg==</text>
+        <text encoding="base64">ZGYyID0gZGYuYXN0eXBlKCdvYmplY3QnKSAgIyBjaGFuZ2UgdG8gb2JqZWN0IHR5cGUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGQuRAo=</text>
@@ -171,20 +191,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>%s//  \#/g</text>
       </register>
     </registers>
     <search>
-      <last-search>tan</last-search>
+      <last-search encoding="base64">IFwj</last-search>
       <last-offset />
-      <last-pattern>tan</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">IFwj</last-pattern>
+      <last-replace encoding="base64">ICBcIw==</last-replace>
+      <last-substitute encoding="base64">IFwj</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>#</entry>
         <entry>tan</entry>
+        <entry encoding="base64">IFwj</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
@@ -193,6 +216,7 @@
         <entry>set relativenumber</entry>
         <entry>set number</entry>
         <entry>q</entry>
+        <entry>%s//  \#/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
