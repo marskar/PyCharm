@@ -21,7 +21,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1521752606169">
+      <file name="/Python Console" timestamp="1521769240951">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/ncd/ncd_gzip.py" timestamp="1514495521860">
@@ -62,6 +62,13 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" timestamp="1521770153063">
+        <mark key="'" line="97" column="32" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="21" />
+        <mark key="^" line="36" column="21" />
+        <mark key="." line="36" column="21" />
       </file>
       <file name="$USER_HOME$/Downloads/test5.py" timestamp="1517965423129">
         <mark key="[" line="0" column="1806" />
@@ -146,13 +153,14 @@
       <jump line="11" column="2" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
       <jump line="3" column="2" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
       <jump line="4" column="9" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
+      <jump line="91" column="32" filename="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGYyID0gZGYuYXN0eXBlKCdvYmplY3QnKSAgIyBjaGFuZ2UgdG8gb2JqZWN0IHR5cGUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1, 2, 3)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IFwj</text>
@@ -160,29 +168,29 @@
       <register name="0" type="2">
         <text encoding="base64">ZGYyID0gZGYuYXN0eXBlKCdvYmplY3QnKSAgIyBjaGFuZ2UgdG8gb2JqZWN0IHR5cGUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cGQuRAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAog</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">cGQuRAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cGQuRAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnNsZGtmdCgpYWpzaGRma2phc2Rma2hqYXNmZAo=</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnNsZGtmdCgpYWpzaGRma2phc2Rma2hqYXNmZAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
