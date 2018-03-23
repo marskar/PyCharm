@@ -21,9 +21,6 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1521769240951">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/ncd/ncd_gzip.py" timestamp="1514495521860">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="25" />
@@ -57,14 +54,17 @@
         <mark key="." line="0" column="1051" />
         <mark key="^" line="0" column="1403" />
       </file>
+      <file name="$USER_HOME$/Downloads/MTGProTour/ProTourAnalysis2.py" timestamp="1521803041070">
+        <mark key="'" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" timestamp="1514496844693">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" timestamp="1521770153063">
-        <mark key="'" line="97" column="32" />
+      <file name="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" timestamp="1521802844338">
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="36" column="21" />
         <mark key="]" line="36" column="21" />
         <mark key="^" line="36" column="21" />
@@ -95,6 +95,13 @@
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MTGProTour/encoding.py" timestamp="1521802048404">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/output.py" timestamp="1514243017667">
         <mark key="a" line="131" column="6" />
@@ -154,46 +161,55 @@
       <jump line="3" column="2" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
       <jump line="4" column="9" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
       <jump line="91" column="32" filename="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" />
+      <jump line="2" column="17" filename="$USER_HOME$/Downloads/MTGProTour/encoding.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Downloads/MTGProTour/encoding.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MTGProTour/encoding.py" />
+      <jump line="35" column="6" filename="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" />
+      <jump line="1" column="18" filename="$USER_HOME$/Downloads/MTGProTour/ProTourAnalysis2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">eiA9IHguZW5jb2RlKCdhc2NpaScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>latin1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IFwj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYyID0gZGYuYXN0eXBlKCdvYmplY3QnKSAgIyBjaGFuZ2UgdG8gb2JqZWN0IHR5cGUK</text>
+        <text encoding="base64">eSA9IHguZW5jb2RlKCd1dGYtOCcpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="1" type="2">
+        <text encoding="base64">eiA9IHguZW5jb2RlKCdhc2NpaScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cGQuRAo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAog</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">cGQuRAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGQuRAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnNsZGtmdCgpYWpzaGRma2phc2Rma2hqYXNmZAo=</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnNsZGtmdCgpYWpzaGRma2phc2Rma2hqYXNmZAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
