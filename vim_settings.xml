@@ -21,18 +21,18 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1522184645708">
+      <file name="/Python Console" timestamp="1522186645297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1522164273800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/workflowdag.py" timestamp="1522184644135">
-        <mark key="'" line="54" column="9" />
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="20" />
-        <mark key="^" line="35" column="20" />
-        <mark key="." line="35" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/workflowdag.py" timestamp="1522186642893">
+        <mark key="'" line="55" column="9" />
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="33" column="24" />
       </file>
       <file name="$USER_HOME$/github/ncd/ncd_gzip.py" timestamp="1514495521860">
         <mark key="[" line="31" column="0" />
@@ -202,46 +202,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>obj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICgicHJlZC5weSIsICJwa2wiKTogInBpY2tsZSIsCg==</text>
+        <text encoding="base64">ICAgICAgICgibWQiLCAiaHRtbC90ZXgiKTogInBhbmRvYyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJjc2wiLCAiUm1kIiksCg==</text>
+        <text encoding="base64">ICAgICAgICgibWQiLCAicHB0eCIpOiAicGFuZG9jIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJiaWIiLCAiUm1kIiksCg==</text>
+        <text encoding="base64">ICAgICAgICJwcHR4IiA6ICgtMCwtMjApLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJ0ZXgiLCJwZGYiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJjc2wiLCAiUm1kIiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJtZCIsInRleCIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJiaWIiLCAiUm1kIiksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICgiaXB5bmIiLCAidGV4Iik6ICJuYmNvbnZlcnQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJ0ZXgiLCJwZGYiKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICJ0ZXgiIDogKDAsLTQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJtZCIsInRleCIpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICJodG1sIiA6ICgxLC00KSwK</text>
+        <text encoding="base64">ICAgICAgICgiaXB5bmIiLCAidGV4Iik6ICJuYmNvbnZlcnQiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJpcHluYiIsICJ0ZXgiKSwK</text>
+        <text encoding="base64">ICAgICAgICJ0ZXgiIDogKDAsLTQpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJweSIsInBrbCIpLAo=</text>
+        <text encoding="base64">ICAgICAgICJodG1sIiA6ICgxLC00KSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s//  \#/g</text>
