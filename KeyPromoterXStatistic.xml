@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'workflowdag'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃⌥E'</ShortCut>
+          <Description>Run 'workflowdag'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Scientific Mode">
         <Item>
           <IdeaActionID>PySciView</IdeaActionID>
