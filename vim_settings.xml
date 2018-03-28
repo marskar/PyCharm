@@ -12,47 +12,17 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522164234965">
+      <file name="/Python Console" timestamp="1522199740036">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1520375712824">
+      <file name="/a.dummy" timestamp="1522199773070">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-      </file>
-      <file name="/Python Console" timestamp="1522196294621">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" timestamp="1522196284767">
-        <mark key="'" line="13" column="27" />
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="14" />
-        <mark key="^" line="27" column="13" />
-      </file>
-      <file name="/a.dummy" timestamp="1522164273800">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/workflowdag.py" timestamp="1522196073123">
-        <mark key="[" line="51" column="76" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/github/ncd/ncd_gzip.py" timestamp="1514495521860">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="25" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_spring2018/ideavim_actionlist.py" timestamp="1514388430279">
-        <mark key="a" line="9" column="0" />
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" timestamp="1520515966493">
         <mark key="'" line="5" column="9" />
@@ -61,26 +31,11 @@
         <mark key="^" line="17" column="2" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1514157350872">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="1" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1514155083582">
         <mark key="[" line="0" column="1051" />
         <mark key="]" line="0" column="1051" />
         <mark key="." line="0" column="1051" />
         <mark key="^" line="0" column="1403" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MTGProTour/ProTourAnalysis2.py" timestamp="1521803041070">
-        <mark key="'" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" timestamp="1514496844693">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MTGProTour/collect_tournament_data.py" timestamp="1521802844338">
         <mark key="'" line="62" column="0" />
@@ -92,17 +47,64 @@
       <file name="$USER_HOME$/Downloads/test5.py" timestamp="1517965423129">
         <mark key="[" line="0" column="1806" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1517872483239">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="13" column="48" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1522164186739">
         <mark key="[" line="7" column="68" />
         <mark key="]" line="8" column="9" />
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/github/ncd/ncds.py" timestamp="1514480517151">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1522164234965">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1520375712824">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" timestamp="1522199737459">
+        <mark key="'" line="29" column="7" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="27" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/workflowdag.py" timestamp="1522196073123">
+        <mark key="[" line="51" column="76" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1514157350872">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MTGProTour/ProTourAnalysis2.py" timestamp="1521803041070">
+        <mark key="'" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" timestamp="1514496844693">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" timestamp="1522200041707">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1517872483239">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/python_basics.py" timestamp="1520376102708">
         <mark key="'" line="12" column="11" />
@@ -110,10 +112,6 @@
         <mark key="]" line="5" column="2" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="5" column="2" />
-      </file>
-      <file name="$USER_HOME$/github/ncd/ncds.py" timestamp="1514480517151">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Adaptive Python1/lesson1/task1/pd_df_list.py" timestamp="1520514782028">
         <mark key="[" line="0" column="0" />
@@ -127,14 +125,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/output.py" timestamp="1514243017667">
-        <mark key="a" line="131" column="6" />
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="131" column="7" />
-        <mark key="]" line="131" column="6" />
-        <mark key="." line="131" column="6" />
-        <mark key="^" line="131" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -211,66 +201,77 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
       <jump line="1" column="18" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
       <jump line="14" column="27" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
-      <jump line="15" column="21" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
-      <jump line="16" column="21" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
-      <jump line="29" column="9" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
       <jump line="44" column="16" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
       <jump line="45" column="10" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
       <jump line="13" column="27" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="33" column="7" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="51" column="80" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="48" column="29" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="32" column="12" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="22" column="24" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="16" column="7" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="42" column="15" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="27" column="31" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="28" column="31" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="11" column="20" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="29" column="7" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>py</text>
+        <text>md</text>
       </register>
       <register name="-" type="4">
-        <text>py</text>
+        <text>md</text>
       </register>
       <register name="/" type="4">
-        <text>pkl</text>
+        <text>dat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Tj1sZW4ocG9zKQprZXlzPWxpc3QocG9zLmtleXMoKSkKClg9W3Bvc1trZXldWzBdIGZvciBrZXkgaW4ga2V5c10KWT1bcG9zW2tleV1bMV0gZm9yIGtleSBpbiBrZXlzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJjc3YiLCAicHJlZC5SIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICJyZHMiOiAoMSwgMSksCiAgICAgICAicG5nIjogKC0xLCAxKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RyA9IG54LkRpR3JhcGgoKQo=</text>
+        <text encoding="base64">ICAgICAgICJwbG90LlIiOiAoLTEsIDIpLAogICAgICAgInByZWQuUiI6ICgxLCAyKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ry5hZGRfZWRnZSgiUm1kIiwgIm1kIikK</text>
+        <text encoding="base64">ICAgICAgICJjc3YiOiAoMCwgMiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHJhY2UgPSBTY2F0dGVyKHg9WCx5PVkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJkYXQiLCAiY3N2IiksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBsb3RseS5wbG90bHkgYXMgcHkKZnJvbSBwbG90bHkuZ3JhcGhfb2JqcyBpbXBvcnQgKgo=</text>
+        <text encoding="base64">ICAgICAgICJwbmciOiAoLTEsIDEpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHkuaXBsb3QoZmlnLCBmaWxlbmFtZT0nbmV0d29ya3gnKQo=</text>
+        <text encoding="base64">ICAgICAgICJwbG90LlIiOiAoLTEsIDIpLAogICAgICAgInByZWQuUiI6ICgxLCAyKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmlnID0gRmlndXJlKGRhdGE9dHJhY2UsIGxheW91dD1MYXlvdXQoKSkK</text>
+        <text encoding="base64">ICAgICAgICJyZHMiOiAoMSwgMSksCiAgICAgICAicGxvdC5SIjogKC0xLCAyKSwKICAgICAgICJwcmVkLlIiOiAoMSwgMiksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WFsxXVsxXQo=</text>
+        <text encoding="base64">ICAgICAgICJjc3YiOiAoMCwgMiksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cG9zW2tleXNdCg==</text>
+        <text encoding="base64">ICAgICAgICJwZGYiOiAoLTAuNSwgLTEwKSwKICAgICAgICJkb2N4IjogKC0xLCAtMTApLAogICAgICAgInBwdHgiOiAoMSwgLTEwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/pkl/rds/g</text>
+        <text>%s//readr/g</text>
       </register>
     </registers>
     <search>
-      <last-search>pkl</last-search>
+      <last-search>dat</last-search>
       <last-offset />
-      <last-pattern>pkl</last-pattern>
-      <last-replace>rds</last-replace>
-      <last-substitute>pkl</last-substitute>
+      <last-pattern>dat</last-pattern>
+      <last-replace>readr</last-replace>
+      <last-substitute encoding="base64">XDxkcGx5clw+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -282,6 +283,16 @@
         <entry>obj</entry>
         <entry>py</entry>
         <entry>pkl</entry>
+        <entry>matplotlib</entry>
+        <entry>pandas</entry>
+        <entry>html\/tex</entry>
+        <entry>pickle</entry>
+        <entry>ipy</entry>
+        <entry>LaT</entry>
+        <entry>dply</entry>
+        <entry encoding="base64">XDxkcGx5clw+</entry>
+        <entry>sas</entry>
+        <entry>dat</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
@@ -292,6 +303,11 @@
         <entry>q</entry>
         <entry>%s//  \#/g</entry>
         <entry>%s/pkl/rds/g</entry>
+        <entry>%s/matplotlib/ggplot2/g</entry>
+        <entry>%s/pandas/dplyr/g</entry>
+        <entry>%s/html\/tex/tex html/g</entry>
+        <entry>%s/pickle/readr/g</entry>
+        <entry>%s//readr/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
