@@ -12,9 +12,6 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1522199740036">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1522199773070">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,11 +91,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" timestamp="1522200041707">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="39" />
-        <mark key="^" line="8" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" timestamp="1522201142336">
+        <mark key="'" line="30" column="23" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1517872483239">
         <mark key="[" line="9" column="0" />
@@ -218,60 +216,63 @@
       <jump line="28" column="31" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
       <jump line="11" column="20" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
       <jump line="29" column="7" filename="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" />
+      <jump line="28" column="9" filename="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" />
+      <jump line="29" column="7" filename="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" />
+      <jump line="33" column="23" filename="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>md</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICJhZHVsdHguY3N2IjogKC0xLCAwKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>md</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>dat</text>
+        <text>sas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJjc3YiLCAicHJlZC5SIiksCg==</text>
+        <text encoding="base64">ICAgICAgICJhZHVsdC5jc3YiOiAoLTEsIDEpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICJyZHMiOiAoMSwgMSksCiAgICAgICAicG5nIjogKC0xLCAxKSwK</text>
+        <text encoding="base64">ICAgICAgICJhZHVsdHguY3N2IjogKC0xLCAwKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICJwbG90LlIiOiAoLTEsIDIpLAogICAgICAgInByZWQuUiI6ICgxLCAyKSwK</text>
+        <text encoding="base64">ICAgICAgICgiYWR1bHR4LmRhdCIsICJhZHVscy5jc3YiKTogImFkdWx0LnNhcyIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICJjc3YiOiAoMCwgMiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJhZHVsdHguZGF0IiwgImFkdWx0LmNzdiIpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJkYXQiLCAiY3N2IiksCg==</text>
+        <text encoding="base64">ICAgICAgICJhZHVsdHguZGF0IjogKC0xLCAxKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICJwbmciOiAoLTEsIDEpLAo=</text>
+        <text encoding="base64">ICAgICAgICJleGFtLmRhdCI6ICgxLCAxKSwKICAgICAgICJsYWIuZGF0IjogKDEsIDEpLAogICAgICAgIm1vcnQuZGF0IjogKDEsIDEpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICJwbG90LlIiOiAoLTEsIDIpLAogICAgICAgInByZWQuUiI6ICgxLCAyKSwK</text>
+        <text encoding="base64">ICAgICAgICgiY3N2IiwgInByZWQuUiIpOiAicmVhZHIiLCAoImNzdiIsICJSbWQiKTogInJlYWRyIiwKICAgICAgICgicHJlZC5SIiwgInJkcyIpOiAicmVhZHIiLAogICAgICAgKCJyZHMiLCAiUm1kIik6ICJyZWFkciIsCiAgICAgICAoInBsb3QuUiIsICJwbmciKTogImdncGxvdDIiLAogICAgICAgKCJwbmciLCAiUm1kIik6ICJrbml0ciIsCiAgICAgICAoImJpYiIsICJtZCIpOiAicGFuZG9jIiwKICAgICAgICgiY3NsIiwgIm1kIik6ICJwYW5kb2MiLAogICAgICAgKCJtZCIsICJodG1sL3BkZi9kb2N4L3BwdHgiKTogInBhbmRvYyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICJyZHMiOiAoMSwgMSksCiAgICAgICAicGxvdC5SIjogKC0xLCAyKSwKICAgICAgICJwcmVkLlIiOiAoMSwgMiksCg==</text>
+        <text encoding="base64">ICAgICAgICJtZCI6ICgwLCAwKSwKICAgICAgICJiaWIiOiAoLTEsIDApLAogICAgICAgImNzbCI6ICgxLCAwKSwKICAgICAgICJodG1sL3BkZi9kb2N4L3BwdHgiOiAoMCwgLTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICJjc3YiOiAoMCwgMiksCg==</text>
+        <text encoding="base64">ICAgICAgICJhZHVsdC4iOiAoLTEsIDEpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICJwZGYiOiAoLTAuNSwgLTEwKSwKICAgICAgICJkb2N4IjogKC0xLCAtMTApLAogICAgICAgInBwdHgiOiAoMSwgLTEwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJsYWIuZGF0IiwgImxhYi5jc3YiKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>%s//readr/g</text>
+        <text>s/lab/mort/g</text>
       </register>
     </registers>
     <search>
-      <last-search>dat</last-search>
+      <last-search>sas</last-search>
       <last-offset />
-      <last-pattern>dat</last-pattern>
-      <last-replace>readr</last-replace>
-      <last-substitute encoding="base64">XDxkcGx5clw+</last-substitute>
+      <last-pattern>sas</last-pattern>
+      <last-replace>mort</last-replace>
+      <last-substitute>lab</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -291,8 +292,10 @@
         <entry>LaT</entry>
         <entry>dply</entry>
         <entry encoding="base64">XDxkcGx5clw+</entry>
-        <entry>sas</entry>
         <entry>dat</entry>
+        <entry>exam</entry>
+        <entry>lab</entry>
+        <entry>sas</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
@@ -308,6 +311,8 @@
         <entry>%s/html\/tex/tex html/g</entry>
         <entry>%s/pickle/readr/g</entry>
         <entry>%s//readr/g</entry>
+        <entry>s/exam/lab/g</entry>
+        <entry>s/lab/mort/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
