@@ -15,14 +15,32 @@
       <file name="/Dummy.txt" timestamp="1522292456274">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1522164186739">
+        <mark key="[" line="7" column="68" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+      </file>
       <file name="/code.py" timestamp="1520375712824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="10" />
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1522292455972">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1514155083582">
+        <mark key="[" line="0" column="1051" />
+        <mark key="]" line="0" column="1051" />
+        <mark key="." line="0" column="1051" />
+        <mark key="^" line="0" column="1403" />
+      </file>
+      <file name="/Python Console" timestamp="1522292815448">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1514157350872">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" timestamp="1522199737459">
         <mark key="'" line="29" column="7" />
@@ -31,14 +49,14 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1522199773070">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/workflowdag.py" timestamp="1522196073123">
         <mark key="[" line="51" column="76" />
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="/a.dummy" timestamp="1522199773070">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/ncd/ncd_gzip.py" timestamp="1514495521860">
         <mark key="[" line="31" column="0" />
@@ -52,18 +70,6 @@
         <mark key="]" line="15" column="15" />
         <mark key="^" line="17" column="2" />
         <mark key="." line="15" column="15" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1514155083582">
-        <mark key="[" line="0" column="1051" />
-        <mark key="]" line="0" column="1051" />
-        <mark key="." line="0" column="1051" />
-        <mark key="^" line="0" column="1403" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1514157350872">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/Downloads/MTGProTour/ProTourAnalysis2.py" timestamp="1521803041070">
         <mark key="'" line="1" column="18" />
@@ -91,12 +97,6 @@
       <file name="$USER_HOME$/Downloads/test5.py" timestamp="1517965423129">
         <mark key="[" line="0" column="1806" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1522164186739">
-        <mark key="[" line="7" column="68" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1517872483239">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -110,9 +110,8 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/github/ncd/ncds.py" timestamp="1514480517151">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-analysis.py" timestamp="1522293487059">
+        <mark key="'" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Adaptive Python1/lesson1/task1/pd_df_list.py" timestamp="1520514782028">
         <mark key="[" line="0" column="0" />
@@ -222,6 +221,7 @@
       <jump line="28" column="9" filename="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" />
       <jump line="29" column="7" filename="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" />
       <jump line="33" column="23" filename="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" />
+      <jump line="23" column="10" filename="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-analysis.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
