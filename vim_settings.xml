@@ -33,7 +33,7 @@
         <mark key="." line="0" column="1051" />
         <mark key="^" line="0" column="1403" />
       </file>
-      <file name="/Python Console" timestamp="1522410934682">
+      <file name="/Python Console" timestamp="1522414434282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1514157350872">
@@ -110,12 +110,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-analysis.py" timestamp="1522410932187">
-        <mark key="'" line="4" column="18" />
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-analysis.py" timestamp="1522414483860">
+        <mark key="'" line="6" column="18" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Adaptive Python1/lesson1/task1/pd_df_list.py" timestamp="1520514782028">
         <mark key="[" line="0" column="0" />
@@ -230,7 +230,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyUlIGltcG9ydCBueCAmIHBsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -239,37 +239,38 @@
         <text>sas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyUlIGltcG9ydCBueCAmIHBsdAo=</text>
+        <text encoding="base64">cHJpbnQoIjEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj0gIT0gPC0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICJhZHVsdHguY3N2IjogKC0xLCAwKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICgiYWR1bHR4LmRhdCIsICJhZHVscy5jc3YiKTogImFkdWx0LnNhcyIsCg==</text>
+      <register name="3" type="4">
+        <text>import networkx as nx
+import matplotlib.pyplot as plt</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJhZHVsdHguZGF0IiwgImFkdWx0LmNzdiIpLAo=</text>
+        <text encoding="base64">Pj0gIT0gPC0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICJhZHVsdHguZGF0IjogKC0xLCAxKSwK</text>
+        <text encoding="base64">ICAgICAgICJhZHVsdHguY3N2IjogKC0xLCAwKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICJleGFtLmRhdCI6ICgxLCAxKSwKICAgICAgICJsYWIuZGF0IjogKDEsIDEpLAogICAgICAgIm1vcnQuZGF0IjogKDEsIDEpLAo=</text>
+        <text encoding="base64">ICAgICAgICgiYWR1bHR4LmRhdCIsICJhZHVscy5jc3YiKTogImFkdWx0LnNhcyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICgiY3N2IiwgInByZWQuUiIpOiAicmVhZHIiLCAoImNzdiIsICJSbWQiKTogInJlYWRyIiwKICAgICAgICgicHJlZC5SIiwgInJkcyIpOiAicmVhZHIiLAogICAgICAgKCJyZHMiLCAiUm1kIik6ICJyZWFkciIsCiAgICAgICAoInBsb3QuUiIsICJwbmciKTogImdncGxvdDIiLAogICAgICAgKCJwbmciLCAiUm1kIik6ICJrbml0ciIsCiAgICAgICAoImJpYiIsICJtZCIpOiAicGFuZG9jIiwKICAgICAgICgiY3NsIiwgIm1kIik6ICJwYW5kb2MiLAogICAgICAgKCJtZCIsICJodG1sL3BkZi9kb2N4L3BwdHgiKTogInBhbmRvYyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJhZHVsdHguZGF0IiwgImFkdWx0LmNzdiIpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICJtZCI6ICgwLCAwKSwKICAgICAgICJiaWIiOiAoLTEsIDApLAogICAgICAgImNzbCI6ICgxLCAwKSwKICAgICAgICJodG1sL3BkZi9kb2N4L3BwdHgiOiAoMCwgLTEpCg==</text>
+        <text encoding="base64">ICAgICAgICJhZHVsdHguZGF0IjogKC0xLCAxKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICJhZHVsdC4iOiAoLTEsIDEpLAo=</text>
+        <text encoding="base64">ICAgICAgICJleGFtLmRhdCI6ICgxLCAxKSwKICAgICAgICJsYWIuZGF0IjogKDEsIDEpLAogICAgICAgIm1vcnQuZGF0IjogKDEsIDEpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/lab/mort/g</text>

@@ -20,11 +20,28 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="EditorGutterToggleGlobalSoftWraps">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="ctrl meta alt s" />
+  </action>
+  <action id="Educational.NextPlaceholder">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="PyExecuteCellAction">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="PySciView">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
@@ -37,6 +54,10 @@
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="alt f9" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
