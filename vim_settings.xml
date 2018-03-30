@@ -33,7 +33,9 @@
         <mark key="." line="0" column="1051" />
         <mark key="^" line="0" column="1403" />
       </file>
-      <file name="/Python Console" timestamp="1522421422898" />
+      <file name="/Python Console" timestamp="1522422079323">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1514157350872">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
