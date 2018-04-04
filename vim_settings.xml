@@ -33,7 +33,7 @@
         <mark key="." line="0" column="1051" />
         <mark key="^" line="0" column="1403" />
       </file>
-      <file name="/Python Console" timestamp="1522422079323">
+      <file name="/Python Console" timestamp="1522801345036">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1514157350872">
@@ -103,6 +103,9 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Adaptive Python1/lesson1/task1/task.py" timestamp="1522801731248">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/python_basics.py" timestamp="1520376102708">
         <mark key="'" line="12" column="11" />
         <mark key="[" line="5" column="1" />
@@ -117,11 +120,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Adaptive Python1/lesson1/task1/pd_df_list.py" timestamp="1520514782028">
+      <file name="$USER_HOME$/PycharmProjects/Adaptive Python1/lesson1/task1/pd_df_list.py" timestamp="1522801418215">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MTGProTour/encoding.py" timestamp="1521802048404">
         <mark key="'" line="0" column="0" />
@@ -273,7 +276,7 @@ import matplotlib.pyplot as plt</text>
         <text encoding="base64">ICAgICAgICJleGFtLmRhdCI6ICgxLCAxKSwKICAgICAgICJsYWIuZGF0IjogKDEsIDEpLAogICAgICAgIm1vcnQuZGF0IjogKDEsIDEpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/lab/mort/g</text>
+        <text>set number</text>
       </register>
     </registers>
     <search>
@@ -310,8 +313,6 @@ import matplotlib.pyplot as plt</text>
         <entry>d1</entry>
         <entry>actionlist</entry>
         <entry>d</entry>
-        <entry>set relativenumber</entry>
-        <entry>set number</entry>
         <entry>q</entry>
         <entry>%s//  \#/g</entry>
         <entry>%s/pkl/rds/g</entry>
@@ -322,6 +323,8 @@ import matplotlib.pyplot as plt</text>
         <entry>%s//readr/g</entry>
         <entry>s/exam/lab/g</entry>
         <entry>s/lab/mort/g</entry>
+        <entry>set relativenumber</entry>
+        <entry>set number</entry>
       </history-cmd>
       <history-expr />
       <history-input />
