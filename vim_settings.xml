@@ -63,7 +63,7 @@
         <mark key="^" line="54" column="29" />
         <mark key="." line="54" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524022446417">
+      <file name="/Dummy.txt" timestamp="1524439242308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1524002566889">
@@ -101,11 +101,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1517872483239">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="13" column="48" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1524439417495">
+        <mark key="'" line="25" column="9" />
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="26" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Adaptive Python1/lesson1/task1/task.py" timestamp="1523539626167">
         <mark key="'" line="6" column="8" />
@@ -152,9 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="4" filename="$USER_HOME$/github/biof309_spring2018/ideavim_actionlist.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/github/biof309_spring2018/ideavim_actionlist.py" />
-      <jump line="2" column="3" filename="$USER_HOME$/github/biof309_spring2018/ideavim_actionlist.py" />
       <jump line="5" column="0" filename="$USER_HOME$/github/biof309_spring2018/ideavim_actionlist.py" />
       <jump line="9" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
@@ -177,9 +175,7 @@
       <jump line="70" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
       <jump line="13" column="10" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
-      <jump line="11" column="1" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
-      <jump line="17" column="8" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/python_basics.py" />
       <jump line="12" column="11" filename="$USER_HOME$/Downloads/python_basics.py" />
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" />
@@ -252,50 +248,55 @@
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
       <jump line="61" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
       <jump line="52" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="11" column="9" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="25" column="9" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dir</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dir</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sas</text>
       </register>
-      <register name="0" type="4">
-        <text>globals().keys()</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAoKZCA9IHsncG9zJzogWzAuLCAxLiwgMi4sIDMuLCA0Ll0sCiAgICAgJ25lZyc6IFswLiwgLTEuLCAtMi4sIC0zLiwgLTQuXX0KZGYgPSBwZC5EYXRhRnJhbWUoZCkKZGYucGxvdCgpCnBsdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoYmF6Ll9fY2xvc3VyZV9fWzBdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KnQK</text>
+        <text encoding="base64">cHJpbnQoYmF6Ll9fY2xvc3VyZV9fWzBdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KnQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>import networkx as nx
 import matplotlib.pyplot as plt</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Pj0gIT0gPC0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICJhZHVsdHguY3N2IjogKC0xLCAwKSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICgiYWR1bHR4LmRhdCIsICJhZHVscy5jc3YiKTogImFkdWx0LnNhcyIsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJhZHVsdHguZGF0IiwgImFkdWx0LmNzdiIpLAo=</text>
+        <text encoding="base64">ICAgICAgICgiYWR1bHR4LmRhdCIsICJhZHVscy5jc3YiKTogImFkdWx0LnNhcyIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
