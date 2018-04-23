@@ -101,8 +101,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1524444456919">
-        <mark key="'" line="16" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1524444528227">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
@@ -153,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
       <jump line="56" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
       <jump line="29" column="0" filename="$USER_HOME$/github/ncd/ncd_gzip.py" />
       <jump line="31" column="0" filename="$USER_HOME$/github/ncd/ncd_gzip.py" />
@@ -253,6 +252,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="19" column="18" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
