@@ -63,7 +63,7 @@
         <mark key="^" line="54" column="29" />
         <mark key="." line="54" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524440699082">
+      <file name="/Dummy.txt" timestamp="1524443179426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1524002566889">
@@ -101,9 +101,9 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1524440916672">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="27" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1524443649681">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="18" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -153,9 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
       <jump line="38" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
       <jump line="56" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
       <jump line="29" column="0" filename="$USER_HOME$/github/ncd/ncd_gzip.py" />
@@ -253,59 +250,61 @@
       <jump line="25" column="9" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="19" column="18" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>sas</text>
+        <text>and</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAoKZCA9IHsncG9zJzogWzAuLCAxLiwgMi4sIDMuLCA0Ll0sCiAgICAgJ25lZyc6IFswLiwgLTEuLCAtMi4sIC0zLiwgLTQuXX0KZGYgPSBwZC5EYXRhRnJhbWUoZCkKZGYucGxvdCgpCnBsdC5zaG93KCkK</text>
+        <text encoding="base64">ZGYuZ3JvdXBieSgncG9zJylbJ3BvcyddLmFnZyh7J0ZyZXF1ZW5jeSc6ICdjb3VudCd9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoYmF6Ll9fY2xvc3VyZV9fWzBdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KnQK</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYgPSBwZC5EYXRhRnJhbWUoZCkKZGYuZ3JvdXBieSgncG9zJykuY291bnQoKQpkZi5ncm91cGJ5KCdwb3MnKS5zaXplKCkKZGYuZ3JvdXBieSgncG9zJylbJ3BvcyddLmFnZyh7J0ZyZXF1ZW5jeSc6ICdjb3VudCd9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
-      <register name="6" type="4">
-        <text>import networkx as nx
-import matplotlib.pyplot as plt</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZCA9IHsncG9zJzogcGQuU2VyaWVzKFswLiwgMS4sIDIuLCAzLiwgNC5dLAogICAgICAgICAgICAgICAgICAgICAgaW5kZXg9WydhJywgJ2InLCAnYycsICdkJywgJ2UnXSksCiAgICAgJ25lZyc6IHBkLlNlcmllcyhbMC4sIC0xLiwgLTIuLCAtMy4sIC00Ll0sCiAgICAgICAgICAgICAgICAgICAgICBpbmRleD1bJ2EnLCAnYicsICdjJywgJ2QnLCAnZSddKX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj0gIT0gPC0K</text>
+        <text encoding="base64">ZGYuZ3JvdXBieSgncG9zJylbJ3BvcyddLmFnZyhwZC5TZXJpZXMoWydGcmVxdWVuY3knLCAnY291bnQnXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICJhZHVsdHguY3N2IjogKC0xLCAwKSwK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICgiYWR1bHR4LmRhdCIsICJhZHVscy5jc3YiKTogImFkdWx0LnNhcyIsCg==</text>
+        <text encoding="base64">eAo=</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
       </register>
     </registers>
     <search>
-      <last-search>sas</last-search>
+      <last-search>and</last-search>
       <last-offset />
-      <last-pattern>sas</last-pattern>
+      <last-pattern>and</last-pattern>
       <last-replace>mort</last-replace>
       <last-substitute>lab</last-substitute>
       <last-dir>1</last-dir>
@@ -331,6 +330,7 @@ import matplotlib.pyplot as plt</text>
         <entry>exam</entry>
         <entry>lab</entry>
         <entry>sas</entry>
+        <entry>and</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
