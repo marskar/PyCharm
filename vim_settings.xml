@@ -24,6 +24,9 @@
         <mark key="." line="0" column="1051" />
         <mark key="^" line="0" column="1403" />
       </file>
+      <file name="/Python Console" timestamp="1524612975835">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1522199773070">
         <mark key="[" line="0" column="0" />
       </file>
@@ -101,12 +104,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1524444528227">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1524444740545">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Adaptive Python1/lesson1/task1/task.py" timestamp="1523539626167">
         <mark key="'" line="6" column="8" />
@@ -168,7 +171,6 @@
       <jump line="57" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
       <jump line="65" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
       <jump line="70" column="0" filename="$USER_HOME$/github/140-638_AnalysisOfBiologicalSequences/hw3/problem6.py" />
-      <jump line="13" column="10" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/python_basics.py" />
@@ -253,6 +255,7 @@
       <jump line="19" column="18" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
       <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/untitled/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -262,7 +265,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>and</text>
+        <text encoding="base64">ZCA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGYuZ3JvdXBieSgncG9zJylbJ3BvcyddLmFnZyh7J0ZyZXF1ZW5jeSc6ICdjb3VudCd9KQo=</text>
@@ -302,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search>and</last-search>
+      <last-search encoding="base64">ZCA=</last-search>
       <last-offset />
-      <last-pattern>and</last-pattern>
+      <last-pattern encoding="base64">ZCA=</last-pattern>
       <last-replace>mort</last-replace>
       <last-substitute>lab</last-substitute>
       <last-dir>1</last-dir>
@@ -331,6 +334,7 @@
         <entry>lab</entry>
         <entry>sas</entry>
         <entry>and</entry>
+        <entry encoding="base64">ZCA=</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
