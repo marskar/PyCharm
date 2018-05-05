@@ -49,11 +49,27 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Python Console">
+        <Item>
+          <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
+          <ShortCut>'⌘3'</ShortCut>
+          <Description>Python Console</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'collect_tournament_data'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'collect_tournament_data'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -94,7 +110,7 @@
           <IdeaActionID>PySciView</IdeaActionID>
           <ShortCut>'⌃⌘S'</ShortCut>
           <Description>Scientific Mode</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Grid">
