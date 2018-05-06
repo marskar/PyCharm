@@ -7,6 +7,10 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl w" />
+  </action>
   <action id="PySciView">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
