@@ -24,12 +24,12 @@
         <mark key="." line="0" column="1051" />
         <mark key="^" line="0" column="1403" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BDML/BDML.py" timestamp="1525615554633">
+      <file name="$USER_HOME$/PycharmProjects/BDML/BDML.py" timestamp="1525616852182">
         <mark key="'" line="147" column="0" />
-        <mark key="[" line="135" column="30" />
-        <mark key="]" line="135" column="30" />
-        <mark key="^" line="130" column="55" />
-        <mark key="." line="135" column="30" />
+        <mark key="[" line="145" column="71" />
+        <mark key="]" line="145" column="71" />
+        <mark key="^" line="145" column="69" />
+        <mark key="." line="145" column="71" />
       </file>
       <file name="/a.dummy" timestamp="1525537669537">
         <mark key="[" line="0" column="0" />
@@ -170,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="29" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="59" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="169" column="46" filename="$USER_HOME$/miniconda3/lib/python3.6/site-packages/sklearn/linear_model/stochastic_gradient.py" />
@@ -235,7 +234,6 @@
       <jump line="120" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="123" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="150" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="171" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="154" column="43" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
@@ -251,13 +249,11 @@
       <jump line="161" column="92" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="159" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="160" column="54" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="145" column="18" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="117" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="107" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="103" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="106" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="116" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="132" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="135" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="137" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
@@ -269,14 +265,18 @@
       <jump line="134" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="136" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="138" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="130" column="32" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="145" column="41" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="147" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>.3f</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>.3f</text>
       </register>
       <register name="/" type="4">
         <text>42</text>
@@ -285,34 +285,34 @@
         <text encoding="base64">ICAgIGNvbmZtYXQgPSBjb25mdXNpb25fbWF0cml4KHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3NpZmllcnMgPSBTVkMoa2VybmVsPSJyYmYiKQo=</text>
+        <text encoding="base64">YyA9IFswLjAxLCAxLCAxMCwgMTAwXQpnYW1tYSA9IFswLjAwMSwgMC4wMSwgMC4xLCAxLjAsIDEwMC4wXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgZF9jb25mbWF0ID0gZGljdChtYXAoZ2V0X2NvbmZtYXQsIG5hbWVzLCBjbGFzc2lmaWVycykpCiMgZF9wcmVjaXNpb24gPSBkaWN0KG1hcChnZXRfcHJlY2lzaW9uLCBuYW1lcywgY2xhc3NpZmllcnMpKQojIGRfcmVjYWxsID0gZGljdChtYXAoZ2V0X3JlY2FsbCwgbmFtZXMsIGNsYXNzaWZpZXJzKSkKIyBkX2YxID0gZGljdChtYXAoZ2V0X2YxLCBuYW1lcywgY2xhc3NpZmllcnMpKQoKIyBkID0geyJDb25mdXNpb24gTWF0cml4IjogcGQuU2VyaWVzKGRfY29uZm1hdCksCiMgICAgICJGMSI6IHBkLlNlcmllcyhkX2YxKSwKIyAgICAgIlByZWNpc2lvbiI6IHBkLlNlcmllcyhkX3ByZWNpc2lvbiksCiMgICAgICJSZWNhbGwiOiBwZC5TZXJpZXMoZF9yZWNhbGwpCiMgICAgIH0KI21vZGVsc3RhdHMgPSBwZC5EYXRhRnJhbWUoZCkuYXN0eXBlKCJvYmplY3QiKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xmID0gRGVjaXNpb25UcmVlQ2xhc3NpZmllcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBjb25mdXNpb25fbWF0cml4CmRlZiBnZXRfY29uZm1hdChuYW1lLCBjbGYpOgogICAgcGlwZTogUGlwZWxpbmUgPSBQaXBlbGluZShbKCdwY2EnLCBQQ0Eobl9jb21wb25lbnRzPTUpKSwgKCdjbGYnLCBjbGYpXSkKICAgIHBpcGUuZml0KFhfdHJhaW4sIHlfdHJhaW4pCiAgICB5X3ByZWQgPSBwaXBlLnByZWRpY3QoWF90ZXN0KQogICAgY29uZm1hdCA9IGNvbmZ1c2lvbl9tYXRyaXgoeV90cnVlPXlfdGVzdCwgeV9wcmVkPXlfcHJlZCkKICAgIHByaW50KG5hbWUpCiAgICByZXR1cm4gbmFtZSwgY29uZm1hdAoKCiMgcHJlY2lzaW9uCmRlZiBnZXRfcHJlY2lzaW9uKG5hbWUsIGNsZik6CiAgICBwaXBlOiBQaXBlbGluZSA9IFBpcGVsaW5lKFsoJ3BjYScsIFBDQShuX2NvbXBvbmVudHM9NSkpLCAoJ2NsZicsIGNsZildKQogICAgcGlwZS5maXQoWF90cmFpbiwgeV90cmFpbikKICAgIHlfcHJlZCA9IHBpcGUucHJlZGljdChYX3Rlc3QpCiAgICBwcmVjID0gcHJlY2lzaW9uX3Njb3JlKHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCiAgICBwcmludChuYW1lKQogICAgcmV0dXJuIG5hbWUsIHByZWMKCgojIHJlY2FsbApkZWYgZ2V0X3JlY2FsbChuYW1lLCBjbGYpOgogICAgcGlwZTogUGlwZWxpbmUgPSBQaXBlbGluZShbKCdwY2EnLCBQQ0Eobl9jb21wb25lbnRzPTUpKSwgKCdjbGYnLCBjbGYpXSkKICAgIHBpcGUuZml0KFhfdHJhaW4sIHlfdHJhaW4pCiAgICB5X3ByZWQgPSBwaXBlLnByZWRpY3QoWF90ZXN0KQogICAgcmVjID0gcmVjYWxsX3Njb3JlKHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCiAgICBwcmludChuYW1lKQogICAgcmV0dXJuIG5hbWUsIHJlYwoKCiMgZjEgc2NvcmUKZGVmIGdldF9mMShuYW1lLCBjbGYpOgogICAgcGlwZTogUGlwZWxpbmUgPSBQaXBlbGluZShbKCdwY2EnLCBQQ0Eobl9jb21wb25lbnRzPTUpKSwgKCdjbGYnLCBjbGYpXSkKICAgIHBpcGUuZml0KFhfdHJhaW4sIHlfdHJhaW4pCiAgICB5X3ByZWQgPSBwaXBlLnByZWRpY3QoWF90ZXN0KQogICAgZjEgPSBmMV9zY29yZSh5X3RydWU9eV90ZXN0LCB5X3ByZWQ9eV9wcmVkKQogICAgcHJpbnQobmFtZSkKICAgIHJldHVybiBuYW1lLCBmMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2V0X21vZHN0YXRzKCpuYW1lcywgKmNsYXNzaWZpZXJzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2V0X21vZHN0YXRzKCpuYW1lcywgKmNsYXNzaWZpZXJzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBjb25mdXNpb25fbWF0cml4CmRlZiBnZXRfY29uZm1hdChuYW1lLCBjbGYpOgogICAgcGlwZTogUGlwZWxpbmUgPSBQaXBlbGluZShbKCdwY2EnLCBQQ0Eobl9jb21wb25lbnRzPTUpKSwgKCdjbGYnLCBjbGYpXSkKICAgIHBpcGUuZml0KFhfdHJhaW4sIHlfdHJhaW4pCiAgICB5X3ByZWQgPSBwaXBlLnByZWRpY3QoWF90ZXN0KQogICAgY29uZm1hdCA9IGNvbmZ1c2lvbl9tYXRyaXgoeV90cnVlPXlfdGVzdCwgeV9wcmVkPXlfcHJlZCkKICAgIHByaW50KG5hbWUpCiAgICByZXR1cm4gbmFtZSwgY29uZm1hdAoKCiMgcHJlY2lzaW9uCmRlZiBnZXRfcHJlY2lzaW9uKG5hbWUsIGNsZik6CiAgICBwaXBlOiBQaXBlbGluZSA9IFBpcGVsaW5lKFsoJ3BjYScsIFBDQShuX2NvbXBvbmVudHM9NSkpLCAoJ2NsZicsIGNsZildKQogICAgcGlwZS5maXQoWF90cmFpbiwgeV90cmFpbikKICAgIHlfcHJlZCA9IHBpcGUucHJlZGljdChYX3Rlc3QpCiAgICBwcmVjID0gcHJlY2lzaW9uX3Njb3JlKHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCiAgICBwcmludChuYW1lKQogICAgcmV0dXJuIG5hbWUsIHByZWMKCgojIHJlY2FsbApkZWYgZ2V0X3JlY2FsbChuYW1lLCBjbGYpOgogICAgcGlwZTogUGlwZWxpbmUgPSBQaXBlbGluZShbKCdwY2EnLCBQQ0Eobl9jb21wb25lbnRzPTUpKSwgKCdjbGYnLCBjbGYpXSkKICAgIHBpcGUuZml0KFhfdHJhaW4sIHlfdHJhaW4pCiAgICB5X3ByZWQgPSBwaXBlLnByZWRpY3QoWF90ZXN0KQogICAgcmVjID0gcmVjYWxsX3Njb3JlKHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCiAgICBwcmludChuYW1lKQogICAgcmV0dXJuIG5hbWUsIHJlYwoKCiMgZjEgc2NvcmUKZGVmIGdldF9mMShuYW1lLCBjbGYpOgogICAgcGlwZTogUGlwZWxpbmUgPSBQaXBlbGluZShbKCdwY2EnLCBQQ0Eobl9jb21wb25lbnRzPTUpKSwgKCdjbGYnLCBjbGYpXSkKICAgIHBpcGUuZml0KFhfdHJhaW4sIHlfdHJhaW4pCiAgICB5X3ByZWQgPSBwaXBlLnByZWRpY3QoWF90ZXN0KQogICAgZjEgPSBmMV9zY29yZSh5X3RydWU9eV90ZXN0LCB5X3ByZWQ9eV9wcmVkKQogICAgcHJpbnQobmFtZSkKICAgIHJldHVybiBuYW1lLCBmMQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set number relativenumber</text>
