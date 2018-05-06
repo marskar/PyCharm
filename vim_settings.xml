@@ -24,12 +24,12 @@
         <mark key="." line="0" column="1051" />
         <mark key="^" line="0" column="1403" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BDML/BDML.py" timestamp="1525641780259">
-        <mark key="'" line="144" column="2" />
-        <mark key="[" line="150" column="65" />
-        <mark key="]" line="301" column="59" />
-        <mark key="^" line="301" column="59" />
-        <mark key="." line="301" column="59" />
+      <file name="$USER_HOME$/PycharmProjects/BDML/BDML.py" timestamp="1525643682211">
+        <mark key="'" line="363" column="0" />
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="359" column="0" />
+        <mark key="^" line="350" column="3" />
+        <mark key="." line="359" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1525537669537">
         <mark key="[" line="0" column="0" />
@@ -47,7 +47,8 @@
         <mark key="^" line="17" column="2" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" timestamp="1525640780446">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" timestamp="1525642843073">
+        <mark key="'" line="137" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="312" column="9" />
         <mark key="^" line="312" column="9" />
@@ -176,41 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="21" column="51" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="115" column="3" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="114" column="4" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="118" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="121" column="4" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="112" column="7" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="171" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="154" column="43" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="122" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="126" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="117" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
@@ -276,58 +242,96 @@
       <jump line="148" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="152" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="144" column="2" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="293" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="304" column="40" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="299" column="34" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="279" column="21" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="300" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="305" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="306" column="59" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="310" column="19" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="346" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="326" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="179" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" />
+      <jump line="137" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" />
+      <jump line="302" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="278" column="5" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="290" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="296" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="301" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="327" column="2" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="325" column="54" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="329" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="307" column="1" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="321" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="324" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="331" column="15" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="337" column="16" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="332" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="339" column="10" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="315" column="25" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="347" column="4" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="334" column="8" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="348" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="359" column="1" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="360" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="363" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>basedon</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>basedon</text>
+        <text>dt</text>
       </register>
       <register name="/" type="4">
-        <text>sco</text>
+        <text encoding="base64">XDxtYXhfZmVhdHVyZXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgVW5pb24sIExpc3QKZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgR3JpZFNlYXJjaENWCmZyb20gc2tsZWFybi5tb2RlbF9zZWxlY3Rpb24gaW1wb3J0IGxlYXJuaW5nX2N1cnZlCmZyb20gc2tsZWFybi5tZXRyaWNzIGltcG9ydCBjb25mdXNpb25fbWF0cml4CmZyb20gc2tsZWFybi5wcmVwcm9jZXNzaW5nIGltcG9ydCBub3JtYWxpemUKZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IHByZWNpc2lvbl9zY29yZSwgcmVjYWxsX3Njb3JlLCBmMV9zY29yZQpmcm9tIHNrbGVhcm4ubGluZWFyX21vZGVsIGltcG9ydCBQZXJjZXB0cm9uCmZyb20gc2tsZWFybi5saW5lYXJfbW9kZWwgaW1wb3J0IExvZ2lzdGljUmVncmVzc2lvbgpmcm9tIHNrbGVhcm4uc3ZtIGltcG9ydCBTVkMKZnJvbSBza2xlYXJuLnRyZWUgaW1wb3J0IERlY2lzaW9uVHJlZUNsYXNzaWZpZXIKZnJvbSBza2xlYXJuLmVuc2VtYmxlIGltcG9ydCBSYW5kb21Gb3Jlc3RDbGFzc2lmaWVyCmZyb20gc2tsZWFybi5uZXVyYWxfbmV0d29yayBpbXBvcnQgTUxQQ2xhc3NpZmllcgpmcm9tIHNrbGVhcm4ubmFpdmVfYmF5ZXMgaW1wb3J0IEdhdXNzaWFuTkIKZnJvbSBza2xlYXJuLm5laWdoYm9ycyBpbXBvcnQgS05laWdoYm9yc0NsYXNzaWZpZXIKZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgY3Jvc3NfdmFsX3Njb3JlCmZyb20gc2tsZWFybi5waXBlbGluZSBpbXBvcnQgUGlwZWxpbmUKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKaW1wb3J0IHBhbmRhcyBhcyBwZApmcm9tIHBhbmRhcyBpbXBvcnQgRGF0YUZyYW1lCmZyb20gcGFuZGFzLmlvLnBhcnNlcnMgaW1wb3J0IFRleHRGaWxlUmVhZGVyCmZyb20gc2tsZWFybi5tb2RlbF9zZWxlY3Rpb24gaW1wb3J0IHRyYWluX3Rlc3Rfc3BsaXQKZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IFN0YW5kYXJkU2NhbGVyCmZyb20gc2tsZWFybi5kZWNvbXBvc2l0aW9uIGltcG9ydCBQQ0EKCiMgSW1wb3J0aW5nIHRoZSBkYXRhc2V0CmRhdDogVW5pb25bVW5pb25bVGV4dEZpbGVSZWFkZXIsIHR5cGUsIERhdGFGcmFtZV0sIEFueV0gPSBwZC5yZWFkX2NzdigiU2tpbGwuY3N2IikKZGF0ID0gZGF0W2RhdFsnVG90YWxIb3VycyddIDwgNTAwMF0KWCA9IGRhdC5pbG9jWzosIDE6MTldLnZhbHVlcwp5ID0gZGF0Lmlsb2NbOiwgMF0udmFsdWVzCgojIFNwbGl0dGluZyB0aGUgZGF0YXNldCBpbnRvIHRoZSBUcmFpbmluZyBzZXQgYW5kIFRlc3Qgc2V0CgpYX3RyYWluLCBYX3Rlc3QsIHlfdHJhaW4sIHlfdGVzdCA9IHRyYWluX3Rlc3Rfc3BsaXQoWCwgeSwgdGVzdF9zaXplPTAuMjUsIHJhbmRvbV9zdGF0ZT0wKQoKIyBGZWF0dXJlIFNjYWxpbmcKc2MgPSBTdGFuZGFyZFNjYWxlcigpClhfdHJhaW4gPSBzYy5maXRfdHJhbnNmb3JtKFhfdHJhaW4pClhfdGVzdCA9IHNjLnRyYW5zZm9ybShYX3Rlc3QpCgojIGFsbCB0aGUgbW9kZWxzCgpuYW1lcyA9ICgKICAgICJQZXJjZXB0cm9uIiwKICAgICJMb2dpc3RpY1JlZ3Jlc3Npb24iLAogICAgIlNWQyIsCiAgICAiRGVjaXNpb24gVHJlZSIsCiAgICAiUmFuZG9tIEZvcmVzdCIsCiAgICAiUkJGIFNWTSIsCiAgICAiTmV1cmFsIE5ldCIsCiAgICAiTmFpdmUgQmF5ZXMiLAogICAgIk5lYXJlc3QgTmVpZ2hib3JzIgopCgpjbGFzc2lmaWVycyA9ICgKICAgIFBlcmNlcHRyb24obWF4X2l0ZXI9NSwgdG9sPU5vbmUpLAogICAgTG9naXN0aWNSZWdyZXNzaW9uKCksCiAgICBTVkMoQz0xMDApLAogICAgRGVjaXNpb25UcmVlQ2xhc3NpZmllcihtYXhfZGVwdGg9NSksCiAgICBSYW5kb21Gb3Jlc3RDbGFzc2lmaWVyKG1heF9kZXB0aD01LCBuX2VzdGltYXRvcnM9MTAwLCBtYXhfZmVhdHVyZXM9MSksCiAgICBTVkMoa2VybmVsPSdyYmYnLCBnYW1tYT0yLCBDPTEpLAogICAgTUxQQ2xhc3NpZmllcihoaWRkZW5fbGF5ZXJfc2l6ZXM9KDEwMCwgNTApLCBhbHBoYT0xKSwKICAgIEdhdXNzaWFuTkIoKSwKICAgIEtOZWlnaGJvcnNDbGFzc2lmaWVyKDUpCikKCnNjb3JlcyA9IFtdCm5wLnJhbmRvbS5zZWVkKDApCgoKZGVmIHJ1bl9waXBlMShuYW1lLCBjbGYpOgogICAgcGlwZSA9IFBpcGVsaW5lKFsoJ2NsZicsIGNsZildKQogICAgcGlwZS5maXQoWF90cmFpbiwgeV90cmFpbikKICAgIHNjb3JlID0gcGlwZS5zY29yZShYX3Rlc3QsIHlfdGVzdCkKICAgIHByaW50KCJBbGdvOiB7MDo8MjBzfSBhbmQgU2NvcmU6IHsxOjAuNGZ9Ii5mb3JtYXQobmFtZSwgc2NvcmUpKQogICAgc2NvcmVzLmFwcGVuZChzY29yZSkKICAgIHByaW50KCcgJykKICAgIGluZGV4ID0gaW50KG5wLmFyZ21heChzY29yZXMpKQogICAgcHJpbnQoZid7bmFtZXNbaW5kZXhdfSBwZXJmb3JtZWQgdGhlIGJlc3Qgd2l0aCBhY2N1cmFjeSB7bWF4KHNjb3Jlcyk6MC40Zn0nKQogICAgcmV0dXJuIG5hbWUsIHNjb3JlCgoKIyBBZGQgUENBCmRlZiBydW5fcGlwZTIobmFtZSwgY2xmKToKICAgIHBpcGUgPSBQaXBlbGluZShbKCdwY2EnLCBQQ0Eobl9jb21wb25lbnRzPTQpKSwgKCdjbGYnLCBjbGYpXSkKICAgIHBpcGUuZml0KFhfdHJhaW4sIHlfdHJhaW4pCiAgICBzY29yZSA9IHBpcGUuc2NvcmUoWF90ZXN0LCB5X3Rlc3QpCiAgICBwcmludChmIkFsZ286IHtuYW1lOjwyMHN9IGFuZCBTY29yZToge3Njb3JlOjAuNGZ9IikKICAgIHJldHVybiBuYW1lLCBzY29yZQoKCiMgMTAtZm9sZCBjcm9zc192YWxpZGF0aW9uCmRlZiBnZXRfY3ZzY29yZShuYW1lLCBjbGYpOgogICAgc2NvcmVzID0gY3Jvc3NfdmFsX3Njb3JlKGNsZiwgWCwgeSwgY3Y9MTApCiAgICBwcmludChmIkFsZ286IHtuYW1lOjwyMHN9IGFuZCBTY29yZToge25wLm1lYW4oc2NvcmVzKTowLjRmfSIpCiAgICByZXR1cm4gbmFtZSwgbnAubWVhbihzY29yZXMpCgoKZF9waXBlMSA9IGRpY3QobWFwKHJ1bl9waXBlMSwgbmFtZXMsIGNsYXNzaWZpZXJzKSkKZF9waXBlMQoKZF9waXBlMiA9IGRpY3QobWFwKHJ1bl9waXBlMiwgbmFtZXMsIGNsYXNzaWZpZXJzKSkKZF9waXBlMgoKZF9jdiA9IGRpY3QobWFwKGdldF9zY29yZSwgbmFtZXMsIGNsYXNzaWZpZXJzKSkKZF9jdgoKCmRlZiBnZXRfbW9kc3RhdHMobmFtZSwgY2xmKToKICAgIHBpcGU6IFBpcGVsaW5lID0gUGlwZWxpbmUoWygncGNhJywgUENBKG5fY29tcG9uZW50cz01KSksICgnY2xmJywgY2xmKV0pCiAgICBwaXBlLmZpdChYX3RyYWluLCB5X3RyYWluKQogICAgeV9wcmVkID0gcGlwZS5wcmVkaWN0KFhfdGVzdCkKICAgIGNvbmZtYXQgPSBjb25mdXNpb25fbWF0cml4KHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCiAgICBmMSA9IGYxX3Njb3JlKHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCiAgICBwcmVjID0gcHJlY2lzaW9uX3Njb3JlKHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCiAgICByZWMgPSByZWNhbGxfc2NvcmUoeV90cnVlPXlfdGVzdCwgeV9wcmVkPXlfcHJlZCkKICAgIHByaW50KG5hbWUpCiAgICByZXR1cm4gbmFtZSwgY29uZm1hdCwgZjEsIHByZWMsIHJlYwoKCmxfbW9kZWxzdGF0cyA9IGxpc3QobWFwKGdldF9tb2RzdGF0cywgbmFtZXMsIGNsYXNzaWZpZXJzKSkKcGQuRGF0YUZyYW1lKGxfbW9kZWxzdGF0cywgY29sdW1ucz0oIkFsZ29yaXRobSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJDb25mdXNpb25fTWF0cml4IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkYxIiwgIlByZWNpc2lvbiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZWNhbGwiKSkuYXN0eXBlKCJvYmplY3QiKQoKCiMgRW1wbG95IEdyaWRTZWFyY2hDVigpIHRvIGZpbmQgdGhlIG9wdGltYWwgcGFyYW1ldGVycyBmb3IgU1ZDJ3Mga2VybmVsID0gJ3JiZicsCmRlZiBnc19zdmMoY19wYXJhbSwgZ2FtbWFfcGFyYW0pOgogICAgcGlwZSA9IFBpcGVsaW5lKFsoJ3NjbCcsIFN0YW5kYXJkU2NhbGVyKCkpLCAoJ2NsZicsIFNWQygpKV0pCiAgICBwaXBlLmZpdChYX3RyYWluLCB5X3RyYWluKSAgIyA8LSBub3RlIHRoYXQgcGlwZSBsaW5lIGluaGVyaXRzIGNsZiBtZXRob2RzCiAgICBwcmludChwaXBlLnNjb3JlKFhfdGVzdCwgeV90ZXN0KSkgICMgbm90YWJseSAuZml0KCksIC5wcmVkaWN0KCkgYW5kIC5zY29yZSgpCiAgICBwYXJhbXMgPSB7J2NsZl9fa2VybmVsJzogWydyYmYnXSwgJ2NsZl9fQyc6IGNfcGFyYW0sICdjbGZfX2dhbW1hJzogZ2FtbWFfcGFyYW19CiAgICBncmlkID0gR3JpZFNlYXJjaENWKGVzdGltYXRvcj1waXBlLCBwYXJhbV9ncmlkPXBhcmFtcywgY3Y9MykKICAgIGdyaWQuZml0KFhfdHJhaW4sIHlfdHJhaW4pCiAgICBwcmludChncmlkLmJlc3RfZXN0aW1hdG9yXykKICAgIHByaW50KCcgJykKICAgIHByaW50KGdyaWQuYmVzdF9zY29yZV8pCiAgICBwcmludCgnICcpCiAgICBwcmludChncmlkLnNjb3JlKFhfdGVzdCwgeV90ZXN0KSkKICAgIHByaW50KCcgJykKICAgIHByaW50KGdyaWQuYmVzdF9wYXJhbXNfKQogICAgcmV0dXJuIGdyaWQuYmVzdF9zY29yZV8sIGdyaWQuc2NvcmUoWF90ZXN0LCB5X3Rlc3QpLCBncmlkLmJlc3RfcGFyYW1zXwoKYyA9IFswLjAxLCAxLCAxMCwgMTAwXQpnYW1tYSA9IFswLjAwMSwgMC4wMSwgMC4xLCAxLjAsIDEwMC4wXQpvdXQgPSBnc19zdmMoYywgZ2FtbWEpCgojIG5lc3RlZCBjcm9zcy12YWxpZGF0aW9uIGNzdgpkZWYgZ2V0X3Njb3JlKHBpcGUsIHBhcmFtZXRlcnMsIGJhc2Vkb24pOgogICAgZ3MgPSBHcmlkU2VhcmNoQ1YoZXN0aW1hdG9yPXBpcGUsIHBhcmFtX2dyaWQ9cGFyYW1zLCBzY29yaW5nPWJhc2Vkb24sIGN2PTIpCiAgICBzY29yZXMgPSBjcm9zc192YWxfc2NvcmUoZ3MsIFhfdHJhaW4sIHlfdHJhaW4sIHNjb3Jpbmc9Jw==</text>
+        <text>{'clf__max_depth': [5, 7, 9, 11],
+              'clf__n_estimators': [90, 95, 100, 105],
+              'clf__max_features': [1, 3, 5, 7]
+              }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFwKGdldF9zY29yZSwgYmFzZWRfb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBuZXN0ZWQgY3Jvc3MtdmFsaWRhdGlvbiBjc3YKZGVmIGdldF9zY29yZShwaXBlLCBwYXJhbWV0ZXJzLCBiYXNlZG9uKToKICAgIGdzID0gR3JpZFNlYXJjaENWKGVzdGltYXRvcj1waXBlLCBwYXJhbV9ncmlkPXBhcmFtcywgc2NvcmluZz1iYXNlZG9uLCBjdj0yKQogICAgc2NvcmVzID0gY3Jvc3NfdmFsX3Njb3JlKGdzLCBYX3RyYWluLCB5X3RyYWluLCBzY29yaW5nPSdhY2N1cmFjeScsIGN2PTUpCiAgICBwcmludChmJ0NWIGFjY3VyYWN5OiB7bnAubWVhbihzY29yZXMpOi4zZn0gKy8tIHtucC5zdGQoc2NvcmVzKTouM2Z9JykKICAgIHJldHVybiBucC4KbWFwKGdldF9zY29yZSwgYmFzZWRfb24pCgo=</text>
+        <text encoding="base64">ZGVmIGdzX3JmKHBhcmFtcyk6CgoKdHVwbGUobWFwKGdldF9zY29yZSwgc2NvcmVfdHlwZXMpKQoKZm9yIHNjb3JldCBpbiBzY29yZV90eXBlczoKIyBuZXN0ZWQgY3Jvc3MtdmFsaWRhdGlvbiBSYW5kb21Gb3Jlc3QKZ3MgPSBHcmlkU2VhcmNoQ1YoZXN0aW1hdG9yPXBpcGUsIHBhcmFtX2dyaWQ9cGFyYW1zLCBzY29yaW5nPSdhY2N1cmFjeScsIGN2PTIpCgpzY29yZXMgPSBjcm9zc192YWxfc2NvcmUoZ3MsIFhfdHJhaW4sIHlfdHJhaW4sIHNjb3Jpbmc9J2FjY3VyYWN5JywgY3Y9NSkKcHJpbnQoJ0NWIGFjY3VyYWN5OiAlLjNmICsvLSAlLjNmJyAlIChucC5tZWFuKHNjb3JlcyksIG5wLnN0ZChzY29yZXMpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhc2VkX29uID0gWydhY2N1cmFjeScsICdyb2NfYXVjJywgJ2YxJ10K</text>
+        <text encoding="base64">ICAgIHJldHVybiBiYXNlZF9vbiwgZ3JpZC5iZXN0X3Njb3JlXywgZ3JpZC5zY29yZShYX3Rlc3QsIHlfdGVzdCksIGdyaWQuYmVzdF9wYXJhbXNfCiAgICBwcmludCgiU2NvcmUgYmFzZWQgb24iLCBiYXNlZF9vbikKICAgIHByaW50KCdiZXN0IHRyYWluaW5nIHNjb3JlJywgZ3JpZC5iZXN0X3Njb3JlXykKICAgIHByaW50KCdiZXN0IHRlc3Rpbmcgc2NvcmUnLCBncmlkLnNjb3JlKFhfdGVzdCwgeV90ZXN0KSkKICAgIHByaW50KCdiZXN0IHBhcmFtcycsIGdyaWQuYmVzdF9wYXJhbXNfKQogICAgcHJpbnQoJyAnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBuZXN0ZWQgY3Jvc3MtdmFsaWRhdGlvbiBjc3YKZGVmIGdldF9zY29yZShwaXBlLCBwYXJhbWV0ZXJzLCBiYXNlZG9uKToKICAgIGdzID0gR3JpZFNlYXJjaENWKGVzdGltYXRvcj1waXBlLCBwYXJhbV9ncmlkPXBhcmFtcywgc2NvcmluZz1iYXNlZG9uLCBjdj0yKQogICAgc2NvcmVzID0gY3Jvc3NfdmFsX3Njb3JlKGdzLCBYX3RyYWluLCB5X3RyYWluLCBzY29yaW5nPSdhY2N1cmFjeScsIGN2PTUpCiAgICBwcmludChmJ0NWIGFjY3VyYWN5OiB7bnAubWVhbihzY29yZXMpOi4zZn0gKy8tIHtucC5zdGQoc2NvcmVzKTouM2Z9JykKICAgIHJldHVybiBucC4KCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdiZXN0IHRyYWluaW5nIHNjb3JlJywgZ3JpZC5iZXN0X3Njb3JlXykKICAgIHByaW50KCdiZXN0IHRlc3Rpbmcgc2NvcmUnLCBncmlkLnNjb3JlKFhfdGVzdCwgeV90ZXN0KSkKICAgIHByaW50KCdiZXN0IHBhcmFtcycsIGdyaWQuYmVzdF9wYXJhbXNfKQogICAgcHJpbnQoJyAnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2NvcmVfdHlwZXMgPSBbJ2FjY3VyYWN5JywgJ3JvY19hdWMnLCAnZjEnXQo=</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IHsnY2xmX19tYXhfZGVwdGgnOiBjX2xpc3R9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2NvcmVfdHlwZXMgPSBbJ2FjY3VyYWN5JywgJ3JvY19hdWMnLCAnZjEnXQo=</text>
+        <text encoding="base64">ICAgIHBpcGUgPSBQaXBlbGluZShbKCdzY2wnLCBTdGFuZGFyZFNjYWxlcigpKSwgKCdjbGYnLCBEZWNpc2lvblRyZWVDbGFzc2lmaWVyKCkpXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICNiYXNlZF9vbiA9IFsnYWNjdXJhY3knLCAncm9jX2F1YycsICdmMSddCg==</text>
+        <text encoding="base64">ICAgIGNfbGlzdCA9IFs1LCAxMCwgMTUsIDIwLCAyNSwgMzBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBuZXN0ZWQgY3Jvc3MtdmFsaWRhdGlvbiBjc3YKZGVmIGdldF9zY29yZShwaXBlLCBwYXJhbWV0ZXJzLCBiYXNlZG9uKToKICAgIGdzID0gR3JpZFNlYXJjaENWKGVzdGltYXRvcj1waXBlLCBwYXJhbV9ncmlkPXBhcmFtcywgc2NvcmluZz1iYXNlZG9uLCBjdj0yKQogICAgc2NvcmVzID0gY3Jvc3NfdmFsX3Njb3JlKGdzLCBYX3RyYWluLCB5X3RyYWluLCBzY29yaW5nPSdhY2N1cmFjeScsIGN2PTUpCiAgICBwcmludChmJ0NWIGFjY3VyYWN5OiB7bnAubWVhbihzY29yZXMpOi4zZn0gKy8tIHtucC5zdGQoc2NvcmVzKTouM2Z9JykKICAgIHJldHVybiBucC4KbWFwKGdldF9zY29yZSwgYmFzZWRfb24pCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwZShvdXQpCg==</text>
+        <text encoding="base64">cGlwZSA9IFBpcGVsaW5lKFsoJ3NjbCcsIFN0YW5kYXJkU2NhbGVyKCkpLCAoJ2NsZicsIFJhbmRvbUZvcmVzdENsYXNzaWZpZXIoKSldKQoKcGFyYW1zID0geydjbGZfX21heF9kZXB0aCc6IFs1LCA3LCA5LCAxMV0sCiAgICAgICAgICAnY2xmX19uX2VzdGltYXRvcnMnOiBbOTAsIDk1LCAxMDAsIDEwNV0sCiAgICAgICAgICAnY2xmX19tYXhfZmVhdHVyZXMnOiBbMSwgMywgNSwgN10KICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set number relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>sco</last-search>
+      <last-search encoding="base64">XDxtYXhfZmVhdHVyZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>sco</last-pattern>
+      <last-pattern encoding="base64">XDxtYXhfZmVhdHVyZXNcPg==</last-pattern>
       <last-replace>mort</last-replace>
       <last-substitute>lab</last-substitute>
       <last-dir>1</last-dir>
@@ -335,9 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LaT</entry>
-        <entry>dply</entry>
-        <entry encoding="base64">XDxkcGx5clw+</entry>
         <entry>dat</entry>
         <entry>exam</entry>
         <entry>lab</entry>
@@ -355,6 +356,9 @@
         <entry>get_s</entry>
         <entry>get_c</entry>
         <entry>sco</entry>
+        <entry>best_es</entry>
+        <entry>n_</entry>
+        <entry encoding="base64">XDxtYXhfZmVhdHVyZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
