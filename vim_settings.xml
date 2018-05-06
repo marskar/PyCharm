@@ -24,12 +24,12 @@
         <mark key="." line="0" column="1051" />
         <mark key="^" line="0" column="1403" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BDML/BDML.py" timestamp="1525610167910">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="113" column="8" />
-        <mark key="." line="113" column="8" />
-        <mark key="^" line="113" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/BDML/BDML.py" timestamp="1525610984063">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="7" />
+        <mark key="." line="82" column="7" />
+        <mark key="^" line="82" column="7" />
       </file>
       <file name="/a.dummy" timestamp="1525537669537">
         <mark key="[" line="0" column="0" />
@@ -170,14 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="36" column="10" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="162" column="2" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="201" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="195" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="189" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="168" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
@@ -261,58 +253,66 @@
       <jump line="96" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="102" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="110" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="115" column="3" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="121" column="24" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="114" column="4" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="120" column="52" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="134" column="24" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="139" column="8" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="109" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="128" column="24" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="131" column="4" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="117" column="28" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="112" column="23" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="121" column="4" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="120" column="6" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiBQaXBlbGluZSA=</text>
+        <text>tuple</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBQaXBlbGluZSA=</text>
+        <text>tuple</text>
       </register>
       <register name="/" type="4">
         <text>42</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBpcGU6IFBpcGVsaW5lID0gUGlwZWxpbmUoWygncGNhJywgUENBKG5fY29tcG9uZW50cz01KSksICgnY2xmJywgY2xmKV0pCiAgICBwaXBlLmZpdChYX3RyYWluLCB5X3RyYWluKQogICAgeV9wcmVkID0gcGlwZS5wcmVkaWN0KFhfdGVzdCkKICAgIGNvbmZtYXQgPSBjb25mdXNpb25fbWF0cml4KHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCiAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9KDIuNSwgMi41KSkKICAgIGF4Lm1hdHNob3coY29uZm1hdCwgY21hcD1wbHQuY20uQmx1ZXMsIGFscGhhPTAuMykK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGNvbmZtYXQuc2hhcGVbMF0pOgogICAgICAgIGZvciBqIGluIHJhbmdlKGNvbmZtYXQuc2hhcGVbMV0pOgogICAgICAgICAgICBheC50ZXh0KHg9aiwgeT1pLCBzPWNvbmZtYXRbaSwgal0sIHZhPSdjZW50ZXInLCBoYT0nY2VudGVyJykKICAgICAgICAgICAgcGx0LnhsYWJlbCgnUHJlZGljdGVkIGxhYmVsJykKICAgICAgICAgICAgcGx0LnlsYWJlbCgnVHJ1ZSBsYWJlbCcpCiAgICAgICAgICAgIHBsdC50aWdodF9sYXlvdXQoKQogICAgICAgICAgICBwbHQuc2hvdygpCiAgICBwcmludChub3JtYWxpemUoY29uZm1hdCwgYXhpcz0xLCBub3JtPSdsMScpKQogICAgcHJpbnQoJ1ByZWNpc2lvbjogJS4zZicgJSBwcmVjaXNpb25fc2NvcmUoeV90cnVlPXlfdGVzdCwgeV9wcmVkPXlfcHJlZCkpCiAgICBwcmludCgnUmVjYWxsOiAlLjNmJyAlIHJlY2FsbF9zY29yZSh5X3RydWU9eV90ZXN0LCB5X3ByZWQ9eV9wcmVkKSkKICAgIHByaW50KCdGMTogJS4zZicgJSBmMV9zY29yZSh5X3RydWU9eV90ZXN0LCB5X3ByZWQ9eV9wcmVkKSkKICAgIHByaW50KG5hbWUpCiAgICBwcmludChjbGYpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNsZikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBpcGU6IFBpcGVsaW5lID0gUGlwZWxpbmUoWygncGNhJywgUENBKG5fY29tcG9uZW50cz01KSksICgnY2xmJywgY2xmKV0pCiAgICBwaXBlLmZpdChYX3RyYWluLCB5X3RyYWluKQogICAgeV9wcmVkID0gcGlwZS5wcmVkaWN0KFhfdGVzdCkKICAgIGNvbmZtYXQgPSBjb25mdXNpb25fbWF0cml4KHlfdHJ1ZT15X3Rlc3QsIHlfcHJlZD15X3ByZWQpCiAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9KDIuNSwgMi41KSkKICAgIGF4Lm1hdHNob3coY29uZm1hdCwgY21hcD1wbHQuY20uQmx1ZXMsIGFscGhhPTAuMykK</text>
+        <text encoding="base64">ICAgIHByaW50KG5hbWUpCiAgICBwcmludChjbGYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9jb25mbWF0KCk6Cg==</text>
+        <text encoding="base64">bWFwKGdldF9jb25mbWF0LCBuYW1lcywgY2xhc3NpZmllcnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgcwo=</text>
+        <text encoding="base64">dHVwbGUobWFwKGdldF9jb25mbWF0LCBuYW1lcywgY2xhc3NpZmllcnMpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1heAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZtYXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF2ZyA9IAo=</text>
+        <text encoding="base64">ICAgIHByaW50KG5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJBbGdvOiB7MDo8MjBzfSBhbmQgU2NvcmU6IHsxOjAuNGZ9Ii5mb3JtYXQobmFtZSwgbnAubWVhbihzY29yZXMpKSkK</text>
+        <text encoding="base64">cGx0LmNtLmNtYXBuYW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2V0KHNjb3JlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set number relativenumber</text>
