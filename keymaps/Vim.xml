@@ -2,6 +2,9 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="ActivateSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="ActivateTerminalToolWindow" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
