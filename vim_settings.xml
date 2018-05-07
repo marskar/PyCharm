@@ -31,9 +31,6 @@
         <mark key="^" line="237" column="69" />
         <mark key="." line="237" column="59" />
       </file>
-      <file name="/Python Console" timestamp="1525728712523">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/BDML/original.py" timestamp="1525647736287">
         <mark key="'" line="312" column="0" />
       </file>
@@ -101,12 +98,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" timestamp="1525652091792">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="157" column="16" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" timestamp="1525731198585">
+        <mark key="'" line="58" column="18" />
+        <mark key="[" line="175" column="12" />
+        <mark key="]" line="175" column="13" />
+        <mark key="^" line="181" column="0" />
+        <mark key="." line="175" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/workflowdag/workflowdagr.py" timestamp="1522199737459">
         <mark key="'" line="29" column="7" />
@@ -196,80 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="214" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="228" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="232" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="236" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="118" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="272" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="277" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="280" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="283" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="286" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="289" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="297" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="263" column="13" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="239" column="21" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="265" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="264" column="13" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="237" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BDML/original.py" />
-      <jump line="312" column="0" filename="$USER_HOME$/PycharmProjects/BDML/original.py" />
-      <jump line="266" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="74" column="4" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="76" column="26" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="77" column="65" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="92" column="4" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="93" column="50" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="94" column="25" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="150" column="4" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="151" column="59" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="152" column="35" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="240" column="36" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="243" column="31" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="244" column="29" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="245" column="29" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="246" column="27" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="78" column="13" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="99" column="23" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="233" column="21" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="259" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="231" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="226" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="101" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="96" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
       <jump line="89" column="0" filename="$USER_HOME$/PycharmProjects/BDML/BDML.py" />
@@ -282,60 +205,134 @@
       <jump line="155" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="212" column="8" filename="$USER_HOME$/miniconda3/lib/python3.6/site-packages/sklearn/base.py" />
       <jump line="250" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="52" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="55" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="59" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="157" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="503" column="7" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="510" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="517" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="521" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="527" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="537" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="523" column="53" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="378" column="95" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="44" column="18" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="49" column="8" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="77" column="40" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="81" column="22" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="82" column="37" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="86" column="8" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="112" column="28" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="113" column="44" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="117" column="8" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="130" column="51" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="133" column="45" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="423" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="478" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="191" column="19" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="192" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="197" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="370" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="102" column="31" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="170" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="103" column="31" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="231" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="233" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="224" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="348" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="179" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="63" column="8" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="95" column="22" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="96" column="37" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="100" column="8" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="110" column="52" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="114" column="50" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="180" column="35" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="181" column="22" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="183" column="35" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="184" column="35" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="176" column="4" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="194" column="32" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="202" column="17" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="203" column="21" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="204" column="56" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="207" column="62" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="267" column="29" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="281" column="29" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="391" column="56" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="66" column="8" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="87" column="26" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="91" column="67" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="238" column="29" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="252" column="29" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="118" column="23" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="119" column="38" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="126" column="28" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="127" column="44" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="131" column="8" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="144" column="51" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="147" column="45" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="175" column="13" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="305" column="18" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="416" column="38" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
+      <jump line="58" column="18" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="-" type="4">
-        <text>In[54]:</text>
+        <text>In[60]:</text>
       </register>
       <register name="/" type="4">
-        <text>scores</text>
+        <text encoding="base64">XDx4XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAlJSBleHBsb3JlIGRhdGEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHdhcm5pbmdzCndhcm5pbmdzLmZpbHRlcndhcm5pbmdzKCJpZ25vcmUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJbls1Nl06Cg==</text>
+        <text encoding="base64">cGNhID0gUENBKG5fY29tcG9uZW50cz0yKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBJbls1NV06Cg==</text>
+        <text encoding="base64">WCwgeSA9IGRmMi5pbG9jWzosIDE6XSwgZGYyLmlsb2NbOiwgMF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">WCwgeSA9IGRmMi5pbG9jWzosIDE6XSwgZGYyLmlsb2NbOiwgMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">IyBwcmludChkZjIuZGVzY3JpYmUoKSkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBsZSA9IExhYmVsRW5jb2RlcigpCiMgeSA9IGxlLmZpdF90cmFuc2Zvcm0oeSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBheC5zZXRfeGxpbSh4eC5taW4oKSwgeHgubWF4KCkpCiMgYXguc2V0X3lsaW0oeXkubWluKCksIHl5Lm1heCgpKQojIGF4LnNldF94dGlja3MoKCkpCiMgYXguc2V0X3l0aWNrcygoKSkKCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -345,9 +342,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scores</last-search>
+      <last-search encoding="base64">XDx4XD4=</last-search>
       <last-offset />
-      <last-pattern>scores</last-pattern>
+      <last-pattern encoding="base64">XDx4XD4=</last-pattern>
       <last-replace>mort</last-replace>
       <last-substitute>lab</last-substitute>
       <last-dir>1</last-dir>
@@ -355,11 +352,7 @@
     </search>
     <history>
       <history-search>
-        <entry>and</entry>
-        <entry encoding="base64">ZCA=</entry>
-        <entry>PCA</entry>
         <entry>pipe</entry>
-        <entry>from</entry>
         <entry>plt.show</entry>
         <entry>confmat</entry>
         <entry>for</entry>
@@ -375,6 +368,10 @@
         <entry>get_sc</entry>
         <entry>score</entry>
         <entry>scores</entry>
+        <entry>from</entry>
+        <entry encoding="base64">XDxYXD4=</entry>
+        <entry encoding="base64">XDx5XD4=</entry>
+        <entry encoding="base64">XDx4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
