@@ -81,6 +81,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SkillCraft-Ensemble-...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'SkillCraft-Ensemble-...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'collect_tournament_data'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
