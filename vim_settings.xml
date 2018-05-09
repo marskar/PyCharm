@@ -12,6 +12,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/BDML/ensemble.py" timestamp="1525828193608">
+        <mark key="[" line="297" column="0" />
+        <mark key="]" line="297" column="60" />
+        <mark key="." line="297" column="59" />
+        <mark key="^" line="297" column="59" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1522421427442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -31,7 +37,7 @@
         <mark key="^" line="237" column="69" />
         <mark key="." line="237" column="59" />
       </file>
-      <file name="/Python Console" timestamp="1525813490211">
+      <file name="/Python Console" timestamp="1525827681445">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BDML/original.py" timestamp="1525810878245">
@@ -314,16 +320,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHJvY19wbG90KGNsZiwgbGFiZWwsIGNsciwgbHMpOgogICAgIyBhc3N1bWluZyB0aGUgbGFiZWwgb2YgdGhlIHBvc2l0aXZlIGNsYXNzIGlzIDEKICAgIGlmIGhhc2F0dHIoY2xmLCAicHJlZGljdF9wcm9iYSIpOgogICAgICAgIHlfcHJlZCA9IGNsZi5maXQoWF90cmFpbiwKICAgICAgICAgICAgICAgICAgICAgICAgIHlfdHJhaW4pLnByZWRpY3RfcHJvYmEoWF90ZXN0KVs6LCAxXQogICAgZWxzZToKICAgICAgICB5X3ByZWQgPSBjbGYuZml0KFhfdHJhaW4sCiAgICAgICAgICAgICAgICAgICAgICAgICB5X3RyYWluKS5wcmVkaWN0KFhfdGVzdCkKCiAgICBmcHIsIHRwciwgdGhyZXNob2xkcyA9IHJvY19jdXJ2ZSh5X3RydWU9eV90ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeV9zY29yZT15X3ByZWQpCiAgICByb2NfYXVjID0gYXVjKHg9ZnByLCB5PXRwcikKICAgIHBsdC5wbG90KGZwciwgdHByLAogICAgICAgICAgICAgY29sb3I9Y2xyLAogICAgICAgICAgICAgbGluZXN0eWxlPWxzLAogICAgICAgICAgICAgbGFiZWw9JyVzIChhdWMgPSAlMC4yZiknICUgKGxhYmVsLCByb2NfYXVjKSkKdHVwbGUobWFwKHJvY19wbG90KGFsbF9jbGYsIGNsZl9sYWJlbHMsIGNvbG9ycywgbGluZXN0eWxlcykpKQo=</text>
+        <text encoding="base64">IyAlJSAgUGxvdHRpbmcgZGVjaXNpb24gYm91bmRhcmllcyBvbiBBZ2UgYW5kIEhvdXJzIHBlciB3ZWVrCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>the first two principal components</text>
       </register>
       <register name="/" type="4">
         <text>clf.f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHJvY19wbG90KGNsZiwgbGFiZWwsIGNsciwgbHMpOgogICAgIyBhc3N1bWluZyB0aGUgbGFiZWwgb2YgdGhlIHBvc2l0aXZlIGNsYXNzIGlzIDEKICAgIGlmIGhhc2F0dHIoY2xmLCAicHJlZGljdF9wcm9iYSIpOgogICAgICAgIHlfcHJlZCA9IGNsZi5maXQoWF90cmFpbiwKICAgICAgICAgICAgICAgICAgICAgICAgIHlfdHJhaW4pLnByZWRpY3RfcHJvYmEoWF90ZXN0KVs6LCAxXQogICAgZWxzZToKICAgICAgICB5X3ByZWQgPSBjbGYuZml0KFhfdHJhaW4sCiAgICAgICAgICAgICAgICAgICAgICAgICB5X3RyYWluKS5wcmVkaWN0KFhfdGVzdCkKCiAgICBmcHIsIHRwciwgdGhyZXNob2xkcyA9IHJvY19jdXJ2ZSh5X3RydWU9eV90ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeV9zY29yZT15X3ByZWQpCiAgICByb2NfYXVjID0gYXVjKHg9ZnByLCB5PXRwcikKICAgIHBsdC5wbG90KGZwciwgdHByLAogICAgICAgICAgICAgY29sb3I9Y2xyLAogICAgICAgICAgICAgbGluZXN0eWxlPWxzLAogICAgICAgICAgICAgbGFiZWw9JyVzIChhdWMgPSAlMC4yZiknICUgKGxhYmVsLCByb2NfYXVjKSkKdHVwbGUobWFwKHJvY19wbG90KGFsbF9jbGYsIGNsZl9sYWJlbHMsIGNvbG9ycywgbGluZXN0eWxlcykpKQo=</text>
+        <text encoding="base64">IyAlJSAgUGxvdHRpbmcgZGVjaXNpb24gYm91bmRhcmllcyBvbiBBZ2UgYW5kIEhvdXJzIHBlciB3ZWVrCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
