@@ -54,7 +54,7 @@
         <mark key="." line="166" column="0" />
         <mark key="^" line="165" column="1" />
       </file>
-      <file name="$USER_HOME$/github/smartly/KNNcfm.py" timestamp="1528720345980">
+      <file name="$USER_HOME$/github/smartly/KNNcfm.py" timestamp="1528723705795">
         <mark key="[" line="36" column="33" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="37" column="0" />
@@ -367,8 +367,8 @@
       <jump line="11" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Predicted</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2ZtCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -386,34 +386,34 @@
         <text encoding="base64">cGx0LnhsYWJlbCgiUHJlZGljdGVkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2ZtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwYW5kYXMgaW1wb3J0IGNyb3NzdGFiCmNyb3NzdGFiKHksIHlfcHJlZCwgcm93bmFtZXM9WyJUcnVlIl0sIGNvbG5hbWVzPVsiUHJlZGljdGVkIl0pCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBJbXBvcnQgdGhlIGZ1bmN0aW9uIHVzZWQgdG8gY2FsY3VsYXRlIGFjY3VyYWN5CmZyb20gc2tsZWFybi5tZXRyaWNzIGltcG9ydCBhY2N1cmFjeV9zY29yZQojIEltcG9ydCB0aGUgZnVuY3Rpb24gdXNlZCB0byBjcmVhdGUgYSBjb25mdXNpb24gbWF0cml4CmZyb20gc2tsZWFybi5tZXRyaWNzIGltcG9ydCBjb25mdXNpb25fbWF0cml4Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBJbXBvcnQgdGhlIGZ1bmN0aW9uIHVzZWQgdG8gY3JlYXRlIGEgY29uZnVzaW9uIG1hdHJpeApmcm9tIHNrbGVhcm4ubWV0cmljcyBpbXBvcnQgY29uZnVzaW9uX21hdHJpeAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNlYWJvcm4gYXMgc25zCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBwYW5kYXMgaW1wb3J0IGNyb3NzdGFiCmNyb3NzdGFiKHksIHlfcHJlZCwgcm93bmFtZXM9WyJUcnVlIl0sIGNvbG5hbWVzPVsiUHJlZGljdGVkIl0pCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBJbXBvcnQgdGhlIGZ1bmN0aW9uIHVzZWQgdG8gY2FsY3VsYXRlIGFjY3VyYWN5CmZyb20gc2tsZWFybi5tZXRyaWNzIGltcG9ydCBhY2N1cmFjeV9zY29yZQojIEltcG9ydCB0aGUgZnVuY3Rpb24gdXNlZCB0byBjcmVhdGUgYSBjb25mdXNpb24gbWF0cml4CmZyb20gc2tsZWFybi5tZXRyaWNzIGltcG9ydCBjb25mdXNpb25fbWF0cml4Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBJbXBvcnQgdGhlIGZ1bmN0aW9uIHVzZWQgdG8gY3JlYXRlIGEgY29uZnVzaW9uIG1hdHJpeApmcm9tIHNrbGVhcm4ubWV0cmljcyBpbXBvcnQgY29uZnVzaW9uX21hdHJpeAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHNlYWJvcm4gYXMgc25zCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kZWwuZml0KHgsIHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBldmFsdWF0ZSB0aGUgbW9kZWwgb24gdGhlIHNlY29uZCBzZXQgb2YgZGF0YQo=</text>
+        <text encoding="base64">bW9kZWwuZml0KHgsIHkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
