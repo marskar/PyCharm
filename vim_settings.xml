@@ -43,15 +43,12 @@
         <mark key="^" line="237" column="69" />
         <mark key="." line="237" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" timestamp="1528717111719">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="25" column="25" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="25" column="25" />
-      </file>
-      <file name="/Python Console" timestamp="1528662584353">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" timestamp="1528718916032">
+        <mark key="'" line="1" column="36" />
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="34" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BDML/original.py" timestamp="1525810878245">
         <mark key="'" line="99" column="29" />
@@ -262,10 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="49" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="165" column="24" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="166" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="242" column="31" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="249" column="44" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="251" column="32" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="39" column="40" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
@@ -362,10 +355,14 @@
       <jump line="62" column="0" filename="$USER_HOME$/Downloads/module3_assignment2(3) (1).py" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/module3_verification2(2).py" />
       <jump line="14" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
+      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
+      <jump line="9" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
+      <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
+      <jump line="1" column="36" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGQuc2V0X29wdGlvbigiZGlzcGxheS5tYXhfY29sdW1ucyIsIDEwMSkK</text>
+      <register name="&quot;" type="4">
+        <text>[&quot;True&quot;]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -374,43 +371,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>[&quot;True&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>11</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpZWxkc1sxMl0gPT0gIkdFTkUiKToK</text>
+        <text encoding="base64">IyBFdmFsdWF0ZSB0aGUgbW9kZWwgdXNpbmcgYSBjb25mdXNpb24gbWF0cml4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGQuc2V0X29wdGlvbigiZGlzcGxheS5tYXhfY29sdW1ucyIsIDEwMSkK</text>
+        <text encoding="base64">aW1wb3J0IHNlYWJvcm4gYXMgc25zCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGQuc2V0X29wdGlvbigiZGlzcGxheS5tYXhfcm93cyIsIDEwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">bW9kZWwuZml0KHgsIHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bCA9IFtdCgo=</text>
+        <text encoding="base64">IyBldmFsdWF0ZSB0aGUgbW9kZWwgb24gdGhlIHNlY29uZCBzZXQgb2YgZGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdlbmVpbmZvKHRleHQpOgogICAgZm9yIGxpbmUgaW4gdGV4dDoKICAgICAgICBmaWVsZHMgPSBsaW5lLnNwbGl0KCJcdCIpCiAgICAgICAgI2lmIChmaWVsZHNbMl0gPT0gMTEpOgogICAgICAgIHByaW50KGZpZWxkc1swXSkKCg==</text>
+        <text encoding="base64">bW9kZWwgPSBLTmVpZ2hib3JzQ2xhc3NpZmllcihuX25laWdoYm9ycz0xKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bXlmaWxlID0gZmlsZSgic2Nlcl9nZW5lX2ZpeGVkLm1kIiwgInIiKQpmb3IgbGluZSBpbiBteWZpbGU6CiAgICBmaWVsZGxpc3QgPSBsaW5lLnNwbGl0KOKAnFx0IikKICAgIGlmIChsZW4oZmllbGRsaXN0KSA+IDkpOgogICAgICAgIHByaW50IGZpZWxkbGlzdFsyXSwgZmllbGRsaXN0WzNdLCBsZW4oZmllbGRsaXN0WzldKQoKICAgICAgICAjIGlmIHRoZSBzZXF1ZW5jZSBpcyBwcmVzZW50IGluIHRoZSBkaWN0aW9uYXJ5IGFscmVhZHksCiAgICAgICAgIyBoYXNfa2V5IHdpbGwgYmUgdHJ1ZQogICAgICAgIGlmIHNlcW5hbWVzLmhhc19rZXkoZmllbGRzWzldKToKICAgICAgICAgICAgc2VxbmFtZXNbZmllbGRzWzldXSArPSAxCiAgICAgICAgIyBzbyBpZiBpdCdzIG5vdCBwcmVzZW50LCBhZGQgaXQKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZXFuYW1lc1tmaWVsZHNbOV1dID0gMQogICAgIyBsb29wIHRocm91Z2ggYWxsIG9mIHRoZSBrZXlzIGFuZCBwcmludCB0aG9zZSB3aG9zZSB2YWx1ZXMgKGNvdW50cykgYXJlIGdyZWF0ZXIgdGhhbiAxCmZvciBrZXlzIGluIHNlcW5hbWVzOgogICAgaWYgc2VxbmFtZXNba2V5c10gPiAxOgogICAgICAgIHByaW50CiAgICAgICAgc2VxbmFtZXNba2V5c10sIGtleXMKc2FtZmlsZS5jbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdlbmVpbmZvKGZpbGVuYW1lKToKICAgIHdpdGggb3BlbihmaWxlbmFtZSwgJ3InKSBhcyBmOgogICAgICAgIGZvciBsaW5lIGluIGY6CiAgICAgICAgICAgIGZpZWxkcyA9IGxpbmUuc3BsaXQoIlx0IikKICAgICAgICAgICAgaWYgKGZpZWxkc1sxMl0gPT0gIkdFTkUiKToKICAgICAgICAgICAgICAgIHByaW50KGZpZWxkc1sxMl0pCgoKdHh0Cmxlbih0eHQpCg==</text>
+        <text encoding="base64">IyBldmFsdWF0ZSB0aGUgbW9kZWwgb24gdGhlIHNlY29uZCBzZXQgb2YgZGF0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHh0Cg==</text>
+        <text encoding="base64">eTJfbW9kZWwgPSBtb2RlbC5wcmVkaWN0KFgyKQphY2N1cmFjeV9zY29yZSh5MiwgeTJfbW9kZWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">eV9tb2RlbCA9IG1vZGVsLnByZWRpY3QoeCkKYWNjdXJhY3lfc2NvcmUoeSwgeV9tb2RlbCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
