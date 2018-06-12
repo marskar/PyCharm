@@ -37,7 +37,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/github/smartly/IrisScatterPlot.py" timestamp="1528818230634">
+      <file name="$USER_HOME$/github/smartly/IrisScatterPlot.py" timestamp="1528829210865">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="3" column="69" />
         <mark key="]" line="4" column="9" />
@@ -61,10 +61,10 @@
         <mark key="." line="166" column="0" />
         <mark key="^" line="165" column="1" />
       </file>
-      <file name="$USER_HOME$/github/smartly/KNNcfm.py" timestamp="1528815770648">
-        <mark key="'" line="38" column="26" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="31" />
+      <file name="$USER_HOME$/github/smartly/KNNcfm.py" timestamp="1528829909671">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="17" />
         <mark key="." line="47" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1524022459713">
@@ -106,6 +106,13 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1525647698120">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/smartly/GNBdigitsCFM.py" timestamp="1528829971499">
+        <mark key="'" line="15" column="24" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" timestamp="1522201142336">
         <mark key="'" line="30" column="23" />
@@ -191,10 +198,6 @@
       <file name="/fragment.py" timestamp="1527448238074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BDML/SkillCraft2.py" timestamp="1525808503137">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="175" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" timestamp="1520515966493">
         <mark key="'" line="5" column="9" />
         <mark key="[" line="15" column="14" />
@@ -272,10 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="293" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="282" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="290" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="304" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="310" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="7" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
@@ -372,10 +371,14 @@
       <jump line="6" column="9" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
       <jump line="4" column="9" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
       <jump line="11" column="0" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
+      <jump line="22" column="24" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="19" column="24" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXgubGVnZW5kXy5yZW1vdmUoKQo=</text>
+        <text encoding="base64">c2V0KGZvbnRfc2NhbGU9MykK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -384,52 +387,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>11</text>
+        <text>yt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZyA9IHNucy5wYWlycGxvdChpcmlzLCBodWU9InNwZWNpZXMiLCBtYXJrZXJzPVsibyIsICJzIiwgIkQiXSwgc2l6ZT0yKQo=</text>
+        <text encoding="base64">c2V0KGZvbnRfc2NhbGU9MykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXgubGVnZW5kXy5yZW1vdmUoKQo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGFjY3VyYWN5X3Njb3JlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cC5maWcubGVnZW5kCg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm5haXZlX2JheWVzIGltcG9ydCBHYXVzc2lhbk5CCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LmxlZ2VuZCgnMDEyJywgbG9jPSd1cHBlciBsZWZ0Jyk7Cg==</text>
+        <text encoding="base64">ZGlnaXRzLmltYWdlcy5zaGFwZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cCA9IHNucy5wYWlycGxvdChpcmlzLCBodWU9J3NwZWNpZXMnLCBzaXplPTIpCg==</text>
+        <text encoding="base64">cGx0LnlsYWJlbCgndHJ1ZSB2YWx1ZScpOyBpbXBvcnQgbG9hZF9kaWdpdHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx0LnhsYWJlbCgncHJlZGljdGVkIHZhbHVlJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c25zLmhlYXRtYXAobWF0LCBzcXVhcmU9VHJ1ZSwgYW5ub3Q9VHJ1ZSwgY2Jhcj1GYWxzZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c25zLnNldCgpCg==</text>
+        <text encoding="base64">cGx0LnhsYWJlbCgncHJlZGljdGVkIHZhbHVlJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c25zLmhlYXRtYXAobWF0LCBzcXVhcmU9VHJ1ZSwgYW5ub3Q9VHJ1ZSwgY2Jhcj1GYWxzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>11</last-search>
+      <last-search>yt</last-search>
       <last-offset />
-      <last-pattern>11</last-pattern>
+      <last-pattern>yt</last-pattern>
       <last-replace>mort</last-replace>
       <last-substitute>lab</last-substitute>
       <last-dir>1</last-dir>
@@ -437,7 +440,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pca</entry>
         <entry encoding="base64">XDxwY2FcPg==</entry>
         <entry encoding="base64">aCA9IA==</entry>
         <entry encoding="base64">XDxjbV9icmlnaHRcPg==</entry>
@@ -457,6 +459,7 @@
         <entry>^</entry>
         <entry>\^</entry>
         <entry>11</entry>
+        <entry>yt</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
