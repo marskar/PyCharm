@@ -107,12 +107,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1525647698120">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/smartly/GNBdigitsCFM.py" timestamp="1528830768282">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="37" column="66" />
-        <mark key="]" line="38" column="8" />
-        <mark key="^" line="38" column="8" />
-        <mark key="." line="38" column="8" />
+      <file name="$USER_HOME$/github/smartly/GNBdigitsCFM.py" timestamp="1528834470280">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/workflowdag/r-nhanes-cleaning.py" timestamp="1522201142336">
         <mark key="'" line="30" column="23" />
@@ -275,16 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
-      <jump line="4" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
-      <jump line="5" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
-      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
-      <jump line="4" column="42" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="7" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="5" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="35" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
       <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
       <jump line="16" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
       <jump line="17" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
@@ -375,10 +365,20 @@
       <jump line="37" column="64" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
       <jump line="32" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
       <jump line="30" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="13" column="19" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="17" column="31" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="11" column="71" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>X</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MzcrMzgrMjArMzkrMzErNDMrNTErNDcrMzYrMzAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -387,7 +387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>X</text>
+        <text>digits</text>
       </register>
       <register name="/" type="4">
         <text>yt</text>
@@ -396,34 +396,34 @@
         <text encoding="base64">c2V0KGZvbnRfc2NhbGU9MykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IAo=</text>
+        <text encoding="base64">MzcrMzgrMjArMzkrMzErNDMrNTErNDcrMzYrMzAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGFjY3VyYWN5X3Njb3JlCg==</text>
+        <text encoding="base64">bGVuKHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm5haXZlX2JheWVzIGltcG9ydCBHYXVzc2lhbk5CCg==</text>
+        <text encoding="base64">eAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGlnaXRzLmltYWdlcy5zaGFwZQo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LnlsYWJlbCgndHJ1ZSB2YWx1ZScpOyBpbXBvcnQgbG9hZF9kaWdpdHMK</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGFjY3VyYWN5X3Njb3JlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnhsYWJlbCgncHJlZGljdGVkIHZhbHVlJykK</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm5haXZlX2JheWVzIGltcG9ydCBHYXVzc2lhbk5CCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c25zLmhlYXRtYXAobWF0LCBzcXVhcmU9VHJ1ZSwgYW5ub3Q9VHJ1ZSwgY2Jhcj1GYWxzZSkK</text>
+        <text encoding="base64">ZGlnaXRzLmltYWdlcy5zaGFwZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0LnhsYWJlbCgncHJlZGljdGVkIHZhbHVlJykK</text>
+        <text encoding="base64">cGx0LnlsYWJlbCgndHJ1ZSB2YWx1ZScpOyBpbXBvcnQgbG9hZF9kaWdpdHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c25zLmhlYXRtYXAobWF0LCBzcXVhcmU9VHJ1ZSwgYW5ub3Q9VHJ1ZSwgY2Jhcj1GYWxzZSkK</text>
+        <text encoding="base64">cGx0LnhsYWJlbCgncHJlZGljdGVkIHZhbHVlJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
