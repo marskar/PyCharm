@@ -37,6 +37,13 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/github/smartly/IrisScatterPlot.py" timestamp="1528818230634">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="3" column="69" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" timestamp="1525645092989">
         <mark key="'" line="137" column="11" />
         <mark key="[" line="0" column="0" />
@@ -54,12 +61,11 @@
         <mark key="." line="166" column="0" />
         <mark key="^" line="165" column="1" />
       </file>
-      <file name="$USER_HOME$/github/smartly/KNNcfm.py" timestamp="1528807990100">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="71" />
-        <mark key="]" line="24" column="72" />
-        <mark key="^" line="24" column="72" />
-        <mark key="." line="24" column="72" />
+      <file name="$USER_HOME$/github/smartly/KNNcfm.py" timestamp="1528815770648">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1524022459713">
         <mark key="[" line="0" column="0" />
@@ -266,17 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="258" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="257" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="264" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="266" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="274" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="283" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="261" column="4" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="265" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="273" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
-      <jump line="281" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="287" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="293" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
       <jump line="282" column="0" filename="$USER_HOME$/PycharmProjects/BDML/SkillCraft-Ensemble-Update (2).py" />
@@ -366,10 +361,21 @@
       <jump line="29" column="38" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
       <jump line="12" column="0" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
+      <jump line="41" column="13" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
+      <jump line="42" column="15" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
+      <jump line="43" column="23" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
+      <jump line="3" column="9" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
+      <jump line="38" column="26" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
+      <jump line="6" column="9" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXgubGVnZW5kXy5yZW1vdmUoKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -378,16 +384,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>11</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnhsYWJlbCgiUHJlZGljdGVkIikK</text>
+        <text encoding="base64">ZyA9IHNucy5wYWlycGxvdChpcmlzLCBodWU9InNwZWNpZXMiLCBtYXJrZXJzPVsibyIsICJzIiwgIkQiXSwgc2l6ZT0yKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2ZtCg==</text>
+        <text encoding="base64">YXgubGVnZW5kXy5yZW1vdmUoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -396,25 +402,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwYW5kYXMgaW1wb3J0IGNyb3NzdGFiCmNyb3NzdGFiKHksIHlfcHJlZCwgcm93bmFtZXM9WyJUcnVlIl0sIGNvbG5hbWVzPVsiUHJlZGljdGVkIl0pCgo=</text>
+        <text encoding="base64">cC5maWcubGVnZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBJbXBvcnQgdGhlIGZ1bmN0aW9uIHVzZWQgdG8gY2FsY3VsYXRlIGFjY3VyYWN5CmZyb20gc2tsZWFybi5tZXRyaWNzIGltcG9ydCBhY2N1cmFjeV9zY29yZQojIEltcG9ydCB0aGUgZnVuY3Rpb24gdXNlZCB0byBjcmVhdGUgYSBjb25mdXNpb24gbWF0cml4CmZyb20gc2tsZWFybi5tZXRyaWNzIGltcG9ydCBjb25mdXNpb25fbWF0cml4Cg==</text>
+        <text encoding="base64">cGx0LmxlZ2VuZCgnMDEyJywgbG9jPSd1cHBlciBsZWZ0Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBJbXBvcnQgdGhlIGZ1bmN0aW9uIHVzZWQgdG8gY3JlYXRlIGEgY29uZnVzaW9uIG1hdHJpeApmcm9tIHNrbGVhcm4ubWV0cmljcyBpbXBvcnQgY29uZnVzaW9uX21hdHJpeAo=</text>
+        <text encoding="base64">cCA9IHNucy5wYWlycGxvdChpcmlzLCBodWU9J3NwZWNpZXMnLCBzaXplPTIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNlYWJvcm4gYXMgc25zCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c25zLnNldCgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kZWwuZml0KHgsIHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
