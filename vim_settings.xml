@@ -187,9 +187,6 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1529329878421">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/miniconda3/lib/python3.6/site-packages/sklearn/base.py" timestamp="1525650552000">
         <mark key="'" line="212" column="8" />
       </file>
@@ -236,6 +233,13 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1531445221594">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+        <mark key="^" line="38" column="16" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/workflowdag.py" timestamp="1522196073123">
         <mark key="[" line="51" column="76" />
         <mark key="]" line="5" column="19" />
@@ -273,20 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="16" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="17" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="18" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="19" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="20" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="21" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="22" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="24" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="25" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="26" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="27" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="28" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
-      <jump line="29" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
       <jump line="30" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
@@ -373,10 +363,24 @@
       <jump line="16" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
       <jump line="18" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
       <jump line="20" column="0" filename="$USER_HOME$/github/smartly/GNBdigitsCFM.py" />
+      <jump line="12" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="0" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="24" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="41" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="32" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MzcrMzgrMjArMzkrMzErNDMrNTErNDcrMzYrMzAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -385,43 +389,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>digits</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>yt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2V0KGZvbnRfc2NhbGU9MykK</text>
+      <register name="0" type="4">
+        <text>{self.language_name} was created in {self.year_created} by {self.creator_name}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MzcrMzgrMjArMzkrMzErNDMrNTErNDcrMzYrMzAK</text>
+        <text encoding="base64">Y2xhc3MgSW52ZW50b3J5SXRlbToK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVuKHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eAo=</text>
+        <text encoding="base64">ampqampqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IAo=</text>
+        <text encoding="base64">MzcrMzgrMjArMzkrMzErNDMrNTErNDcrMzYrMzAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGFjY3VyYWN5X3Njb3JlCg==</text>
+        <text encoding="base64">bGVuKHkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm5haXZlX2JheWVzIGltcG9ydCBHYXVzc2lhbk5CCg==</text>
+        <text encoding="base64">eAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGlnaXRzLmltYWdlcy5zaGFwZQo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0LnlsYWJlbCgndHJ1ZSB2YWx1ZScpOyBpbXBvcnQgbG9hZF9kaWdpdHMK</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGFjY3VyYWN5X3Njb3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGx0LnhsYWJlbCgncHJlZGljdGVkIHZhbHVlJykK</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm5haXZlX2JheWVzIGltcG9ydCBHYXVzc2lhbk5CCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
