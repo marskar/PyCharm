@@ -85,11 +85,12 @@
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1531578385210">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1531578871978">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="7" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1514157350872">
         <mark key="[" line="2" column="0" />
@@ -290,10 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="5" filename="$USER_HOME$/github/710-737_Introduction-to-Computational-Genetics/commandline/fancyoptionexample.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/module3_assignment2(3) (1).py" />
-      <jump line="57" column="4" filename="$USER_HOME$/Downloads/module3_assignment2(3) (1).py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Downloads/module3_assignment2(3) (1).py" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/module3_verification2(2).py" />
       <jump line="14" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/replace.py" />
       <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
@@ -390,10 +387,14 @@
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" />
       <jump line="16" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" />
+      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>all three</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -402,43 +403,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>all three</text>
       </register>
       <register name="/" type="4">
         <text>yt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCg==</text>
+        <text encoding="base64">bGlzdDMgPSBsaXN0KGxpc3QxKSAjIHNoYWxsb3cgY29weQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCg==</text>
+        <text encoding="base64">bGlzdDEKbGlzdDIKbGlzdDMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">agpsaXN0MQpsaXN0MgpsaXN0Mwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQmFiaWVzT25UaGVCdXM6CiAgICBkZWYgZ28oc2VsZik6CiAgICAgICAgcHJpbnQoIldhaCBXYWggV2FoIikKCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiV29vZiB3b29mISIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">Y2xhc3MgQmFiaWVzT25UaGVCdXM6CiAgICBkZWYgZ28oc2VsZik6CiAgICAgICAgcHJpbnQoIldhaCBXYWggV2FoIikKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmJpcnRoX2RhdGUubW9udGgsCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYmlydGhfZGF0ZS5kYXkpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJqYW5lLmRvZUBleGFtcGxlLmNvbSIK</text>
+        <text encoding="base64">ICAgICAgICAiV29vZiB3b29mISIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICI1NTUgNDU2IDA5ODciLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
