@@ -202,12 +202,11 @@
       <file name="/fragment.py" timestamp="1527448238074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1531831780963">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1531840367985">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pd_df_list/pd_df_list.py" timestamp="1520515966493">
         <mark key="'" line="5" column="9" />
@@ -298,11 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
-      <jump line="29" column="38" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
       <jump line="41" column="13" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
       <jump line="42" column="15" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
       <jump line="43" column="23" filename="$USER_HOME$/github/smartly/KNNcfm.py" />
@@ -386,22 +380,27 @@
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" />
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" />
-      <jump line="0" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="31" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="35" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="27" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="35" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCkBkYXRhY2xhc3MKY2xhc3MgU3BpZGVyOgogICAgc3BlY2llczogc3RyCiAgICBudW1iZXJfb2ZfbGVnczogaW50ID0gOApTcGlkZXIubnVtYmVyX29mX2xlZ3MKCm11dGFudF9zcGlkZXIgPSBTcGlkZXIKCm11dGFudF9zcGlkZXIubnVtYmVyX29mX2xlZ3MgPSA2CgptdXRhbnRfc3BpZGVyLm51bWJlcl9vZl9sZWdzCgoK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -419,34 +418,34 @@
         <text encoding="base64">Y2xhc3MgUGVyc29uOgogICAgc3BlY2llcyA9ICJIb21vIHNhcGllbnMiCgpQZXJzb24uc3BlY2llcyA9ICJIdW1hbiIKClBlcnNvbi5zcGVjaWVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCkBkYXRhY2xhc3MKY2xhc3MgU3BpZGVyOgogICAgc3BlY2llczogc3RyCiAgICBudW1iZXJfb2ZfbGVnczogaW50ID0gOApTcGlkZXIubnVtYmVyX29mX2xlZ3MKCm11dGFudF9zcGlkZXIgPSBTcGlkZXIKCm11dGFudF9zcGlkZXIubnVtYmVyX29mX2xlZ3MgPSA2CgptdXRhbnRfc3BpZGVyLm51bWJlcl9vZl9sZWdzCgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3BvY2suc3BlY2llcwo=</text>
+        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBTdGFyVHJla0NoYXJhY3RlcjoKICAgIHNwZWNpZXM6IHN0ciA9ICJIdW1hbiIKCiMgaW5zdGFudGlhdGUgb2JqZWN0IHdpdGggZGVmYXVsdCBhdHRyaWJ1dGUKa2lyayA9IFN0YXJUcmVrQ2hhcmFjdGVyCgojIGluc3RhbnRpYXRlIG9iamVjdCBzcGVjaWZ5IHRoZSBzcGVjaWVzIGF0dHJpYnV0ZQpzcG9jayA9IFN0YXJUcmVrQ2hhcmFjdGVyKHNwZWNpZXM9IlZ1bGNhbiIpCgojIGluc3RhbnRpYXRlIDIgb2JqZWN0cyB3aXRoIG5vbi1kZWZhdWx0IGF0dHJpYnV0ZXMKIyB1c2luZyB0dXBsZSB1bnBhY2tpbmcgYW5kIGxpc3QgY29tcHJlaGVuc2lvbgpzcG9jaywgd29yZiA9IFtTdGFyVHJla0NoYXJhY3RlcihzcGVjaWVzID0geCkKICAgICAgICAgICAgICAgZm9yIHggaW4gKCJWdWxjYW4iLCAiS2xpbmdvbiIpXQpwcmludChraXJrLnNwZWNpZXMsIHNwb2NrLnNwZWNpZXMsIHdvcmYuc3BlY2llcywgc2VwPSIsICIpCgpjbGFzcyBQZXJzb246CiAgICBzcGVjaWVzID0gIkhvbW8gc2FwaWVucyIKClBlcnNvbi5zcGVjaWVzID0gIkh1bWFuIgpQZXJzb24uc3BlY2llcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3BvY2suc3BlY2llcyA9ICJWdWxjYW4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2lyayA9IAo=</text>
+        <text encoding="base64">c3BvY2suc3BlY2llcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3BvY2suc3BlY2llcyA9ICJWdWxjYW4iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2lyayA9IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgRmljdGlvbmFsUGVyc29uOgogICAgcGFzcwpQZXJzb24uc3BlY2llcyA9ICJIb21vIHNhcGllbnMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bXV0YW50X3NwaWRlci5zcGVjaWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
