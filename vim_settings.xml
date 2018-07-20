@@ -266,12 +266,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532106518301">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532107587438">
         <mark key="'" line="25" column="4" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
-        <mark key="^" line="30" column="26" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="2" />
+        <mark key="." line="36" column="2" />
+        <mark key="^" line="36" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1525532797360">
         <mark key="'" line="312" column="9" />
@@ -407,7 +407,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(&quot;zen.txt&quot;)</text>
+        <text>TextFile</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -416,13 +416,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(&quot;zen.txt&quot;)</text>
+        <text>TextFile</text>
       </register>
       <register name="/" type="4">
         <text>yt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGZpbGUybGlzdChmaWxlKToKICAgIHdpdGggb3BlbihmaWxlKSBhcyBmOgogICAgICAgIHJldHVybiBbbGluZSBmb3IgbGluZSBpbiBmXQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">VGV4dEZpbGUuemVuIA==</text>
       </register>
       <register name="1" type="4">
         <text>with open('zop.txt', 'r') as f:
