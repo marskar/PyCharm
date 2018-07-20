@@ -266,11 +266,11 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532102477777">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532104124443">
         <mark key="'" line="25" column="4" />
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1525532797360">
@@ -406,8 +406,8 @@
       <jump line="25" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGZpbGUybGlzdChmaWxlKToKICAgIHdpdGggb3BlbihmaWxlKSBhcyBmOgogICAgICAgIHJldHVybiBbbGluZSBmb3IgbGluZSBpbiBmXQo=</text>
+      <register name="&quot;" type="4">
+        <text>(&quot;zen.txt&quot;)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -416,7 +416,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'r'</text>
+        <text>(&quot;zen.txt&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>yt</text>
