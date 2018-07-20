@@ -266,12 +266,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532100532068">
-        <mark key="'" line="19" column="19" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="23" column="17" />
-        <mark key="^" line="23" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532102477777">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1525532797360">
         <mark key="'" line="312" column="9" />
@@ -304,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
       <jump line="5" column="0" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
       <jump line="6" column="9" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
       <jump line="4" column="9" filename="$USER_HOME$/github/smartly/IrisScatterPlot.py" />
@@ -404,10 +403,11 @@
       <jump line="5" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="19" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="25" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, 'r'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGZpbGUybGlzdChmaWxlKToKICAgIHdpdGggb3BlbihmaWxlKSBhcyBmOgogICAgICAgIHJldHVybiBbbGluZSBmb3IgbGluZSBpbiBmXQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -421,8 +421,8 @@
       <register name="/" type="4">
         <text>yt</text>
       </register>
-      <register name="0" type="4">
-        <text>[this.d.get(c, c) for c in this.s]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGZpbGUybGlzdChmaWxlKToKICAgIHdpdGggb3BlbihmaWxlKSBhcyBmOgogICAgICAgIHJldHVybiBbbGluZSBmb3IgbGluZSBpbiBmXQo=</text>
       </register>
       <register name="1" type="4">
         <text>with open('zop.txt', 'r') as f:
