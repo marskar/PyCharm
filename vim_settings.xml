@@ -266,12 +266,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532538011240">
-        <mark key="'" line="76" column="8" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="81" column="8" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532538645389">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="25" />
+        <mark key="^" line="79" column="9" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1525532797360">
         <mark key="'" line="312" column="9" />
@@ -401,13 +401,13 @@
       <jump line="5" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="81" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="84" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="76" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="76" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCkBkYXRhY2xhc3MKY2xhc3MgVGV4dEZpbGU6CiAgICBmaWxlOiBzdHIKCnplbi5maWxlCg==</text>
+        <text encoding="base64">emVuID0gVGV4dEZpbGUoInplbi50eHQiKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -425,35 +425,34 @@
         <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCkBkYXRhY2xhc3MKY2xhc3MgVGV4dEZpbGU6CiAgICBmaWxlOiBzdHIKCnplbi5maWxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">emVuLmZpbGUK</text>
+        <text encoding="base64">emVuID0gVGV4dEZpbGUoInplbi50eHQiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGV4dEZpbGUucmVhZCA9IHJlYWQK</text>
+        <text encoding="base64">emVuID0gVGV4dEZpbGUoInplbi50eHQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGUgPSBvcGVuKGZpbGVuYW1lLCAncicpCg==</text>
+        <text encoding="base64">emVuLmZpbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IGRlZiBmaWxlMmxpc3QoZmlsZSk6Cg==</text>
+        <text encoding="base64">VGV4dEZpbGUucmVhZCA9IHJlYWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpbmVzOiBsaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGUgPSBvcGVuKGZpbGVuYW1lLCAncicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZiA9IG9wZW4oJ3plbi50eHQnKSBhcyBmCg==</text>
+        <text encoding="base64">IGRlZiBmaWxlMmxpc3QoZmlsZSk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmVzOiBsaXN0Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>with open('zop.txt', 'r') as f:
-    z = [line for line in f]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZiA9IG9wZW4oJ3plbi50eHQnKSBhcyBmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RyKFt0aGlzLmQuZ2V0KGMsIGMpIGZvciBjIGluIHRoaXMuc10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
