@@ -266,12 +266,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532608131076">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="89" column="19" />
-        <mark key="]" line="89" column="26" />
-        <mark key="^" line="89" column="26" />
-        <mark key="." line="89" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532615949796">
+        <mark key="'" line="82" column="11" />
+        <mark key="[" line="85" column="27" />
+        <mark key="]" line="82" column="11" />
+        <mark key="^" line="82" column="11" />
+        <mark key="." line="85" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1525532797360">
         <mark key="'" line="312" column="9" />
@@ -395,7 +395,6 @@
       <jump line="105" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="89" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="93" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="82" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="86" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="76" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="87" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
@@ -404,10 +403,11 @@
       <jump line="91" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="88" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="83" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="82" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: str</text>
+        <text>iter({1: 'a', 2:'b'})</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -416,40 +416,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: str</text>
+        <text>&quot;hi!&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>yt</text>
+        <text>file</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIHJlYWQoc2VsZik6CiAgICB3aXRoIG9wZW4oc2VsZi5maWxlKSBhcyBmOgogICAgICAgIHNlbGYubGluZXMgPSBbbGluZSBmb3IgbGluZSBpbiBmXQogICAgVGV4dEZpbGUuY291bnRlciArPSAxCgpkZWYgcmVzZXQoc2VsZik6CiAgICBkZWwgc2VsZi5saW5lcwogICAgVGV4dEZpbGUuY291bnRlciAtPSAxCg==</text>
+      <register name="0" type="4">
+        <text>iter({1: 'a', 2:'b'})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihzZWxmLmZpbGUpIGFzIGY6CiAgICAgICAgc2VsZi5saW5lcyA9IFtsaW5lIGZvciBsaW5lIGluIGZdCg==</text>
+        <text encoding="base64">dHlwZShsaXN0KDEsIDIsIDMpYAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpbmVzOiBsaXN0Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihzZWxmLmZpbGUpIGFzIGY6CiAgICAgICAgc2VsZi5saW5lcyA9IFtsaW5lIGZvciBsaW5lIGluIGZdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxpbmVzOiBsaXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">emVuID0gVGV4dEZpbGUoZmlsZSA9ICd6ZW4udHh0JykgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">emVuID0gVGV4dEZpbGUoZmlsZSA9ICd6ZW4udHh0JykgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVGV4dEZpbGU6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
+        <text encoding="base64">Y2xhc3MgVGV4dEZpbGU6CiAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">emVuID0gVGV4dEZpbGUoInplbi50eHQiKQo=</text>
+        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">emVuID0gVGV4dEZpbGUoInplbi50eHQiKQo=</text>
@@ -459,9 +459,9 @@
       </register>
     </registers>
     <search>
-      <last-search>yt</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern>yt</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-replace>mort</last-replace>
       <last-substitute>lab</last-substitute>
       <last-dir>1</last-dir>
@@ -469,7 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwY2FcPg==</entry>
         <entry encoding="base64">aCA9IA==</entry>
         <entry encoding="base64">XDxjbV9icmlnaHRcPg==</entry>
         <entry encoding="base64">XDx4X21pblw+</entry>
@@ -489,6 +488,7 @@
         <entry>\^</entry>
         <entry>11</entry>
         <entry>yt</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
