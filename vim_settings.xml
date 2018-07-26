@@ -266,12 +266,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532607137117">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532608131076">
         <mark key="'" line="83" column="0" />
-        <mark key="[" line="84" column="17" />
-        <mark key="]" line="84" column="17" />
-        <mark key="^" line="89" column="23" />
-        <mark key="." line="84" column="17" />
+        <mark key="[" line="89" column="19" />
+        <mark key="]" line="89" column="26" />
+        <mark key="^" line="89" column="26" />
+        <mark key="." line="89" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1525532797360">
         <mark key="'" line="312" column="9" />
@@ -401,7 +401,7 @@
       <jump line="87" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="78" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="92" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="91" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="91" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="88" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="83" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
     </jumps>
