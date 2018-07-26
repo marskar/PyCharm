@@ -266,12 +266,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532616742270">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1532626712403">
         <mark key="'" line="85" column="30" />
-        <mark key="[" line="144" column="9" />
-        <mark key="]" line="82" column="11" />
-        <mark key="^" line="82" column="11" />
-        <mark key="." line="85" column="30" />
+        <mark key="[" line="153" column="16" />
+        <mark key="]" line="153" column="22" />
+        <mark key="^" line="153" column="22" />
+        <mark key="." line="153" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1525532797360">
         <mark key="'" line="312" column="9" />
@@ -407,7 +407,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>iter({1: 'a', 2:'b'})</text>
+        <text>read</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -416,43 +416,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;hi!&quot;</text>
+        <text>read</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="4">
-        <text>iter({1: 'a', 2:'b'})</text>
+        <text>open('zen.txt').read()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZShsaXN0KDEsIDIsIDMpYAo=</text>
+        <text encoding="base64">VGhlIGNvZGUgYmVsb3cgdXNlcyBhIGxpc3QgY29tcHJlaGVuc2lvbiB0byBhcyBhIGxpc3Qgb2YgbGluZXMuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihzZWxmLmZpbGUpIGFzIGY6CiAgICAgICAgc2VsZi5saW5lcyA9IFtsaW5lIGZvciBsaW5lIGluIGZdCg==</text>
+        <text encoding="base64">dHlwZShsaXN0KDEsIDIsIDMpYAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbmVzOiBsaXN0Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihzZWxmLmZpbGUpIGFzIGY6CiAgICAgICAgc2VsZi5saW5lcyA9IFtsaW5lIGZvciBsaW5lIGluIGZdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxpbmVzOiBsaXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">emVuID0gVGV4dEZpbGUoZmlsZSA9ICd6ZW4udHh0JykgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">emVuID0gVGV4dEZpbGUoZmlsZSA9ICd6ZW4udHh0JykgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgVGV4dEZpbGU6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
+        <text encoding="base64">Y2xhc3MgVGV4dEZpbGU6CiAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">emVuID0gVGV4dEZpbGUoInplbi50eHQiKQo=</text>
+        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
