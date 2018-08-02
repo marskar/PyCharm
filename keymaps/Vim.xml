@@ -20,6 +20,9 @@
   <action id="PySciView">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
