@@ -196,9 +196,6 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1533219710640">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/miniconda3/lib/python3.6/site-packages/sklearn/base.py" timestamp="1525650552000">
         <mark key="'" line="212" column="8" />
       </file>
@@ -289,12 +286,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" timestamp="1533219893102">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="36" column="35" />
-        <mark key="." line="14" column="12" />
-        <mark key="^" line="14" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" timestamp="1533222402708">
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="211" column="23" />
+        <mark key="." line="212" column="0" />
+        <mark key="^" line="211" column="7" />
       </file>
       <file name="$USER_HOME$/miniconda3/lib/python3.6/site-packages/sklearn/linear_model/stochastic_gradient.py" timestamp="1525566274135">
         <mark key="'" line="169" column="46" />
@@ -314,19 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="57" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="58" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="46" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="56" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="62" column="29" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="67" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="72" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="9" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="18" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="3" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
       <jump line="24" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
       <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
       <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
@@ -414,10 +398,23 @@
       <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
       <jump line="34" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="78" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="96" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="42" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="189" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="191" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="193" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="203" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="207" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="206" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="202" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="197" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="209" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
+      <jump line="184" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/smartly.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGZpbGUybGlzdChmaWxlKToKICAgIHdpdGggb3BlbihmaWxlKSBhcyBmOgogICAgICAgIHJldHVybiBbbGluZSBmb3IgbGluZSBpbiBmXQo=</text>
+        <text encoding="base64">emVuLnJlYWQoKQpUZXh0RmlsZS5jb3VudAp6ZW4udGV4dC5zcGxpdGxpbmVzKClbMF0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -426,43 +423,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGZpbGUybGlzdChmaWxlKToKICAgIHdpdGggb3BlbihmaWxlKSBhcyBmOgogICAgICAgIHJldHVybiBbbGluZSBmb3IgbGluZSBpbiBmXQo=</text>
+        <text encoding="base64">emVuLnJlYWQoKQpUZXh0RmlsZS5jb3VudAp6ZW4udGV4dC5zcGxpdGxpbmVzKClbMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGhlIGNvZGUgYmVsb3cgdXNlcyBhIGxpc3QgY29tcHJlaGVuc2lvbiB0byBhcyBhIGxpc3Qgb2YgbGluZXMuCg==</text>
+        <text encoding="base64">emVuLnN0cmluZwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwZShsaXN0KDEsIDIsIDMpYAo=</text>
+        <text encoding="base64">emVuLmxpbmVzWzBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihzZWxmLmZpbGUpIGFzIGY6CiAgICAgICAgc2VsZi5saW5lcyA9IFtsaW5lIGZvciBsaW5lIGluIGZdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saW5lcyA9IFtsaW5lIGZvciBsaW5lIGluIGZdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpbmVzOiBsaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdHJpbmcgPSBmLnJlYWQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpbmVzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">emVuID0gVGV4dEZpbGUoZmlsZSA9ICd6ZW4udHh0JykgCg==</text>
+        <text encoding="base64">VGhlIGNvZGUgYmVsb3cgdXNlcyBhIGxpc3QgY29tcHJlaGVuc2lvbiB0byBhcyBhIGxpc3Qgb2YgbGluZXMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZShsaXN0KDEsIDIsIDMpYAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVGV4dEZpbGU6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihzZWxmLmZpbGUpIGFzIGY6CiAgICAgICAgc2VsZi5saW5lcyA9IFtsaW5lIGZvciBsaW5lIGluIGZdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
+        <text encoding="base64">ICAgIGxpbmVzOiBsaXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
