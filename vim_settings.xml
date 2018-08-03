@@ -135,12 +135,12 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533303637418">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="56" />
-        <mark key="." line="6" column="56" />
-        <mark key="^" line="6" column="56" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533307613965">
+        <mark key="'" line="6" column="72" />
+        <mark key="[" line="6" column="142" />
+        <mark key="]" line="6" column="142" />
+        <mark key="." line="6" column="142" />
+        <mark key="^" line="6" column="108" />
       </file>
       <file name="$USER_HOME$/Downloads/python_basics.py" timestamp="1520376102708">
         <mark key="'" line="12" column="11" />
@@ -387,7 +387,6 @@
       <jump line="109" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zen.py" />
       <jump line="101" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zen.py" />
       <jump line="107" column="35" filename="$APPLICATION_CONFIG_DIR$/scratches/zen.py" />
-      <jump line="6" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="7" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="10" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="11" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
@@ -422,10 +421,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="6" column="72" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MS4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -434,43 +434,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q3JlYXRpbmcgeW91ciBvd24g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>datac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBDcmVhdGluZyB5b3VyIG93biBkYXRhIHR5cGVzIAo=</text>
+        <text encoding="base64">IyBQeXRob24gaXMgYSB2ZXJ5IGZsZXhpYmxlLCBnZW5lcmFsLXB1cnBvc2UgbGFuZ3VhZ2UgdGhhdCBvZmZlcnMgbWFueSB3YXlzIHRvIHRhY2tsZSBhCiMgcHJvYmxlbS4gT25lIHN1Y2ggcHJvYmxlbS1zb2x2aW5nIGFwcHJvYWNoIGlzIG9iamVjdC1vcmllbnRlZCBwcm9ncmFtbWluZywgd2hpY2ggZm9jdXNlcyBvbiBkZWZpbmluZyBuZXcgZGF0YSB0eXBlcy4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">MS4K</text>
+      <register name="1" type="4">
+        <text>tackle a
+#</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGluZyB5b3VyIG93biBkYXRhIHR5cGVzIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">b3JpZW50ZWQgCiMg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBEZWZpbmluZyBuZXcgZGF0YSB0eXBlcyBhbmQgbWV0aG9kcyBpcyB0aGUgZm9jdXMgb2YgYW4gYXBwcm9hY2ggdG8gcHJvZ3JhbW1pbmcgY2FsbGVkIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">MS5fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQpjbGFzcyBTbmFrZToKICAgIG51bWJlcl9vZl9sZWdzID0gMAogICAgZGVmIF9faW5pdF9fKHNlbGYsIHNwZWNpZXMsIGNvdW50OiBpbnQgPSAxKSAtPiBOb25lOgogICAgICAgIHNlbGYuc3BlY2llcyA9IHNwZWNpZXMKICAgICAgICBzZWxmLmNvdW50ID0gY291bnQKICAgIGRlZiBzYXkoc2VsZikgLT4gc3RyOgogICAgICAgIHJldHVybiAiSGlzc3NzIgogICAgZGVmIGFkZChzZWxmLCBkZWx0YTogaW50ID0gMSk6CiAgICAgICAgc2VsZi5jb3VudCArPSBkZWx0YQogICAgZGVmIHJlbW92ZShzZWxmLCBkZWx0YTogaW50ID0gMSk6CiAgICAgICAgaWYgc2VsZi5jb3VudCA+PSBkZWx0YToKICAgICAgICAgICAgc2VsZi5jb3VudCAtPSBkZWx0YQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCJDYW5ub3QgaGF2ZSBmZXdlciB0aGFuIHplcm8gYW5pbWFscyIpCgo=</text>
+        <text encoding="base64">VHJ1ZS5fX2NsYXNzX18K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG51bWJlcl9vZl9sZWdzID0gMAo=</text>
+        <text encoding="base64">MS8yLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU25ha2UudG90YWwgLT0gZGVsdGEK</text>
+        <text encoding="base64">Jycuam9pbigoIkxldCdzIGdvIiwgIiB0byB0aGUgem9vISIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTbmFrZS50b3RhbCArPSBkZWx0YQo=</text>
+        <text encoding="base64">MS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNwZWNpZXMgbm90IGluIFNuYWtlLmluc3RhbmNlczoK</text>
+        <text encoding="base64">IyBDcmVhdGluZyB5b3VyIG93biBkYXRhIHR5cGVzIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
