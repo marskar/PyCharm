@@ -135,12 +135,12 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533335767623">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533337308779">
         <mark key="'" line="77" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="76" column="7" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="4" />
+        <mark key="^" line="91" column="4" />
+        <mark key="." line="91" column="4" />
       </file>
       <file name="$USER_HOME$/Downloads/python_basics.py" timestamp="1520376102708">
         <mark key="'" line="12" column="11" />
@@ -424,8 +424,8 @@
       <jump line="77" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludmVudG9yeSA9IHt9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>list</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -434,7 +434,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>regal_python</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text>datac</text>
