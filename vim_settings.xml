@@ -135,12 +135,12 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533309356184">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533320391199">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="76" />
-        <mark key="." line="20" column="18" />
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="40" column="13" />
+        <mark key="^" line="40" column="13" />
+        <mark key="." line="40" column="13" />
       </file>
       <file name="$USER_HOME$/Downloads/python_basics.py" timestamp="1520376102708">
         <mark key="'" line="12" column="11" />
@@ -425,7 +425,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dict__</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -434,44 +434,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dict__</text>
       </register>
       <register name="/" type="4">
         <text>datac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBQeXRob24gaXMgYSB2ZXJ5IGZsZXhpYmxlLCBnZW5lcmFsLXB1cnBvc2UgbGFuZ3VhZ2UgdGhhdCBvZmZlcnMgbWFueSB3YXlzIHRvIHRhY2tsZSBhCiMgcHJvYmxlbS4gT25lIHN1Y2ggcHJvYmxlbS1zb2x2aW5nIGFwcHJvYWNoIGlzIG9iamVjdC1vcmllbnRlZCBwcm9ncmFtbWluZywgd2hpY2ggZm9jdXNlcyBvbiBkZWZpbmluZyBuZXcgZGF0YSB0eXBlcy4K</text>
+        <text encoding="base64">cy51cHBlcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QW5pbWFsKCJjb3ciKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">U25ha2UoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">IyBQeXRob24gaXMgYSBmbGV4aWJsZSwgZ2VuZXJhbC1wdXJwb3NlIGxhbmd1YWdlLiBQeXRob24gdGhhdCBvZmZlcnMgbWFueSB3YXlzIHRvIGNvbXBsZXRlIGEgdGFzaywgaW5jbHVkaW5nICoqb2JqZWN0LW9yaWVudGVkIHByb2dyYW1taW5nKiogKE9PUCksIGFuIGFwcHJvYWNoIHRoYXQgZm9jdXNlcyBvbiBkZWZpbmluZyBuZXcgZGF0YSB0eXBlcy4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>tackle a
 #</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">b3JpZW50ZWQgCiMg</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IyBEZWZpbmluZyBuZXcgZGF0YSB0eXBlcyBhbmQgbWV0aG9kcyBpcyB0aGUgZm9jdXMgb2YgYW4gYXBwcm9hY2ggdG8gcHJvZ3JhbW1pbmcgY2FsbGVkIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">MS5fCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">VHJ1ZS5fX2NsYXNzX18K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">MS8yLgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Jycuam9pbigoIkxldCdzIGdvIiwgIiB0byB0aGUgem9vISIpKQo=</text>
+        <text encoding="base64">VHJ1ZS5fX2NsYXNzX18K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
