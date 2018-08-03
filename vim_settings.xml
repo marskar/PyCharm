@@ -135,12 +135,12 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533323517333">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533324309893">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="8" />
-        <mark key="^" line="40" column="13" />
-        <mark key="." line="52" column="8" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/python_basics.py" timestamp="1520376102708">
         <mark key="'" line="12" column="11" />
