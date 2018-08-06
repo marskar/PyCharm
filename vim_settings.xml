@@ -258,10 +258,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1525647698120">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533557323244">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533565439714">
         <mark key="'" line="144" column="0" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="129" column="52" />
         <mark key="^" line="211" column="45" />
         <mark key="." line="145" column="0" />
       </file>
@@ -432,7 +432,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgogICAgICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNwZWNpZXMgaW4gU25ha2UuaW52ZW50b3J5LmtleXMoKToKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5W3NlbGYuc3BlY2llc10gKz0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIFNuYWtlLmludmVudG9yeS51cGRhdGUoe3NlbGYuc3BlY2llczogMX0pCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6798,7 +6798,7 @@
         <text>sp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgogICAgICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCiAgICAgICAgICAgIHJldHVybiBmIlRoZSBjdXJyZW50IHtzZWxmLnNwZWNpZXN9IGNvdW50IGlzIHtTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXX0iCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIGYie3NlbGYubmFtZX0gaXMgYWxyZWFkeSBpbiB0aGUgaW52ZW50b3J5Igo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNwZWNpZXMgaW4gU25ha2UuaW52ZW50b3J5LmtleXMoKToKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5W3NlbGYuc3BlY2llc10gKz0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIFNuYWtlLmludmVudG9yeS51cGRhdGUoe3NlbGYuc3BlY2llczogMX0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgogICAgICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCg==</text>
