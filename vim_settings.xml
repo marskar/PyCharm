@@ -54,12 +54,11 @@
         <mark key="^" line="13" column="78" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533910007814">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="24" column="3" />
-        <mark key="^" line="24" column="3" />
-        <mark key="." line="24" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533911667641">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="26" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/riddle.py" timestamp="1526214835584">
         <mark key="[" line="0" column="0" />
@@ -329,7 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="334" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="333" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="315" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
@@ -429,10 +427,11 @@
       <jump line="144" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="12" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="25" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, sep = &quot;, &quot;</text>
+        <text>]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6792,7 +6791,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, sep = &quot;, &quot;</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>sp</text>
@@ -6801,34 +6800,34 @@
         <text encoding="base64">cHJpbnQoIjFzdCBhcmciLCAiMm5kIGFyZyIsIHNlcCA9ICIsICIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgogICAgICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCg==</text>
+        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHJhbmRpbnQKbHVuY2hfY2hvaWNlcyA9IFsnYnVycml0bycsICdzdXNoaScsICdwYXN0YSddCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgogICAgICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU25ha2UubmFtZXMuYWRkKHNlbGYubmFtZSkKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5W3NlbGYuc3BlY2llc10gKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgIGlmIHNlbGYuc3BlY2llcyBpbiBTbmFrZS5pbnZlbnRvcnkua2V5cygpOgogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCiAgICAgICAgZWxzZToKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5LnVwZGF0ZSh7c2VsZi5zcGVjaWVzOiAxfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU25ha2UubmFtZXMuYWRkKHNlbGYubmFtZSkKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5W3NlbGYuc3BlY2llc10gKz0gMQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgIGlmIHNlbGYuc3BlY2llcyBpbiBTbmFrZS5pbnZlbnRvcnkua2V5cygpOgogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCiAgICAgICAgZWxzZToKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5LnVwZGF0ZSh7c2VsZi5zcGVjaWVzOiAxfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5LnVwZGF0ZSh7c2VsZi5zcGVjaWVzOiAxfSkK</text>
+        <text encoding="base64">ICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgIGlmIHNlbGYuc3BlY2llcyBpbiBTbmFrZS5pbnZlbnRvcnkua2V5cygpOgogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCiAgICAgICAgZWxzZToKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5LnVwZGF0ZSh7c2VsZi5zcGVjaWVzOiAxfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgIGlmIHNlbGYuc3BlY2llcyBpbiBTbmFrZS5pbnZlbnRvcnkua2V5cygpOgogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5LnVwZGF0ZSh7c2VsZi5zcGVjaWVzOiAxfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnkudXBkYXRlKHtzZWxmLnNwZWNpZXM6IDF9KQo=</text>
+        <text encoding="base64">ICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgIGlmIHNlbGYuc3BlY2llcyBpbiBTbmFrZS5pbnZlbnRvcnkua2V5cygpOgogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNwZWNpZXMgaW4gU25ha2UuaW52ZW50b3J5LmtleXMoKToK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnkudXBkYXRlKHtzZWxmLnNwZWNpZXM6IDF9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
