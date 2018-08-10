@@ -54,12 +54,12 @@
         <mark key="^" line="13" column="78" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533942484102">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="^" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533944388252">
+        <mark key="'" line="234" column="28" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="^" line="242" column="17" />
+        <mark key="." line="242" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/riddle.py" timestamp="1526214835584">
         <mark key="[" line="0" column="0" />
@@ -329,7 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="212" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="179" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="175" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
@@ -429,10 +428,11 @@
       <jump line="221" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="219" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="215" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="234" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y3JlYXRlX2xpc3QxKDEsIDIsIDMpCg==</text>
+        <text encoding="base64">cHVyZV9zdW0uX19zdHJfXygpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6792,7 +6792,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>append_to_list</text>
+        <text>__code__</text>
       </register>
       <register name="/" type="4">
         <text>lun</text>
@@ -6801,34 +6801,34 @@
         <text encoding="base64">Y3JlYXRlX2xpc3QxKDEsIDIsIDMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bXlfbGlzdCA9IFsqbHVuY2hfY2hvaWNlc10KbXlfbGlzdDIgPSBsaXN0KHppcChteV9saXN0KSkKbXlfbGlzdDMgPSBbKm15X2xpc3QyXQpteV9saXN0Mwo=</text>
+        <text encoding="base64">cHVyZV9zdW0uX19zdHJfXygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">bXlfbGlzdCA9IFsqbHVuY2hfY2hvaWNlc10KbXlfbGlzdDIgPSBsaXN0KHppcChteV9saXN0KSkKbXlfbGlzdDMgPSBbKm15X2xpc3QyXQpteV9saXN0Mwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W3ggZm9yIHggaW4gbmV4dChmaWI1KV0K</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmliNSA9IGZpYig1KQo=</text>
+        <text encoding="base64">W3ggZm9yIHggaW4gbmV4dChmaWI1KV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hpbGUgaSA8IDY6CiAgICBwcmludChuZXh0KGluZl9maWIpKQo=</text>
+        <text encoding="base64">ZmliNSA9IGZpYig1KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGlzdChmaWIoNSkpClt4IGZvciB4IGluIGZpYihuPTUpXQo=</text>
+        <text encoding="base64">d2hpbGUgaSA8IDY6CiAgICBwcmludChuZXh0KGluZl9maWIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGlzdChmaWIoNSkpCg==</text>
+        <text encoding="base64">bGlzdChmaWIoNSkpClt4IGZvciB4IGluIGZpYihuPTUpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGZpYigpOgogICAgYSwgYiA9IDAsIDEKICAgIHdoaWxlIFRydWU6CiAgICAgICAgYSwgYiA9IGIsIGEgKyBiCiAgICAgICAgeWllbGQgYQphID0gaXRlcihmaWIoKSkKYS5uZXh0KCkKZGVmIGZvbygpOgogICAgcHJpbnQoImJlZ2luIikKICAgIGZvciBpIGluIHJhbmdlKDMpOgogICAgICAgIHByaW50KCJiZWZvcmUgeWllbGQiLCBpKQogICAgICAgIHlpZWxkIGkKICAgICAgICBwcmludCgiYWZ0ZXIgeWllbGQiLCBpKQogICAgcHJpbnQoImVuZCIpCmYgPSBmb28oKQpmLm5leHQoKQp3aGlsZSBpIDwgMTA6CiAgICBmb3IgaSBpbiBmaWIoKToKICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">bGlzdChmaWIoNSkpCg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Li4uIAouLi4gCi4uLiAKLi4uIAouLi4gCi4uLiA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIGZpYigpOgogICAgYSwgYiA9IDAsIDEKICAgIHdoaWxlIFRydWU6CiAgICAgICAgYSwgYiA9IGIsIGEgKyBiCiAgICAgICAgeWllbGQgYQphID0gaXRlcihmaWIoKSkKYS5uZXh0KCkKZGVmIGZvbygpOgogICAgcHJpbnQoImJlZ2luIikKICAgIGZvciBpIGluIHJhbmdlKDMpOgogICAgICAgIHByaW50KCJiZWZvcmUgeWllbGQiLCBpKQogICAgICAgIHlpZWxkIGkKICAgICAgICBwcmludCgiYWZ0ZXIgeWllbGQiLCBpKQogICAgcHJpbnQoImVuZCIpCmYgPSBmb28oKQpmLm5leHQoKQp3aGlsZSBpIDwgMTA6CiAgICBmb3IgaSBpbiBmaWIoKToKICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
