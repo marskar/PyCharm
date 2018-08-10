@@ -54,12 +54,12 @@
         <mark key="^" line="13" column="78" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533914816774">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533917519098">
         <mark key="'" line="31" column="23" />
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
-        <mark key="^" line="29" column="8" />
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="23" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/riddle.py" timestamp="1526214835584">
         <mark key="[" line="0" column="0" />
@@ -432,7 +432,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQodmFsdWVzPSJIaSIpCg==</text>
+        <text encoding="base64">cHJpbnQuCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6801,34 +6801,34 @@
         <text encoding="base64">cHJpbnQoc2VwID0gIiwgIiwgIjFzdCBhcmciLCAiMm5kIGFyZyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQodmFsdWVzPSJIaSIpCg==</text>
+        <text encoding="base64">cHJpbnQuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVsIGxpc3QK</text>
+        <text encoding="base64">cHJpbnQodmFsdWVzPSJIaSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZGVsIGxpc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVsIHJhbmRpbnQK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHJhbmRpbnQKbHVuY2hfY2hvaWNlcyA9IFsnYnVycml0bycsICdzdXNoaScsICdwYXN0YSddCg==</text>
+        <text encoding="base64">ZGVsIHJhbmRpbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgogICAgICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCg==</text>
+        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHJhbmRpbnQKbHVuY2hfY2hvaWNlcyA9IFsnYnVycml0bycsICdzdXNoaScsICdwYXN0YSddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgogICAgICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU25ha2UubmFtZXMuYWRkKHNlbGYubmFtZSkKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5W3NlbGYuc3BlY2llc10gKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgIGlmIHNlbGYuc3BlY2llcyBpbiBTbmFrZS5pbnZlbnRvcnkua2V5cygpOgogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCiAgICAgICAgZWxzZToKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5LnVwZGF0ZSh7c2VsZi5zcGVjaWVzOiAxfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU25ha2UubmFtZXMuYWRkKHNlbGYubmFtZSkKICAgICAgICAgICAgU25ha2UuaW52ZW50b3J5W3NlbGYuc3BlY2llc10gKz0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
