@@ -54,12 +54,12 @@
         <mark key="^" line="13" column="78" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533935756293">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533936645501">
         <mark key="'" line="171" column="0" />
-        <mark key="[" line="172" column="12" />
-        <mark key="]" line="172" column="13" />
-        <mark key="." line="172" column="13" />
-        <mark key="^" line="172" column="13" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="^" line="171" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/riddle.py" timestamp="1526214835584">
         <mark key="[" line="0" column="0" />
