@@ -54,12 +54,12 @@
         <mark key="^" line="13" column="78" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533907520796">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533910007814">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="18" column="5" />
-        <mark key="^" line="18" column="5" />
-        <mark key="." line="18" column="5" />
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/riddle.py" timestamp="1526214835584">
         <mark key="[" line="0" column="0" />
@@ -432,7 +432,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>, sep = &quot;, &quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6792,13 +6792,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>, sep = &quot;, &quot;</text>
       </register>
       <register name="/" type="4">
         <text>sp</text>
       </register>
-      <register name="0" type="4">
-        <text>(</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoIjFzdCBhcmciLCAiMm5kIGFyZyIsIHNlcCA9ICIsICIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLm5hbWUgbm90IGluIFNuYWtlLm5hbWVzOgogICAgICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQogICAgICAgICAgICBTbmFrZS5pbnZlbnRvcnlbc2VsZi5zcGVjaWVzXSArPSAxCg==</text>
