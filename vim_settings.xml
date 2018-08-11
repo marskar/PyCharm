@@ -54,12 +54,12 @@
         <mark key="^" line="13" column="78" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533947245129">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="147" column="12" />
-        <mark key="]" line="148" column="6" />
-        <mark key="^" line="148" column="6" />
-        <mark key="." line="148" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1533990171554">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="251" column="10" />
+        <mark key="]" line="251" column="12" />
+        <mark key="^" line="251" column="12" />
+        <mark key="." line="251" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/riddle.py" timestamp="1526214835584">
         <mark key="[" line="0" column="0" />
@@ -329,9 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
-      <jump line="179" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
-      <jump line="175" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="153" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="146" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
       <jump line="118" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
@@ -375,7 +372,6 @@
       <jump line="132" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="136" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="133" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="149" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="146" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="91" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="98" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
@@ -429,10 +425,14 @@
       <jump line="215" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="234" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="143" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="149" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="250" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="251" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="79" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>doc</text>
+        <text>try</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6792,10 +6792,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>doc</text>
+        <text>try</text>
       </register>
       <register name="/" type="4">
-        <text>lun</text>
+        <text>print_ar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlX2xpc3QxKDEsIDIsIDMpCg==</text>
@@ -6835,9 +6835,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lun</last-search>
+      <last-search>print_ar</last-search>
       <last-offset />
-      <last-pattern>lun</last-pattern>
+      <last-pattern>print_ar</last-pattern>
       <last-replace>mort</last-replace>
       <last-substitute>lab</last-substitute>
       <last-dir>1</last-dir>
@@ -6845,7 +6845,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Y20g</entry>
         <entry>cm</entry>
         <entry encoding="base64">XDxjbVw+</entry>
         <entry>__all</entry>
@@ -6865,6 +6864,7 @@
         <entry>spe</entry>
         <entry>sp</entry>
         <entry>lun</entry>
+        <entry>print_ar</entry>
       </history-search>
       <history-cmd>
         <entry>d1</entry>
