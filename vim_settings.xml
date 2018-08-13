@@ -54,12 +54,12 @@
         <mark key="^" line="13" column="78" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1534116372725">
-        <mark key="'" line="272" column="20" />
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="28" />
-        <mark key="^" line="276" column="21" />
-        <mark key="." line="277" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1534117803167">
+        <mark key="'" line="265" column="0" />
+        <mark key="[" line="279" column="21" />
+        <mark key="]" line="279" column="23" />
+        <mark key="^" line="279" column="23" />
+        <mark key="." line="279" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/riddle.py" timestamp="1526214835584">
         <mark key="[" line="0" column="0" />
@@ -329,20 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
-      <jump line="211" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
-      <jump line="169" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
-      <jump line="156" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
-      <jump line="144" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
-      <jump line="12" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="25" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="29" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="57" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="59" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="53" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="67" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="60" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="89" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="85" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
@@ -411,8 +397,6 @@
       <jump line="218" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="220" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="214" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="225" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="229" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="228" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="224" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="221" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
@@ -421,18 +405,34 @@
       <jump line="234" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="143" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="149" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="250" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="251" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="79" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="253" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="263" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="267" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="265" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="272" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="274" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="273" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="264" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="262" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="258" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="256" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="252" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="250" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="245" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="241" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="238" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="236" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="232" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="229" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="227" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="223" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="225" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="265" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bF93aGljaF9pc19ncmVhdGVyKCd6JywgJ2InKQo=</text>
+      <register name="&quot;" type="4">
+        <text>annotations</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6792,43 +6792,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>annotations</text>
       </register>
       <register name="/" type="4">
         <text>print_ar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bF93aGljaF9pc19ncmVhdGVyKCd6JywgJ2InKQo=</text>
+        <text encoding="base64">bF93aGljaF9pc19ncmVhdGVyKDMsIDIpCmxfd2hpY2hfaXNfZ3JlYXRlcigneicsICdiJykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bF93aGljaF9pc19ncmVhdGVyIGlzIHdoaWNoX2lzX2dyZWF0ZXIK</text>
+      <register name="1" type="8">
+        <text>l_
+l_</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiCg==</text>
+        <text encoding="base64">ICAgIGlmIGEgPiBiOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVyZV9zdW0uX19zdHJfXygpCg==</text>
+        <text encoding="base64">bF93aGljaF9pc19ncmVhdGVyIGlzIHdoaWNoX2lzX2dyZWF0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bXlfbGlzdCA9IFsqbHVuY2hfY2hvaWNlc10KbXlfbGlzdDIgPSBsaXN0KHppcChteV9saXN0KSkKbXlfbGlzdDMgPSBbKm15X2xpc3QyXQpteV9saXN0Mwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">cHVyZV9zdW0uX19zdHJfXygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W3ggZm9yIHggaW4gbmV4dChmaWI1KV0K</text>
+        <text encoding="base64">bXlfbGlzdCA9IFsqbHVuY2hfY2hvaWNlc10KbXlfbGlzdDIgPSBsaXN0KHppcChteV9saXN0KSkKbXlfbGlzdDMgPSBbKm15X2xpc3QyXQpteV9saXN0Mwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmliNSA9IGZpYig1KQo=</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2hpbGUgaSA8IDY6CiAgICBwcmludChuZXh0KGluZl9maWIpKQo=</text>
+        <text encoding="base64">W3ggZm9yIHggaW4gbmV4dChmaWI1KV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGlzdChmaWIoNSkpClt4IGZvciB4IGluIGZpYihuPTUpXQo=</text>
+        <text encoding="base64">ZmliNSA9IGZpYig1KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
