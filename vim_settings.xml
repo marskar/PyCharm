@@ -261,12 +261,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1525647698120">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1533565439714">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="129" column="52" />
-        <mark key="^" line="211" column="45" />
-        <mark key="." line="145" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" timestamp="1534541023453">
+        <mark key="'" line="223" column="28" />
+        <mark key="[" line="262" column="42" />
+        <mark key="]" line="262" column="43" />
+        <mark key="." line="262" column="43" />
+        <mark key="^" line="262" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1529329878814">
         <mark key="[" line="0" column="0" />
@@ -332,26 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="68" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="65" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="63" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="56" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="88" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="99" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="90" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="83" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="81" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="87" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="84" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="123" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="126" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="117" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="132" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="136" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="133" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
-      <jump line="146" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="91" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="98" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="100" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
@@ -432,10 +412,30 @@
       <jump line="78" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="289" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
       <jump line="291" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" />
+      <jump line="129" column="52" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="145" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="149" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="156" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="232" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="169" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="254" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="233" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="190" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="239" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="222" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="216" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="182" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="170" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="183" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="212" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="218" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="226" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="257" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
+      <jump line="223" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/zoo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'_'</text>
+        <text>was</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6795,44 +6795,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'_'</text>
+        <text>was</text>
       </register>
       <register name="/" type="4">
         <text>print_ar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHNuYWtlX3RvX2NhbWVsKHMpOgogICAgcmV0dXJuICcnLmpvaW4oW3cuY2FwaXRhbGl6ZSgpIGZvciB3IGluIHMuc3BsaXQoJ18nKV0pCg==</text>
+        <text encoding="base64">ICAgIGRlZiBsZW5faW52ZW50b3J5KHNlbGYpOgogICAgICAgIGxlbihpbnZlbnRvcnkpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>l_
-l_</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGEgPiBiOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBsZW5fbmFtZXMoc2VsZik6CiAgICAgICAgbGVuKG5hbWVzKQogICAgZGVmIGxlbl9pbnZlbnRvcnkoc2VsZik6CiAgICAgICAgbGVuKGludmVudG9yeSkKICAgIGRlZiBzdW1faW52ZW50b3J5KHNlbGYpOgogICAgICAgIHN1bShpbnZlbnRvcnkudmFsdWVzKCkpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bF93aGljaF9pc19ncmVhdGVyIGlzIHdoaWNoX2lzX2dyZWF0ZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiCg==</text>
+        <text encoding="base64">ICAgIGRlZiBhZGQoc2VsZiwgZGVsdGEgPSAxKToKICAgICAgICBzZWxmLmNvdW50ICs9IGRlbHRhCiAgICAgICAgU25ha2UuaW52ZW50b3J5LnVwZGF0ZSh7c2VsZi5zcGVjaWVzOiBzZWxmLmNvdW50fSkKICAgICAgICByZXR1cm4gZiJUaGUgY3VycmVudCB7c2VsZi5zcGVjaWVzfSBjb3VudCAgaXMge3NlbGYuY291bnR9IgogICAgZGVmIHJlbW92ZShzZWxmLCBkZWx0YSA9IDEpOgogICAgICAgIGlmIHNlbGYuY291bnQgPj0gZGVsdGE6CiAgICAgICAgICAgIHNlbGYuY291bnQgLT0gZGVsdGEKICAgICAgICAgICAgaWYgc2VsZi5jb3VudCA9PSAwOgogICAgICAgICAgICAgICAgU25ha2UuaW5zdGFuY2VzLnJlbW92ZShzZWxmLnNwZWNpZXMpCiAgICAgICAgICAgIFNuYWtlLmludmVudG9yeS51cGRhdGUoe3NlbGYuc3BlY2llczogc2VsZi5jb3VudH0pCiAgICAgICAgICAgIHJldHVybiBmIlRoZSBjdXJyZW50IHtzZWxmLnNwZWNpZXN9IGNvdW50ICBpcyB7c2VsZi5jb3VudH0iCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuICJDYW5ub3QgaGF2ZSBmZXdlciB0aGFuIHplcm8gYW5pbWFscyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVyZV9zdW0uX19zdHJfXygpCg==</text>
+        <text encoding="base64">ICAgICAgICBTbmFrZS5pbnZlbnRvcnkudXBkYXRlKHtzZWxmLnNwZWNpZXM6IHNlbGYuY291bnR9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bXlfbGlzdCA9IFsqbHVuY2hfY2hvaWNlc10KbXlfbGlzdDIgPSBsaXN0KHppcChteV9saXN0KSkKbXlfbGlzdDMgPSBbKm15X2xpc3QyXQpteV9saXN0Mwo=</text>
+        <text encoding="base64">ICAgICAgICBTbmFrZS5uYW1lcy5hZGQoc2VsZi5uYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIkhpc3NzcyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W3ggZm9yIHggaW4gbmV4dChmaWI1KV0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZmliNSA9IGZpYig1KQo=</text>
+      <register name="9" type="8">
+        <text>l_
+l_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
