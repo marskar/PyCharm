@@ -6,20 +6,42 @@
       <file name="/Dummy.txt" timestamp="1534557692114">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534558457960">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="32" />
+      <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534559178101">
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
     </filemarks>
     <jumps>
       <jump line="25" column="11" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="22" column="32" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="14" column="5" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="12" column="27" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text>int((end_date - start_date).days / 7)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHdlZWtzX2ludCA9IAo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">awo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
