@@ -6,53 +6,102 @@
       <file name="/Dummy.txt" timestamp="1534557692114">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534559178101">
-        <mark key="'" line="12" column="27" />
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534560192500">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
       </file>
     </filemarks>
     <jumps>
       <jump line="25" column="11" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="22" column="32" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="14" column="5" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
       <jump line="6" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="12" column="27" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="12" column="15" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="9" column="16" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="14" column="18" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="10" column="40" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="21" column="8" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IC8gNw==</text>
+      </register>
+      <register name="/" type="4">
+        <text>&quot;</text>
+      </register>
       <register name="0" type="4">
         <text>int((end_date - start_date).days / 7)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdlZWtzX2ludCA9IAo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">YW55KG1hcChtYWtlZGlycywgY2QpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">awo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="-" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQoY2QpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2QK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3RhcnQgPSBkYXRldGltZS5zdHJwdGltZSgiMjAxOC0wOS0xMyIsICIlWS0lbS0lZCIpLmRhdGUoKQplbmQgPSBkYXRldGltZS5zdHJwdGltZSgiMjAxOC0xMi0xMyIsICIlWS0lbS0lZCIpLmRhdGUoKQp0ZCA9IGVuZCAtIHN0YXJ0CndlZWtzID0gdGQuZGF5cwpzdGFydC53ZWVrZGF5KCkKd2Vla3MKCnJhbmdlKGludCh3ZWVrcykpCgpyYW5nZSgxMy4wKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRkID0gdGltZWRlbHRhKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiT0siKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHdlZWtzX2ludCA9IAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/&quot;/'/gc</text>
       </register>
     </registers>
     <search>
+      <last-search>&quot;</last-search>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>&quot;</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/&quot;/'/gc</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
