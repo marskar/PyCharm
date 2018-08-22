@@ -13,11 +13,11 @@
         <mark key="." line="30" column="60" />
         <mark key="^" line="30" column="60" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1534912116003">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1534940257877">
+        <mark key="[" line="62" column="44" />
+        <mark key="]" line="62" column="44" />
+        <mark key="^" line="62" column="44" />
+        <mark key="." line="62" column="44" />
       </file>
       <file name="/a.dummy" timestamp="1534786184585">
         <mark key="[" line="0" column="0" />
@@ -49,9 +49,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="28" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates2.py" />
-      <jump line="39" column="72" filename="$USER_HOME$/github/biof309_fall2018/class_dates2.py" />
       <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates2.py" />
       <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates2.py" />
       <jump line="8" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates2.py" />
@@ -140,15 +137,18 @@
       <jump line="36" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
       <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
       <jump line="54" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="56" column="69" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="53" column="12" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
       <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
       <jump line="44" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
       <jump line="41" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="55" column="62" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
       <jump line="47" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
+      <jump line="28" column="37" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
+      <jump line="53" column="11" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
+      <jump line="43" column="55" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -170,40 +170,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 1, 2, 3, 4, 5, 6</text>
+        <text>range(0, 7)</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBgPj4+IHdlZWtseV9ldmVudCgyMDE4MDkxMywgMjAxODA5MTcsIHdlZWtkYXlzID0gWzAsIDEsIDIsIDMsIDQsIDUsIDZdKWAK</text>
+        <text encoding="base64">ICAgIGRlZiBrZWVwX2RpZ2l0cyhzdHJpbmcpOgogICAgICAgIHJldHVybiAnJy5qb2luKGNoYXIgZm9yIGNoYXIgaW4gc3RyaW5nIGlmIGNoYXIuaXNkaWdpdCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBwYXJzZV9kYXRlKGRhdGVfc3RyKToKICAgICAgICByZXR1cm4gZGF0ZXRpbWUuc3RycHRpbWUoa2VlcF9kaWdpdHMoZGF0ZV9zdHIpLCBpbnB1dF9mb3JtYXQpLmRhdGUoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2Vla2x5X2V2ZW50KDIwMTgwOTEzLCAyMDE4MDkxNywgd2Vla2RheXMgPSBbMCwgMSwgMiwgMywgNCwgNSwgNl0pCg==</text>
+        <text encoding="base64">d2Vla2x5X2V2ZW50KHN0YXJ0PTIwMTgwOTEzLCBlbmQ9MjAxODAxMjEzLCB3ZWVrZGF5cyA9IHJhbmdlKDcpKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="5" type="4">
-        <text>0, 1, 2, 3, 4, 5, 6</text>
-      </register>
-      <register name="6" type="4">
-        <text>[]</text>
-      </register>
-      <register name="7" type="4">
-        <text>0, 1, 2, 3, 4, 5, 6</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CndlID0gd2Vla2x5X2V2ZW50KDIwMTgwOTEzLCAyMDE4MDkxNywgd2Vla2RheXMgPSAgMCkKd2UK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">d2Vla2x5X2V2ZW50KDIwMTgwOTEzLCAyMDE4MDkxNywgd2Vla2RheXMgPSBbMCwgMSwgMiwgMywgNCwgNSwgNl0pCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="8" type="4">
+        <text>0, 1, 2, 3, 4, 5, 6</text>
+      </register>
+      <register name="9" type="4">
+        <text>[]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
