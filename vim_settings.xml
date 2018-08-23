@@ -32,12 +32,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535051371531">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535052631327">
         <mark key="'" line="74" column="82" />
-        <mark key="[" line="82" column="27" />
-        <mark key="]" line="82" column="27" />
-        <mark key="." line="82" column="27" />
-        <mark key="^" line="82" column="21" />
+        <mark key="[" line="82" column="82" />
+        <mark key="]" line="87" column="14" />
+        <mark key="." line="87" column="14" />
+        <mark key="^" line="87" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1534954241601">
         <mark key="[" line="0" column="11" />
