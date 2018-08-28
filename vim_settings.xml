@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535489533425">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535489621428">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1534782878281">
         <mark key="[" line="0" column="0" />
@@ -25,7 +25,7 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1535489166256">
+      <file name="/Python Console" timestamp="1535489606360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
@@ -108,12 +108,11 @@
       <file name="$USER_HOME$/github/biof309_fall2018/event/weekly.py" timestamp="1535487065297">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535489460235">
-        <mark key="'" line="50" column="104" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="50" column="89" />
+      <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535489775344">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" timestamp="1535484602691">
         <mark key="'" line="59" column="12" />
@@ -124,7 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="60" column="70" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="64" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="54" column="71" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
@@ -222,8 +220,9 @@
       <jump line="132" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" />
       <jump line="138" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" />
       <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
       <jump line="51" column="104" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
+      <jump line="49" column="27" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -245,40 +244,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
       </register>
-      <register name="0" type="4">
-        <text>strftime</text>
+      <register name="0" type="2">
+        <text encoding="base64">bGVvLmZlZWQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgcmV0dXJuIGYie3NlbGYubmFtZX0gd2FzIGxhc3QgZmVkIGF0IHsoZGF0ZXRpbWUubm93KCkgLSBzZWxmLmxhc3RfZmVkKS5zdHJmdGltZSglWS0lbS0lZCAlSDolbSl9LiIK</text>
+        <text encoding="base64">ZGF0ZXRpbWUuc3RyZnRpbWUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLnN0cmZ0aW1lKCkK</text>
+        <text encoding="base64">IyAgICAgICAgcmV0dXJuIGYie3NlbGYubmFtZX0gd2FzIGxhc3QgZmVkIGF0IHsoZGF0ZXRpbWUubm93KCkgLSBzZWxmLmxhc3RfZmVkKS5zdHJmdGltZSglWS0lbS0lZCAlSDolbSl9LiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuaGVsbG8gaW1wb3J0IHNheV9oZWxsbywgc2F5X2hpCg==</text>
+        <text encoding="base64">ICAgIGRhdGV0aW1lLnN0cmZ0aW1lKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuaGVsbG8gaW1wb3J0IHNheV9oZWxsbwo=</text>
+        <text encoding="base64">ZnJvbSAuaGVsbG8gaW1wb3J0IHNheV9oZWxsbywgc2F5X2hpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGV2ZW50Cg==</text>
+        <text encoding="base64">ZnJvbSAuaGVsbG8gaW1wb3J0IHNheV9oZWxsbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHdlZWtseV9ldmVudAp3ZWVrbHlfZXZlbnQK</text>
+        <text encoding="base64">aW1wb3J0IGV2ZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBfZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCnN0YXJ0ID0gZGF0ZXRpbWUudG9kYXkoKQplbmQgPSBkYXRldGltZS50b2RheSgpCnR5cGUoc3RhcnQpCmlzaW5zdGFuY2UoKihzdGFydCwgZW5kKSwgZGF0ZXRpbWUpCmRhdGVzID0gc3RhcnQsIGVuZApkID0gZmlsdGVyKGlzaW5zdGFuY2UsIGRhdGVzKQpuZXh0KGQpCnN0YXJ0LCBlbmQgPSAyLCA1CmlmIFt4IGZvciB4IGluIChzdGFydCwgZW5kKSBpZiBpc2luc3RhbmNlKHgsIGRhdGV0aW1lKV0gaXMgbm90IFtdOgogICAgcHJpbnQoIk9LISIpClt4IGZvciB4IGluIChzdGFydCwgZW5kKSBpZiBpc2luc3RhbmNlKHgsIGRhdGV0aW1lKV0KYWxsKGlzaW5zdGFuY2UoeCwgZGF0ZXRpbWUpIGZvciB4IGluIGRhdGVzKQp3ZWVrbHlfZXZlbnQoc3RhcnQ9ZW5kLCBlbmQ9ZW5kK3RpbWVkZWx0YShkYXlzPTMwKSwgd2Vla2RheXM9MSkKd2Vla2x5X2V2ZW50KHN0YXJ0PTIwMTgwODI0LCBlbmQ9MjAxODA5MDUsIHdlZWtkYXlzPTEpCndlZWtseV9ldmVudChzdGFydD1kYXRlLnRvZGF5KCksIGVuZD0yMDE4MDkwNSwgd2Vla2RheXM9MSkKZGF0ZXRpbWUuZGF0ZSh5ZWFyPTIwMTgsIG1vbnRoPTEwLCBkYXk9MTMpCnN0YXJ0ID0KYW55KGlzaW5zdGFuY2UoeCwgKHN0ciwgaW50KSkgZm9yIHggaW4gZGF0ZXMpCnN0cihlbmQpCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGUKc3RyKGRhdGUudG9kYXkoKSkKc3RyKGRhdGUudG9kYXkoKS5yZXBsYWNlKHllYXI9MjAxOSkpCndlZWtseV9ldmVudCgyMDE4MDgyNCwgZGF0ZS50b2RheSgpLnJlcGxhY2UoeWVhcj0yMDE5KSwgMTIzNDUpCndlZWtseV9ldmVudChzdGFydCA9IDIwMTgwOTEzLCBlbmQgPSAyMDE4MDkxNywgd2Vla2RheXMgPSAxMjM0NTYwKQpbJzIwMTgtMDktMTMnLCAnMjAxOC0wOS0xNCcsICcyMDE4LTA5LTE1JywgJzIwMTgtMDktMTYnLCAnMjAxOC0wOS0xNyddCkFsbCBhcmd1bWVudHMgdGhhdCBkbyBub3QgaGF2ZSBkZWZhdWx0IHZhbHVlcyBjYW4gYmUgc3RyaW5ncy4Kd2Vla2x5X2V2ZW50KCcyMDE4MDkxMycsICcyMDE4MDkxNycsICcwMzQ1NicpClB1bmN0dWF0aW9ucyBhbmQgd2hpdGVzcGFjZSBpbiBub24tZGVmYXVsdCBzdHJpbmcgYXJndW1lbnRzIGFyZSBpZ25vcmVkLgp3ZWVrbHlfZXZlbnQoJzIwMTgtMDktMTMnLCAnMjAxOC0wOS0xNycsJzAsIDMsIDQsIDUnKQpUaGUgc3RhcnQgYW5kIGVuZCBhcmd1bWVudHMgY2FuIGJlIGRhdGV0aW1lIG9iamVjdHMsIC4KYD4+PiBmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRlYAp3ZWVrbHlfZXZlbnQoZGF0ZS50b2RheSgpLCBkYXRlLnRvZGF5KCkucmVwbGFjZSh5ZWFyPTIwMTkpLCAxMjM0NSkKVGhlIHdlZWtkYXlzIGFyZ3VtZW50IGNhbiBiZSBhbnkgaXRlcmFibGUsIGUuZy4gbGlzdCBvciByYW5nZSBvYmplY3QuCndlZWtseV9ldmVudCgyMDE4MDkxMywgMjAxODA5MTcsIHdlZWtkYXlzID0gWzAsIDEsIDIsIDMsIDQsIDUsIDZdKQp3ZWVrbHlfZXZlbnQoMjAxODA5MTMsIDIwMTgwOTE3LCB3ZWVrZGF5cyA9IHJhbmdlKDAsIDcpKQo=</text>
+        <text encoding="base64">aW1wb3J0IHdlZWtseV9ldmVudAp3ZWVrbHlfZXZlbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBgPj4+IHdlZWtseV9ldmVudCgyMDE4MDkxMywgMjAxODA5MTcsIHdlZWtkYXlzID0gcmFuZ2UoMCwgNykpYAo=</text>
+        <text encoding="base64">ZnJvbSBfZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCnN0YXJ0ID0gZGF0ZXRpbWUudG9kYXkoKQplbmQgPSBkYXRldGltZS50b2RheSgpCnR5cGUoc3RhcnQpCmlzaW5zdGFuY2UoKihzdGFydCwgZW5kKSwgZGF0ZXRpbWUpCmRhdGVzID0gc3RhcnQsIGVuZApkID0gZmlsdGVyKGlzaW5zdGFuY2UsIGRhdGVzKQpuZXh0KGQpCnN0YXJ0LCBlbmQgPSAyLCA1CmlmIFt4IGZvciB4IGluIChzdGFydCwgZW5kKSBpZiBpc2luc3RhbmNlKHgsIGRhdGV0aW1lKV0gaXMgbm90IFtdOgogICAgcHJpbnQoIk9LISIpClt4IGZvciB4IGluIChzdGFydCwgZW5kKSBpZiBpc2luc3RhbmNlKHgsIGRhdGV0aW1lKV0KYWxsKGlzaW5zdGFuY2UoeCwgZGF0ZXRpbWUpIGZvciB4IGluIGRhdGVzKQp3ZWVrbHlfZXZlbnQoc3RhcnQ9ZW5kLCBlbmQ9ZW5kK3RpbWVkZWx0YShkYXlzPTMwKSwgd2Vla2RheXM9MSkKd2Vla2x5X2V2ZW50KHN0YXJ0PTIwMTgwODI0LCBlbmQ9MjAxODA5MDUsIHdlZWtkYXlzPTEpCndlZWtseV9ldmVudChzdGFydD1kYXRlLnRvZGF5KCksIGVuZD0yMDE4MDkwNSwgd2Vla2RheXM9MSkKZGF0ZXRpbWUuZGF0ZSh5ZWFyPTIwMTgsIG1vbnRoPTEwLCBkYXk9MTMpCnN0YXJ0ID0KYW55KGlzaW5zdGFuY2UoeCwgKHN0ciwgaW50KSkgZm9yIHggaW4gZGF0ZXMpCnN0cihlbmQpCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGUKc3RyKGRhdGUudG9kYXkoKSkKc3RyKGRhdGUudG9kYXkoKS5yZXBsYWNlKHllYXI9MjAxOSkpCndlZWtseV9ldmVudCgyMDE4MDgyNCwgZGF0ZS50b2RheSgpLnJlcGxhY2UoeWVhcj0yMDE5KSwgMTIzNDUpCndlZWtseV9ldmVudChzdGFydCA9IDIwMTgwOTEzLCBlbmQgPSAyMDE4MDkxNywgd2Vla2RheXMgPSAxMjM0NTYwKQpbJzIwMTgtMDktMTMnLCAnMjAxOC0wOS0xNCcsICcyMDE4LTA5LTE1JywgJzIwMTgtMDktMTYnLCAnMjAxOC0wOS0xNyddCkFsbCBhcmd1bWVudHMgdGhhdCBkbyBub3QgaGF2ZSBkZWZhdWx0IHZhbHVlcyBjYW4gYmUgc3RyaW5ncy4Kd2Vla2x5X2V2ZW50KCcyMDE4MDkxMycsICcyMDE4MDkxNycsICcwMzQ1NicpClB1bmN0dWF0aW9ucyBhbmQgd2hpdGVzcGFjZSBpbiBub24tZGVmYXVsdCBzdHJpbmcgYXJndW1lbnRzIGFyZSBpZ25vcmVkLgp3ZWVrbHlfZXZlbnQoJzIwMTgtMDktMTMnLCAnMjAxOC0wOS0xNycsJzAsIDMsIDQsIDUnKQpUaGUgc3RhcnQgYW5kIGVuZCBhcmd1bWVudHMgY2FuIGJlIGRhdGV0aW1lIG9iamVjdHMsIC4KYD4+PiBmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRlYAp3ZWVrbHlfZXZlbnQoZGF0ZS50b2RheSgpLCBkYXRlLnRvZGF5KCkucmVwbGFjZSh5ZWFyPTIwMTkpLCAxMjM0NSkKVGhlIHdlZWtkYXlzIGFyZ3VtZW50IGNhbiBiZSBhbnkgaXRlcmFibGUsIGUuZy4gbGlzdCBvciByYW5nZSBvYmplY3QuCndlZWtseV9ldmVudCgyMDE4MDkxMywgMjAxODA5MTcsIHdlZWtkYXlzID0gWzAsIDEsIDIsIDMsIDQsIDUsIDZdKQp3ZWVrbHlfZXZlbnQoMjAxODA5MTMsIDIwMTgwOTE3LCB3ZWVrZGF5cyA9IHJhbmdlKDAsIDcpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBgPj4+IHdlZWtseV9ldmVudCgyMDE4MDkxMywgMjAxODA5MTcsIHdlZWtkYXlzID0gcmFuZ2UoMCwgNykpYAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/_event//g</text>
