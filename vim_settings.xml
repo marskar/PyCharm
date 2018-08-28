@@ -13,6 +13,15 @@
         <mark key="." line="30" column="60" />
         <mark key="^" line="30" column="60" />
       </file>
+      <file name="/Python Console" timestamp="1535486925317">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487650336">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1535308608218">
         <mark key="'" line="35" column="32" />
         <mark key="[" line="31" column="32" />
@@ -20,7 +29,7 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1534786184585">
+      <file name="/a.dummy" timestamp="1535484990077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
@@ -36,6 +45,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/event/monthly.py" timestamp="1535487178827">
+        <mark key="'" line="59" column="12" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535134160169">
         <mark key="'" line="74" column="82" />
         <mark key="[" line="82" column="82" />
@@ -43,12 +55,12 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1535480467414">
-        <mark key="'" line="48" column="10" />
-        <mark key="[" line="70" column="27" />
-        <mark key="]" line="70" column="28" />
-        <mark key="." line="70" column="28" />
-        <mark key="^" line="70" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1535487397026">
+        <mark key="'" line="57" column="6" />
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534801208182">
         <mark key="'" line="0" column="0" />
@@ -57,6 +69,22 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" timestamp="1535484962926">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/event/weekly.py" timestamp="1535487065297">
+        <mark key="'" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" timestamp="1535484602691">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1534786207943">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -64,59 +92,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="31" column="25" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="92" column="60" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="39" column="42" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="36" column="74" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="96" column="15" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="26" column="11" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="72" column="8" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="37" column="80" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="34" column="63" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="6" column="45" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="5" column="16" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="58" column="12" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="28" column="75" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/class_dates.py" />
-      <jump line="45" column="8" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="48" column="33" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="34" column="70" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
       <jump line="54" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
       <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
       <jump line="44" column="0" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
@@ -160,10 +135,63 @@
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
       <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
       <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
       <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
       <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="48" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="51" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="50" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="73" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="65" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="56" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="66" column="25" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="67" column="15" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="47" column="7" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="70" column="65" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="50" column="7" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="62" column="2" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="61" column="11" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="80" column="14" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="65" column="2" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="82" column="4" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="37" column="77" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="76" column="29" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="60" column="29" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="35" column="59" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="4" column="11" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
+      <jump line="48" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/event/weekly.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/event/monthly.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/github/biof309_fall2018/event/monthly.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -185,53 +213,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>monthdays2calendar</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>obj</text>
+        <text>_event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGlzdChteV9jYWwubW9udGhkYXlzMmNhbGVuZGFyKDIwMTgsIDgpKQo=</text>
+        <text encoding="base64">I2Zyb20gLm1vbnRobHkgaW1wb3J0IG1vbnRobHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ywo=</text>
+        <text encoding="base64">ZnJvbSAuaGVsbG8gaW1wb3J0IHNheV9oZWxsbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBldmVudHMud2Vla2x5X2V2ZW50IGltcG9ydAo=</text>
+        <text encoding="base64">aW1wb3J0IGV2ZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwcgpleHByCg==</text>
+        <text encoding="base64">aW1wb3J0IHdlZWtseV9ldmVudAp3ZWVrbHlfZXZlbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwcgo=</text>
+        <text encoding="base64">ZnJvbSBfZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCnN0YXJ0ID0gZGF0ZXRpbWUudG9kYXkoKQplbmQgPSBkYXRldGltZS50b2RheSgpCnR5cGUoc3RhcnQpCmlzaW5zdGFuY2UoKihzdGFydCwgZW5kKSwgZGF0ZXRpbWUpCmRhdGVzID0gc3RhcnQsIGVuZApkID0gZmlsdGVyKGlzaW5zdGFuY2UsIGRhdGVzKQpuZXh0KGQpCnN0YXJ0LCBlbmQgPSAyLCA1CmlmIFt4IGZvciB4IGluIChzdGFydCwgZW5kKSBpZiBpc2luc3RhbmNlKHgsIGRhdGV0aW1lKV0gaXMgbm90IFtdOgogICAgcHJpbnQoIk9LISIpClt4IGZvciB4IGluIChzdGFydCwgZW5kKSBpZiBpc2luc3RhbmNlKHgsIGRhdGV0aW1lKV0KYWxsKGlzaW5zdGFuY2UoeCwgZGF0ZXRpbWUpIGZvciB4IGluIGRhdGVzKQp3ZWVrbHlfZXZlbnQoc3RhcnQ9ZW5kLCBlbmQ9ZW5kK3RpbWVkZWx0YShkYXlzPTMwKSwgd2Vla2RheXM9MSkKd2Vla2x5X2V2ZW50KHN0YXJ0PTIwMTgwODI0LCBlbmQ9MjAxODA5MDUsIHdlZWtkYXlzPTEpCndlZWtseV9ldmVudChzdGFydD1kYXRlLnRvZGF5KCksIGVuZD0yMDE4MDkwNSwgd2Vla2RheXM9MSkKZGF0ZXRpbWUuZGF0ZSh5ZWFyPTIwMTgsIG1vbnRoPTEwLCBkYXk9MTMpCnN0YXJ0ID0KYW55KGlzaW5zdGFuY2UoeCwgKHN0ciwgaW50KSkgZm9yIHggaW4gZGF0ZXMpCnN0cihlbmQpCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGUKc3RyKGRhdGUudG9kYXkoKSkKc3RyKGRhdGUudG9kYXkoKS5yZXBsYWNlKHllYXI9MjAxOSkpCndlZWtseV9ldmVudCgyMDE4MDgyNCwgZGF0ZS50b2RheSgpLnJlcGxhY2UoeWVhcj0yMDE5KSwgMTIzNDUpCndlZWtseV9ldmVudChzdGFydCA9IDIwMTgwOTEzLCBlbmQgPSAyMDE4MDkxNywgd2Vla2RheXMgPSAxMjM0NTYwKQpbJzIwMTgtMDktMTMnLCAnMjAxOC0wOS0xNCcsICcyMDE4LTA5LTE1JywgJzIwMTgtMDktMTYnLCAnMjAxOC0wOS0xNyddCkFsbCBhcmd1bWVudHMgdGhhdCBkbyBub3QgaGF2ZSBkZWZhdWx0IHZhbHVlcyBjYW4gYmUgc3RyaW5ncy4Kd2Vla2x5X2V2ZW50KCcyMDE4MDkxMycsICcyMDE4MDkxNycsICcwMzQ1NicpClB1bmN0dWF0aW9ucyBhbmQgd2hpdGVzcGFjZSBpbiBub24tZGVmYXVsdCBzdHJpbmcgYXJndW1lbnRzIGFyZSBpZ25vcmVkLgp3ZWVrbHlfZXZlbnQoJzIwMTgtMDktMTMnLCAnMjAxOC0wOS0xNycsJzAsIDMsIDQsIDUnKQpUaGUgc3RhcnQgYW5kIGVuZCBhcmd1bWVudHMgY2FuIGJlIGRhdGV0aW1lIG9iamVjdHMsIC4KYD4+PiBmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRlYAp3ZWVrbHlfZXZlbnQoZGF0ZS50b2RheSgpLCBkYXRlLnRvZGF5KCkucmVwbGFjZSh5ZWFyPTIwMTkpLCAxMjM0NSkKVGhlIHdlZWtkYXlzIGFyZ3VtZW50IGNhbiBiZSBhbnkgaXRlcmFibGUsIGUuZy4gbGlzdCBvciByYW5nZSBvYmplY3QuCndlZWtseV9ldmVudCgyMDE4MDkxMywgMjAxODA5MTcsIHdlZWtkYXlzID0gWzAsIDEsIDIsIDMsIDQsIDUsIDZdKQp3ZWVrbHlfZXZlbnQoMjAxODA5MTMsIDIwMTgwOTE3LCB3ZWVrZGF5cyA9IHJhbmdlKDAsIDcpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBgPj4+IHdlZWtseV9ldmVudCgyMDE4MDkxMywgMjAxODA5MTcsIHdlZWtkYXlzID0gcmFuZ2UoMCwgNykpYAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBuYW1lLCBvYmogaW4gZ2xvYmFscygpLml0ZW1zKCk6CiAgICAgICAgaWYgb2JqID09IGFyZzoKICAgICAgICAgICAgcmV0dXJuIG5hbWUKICAgIHJldHVybiBOb25lCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">MCByZXBsaWVzIDAgcmV0d2VldHMgMSBsaWtlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aWYgW3ggZm9yIHggaW4gKHN0YXJ0LCBlbmQpIGlmIGlzaW5zdGFuY2UoeCwgZGF0ZXRpbWUpXQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ywo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ZnJvbSBldmVudHMud2Vla2x5X2V2ZW50IGltcG9ydAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/_event//g</text>
       </register>
     </registers>
     <search>
-      <last-search>obj</last-search>
+      <last-search>_event</last-search>
       <last-offset />
-      <last-pattern>obj</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>_event</last-pattern>
+      <last-replace />
+      <last-substitute>_event</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -239,10 +267,12 @@
         <entry>ra</entry>
         <entry>or</entry>
         <entry>obj</entry>
+        <entry>_event</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
         <entry>w</entry>
+        <entry>%s/_event//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
