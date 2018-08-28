@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535490579522">
-        <mark key="'" line="3" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535490857550">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
@@ -26,7 +26,7 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1535490574959">
+      <file name="/Python Console" timestamp="1535490966057">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
@@ -109,11 +109,11 @@
       <file name="$USER_HOME$/github/biof309_fall2018/event/weekly.py" timestamp="1535487065297">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490757325">
+      <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490915792">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="81" />
-        <mark key="]" line="50" column="83" />
-        <mark key="." line="50" column="83" />
+        <mark key="[" line="50" column="146" />
+        <mark key="]" line="50" column="146" />
+        <mark key="." line="50" column="146" />
         <mark key="^" line="50" column="83" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" timestamp="1535484602691">
@@ -221,10 +221,10 @@
       <jump line="51" column="104" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
       <jump line="49" column="27" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
       <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
-      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
       <jump line="50" column="103" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
+      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -246,7 +246,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gNjAp</text>
+        <text>Y-%m-%d %</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
@@ -292,7 +292,7 @@
       <last-replace />
       <last-substitute>_event</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
