@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535490857550">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1534782878281">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1534786162105">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="30" column="60" />
@@ -29,11 +19,11 @@
       <file name="/Python Console" timestamp="1535490966057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="3" column="38" />
-        <mark key="^" line="3" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535491608525">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1535308608218">
         <mark key="'" line="35" column="32" />
@@ -42,12 +32,8 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1535489103091">
+      <file name="/a.dummy" timestamp="1535491630056">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/ReticulatedPython.py" timestamp="1535489097289">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -55,12 +41,6 @@
         <mark key="]" line="18" column="47" />
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/make_folders.py" timestamp="1534801124963">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/monthly.py" timestamp="1535487178827">
         <mark key="'" line="59" column="12" />
@@ -71,13 +51,6 @@
         <mark key="]" line="87" column="14" />
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1535487927012">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" timestamp="1535489085112">
         <mark key="'" line="138" column="0" />
@@ -91,6 +64,58 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" timestamp="1535484962926">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490915792">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="146" />
+        <mark key="]" line="50" column="146" />
+        <mark key="." line="50" column="146" />
+        <mark key="^" line="50" column="83" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/zen/__init__.py" timestamp="1535491740481">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535490857550">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534782878281">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/ReticulatedPython.py" timestamp="1535489097289">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/make_folders.py" timestamp="1534801124963">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1535487927012">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Animal.py" timestamp="1535488812622">
         <mark key="'" line="50" column="8" />
       </file>
@@ -100,21 +125,14 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" timestamp="1535484962926">
-        <mark key="'" line="59" column="12" />
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/weekly.py" timestamp="1535487065297">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490915792">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="146" />
-        <mark key="]" line="50" column="146" />
-        <mark key="." line="50" column="146" />
-        <mark key="^" line="50" column="83" />
+      <file name="$USER_HOME$/github/biof309_fall2018/zen/zen.py" timestamp="1535491550757">
+        <mark key="'" line="8" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" timestamp="1535484602691">
         <mark key="'" line="59" column="12" />
@@ -125,52 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="62" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="63" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="66" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="74" column="82" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="35" column="32" filename="$USER_HOME$/github/biof309_fall2018/weekly_event.py" />
-      <jump line="4" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="45" column="61" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="51" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="50" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="73" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="65" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="56" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="66" column="25" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="67" column="15" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="47" column="7" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="70" column="65" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="50" column="7" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="62" column="2" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="61" column="11" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="80" column="14" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="65" column="2" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="82" column="4" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="37" column="77" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="76" column="29" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="2" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="10" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
@@ -225,6 +197,52 @@
       <jump line="50" column="103" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="8" column="1" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
+      <jump line="1" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -246,40 +264,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Y-%m-%d %</text>
+        <text>, 'ReticulatedPython', 'Lion'</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
       </register>
       <register name="0" type="4">
-        <text>(datetime.now() - self.last_fed).strfdelta('%Y-%m-%d %H:%m')</text>
+        <text encoding="base64">VGV4dEZpbGUg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF0ZXRpbWUuc3RyZnRpbWUoKQo=</text>
+        <text encoding="base64">ZnJvbSAuUmV0aWN1bGF0ZWRQeXRob24gaW1wb3J0IFJldGljdWxhdGVkUHl0aG9uCmZyb20gLkxpb24gaW1wb3J0IExpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAgICAgcmV0dXJuIGYie3NlbGYubmFtZX0gd2FzIGxhc3QgZmVkIGF0IHsoZGF0ZXRpbWUubm93KCkgLSBzZWxmLmxhc3RfZmVkKS5zdHJmdGltZSglWS0lbS0lZCAlSDolbSl9LiIK</text>
+        <text encoding="base64">ZnJvbSAuVGV4dEZpbGUgaW1wb3J0IFRleHRGaWxlIEFuaW1hbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLnN0cmZ0aW1lKCkK</text>
+        <text encoding="base64">ICAgIGZyb20gdGhpcyBpbXBvcnQgcwogICAgZnJvbSBjb2RlY3MgaW1wb3J0IGRlY29kZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuaGVsbG8gaW1wb3J0IHNheV9oZWxsbywgc2F5X2hpCg==</text>
+        <text encoding="base64">ZGF0ZXRpbWUuc3RyZnRpbWUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAuaGVsbG8gaW1wb3J0IHNheV9oZWxsbwo=</text>
+        <text encoding="base64">IyAgICAgICAgcmV0dXJuIGYie3NlbGYubmFtZX0gd2FzIGxhc3QgZmVkIGF0IHsoZGF0ZXRpbWUubm93KCkgLSBzZWxmLmxhc3RfZmVkKS5zdHJmdGltZSglWS0lbS0lZCAlSDolbSl9LiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGV2ZW50Cg==</text>
+        <text encoding="base64">ICAgIGRhdGV0aW1lLnN0cmZ0aW1lKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHdlZWtseV9ldmVudAp3ZWVrbHlfZXZlbnQK</text>
+        <text encoding="base64">ZnJvbSAuaGVsbG8gaW1wb3J0IHNheV9oZWxsbywgc2F5X2hpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBfZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCnN0YXJ0ID0gZGF0ZXRpbWUudG9kYXkoKQplbmQgPSBkYXRldGltZS50b2RheSgpCnR5cGUoc3RhcnQpCmlzaW5zdGFuY2UoKihzdGFydCwgZW5kKSwgZGF0ZXRpbWUpCmRhdGVzID0gc3RhcnQsIGVuZApkID0gZmlsdGVyKGlzaW5zdGFuY2UsIGRhdGVzKQpuZXh0KGQpCnN0YXJ0LCBlbmQgPSAyLCA1CmlmIFt4IGZvciB4IGluIChzdGFydCwgZW5kKSBpZiBpc2luc3RhbmNlKHgsIGRhdGV0aW1lKV0gaXMgbm90IFtdOgogICAgcHJpbnQoIk9LISIpClt4IGZvciB4IGluIChzdGFydCwgZW5kKSBpZiBpc2luc3RhbmNlKHgsIGRhdGV0aW1lKV0KYWxsKGlzaW5zdGFuY2UoeCwgZGF0ZXRpbWUpIGZvciB4IGluIGRhdGVzKQp3ZWVrbHlfZXZlbnQoc3RhcnQ9ZW5kLCBlbmQ9ZW5kK3RpbWVkZWx0YShkYXlzPTMwKSwgd2Vla2RheXM9MSkKd2Vla2x5X2V2ZW50KHN0YXJ0PTIwMTgwODI0LCBlbmQ9MjAxODA5MDUsIHdlZWtkYXlzPTEpCndlZWtseV9ldmVudChzdGFydD1kYXRlLnRvZGF5KCksIGVuZD0yMDE4MDkwNSwgd2Vla2RheXM9MSkKZGF0ZXRpbWUuZGF0ZSh5ZWFyPTIwMTgsIG1vbnRoPTEwLCBkYXk9MTMpCnN0YXJ0ID0KYW55KGlzaW5zdGFuY2UoeCwgKHN0ciwgaW50KSkgZm9yIHggaW4gZGF0ZXMpCnN0cihlbmQpCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGUKc3RyKGRhdGUudG9kYXkoKSkKc3RyKGRhdGUudG9kYXkoKS5yZXBsYWNlKHllYXI9MjAxOSkpCndlZWtseV9ldmVudCgyMDE4MDgyNCwgZGF0ZS50b2RheSgpLnJlcGxhY2UoeWVhcj0yMDE5KSwgMTIzNDUpCndlZWtseV9ldmVudChzdGFydCA9IDIwMTgwOTEzLCBlbmQgPSAyMDE4MDkxNywgd2Vla2RheXMgPSAxMjM0NTYwKQpbJzIwMTgtMDktMTMnLCAnMjAxOC0wOS0xNCcsICcyMDE4LTA5LTE1JywgJzIwMTgtMDktMTYnLCAnMjAxOC0wOS0xNyddCkFsbCBhcmd1bWVudHMgdGhhdCBkbyBub3QgaGF2ZSBkZWZhdWx0IHZhbHVlcyBjYW4gYmUgc3RyaW5ncy4Kd2Vla2x5X2V2ZW50KCcyMDE4MDkxMycsICcyMDE4MDkxNycsICcwMzQ1NicpClB1bmN0dWF0aW9ucyBhbmQgd2hpdGVzcGFjZSBpbiBub24tZGVmYXVsdCBzdHJpbmcgYXJndW1lbnRzIGFyZSBpZ25vcmVkLgp3ZWVrbHlfZXZlbnQoJzIwMTgtMDktMTMnLCAnMjAxOC0wOS0xNycsJzAsIDMsIDQsIDUnKQpUaGUgc3RhcnQgYW5kIGVuZCBhcmd1bWVudHMgY2FuIGJlIGRhdGV0aW1lIG9iamVjdHMsIC4KYD4+PiBmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRlYAp3ZWVrbHlfZXZlbnQoZGF0ZS50b2RheSgpLCBkYXRlLnRvZGF5KCkucmVwbGFjZSh5ZWFyPTIwMTkpLCAxMjM0NSkKVGhlIHdlZWtkYXlzIGFyZ3VtZW50IGNhbiBiZSBhbnkgaXRlcmFibGUsIGUuZy4gbGlzdCBvciByYW5nZSBvYmplY3QuCndlZWtseV9ldmVudCgyMDE4MDkxMywgMjAxODA5MTcsIHdlZWtkYXlzID0gWzAsIDEsIDIsIDMsIDQsIDUsIDZdKQp3ZWVrbHlfZXZlbnQoMjAxODA5MTMsIDIwMTgwOTE3LCB3ZWVrZGF5cyA9IHJhbmdlKDAsIDcpKQo=</text>
+        <text encoding="base64">ZnJvbSAuaGVsbG8gaW1wb3J0IHNheV9oZWxsbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBgPj4+IHdlZWtseV9ldmVudCgyMDE4MDkxMywgMjAxODA5MTcsIHdlZWtkYXlzID0gcmFuZ2UoMCwgNykpYAo=</text>
+        <text encoding="base64">aW1wb3J0IGV2ZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/_event//g</text>
