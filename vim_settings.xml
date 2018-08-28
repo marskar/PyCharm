@@ -16,14 +16,14 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1535490966057">
+      <file name="/Python Console" timestamp="1535497213078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535491608525">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535497249733">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1535308608218">
         <mark key="'" line="35" column="32" />
@@ -264,7 +264,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'ReticulatedPython', 'Lion'</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
