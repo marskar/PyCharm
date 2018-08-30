@@ -16,15 +16,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1535591365950">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535590848332">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535652939945">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/cube/cube-vs-pow.py" timestamp="1535592142910">
         <mark key="[" line="6" column="18" />
@@ -38,7 +35,7 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1535591668302">
+      <file name="/a.dummy" timestamp="1535645578209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
@@ -118,6 +115,13 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.md" timestamp="1535652834204">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/ReticulatedPython.py" timestamp="1535489097289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="29" />
@@ -174,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="49" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="53" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
@@ -274,6 +277,7 @@
       <jump line="2" column="14" filename="$USER_HOME$/github/biof309_fall2018/cube/cube.py" />
       <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/cube/cube.py" />
       <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/cube/cube.py" />
+      <jump line="1" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/test.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -304,31 +308,31 @@
         <text>pow(3, 2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzcXVhcmUgaW1wb3J0IHNxdWFyZQpmcm9tIG1hdGggaW1wb3J0IHBvdwoKc3F1YXJlKDMpICMgcmV0dXJucyA5CnBvdygzLCAyKSAjIHJldHVybnMgOS4wCgpzcXVhcmUoMykgPT0gcG93KDMsIDIpICMgcmV0dXJucyBUcnVlCgo=</text>
+        <text encoding="base64">c3F1YXJlKDMpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWF0aAo=</text>
+        <text encoding="base64">ZGVmIHNxdWFyZSh4KToKICAgIHJldHVybiB4KioyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eCwgeSA9IDMsIDIgIyBhc3NpZ24gdmFsdWVzIHRvIDIgdmFyaWFibGVzCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBzcXVhcmUgaW1wb3J0IHNxdWFyZQpmcm9tIG1hdGggaW1wb3J0IHBvdwoKc3F1YXJlKDMpICMgcmV0dXJucyA5CnBvdygzLCAyKSAjIHJldHVybnMgOS4wCgpzcXVhcmUoMykgPT0gcG93KDMsIDIpICMgcmV0dXJucyBUcnVlCgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzcXVhcmUgaW1wb3J0IHNxdWFyZQpzcXVhcmUoMikK</text>
+        <text encoding="base64">bWF0aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuUmV0aWN1bGF0ZWRQeXRob24gaW1wb3J0IFJldGljdWxhdGVkUHl0aG9uCmZyb20gLkxpb24gaW1wb3J0IExpb24K</text>
+        <text encoding="base64">eCwgeSA9IDMsIDIgIyBhc3NpZ24gdmFsdWVzIHRvIDIgdmFyaWFibGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuVGV4dEZpbGUgaW1wb3J0IFRleHRGaWxlIEFuaW1hbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb20gdGhpcyBpbXBvcnQgcwogICAgZnJvbSBjb2RlY3MgaW1wb3J0IGRlY29kZQo=</text>
+        <text encoding="base64">ZnJvbSBzcXVhcmUgaW1wb3J0IHNxdWFyZQpzcXVhcmUoMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0ZXRpbWUuc3RyZnRpbWUoKQo=</text>
+        <text encoding="base64">ZnJvbSAuUmV0aWN1bGF0ZWRQeXRob24gaW1wb3J0IFJldGljdWxhdGVkUHl0aG9uCmZyb20gLkxpb24gaW1wb3J0IExpb24K</text>
       </register>
       <register name=":" type="4">
         <text>%s/_event//g</text>
