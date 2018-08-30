@@ -28,6 +28,13 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535653279665">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1535308608218">
         <mark key="'" line="35" column="32" />
         <mark key="[" line="31" column="32" />
@@ -184,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="53" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="95" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
@@ -284,6 +290,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/cube/cube.py" />
       <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/cube/cube.py" />
       <jump line="1" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/test.md" />
+      <jump line="0" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -305,7 +312,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>square</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
