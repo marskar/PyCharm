@@ -73,6 +73,12 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.py" timestamp="1535653136212">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/square/square.py" timestamp="1535590587089">
         <mark key="'" line="2" column="0" />
       </file>
@@ -102,12 +108,12 @@
       <file name="/code.py" timestamp="1535591386011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535590508745">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
         <mark key="[" line="3" column="30" />
@@ -115,10 +121,10 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.md" timestamp="1535652834204">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.md" timestamp="1535653146598">
         <mark key="'" line="1" column="12" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="7" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -304,8 +310,8 @@
       <register name="/" type="4">
         <text>_event</text>
       </register>
-      <register name="0" type="4">
-        <text>pow(3, 2)</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoImhlbGwiKQppbXBvcnQgbWF0aAptYXRoLnBpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c3F1YXJlKDMpCgo=</text>
