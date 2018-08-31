@@ -49,10 +49,6 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/ReticulatedPython.py" timestamp="1535489097289">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="29" />
-      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1535308608218">
         <mark key="'" line="35" column="32" />
         <mark key="[" line="31" column="32" />
@@ -78,6 +74,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1535748430336">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/cube/cube-vs-pow.py" timestamp="1535592142910">
         <mark key="[" line="6" column="18" />
@@ -123,11 +125,12 @@
         <mark key="." line="50" column="146" />
         <mark key="^" line="50" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535644381827">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535748426235">
+        <mark key="'" line="8" column="1" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/cube/cube.py" timestamp="1535591030739">
         <mark key="[" line="2" column="0" />
@@ -202,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="59" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="4" column="11" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="59" column="12" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="48" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
@@ -302,6 +304,7 @@
       <jump line="35" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/test2.md" />
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
       <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <jump line="8" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

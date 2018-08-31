@@ -73,6 +73,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Quick Switch Scheme...">
+        <Item>
+          <IdeaActionID>QuickChangeScheme</IdeaActionID>
+          <ShortCut>'⌃`'</ShortCut>
+          <Description>Quick Switch Scheme...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename File...">
         <Item>
           <IdeaActionID>RenameFile</IdeaActionID>
