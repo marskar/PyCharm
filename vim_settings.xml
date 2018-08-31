@@ -53,12 +53,6 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/zen/zen.py" timestamp="1535491550757">
-        <mark key="'" line="8" column="1" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1535745065420">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="2" column="24" />
@@ -96,8 +90,8 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smartly/test.md" timestamp="1535749426996">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/smartly/test.md" timestamp="1535756435380">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -155,6 +149,12 @@
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/square/square.py" timestamp="1535590587089">
         <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" timestamp="1535756448885">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1534786162105">
         <mark key="'" line="8" column="0" />
