@@ -30,7 +30,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="/Python Console" timestamp="1535745852159">
+      <file name="/Python Console" timestamp="1535749097602">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/example.py" timestamp="1535591378737">
@@ -39,7 +39,7 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1535645578209">
+      <file name="/a.dummy" timestamp="1535749151184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534801208182">
@@ -99,6 +99,12 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/smartly/test.md" timestamp="1535749426996">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1534782878281">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,6 +147,12 @@
       <file name="$USER_HOME$/github/biof309_fall2018/event/monthly.py" timestamp="1535487178827">
         <mark key="'" line="59" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/doc.md" timestamp="1535749138524">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Animal.py" timestamp="1535488812622">
         <mark key="'" line="50" column="8" />
       </file>
@@ -161,12 +173,12 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.md" timestamp="1535653146598">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.md" timestamp="1535749175285">
         <mark key="'" line="1" column="12" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
         <mark key="[" line="3" column="30" />
