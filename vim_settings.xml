@@ -33,9 +33,6 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="/Python Console" timestamp="1535816001611">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/example.py" timestamp="1535591378737">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="3" />
@@ -111,12 +108,12 @@
       <file name="/Dummy.txt" timestamp="1535762010014">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535816000544">
-        <mark key="'" line="4" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535817776646">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
+        <mark key="^" line="19" column="2" />
         <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="3" />
       </file>
       <file name="/code.py" timestamp="1535591386011">
         <mark key="[" line="0" column="0" />
@@ -215,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" />
       <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/Animal.py" />
       <jump line="50" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/Animal.py" />
@@ -311,10 +306,12 @@
       <jump line="6" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" />
       <jump line="1" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" />
       <jump line="1" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="7" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="3" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="5" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -332,53 +329,55 @@
       <register name="*" type="4">
         <text>()</text>
       </register>
+      <register name="j" type="4">
+        <text>ddj</text>
+      </register>
       <register name="l" type="4">
         <keys>
-          <key char="65" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
           <key char="32" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="115" code="0" mods="0" />
           <key char="65535" code="10" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>is</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KCJhICIgImJ1bmNoICIgIm9mICIgInN0cmluZ3MiKQo=</text>
+        <text encoding="base64">ICIgaXMiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCJUaGUiICAgIiB3aGl0ZXNwYWNlIiIgaW4iIiBiZXR3ZWVuIiIgdGhlIiIgc3RyaW5ncyIiIGlzIiIgaWdub3JlZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICIgdXNlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHVwbGUoeyJhICIgImJ1bmNoICIgIm9mICIgInN0cmluZ3MifSkK</text>
+        <text encoding="base64">ICIgZm9yIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WyJhICIgImJ1bmNoICIgIm9mICIgInN0cmluZ3MiXQo=</text>
+        <text encoding="base64">ICIgbmVlZCIKICIgdG8iCiAiIHVzZSIKICIgYmFja3NsYXNoZXMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICIgZG8iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e3Y6IGsgKyAxIGZvciBrLCB2IGluIGVudW1lcmF0ZShjaHIoNjUraSkgZm9yIGkgIGluIHJhbmdlKDUpKX0K</text>
+        <text encoding="base64">ICJidXQiCiAieW91Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTCg==</text>
+        <text encoding="base64">ICIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
