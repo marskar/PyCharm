@@ -23,14 +23,15 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1535659173827">
+      <file name="/Python Console" timestamp="1535858561398">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535690020120">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535736942883">
+        <mark key="'" line="33" column="6" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/cube/cube-vs-pow.py" timestamp="1535592142910">
         <mark key="[" line="6" column="18" />
@@ -51,8 +52,14 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1535645578209">
+      <file name="/a.dummy" timestamp="1535736982230">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535858612518">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -70,11 +77,6 @@
         <mark key="]" line="87" column="14" />
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" timestamp="1535489085112">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="130" column="38" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534801208182">
         <mark key="'" line="0" column="0" />
@@ -131,6 +133,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test3.md" timestamp="1535737018863">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="38" />
@@ -143,10 +151,6 @@
         <mark key="]" line="3" column="7" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/ReticulatedPython.py" timestamp="1535489097289">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/make_folders.py" timestamp="1534801124963">
         <mark key="[" line="1" column="0" />
@@ -175,6 +179,12 @@
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1535737035894">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/example.py" timestamp="1535591378737">
         <mark key="[" line="6" column="0" />
@@ -321,13 +331,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>python</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoImhlbGwiKQppbXBvcnQgbWF0aAptYXRoLnBpCg==</text>
+        <text encoding="base64">ICAgICJUaGlzIGlzIHRvbyBicmlnaHQhISIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LS0tCnRpdGxlOiAic2xpZHkiCmF1dGhvcjogIk1hcnRpbiBTa2Fyenluc2tpIgpkYXRlOiAiNy8zMS8yMDE4IgpvdXRwdXQ6IHNsaWR5X3ByZXNlbnRhdGlvbgotLS0KCiMgdGVzdAolIEhhYml0cwolIEpvaG4gRG9lCiUgTWFyY2ggMjIsIDIwMDUK</text>
