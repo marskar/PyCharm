@@ -23,7 +23,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1535858986859">
+      <file name="/Python Console" timestamp="1535859347662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535736942883">
@@ -55,11 +55,11 @@
       <file name="/a.dummy" timestamp="1535736982230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535859223289">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535859397429">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -331,7 +331,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>python</text>
+        <text encoding="base64">IDwt</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
