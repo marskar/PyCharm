@@ -55,9 +55,9 @@
       <file name="/a.dummy" timestamp="1535736982230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535860847434">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535860909319">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
