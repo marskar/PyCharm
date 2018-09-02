@@ -23,7 +23,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1535859347662">
+      <file name="/Python Console" timestamp="1535859810310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535736942883">
@@ -55,11 +55,11 @@
       <file name="/a.dummy" timestamp="1535736982230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535859397429">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535860102925">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -340,31 +340,31 @@
         <text encoding="base64">ICAgICJUaGlzIGlzIHRvbyBicmlnaHQhISIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0tCnRpdGxlOiAic2xpZHkiCmF1dGhvcjogIk1hcnRpbiBTa2Fyenluc2tpIgpkYXRlOiAiNy8zMS8yMDE4IgpvdXRwdXQ6IHNsaWR5X3ByZXNlbnRhdGlvbgotLS0KCiMgdGVzdAolIEhhYml0cwolIEpvaG4gRG9lCiUgTWFyY2ggMjIsIDIwMDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3F1YXJlKDMpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHNxdWFyZSh4KToKICAgIHJldHVybiB4KioyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzcXVhcmUgaW1wb3J0IHNxdWFyZQpmcm9tIG1hdGggaW1wb3J0IHBvdwoKc3F1YXJlKDMpICMgcmV0dXJucyA5CnBvdygzLCAyKSAjIHJldHVybnMgOS4wCgpzcXVhcmUoMykgPT0gcG93KDMsIDIpICMgcmV0dXJucyBUcnVlCgo=</text>
+        <text encoding="base64">LS0tCnRpdGxlOiAic2xpZHkiCmF1dGhvcjogIk1hcnRpbiBTa2Fyenluc2tpIgpkYXRlOiAiNy8zMS8yMDE4IgpvdXRwdXQ6IHNsaWR5X3ByZXNlbnRhdGlvbgotLS0KCiMgdGVzdAolIEhhYml0cwolIEpvaG4gRG9lCiUgTWFyY2ggMjIsIDIwMDUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWF0aAo=</text>
+        <text encoding="base64">c3F1YXJlKDMpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eCwgeSA9IDMsIDIgIyBhc3NpZ24gdmFsdWVzIHRvIDIgdmFyaWFibGVzCg==</text>
+        <text encoding="base64">ZGVmIHNxdWFyZSh4KToKICAgIHJldHVybiB4KioyCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzcXVhcmUgaW1wb3J0IHNxdWFyZQpzcXVhcmUoMikK</text>
+        <text encoding="base64">ZnJvbSBzcXVhcmUgaW1wb3J0IHNxdWFyZQpmcm9tIG1hdGggaW1wb3J0IHBvdwoKc3F1YXJlKDMpICMgcmV0dXJucyA5CnBvdygzLCAyKSAjIHJldHVybnMgOS4wCgpzcXVhcmUoMykgPT0gcG93KDMsIDIpICMgcmV0dXJucyBUcnVlCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
