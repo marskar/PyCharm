@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1535860499384">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1534786162105">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="30" column="60" />
@@ -22,9 +25,6 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="16" />
-      </file>
-      <file name="/Python Console" timestamp="1535859810310">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535736942883">
         <mark key="'" line="33" column="6" />
@@ -55,11 +55,12 @@
       <file name="/a.dummy" timestamp="1535736982230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535860102925">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535860847434">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -210,10 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="60" column="29" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="35" column="59" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
-      <jump line="4" column="11" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="59" column="12" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="48" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
       <jump line="29" column="8" filename="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" />
@@ -310,6 +307,10 @@
       <jump line="0" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" />
       <jump line="2" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/test2.md" />
       <jump line="35" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/test2.md" />
+      <jump line="6" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+      <jump line="7" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -331,7 +332,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDwt</text>
+        <text encoding="base64">PC0=</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
@@ -339,8 +340,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJUaGlzIGlzIHRvbyBicmlnaHQhISIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KAogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIiA8LQogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgop</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -352,19 +353,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tCnRpdGxlOiAic2xpZHkiCmF1dGhvcjogIk1hcnRpbiBTa2Fyenluc2tpIgpkYXRlOiAiNy8zMS8yMDE4IgpvdXRwdXQ6IHNsaWR5X3ByZXNlbnRhdGlvbgotLS0KCiMgdGVzdAolIEhhYml0cwolIEpvaG4gRG9lCiUgTWFyY2ggMjIsIDIwMDUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3F1YXJlKDMpCgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIHNxdWFyZSh4KToKICAgIHJldHVybiB4KioyCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">LS0tCnRpdGxlOiAic2xpZHkiCmF1dGhvcjogIk1hcnRpbiBTa2Fyenluc2tpIgpkYXRlOiAiNy8zMS8yMDE4IgpvdXRwdXQ6IHNsaWR5X3ByZXNlbnRhdGlvbgotLS0KCiMgdGVzdAolIEhhYml0cwolIEpvaG4gRG9lCiUgTWFyY2ggMjIsIDIwMDUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c3F1YXJlKDMpCgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIHNxdWFyZSh4KToKICAgIHJldHVybiB4KioyCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzcXVhcmUgaW1wb3J0IHNxdWFyZQpmcm9tIG1hdGggaW1wb3J0IHBvdwoKc3F1YXJlKDMpICMgcmV0dXJucyA5CnBvdygzLCAyKSAjIHJldHVybnMgOS4wCgpzcXVhcmUoMykgPT0gcG93KDMsIDIpICMgcmV0dXJucyBUcnVlCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

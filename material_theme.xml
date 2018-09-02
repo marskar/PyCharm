@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.8.2" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-1f8d313a:165985ee048:-8000" />
+    <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
   </component>
