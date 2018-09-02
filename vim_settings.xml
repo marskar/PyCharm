@@ -33,7 +33,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1535880041041">
+      <file name="/Python Console" timestamp="1535880903105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/cube/cube-vs-pow.py" timestamp="1535592142910">
@@ -384,7 +384,7 @@
         <text encoding="base64">W3ggZm9yIHggaW4gZXVyb11TCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -407,8 +407,6 @@
         <entry>my</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;/'/gc</entry>
-        <entry>%s/_event//g</entry>
         <entry>w</entry>
         <entry>action FindNext</entry>
         <entry>set multiple-cursors</entry>
@@ -420,12 +418,15 @@
         <entry>vsp scratch_8.py</entry>
         <entry>vsp</entry>
         <entry>bn</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoClass</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action PythonConsole</entry>
+        <entry>action GotoSymbol</entry>
+        <entry>action Terminal</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
