@@ -58,12 +58,12 @@
       <file name="/a.dummy" timestamp="1535736982230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535882575139">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="27" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535883483716">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" />
       <jump line="53" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" />
       <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" />
       <jump line="107" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/zoo.py" />
@@ -327,6 +326,7 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
       <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
       <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+      <jump line="18" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,31 +357,31 @@
         <text encoding="base64">ICAgIHByaW50KCJISSIgKyBzdHIoeCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheSA9IGRhdGUudG9kYXkoKQo=</text>
+        <text encoding="base64">ZGF0ZS5zdHJmdGltZSgpLnJlcGxhY2UoKS50cmFuc2xhdGUoKS50cmFuc2xhdGUoKS5jYXBpdGFsaXplKCkuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W3ggZm9yIHggaW4gZXVyb10KCg==</text>
+        <text encoding="base64">ZGF0ZS5zdHJmdGltZSgpLnRyYW5zbGF0ZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b2RheSA9IGRhdGUudG9kYXkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIApAZGF0YWNsYXNzCg==</text>
+        <text encoding="base64">W3ggZm9yIHggaW4gZXVyb10KCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50KHgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIHggaW4gZXVybzoK</text>
+        <text encoding="base64">ICAgIApAZGF0YWNsYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yICBpbiBldXJvOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">Zm9yIHggaW4gZXVybzoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W3ggZm9yIHggaW4gZXVyb11TCg==</text>
+        <text encoding="base64">Zm9yICBpbiBldXJvOgo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>

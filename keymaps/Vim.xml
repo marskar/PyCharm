@@ -2,10 +2,10 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="RenameFile">
-    <keyboard-shortcut first-keystroke="shift meta s" />
-  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="SaveAs">
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
 </keymap>
