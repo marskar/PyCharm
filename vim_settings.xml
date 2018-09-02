@@ -384,7 +384,7 @@
         <text encoding="base64">W3ggZm9yIHggaW4gZXVyb11TCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
@@ -407,9 +407,6 @@
         <entry>my</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>action FindNext</entry>
-        <entry>set multiple-cursors</entry>
         <entry>action Find</entry>
         <entry>action AceJumpAction</entry>
         <entry>action Back</entry>
@@ -426,7 +423,10 @@
         <entry>action PythonConsole</entry>
         <entry>action GotoSymbol</entry>
         <entry>action Terminal</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action Console.Open</entry>
         <entry>action GotoClass</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
