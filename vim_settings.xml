@@ -58,11 +58,11 @@
       <file name="/a.dummy" timestamp="1535736982230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535864014831">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535864584175">
         <mark key="'" line="8" column="10" />
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
@@ -356,16 +356,16 @@
         <text>my</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBhbiBpdGVtCg==</text>
+        <text encoding="base64">bXlfZnVuYygxMikK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">bXlfZnVuYygxMikK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KCJISSIgKyBzdHIoeCkpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">KAogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIiA8LQogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgop</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -377,16 +377,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0tCnRpdGxlOiAic2xpZHkiCmF1dGhvcjogIk1hcnRpbiBTa2Fyenluc2tpIgpkYXRlOiAiNy8zMS8yMDE4IgpvdXRwdXQ6IHNsaWR5X3ByZXNlbnRhdGlvbgotLS0KCiMgdGVzdAolIEhhYml0cwolIEpvaG4gRG9lCiUgTWFyY2ggMjIsIDIwMDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3F1YXJlKDMpCgo=</text>
+        <text encoding="base64">LS0tCnRpdGxlOiAic2xpZHkiCmF1dGhvcjogIk1hcnRpbiBTa2Fyenluc2tpIgpkYXRlOiAiNy8zMS8yMDE4IgpvdXRwdXQ6IHNsaWR5X3ByZXNlbnRhdGlvbgotLS0KCiMgdGVzdAolIEhhYml0cwolIEpvaG4gRG9lCiUgTWFyY2ggMjIsIDIwMDUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHNxdWFyZSh4KToKICAgIHJldHVybiB4KioyCg==</text>
+        <text encoding="base64">c3F1YXJlKDMpCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -419,6 +419,9 @@
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
         <entry>action GotoFile</entry>
+        <entry>vsp</entry>
+        <entry>sp</entry>
+        <entry>e scratch_8.py</entry>
       </history-cmd>
       <history-expr />
       <history-input />
