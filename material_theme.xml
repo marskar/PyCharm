@@ -2,6 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.8.2" />
     <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="accentColor" value="FFC107" />
+    <option name="compactSidebar" value="true" />
+    <option name="useMaterialFont" value="false" />
     <option name="userId" value="-1f8d313a:165985ee048:-8000" />
     <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />

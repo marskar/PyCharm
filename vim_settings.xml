@@ -33,7 +33,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1535861609564">
+      <file name="/Python Console" timestamp="1535862171949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/cube/cube-vs-pow.py" timestamp="1535592142910">
@@ -58,12 +58,12 @@
       <file name="/a.dummy" timestamp="1535736982230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535860909319">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535861930010">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -202,6 +202,9 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py" timestamp="1535861849525">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/example.py" timestamp="1535591378737">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="3" />
@@ -220,9 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="29" column="8" filename="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" />
       <jump line="59" column="12" filename="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" />
       <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/event/weekly.py" />
       <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/event/monthly.py" />
@@ -317,9 +317,12 @@
       <jump line="35" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/test2.md" />
       <jump line="6" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
       <jump line="7" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.md" />
+      <jump line="656" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py" />
+      <jump line="5851" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py" />
+      <jump line="3" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -377,7 +380,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
@@ -401,6 +404,7 @@
         <entry>%s/&quot;/'/gc</entry>
         <entry>%s/_event//g</entry>
         <entry>w</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
