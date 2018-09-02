@@ -410,7 +410,6 @@
         <entry>my</entry>
       </history-search>
       <history-cmd>
-        <entry>sp</entry>
         <entry>e scratch_8.py</entry>
         <entry>vsp scratch_8.py</entry>
         <entry>vsp</entry>
@@ -423,12 +422,13 @@
         <entry>action GotoSymbol</entry>
         <entry>action Terminal</entry>
         <entry>action Console.Open</entry>
-        <entry>action GotoClass</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateNavBar</entry>
+        <entry>action NavbarPopupMenu</entry>
+        <entry>action GotoClass</entry>
         <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
