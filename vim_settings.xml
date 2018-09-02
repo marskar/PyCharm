@@ -33,7 +33,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1535919357308">
+      <file name="/Python Console" timestamp="1535919448884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -394,7 +394,7 @@
         <text encoding="base64">ZGF0ZS5zdHJmdGltZSgpLnRyYW5zbGF0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
@@ -427,7 +427,6 @@
         <entry>action ReformatCode</entry>
         <entry>action ActivateNavBar</entry>
         <entry>action NavbarPopupMenu</entry>
-        <entry>actionlist</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
@@ -437,6 +436,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
         <entry>action CloseProject</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
