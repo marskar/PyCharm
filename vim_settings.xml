@@ -33,9 +33,6 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1535875188523">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/cube/cube-vs-pow.py" timestamp="1535592142910">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="19" />
@@ -58,12 +55,11 @@
       <file name="/a.dummy" timestamp="1535736982230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535877123461">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535879227708">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -211,6 +207,12 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py" timestamp="1535861849525">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.md" timestamp="1535878788523">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/example.py" timestamp="1535591378737">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="3" />
@@ -350,7 +352,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[docstring]</text>
+        <text encoding="base64">Zm9yIHgg</text>
       </register>
       <register name="/" type="4">
         <text>my</text>
@@ -359,31 +361,31 @@
         <text encoding="base64">ICAgIHByaW50KCJISSIgKyBzdHIoeCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJISSIgKyBzdHIoeCkpCg==</text>
+        <text encoding="base64">ICAgIApAZGF0YWNsYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJISSIgKyBzdHIoeCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJISSIgKyBzdHIoeCkpCg==</text>
+        <text encoding="base64">Zm9yIHggaW4gZXVybzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Zm9yICBpbiBldXJvOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">wqkgMjAxOApHaXRIdWIsIEluYy4KVGVybXMKUHJpdmFjeQpTZWN1cml0eQpTdGF0dXMKSGVscApDb250YWN0CkdpdEh1YgpQcmljaW5nCkFQSQpUcmFpbmluZwpCbG9nCkFib3V0Cg==</text>
+        <text encoding="base64">W3ggZm9yIHggaW4gZXVyb11TCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bXlfZnVuYygxMikK</text>
+        <text encoding="base64">WyBmb3IgIGluIFNdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJISSIgKyBzdHIoeCkpCg==</text>
+        <text encoding="base64">ZXUK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
