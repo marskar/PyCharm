@@ -33,7 +33,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1535861131564">
+      <file name="/Python Console" timestamp="1535861433017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/cube/cube-vs-pow.py" timestamp="1535592142910">
@@ -94,6 +94,12 @@
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.md" timestamp="1535861464153">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test.py" timestamp="1535653136212">
         <mark key="[" line="0" column="0" />
@@ -199,12 +205,6 @@
       <file name="$USER_HOME$/github/biof309_fall2018/event/weekly.py" timestamp="1535487065297">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/zen/zen.py" timestamp="1535491550757">
-        <mark key="'" line="8" column="1" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" timestamp="1535484602691">
         <mark key="'" line="59" column="12" />
         <mark key="[" line="4" column="11" />
@@ -214,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="12" filename="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" />
       <jump line="48" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
       <jump line="29" column="8" filename="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" />
       <jump line="41" column="0" filename="$USER_HOME$/github/biof309_fall2018/event/weekly_event.py" />
@@ -314,6 +313,7 @@
       <jump line="7" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -341,7 +341,7 @@
         <text>_event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJUaGlzIGlzIHRvbyBicmlnaHQhISIK</text>
+        <text encoding="base64">LSBhbiBpdGVtCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">KAogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIiA8LQogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgogICAgIlRoaXMgaXMgdG9vIGJyaWdodCEhIgop</text>
@@ -423,6 +423,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
