@@ -36,6 +36,9 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="/Python Console" timestamp="1535996238213">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="1" column="0" />
@@ -146,7 +149,7 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535995939948">
+      <file name="/Dummy.txt" timestamp="1535996411939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1535591386011">
@@ -428,7 +431,7 @@
         <text encoding="base64">eCA8LSByCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -476,12 +479,12 @@
         <entry>action ShowBookmarks</entry>
         <entry>nohlsearch</entry>
         <entry>action ChangeSplitOrientation</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
