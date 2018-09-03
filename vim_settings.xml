@@ -33,9 +33,6 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1535950469042">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="1" column="0" />
@@ -118,8 +115,8 @@
         <mark key="." line="50" column="146" />
         <mark key="^" line="50" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1535948612712">
-        <mark key="'" line="28" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1535951566491">
+        <mark key="'" line="25" column="5" />
         <mark key="g" line="50" column="63" />
         <mark key="[" line="0" column="2" />
         <mark key="k" line="15" column="4" />
@@ -253,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
       <jump line="71" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
       <jump line="74" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
       <jump line="76" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
@@ -353,6 +349,7 @@
       <jump line="11" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="45" column="71" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="17" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
+      <jump line="25" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
