@@ -33,6 +33,9 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="/Python Console" timestamp="1535992003139">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="1" column="0" />
@@ -137,7 +140,7 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534782878281">
+      <file name="/Dummy.txt" timestamp="1535992089480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1535591386011">
@@ -413,7 +416,7 @@
         <text encoding="base64">ZXVyby5jYXBpdGFsaXplKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action Bookmarks</text>
       </register>
     </registers>
     <search>
@@ -445,8 +448,6 @@
         <entry encoding="base64">XDxzdGFydF9kYXRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoRelated</entry>
-        <entry>action GotoSymbol</entry>
         <entry>action JumpToNextChange</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action GotoNextBookmark</entry>
@@ -460,11 +461,13 @@
         <entry>action ReformatCode</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ShowNavBar</entry>
-        <entry>action Synchronize</entry>
         <entry>action CloseProject</entry>
         <entry>action JumpToLastWindow</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action Synchronize</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ActivateSciViewToolWindow</entry>
+        <entry>action Bookmarks</entry>
       </history-cmd>
       <history-expr />
       <history-input />
