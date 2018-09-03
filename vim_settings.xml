@@ -33,7 +33,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1535992003139">
+      <file name="/Python Console" timestamp="1535992168353">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -118,7 +118,7 @@
         <mark key="." line="50" column="146" />
         <mark key="^" line="50" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1535991422685">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1535992181620">
         <mark key="'" line="17" column="0" />
         <mark key="g" line="58" column="63" />
         <mark key="k" line="15" column="4" />
@@ -416,7 +416,7 @@
         <text encoding="base64">ZXVyby5jYXBpdGFsaXplKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Bookmarks</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -461,13 +461,13 @@
         <entry>action ReformatCode</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ShowNavBar</entry>
-        <entry>action CloseProject</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ActivateSciViewToolWindow</entry>
         <entry>action Bookmarks</entry>
+        <entry>action ActivateSciViewToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
