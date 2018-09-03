@@ -408,7 +408,7 @@
         <text encoding="base64">ZGF0ZS5zdHJmdGltZSgpLnRyYW5zbGF0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -433,7 +433,6 @@
         <entry encoding="base64">XDxpbnRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoSymbol</entry>
         <entry>action Terminal</entry>
         <entry>action Console.Open</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -451,8 +450,9 @@
         <entry>action FindUsages</entry>
         <entry>action CloseProject</entry>
         <entry>actionlist</entry>
-        <entry>vsp</entry>
+        <entry>q</entry>
         <entry>sp</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
