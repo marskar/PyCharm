@@ -2,10 +2,6 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta 8" />
-  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>

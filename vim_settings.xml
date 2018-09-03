@@ -407,7 +407,7 @@
         <text encoding="base64">ZGF0ZS5zdHJmdGltZSgpLnJlcGxhY2UoKS50cmFuc2xhdGUoKS50cmFuc2xhdGUoKS5jYXBpdGFsaXplKCkuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action JumpToLastWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -436,7 +436,6 @@
         <entry encoding="base64">XDx3ZWVrZGF5c1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>action RecentFiles</entry>
         <entry>action GotoAction</entry>
         <entry>action JumpToNextChange</entry>
         <entry>action JumpToLastChange</entry>
@@ -454,8 +453,9 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>w</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action JumpToLastWindow</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
