@@ -118,14 +118,14 @@
         <mark key="." line="50" column="146" />
         <mark key="^" line="50" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1535986330164">
-        <mark key="'" line="33" column="0" />
-        <mark key="g" line="51" column="63" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1535987068198">
+        <mark key="'" line="35" column="0" />
+        <mark key="g" line="53" column="63" />
         <mark key="k" line="15" column="4" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-        <mark key="^" line="18" column="4" />
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zen/__init__.py" timestamp="1535491740481">
         <mark key="[" line="2" column="32" />
@@ -416,7 +416,7 @@
         <text encoding="base64">ZXVyby5jYXBpdGFsaXplKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -448,8 +448,6 @@
         <entry encoding="base64">XDxzdGFydF9kYXRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoPrevElementUnderCaretUsage</entry>
-        <entry>w</entry>
         <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -468,6 +466,8 @@
         <entry>action SelectAllOccurrences</entry>
         <entry>action Synchronize</entry>
         <entry>nohlsearch</entry>
+        <entry>action RefactoringMenu</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
