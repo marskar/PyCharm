@@ -33,9 +33,6 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1535990461330">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="1" column="0" />
@@ -118,14 +115,14 @@
         <mark key="." line="50" column="146" />
         <mark key="^" line="50" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1535987785110">
-        <mark key="'" line="41" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1535991422685">
+        <mark key="'" line="17" column="0" />
         <mark key="g" line="58" column="63" />
         <mark key="k" line="15" column="4" />
-        <mark key="[" line="44" column="10" />
-        <mark key="]" line="44" column="9" />
-        <mark key="." line="44" column="9" />
-        <mark key="^" line="44" column="9" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zen/__init__.py" timestamp="1535491740481">
         <mark key="[" line="2" column="32" />
@@ -351,7 +348,6 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="11" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="45" column="71" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
-      <jump line="17" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="25" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/README.md" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
@@ -359,6 +355,7 @@
       <jump line="21" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="22" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="39" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
+      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
