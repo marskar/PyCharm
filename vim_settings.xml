@@ -187,12 +187,12 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/README.md" timestamp="1536090277980">
+      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/README.md" timestamp="1536091641021">
         <mark key="'" line="9" column="4" />
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="52" />
-        <mark key="." line="3" column="52" />
-        <mark key="^" line="3" column="52" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="10" column="47" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -229,7 +229,7 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536088772420">
+      <file name="/Dummy.txt" timestamp="1536091726045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1535591386011">
@@ -423,13 +423,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB5dGhvbiBuYmNyZWF0ZS5weSBSRUFETUUubWQgcGxvdC5weSBub3Rlcy50eHQKICAgIGBgYAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MS4gRWRpdCB0aGUgYG5iY3JlYXRlLnB5YCBzY3JpcHQKICAgIC0gTGlzdCB0aGUgbmFtZXMgb2Ygc291cmNlIGZpbGVzIHlvdSB3YW50IHRvIGluY2x1ZGUgKGxpbmUgMykKICAgIC0gU2F2ZSB0aGUgYG5iY3JlYXRlLnB5YCBzY3JpcHQK</text>
@@ -459,7 +459,7 @@
         <text encoding="base64">ICAgIC0gYGAK</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -508,11 +508,11 @@
         <entry>action CloseProject</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>w</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action GotoFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
