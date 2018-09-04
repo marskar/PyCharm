@@ -37,12 +37,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbexecute.py" timestamp="1536101706475">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="43" />
-        <mark key="^" line="9" column="43" />
-        <mark key="." line="9" column="43" />
+      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbexecute.py" timestamp="1536101939072">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535134160169">
         <mark key="'" line="74" column="82" />
@@ -290,8 +290,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate.py" timestamp="1536101527197">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate.py" timestamp="1536101960131">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="4" column="51" />
         <mark key="]" line="4" column="51" />
         <mark key="." line="4" column="51" />
@@ -306,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.md" />
-      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.md" />
       <jump line="14" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.md" />
       <jump line="2" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" />
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" />
@@ -406,6 +404,8 @@
       <jump line="21" column="0" filename="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate.py" />
       <jump line="26" column="0" filename="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate.py" />
       <jump line="11" column="0" filename="$USER_HOME$/github/biof309_fall2018/jupyter/nbexecute.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/jupyter/nbexecute.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -427,43 +427,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'notebooks/'</text>
+        <text>'jupyter/raw.ipynb'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGlwIGluc3RhbGwganVweXRlciBuYmNvbnZlcnQK</text>
+      <register name="0" type="4">
+        <text>output_filename</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5iZm9ybWF0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TG9hZDogQXNzdW1pbmcgdGhhdCBub3RlYm9va19maWxlbmFtZSBjb250YWlucyB0aGUgcGF0aCBvZiBhIG5vdGVib29rLCB3ZSBjYW4gbG9hZCBpdCB3aXRoOgo=</text>
+        <text encoding="base64">cGF0aCA9ICJqdXB5dGVyIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q29uZmlndXJlOiBOZXh0LCB3ZSBjb25maWd1cmUgdGhlIG5vdGVib29rIGV4ZWN1dGlvbiBtb2RlOgo=</text>
+        <text encoding="base64">aW1wb3J0IG5iZm9ybWF0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SG9wZWZ1bGx5LCB3ZSB3aWxsIG5vdCBnZXQgYW55IGVycm9ycyBkdXJpbmcgdGhlIG5vdGVib29rIGV4ZWN1dGlvbiAoc2VlIHRoZSBsYXN0IHNlY3Rpb24gZm9yIGVycm9yIGhhbmRsaW5nKS4gTm90ZSB0aGF0IHBhdGggc3BlY2lmaWVzIGluIHdoaWNoIGZvbGRlciB0byBleGVjdXRlIHRoZSBub3RlYm9vay4K</text>
+        <text encoding="base64">TG9hZDogQXNzdW1pbmcgdGhhdCBub3RlYm9va19maWxlbmFtZSBjb250YWlucyB0aGUgcGF0aCBvZiBhIG5vdGVib29rLCB3ZSBjYW4gbG9hZCBpdCB3aXRoOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RXhlY3V0ZS9SdW4gKHByZXByb2Nlc3MpOiBUbyBhY3R1YWxseSBydW4gdGhlIG5vdGVib29rIHdlIGNhbGwgdGhlIG1ldGhvZCBwcmVwcm9jZXNzOgo=</text>
+        <text encoding="base64">Q29uZmlndXJlOiBOZXh0LCB3ZSBjb25maWd1cmUgdGhlIG5vdGVib29rIGV4ZWN1dGlvbiBtb2RlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V2Ugc3BlY2lmaWVkIHR3byAob3B0aW9uYWwpIGFyZ3VtZW50cyB0aW1lb3V0IGFuZCBrZXJuZWxfbmFtZSwgd2hpY2ggZGVmaW5lIHJlc3BlY3RpdmVseSB0aGUgY2VsbCBleGVjdXRpb24gdGltZW91dCBhbmQgdGhlIGV4ZWN1dGlvbiBrZXJuZWwuCg==</text>
+        <text encoding="base64">SG9wZWZ1bGx5LCB3ZSB3aWxsIG5vdCBnZXQgYW55IGVycm9ycyBkdXJpbmcgdGhlIG5vdGVib29rIGV4ZWN1dGlvbiAoc2VlIHRoZSBsYXN0IHNlY3Rpb24gZm9yIGVycm9yIGhhbmRsaW5nKS4gTm90ZSB0aGF0IHBhdGggc3BlY2lmaWVzIGluIHdoaWNoIGZvbGRlciB0byBleGVjdXRlIHRoZSBub3RlYm9vay4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhlIG9wdGlvbiB0byBzcGVjaWZ5IGtlcm5lbF9uYW1lIGlzIG5ldyBpbiBuYmNvbnZlcnQgNC4yLiBXaGVuIG5vdCBzcGVjaWZpZWQgb3Igd2hlbiB1c2luZyBuYmNvbnZlcnQgPDQuMiwgdGhlIGRlZmF1bHQgUHl0aG9uIGtlcm5lbCBpcyBjaG9zZW4uCg==</text>
+        <text encoding="base64">RXhlY3V0ZS9SdW4gKHByZXByb2Nlc3MpOiBUbyBhY3R1YWxseSBydW4gdGhlIG5vdGVib29rIHdlIGNhbGwgdGhlIG1ldGhvZCBwcmVwcm9jZXNzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U2F2ZTogRmluYWxseSwgc2F2ZSB0aGUgcmVzdWx0aW5nIG5vdGVib29rIHdpdGg6Cg==</text>
+        <text encoding="base64">V2Ugc3BlY2lmaWVkIHR3byAob3B0aW9uYWwpIGFyZ3VtZW50cyB0aW1lb3V0IGFuZCBrZXJuZWxfbmFtZSwgd2hpY2ggZGVmaW5lIHJlc3BlY3RpdmVseSB0aGUgY2VsbCBleGVjdXRpb24gdGltZW91dCBhbmQgdGhlIGV4ZWN1dGlvbiBrZXJuZWwuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgRGVwZW5kZW5jaWVzCgpJZiB5b3UgaW5zdGFsbGVkIFtBbmFjb25kYV0oaHR0cHM6Ly93d3cuYW5hY29uZGEuY29tL2Rvd25sb2FkLyksIHlvdSBhbHJlYWR5IGhhdmUgUHl0aG9uIGFuZCBKdXB5dGVyLgoKSWYgbm90IG9yIGlmIHlvdSBoYXZlIFttaW5pY29uZGFdKGh0dHBzOi8vY29uZGEuaW8vbWluaWNvbmRhLmh0bWwpIGluc3RhbGxlZCwgcnVuIAogCmBgYHNoCmNvbmRhIGluc3RhbGwgLXljIGNvbmRhLWZvcmdlIGp1cHl0ZXIgbmJjb252ZXJ0CmBgYAoKSWYgeW91IGhhdmUgYW55IG90aGVyIFB5dGhvbiBpbnN0YWxsYXRpb24sIHJ1bgpgYGBzaApwaXAgaW5zdGFsbCBqdXB5dGVyIG5iY29udmVydApgYGAK</text>
+        <text encoding="base64">VGhlIG9wdGlvbiB0byBzcGVjaWZ5IGtlcm5lbF9uYW1lIGlzIG5ldyBpbiBuYmNvbnZlcnQgNC4yLiBXaGVuIG5vdCBzcGVjaWZpZWQgb3Igd2hlbiB1c2luZyBuYmNvbnZlcnQgPDQuMiwgdGhlIGRlZmF1bHQgUHl0aG9uIGtlcm5lbCBpcyBjaG9zZW4uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -512,11 +512,11 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>vsp</entry>
         <entry>action JumpToLastChange</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>w</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action CloseProject</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
