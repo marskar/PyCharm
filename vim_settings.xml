@@ -102,6 +102,10 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/index.md" timestamp="1536114323393">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="97" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="38" />
@@ -239,7 +243,7 @@
       <file name="/Dummy.txt" timestamp="1536095381740">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1535591386011">
+      <file name="/code.py" timestamp="1536114937912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
@@ -435,8 +439,8 @@
       <register name="/" type="4">
         <text>out</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cHl0aG9uIG5iY3JlYXRlLnB5IFJFQURNRS5tZCBwbG90LnB5IC1vIG5vdF9leGVjdXRlZC5pcHluYiAtcCBub3RlYm9va3MvCg==</text>
+      <register name="0" type="4">
+        <text>http://colab.research.google.com/github/marskar/biof309_fall2018/blob/master/index.ipynb&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
