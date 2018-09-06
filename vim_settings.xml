@@ -106,11 +106,11 @@
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="97" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1536249266629">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1536250065189">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
         <mark key="[" line="3" column="30" />
