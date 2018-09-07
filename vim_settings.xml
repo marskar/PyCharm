@@ -27,7 +27,7 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1536089260722">
+      <file name="/a.dummy" timestamp="1536281935159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535917865242">
@@ -187,7 +187,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1536281837627">
+      <file name="/Python Console" timestamp="1536281929508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -481,7 +481,7 @@
         <text encoding="base64">bmJmb3JtYXQudgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -517,7 +517,6 @@
         <entry>l2</entry>
       </history-search>
       <history-cmd>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ShowNavBar</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action Bookmarks</entry>
@@ -537,6 +536,7 @@
         <entry>action CloseProject</entry>
         <entry>action Rename</entry>
         <entry>action ReformatCode</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
