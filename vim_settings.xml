@@ -481,7 +481,7 @@
         <text encoding="base64">bmJmb3JtYXQudgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReopenClosedTab</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -526,7 +526,6 @@
         <entry>action JumpToLastChange</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action CloseProject</entry>
         <entry>action Rename</entry>
         <entry>action ReformatCode</entry>
         <entry>action CloseActiveTab</entry>
@@ -537,6 +536,7 @@
         <entry>action RenameProject</entry>
         <entry>action RenameFile</entry>
         <entry>action ReopenClosedTab</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
