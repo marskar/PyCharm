@@ -27,7 +27,7 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1536282638529">
+      <file name="/a.dummy" timestamp="1536282983054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535917865242">
@@ -481,7 +481,7 @@
         <text encoding="base64">bmJmb3JtYXQudgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateEventLogToolWindow</text>
+        <text>action ReopenClosedTab</text>
       </register>
     </registers>
     <search>
@@ -530,13 +530,13 @@
         <entry>action Rename</entry>
         <entry>action ReformatCode</entry>
         <entry>action CloseActiveTab</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action ActivateEventLogToolWindow</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameProject</entry>
         <entry>action RenameFile</entry>
-        <entry>action RenameElement</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action ActivateEventLogToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
