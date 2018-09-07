@@ -481,7 +481,7 @@
         <text encoding="base64">bmJmb3JtYXQudgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action ActivateEventLogToolWindow</text>
       </register>
     </registers>
     <search>
@@ -517,8 +517,6 @@
         <entry>l2</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowBookmarks</entry>
-        <entry>nohlsearch</entry>
         <entry>action ChangeSplitOrientation</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action GotoFile</entry>
@@ -537,6 +535,8 @@
         <entry>action RenameElement</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action ActivateEventLogToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
