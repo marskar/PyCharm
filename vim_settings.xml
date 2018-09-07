@@ -187,7 +187,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1536281662481">
+      <file name="/Python Console" timestamp="1536281837627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -231,12 +231,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1536281832611">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" timestamp="1536281858973">
         <mark key="'" line="0" column="0" />
         <mark key="g" line="76" column="63" />
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="35" column="10" />
-        <mark key="." line="35" column="10" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
         <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zen/__init__.py" timestamp="1535491740481">
@@ -324,14 +324,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="44" column="71" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="11" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="45" column="71" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/README.md" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
-      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
@@ -423,6 +421,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/jupyter/README.md" />
       <jump line="15" column="44" filename="$USER_HOME$/github/biof309_fall2018/jupyter/README.md" />
       <jump line="42" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
+      <jump line="35" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
+      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/class_dates2.py" />
     </jumps>
     <registers>
@@ -481,7 +481,7 @@
         <text encoding="base64">bmJmb3JtYXQudgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -534,9 +534,9 @@
         <entry>action JumpToLastChange</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action CloseProject</entry>
         <entry>action Rename</entry>
         <entry>action ReformatCode</entry>
-        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
