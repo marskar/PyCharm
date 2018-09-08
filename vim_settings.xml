@@ -125,11 +125,11 @@
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="97" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1536379159935">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1536380307494">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
         <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
         <mark key="[" line="3" column="30" />
@@ -205,7 +205,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1536380074374">
+      <file name="/Python Console" timestamp="1536380353079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -470,7 +470,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSBuYmxlc3Mg</text>
+        <text>/nbless</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -516,7 +516,7 @@
       <last-replace />
       <last-substitute>_event</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
