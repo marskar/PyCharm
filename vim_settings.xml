@@ -150,11 +150,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/__init__.py" timestamp="1536384126987">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+      <file name="$USER_HOME$/github/biof309_fall2018/__init__.py" timestamp="1536414433662">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/nbless.py" timestamp="1536379554412">
         <mark key="[" line="2" column="0" />
@@ -224,7 +224,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1536383132895">
+      <file name="/Python Console" timestamp="1536384342215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -489,13 +489,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cube</text>
+        <text>nbless</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGV4YW1wbGVzLmN1YmUuY3ViZQo=</text>
+        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMubmJsZXNzIGltcG9ydCBuYmxlc3MK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
