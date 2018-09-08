@@ -20,12 +20,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/test.py" timestamp="1536415477709">
-        <mark key="'" line="11" column="11" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
+      <file name="$USER_HOME$/github/biof309_fall2018/test.py" timestamp="1536416127296">
+        <mark key="'" line="16" column="11" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" timestamp="1536382364558">
         <mark key="[" line="0" column="7" />
@@ -223,7 +223,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1536415611253">
+      <file name="/Python Console" timestamp="1536415941482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -488,40 +488,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ys</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMuY3ViZS5jdWJlIGltcG9ydCBjdWJlCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMuY3ViZS5jdWJlIGltcG9ydCBjdWJlCg==</text>
+        <text encoding="base64">c3lzLnBhdGgKc3lzLnBhdGguYXBwZW5kKG9zLmdldGN3ZCgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMubmJsZXNzLm5ibGVzcyBpbXBvcnQgbmJsZXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMuY3ViZS5jdWJlIGltcG9ydCBjdWJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMubmJsZXNzLm5ibGVzcyBpbXBvcnQgbmJsZXNzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmJ1aWxkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5iZm9ybWF0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
+        <text encoding="base64">bmJ1aWxkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">aW1wb3J0IG5iZm9ybWF0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
@@ -577,8 +577,8 @@
         <entry>action CloseProject</entry>
         <entry>w</entry>
         <entry>action GotoFile</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Move</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
