@@ -150,11 +150,10 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/__init__.py" timestamp="1536414433662">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="35" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="35" />
+      <file name="$USER_HOME$/github/biof309_fall2018/__init__.py" timestamp="1536415418417">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/nbless.py" timestamp="1536379554412">
         <mark key="[" line="2" column="0" />
@@ -489,40 +488,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nbless</text>
+        <text>.cube</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMubmJsZXNzIGltcG9ydCBuYmxlc3MK</text>
+        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMuY3ViZS5jdWJlIGltcG9ydCBjdWJlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMuY3ViZS5jdWJlIGltcG9ydCBjdWJlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuZXhhbXBsZXMubmJsZXNzLm5ibGVzcyBpbXBvcnQgbmJsZXNzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmJ1aWxkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG5iZm9ybWF0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
+        <text encoding="base64">bmJ1aWxkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">aW1wb3J0IG5iZm9ybWF0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3MucGF0aAo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
