@@ -170,12 +170,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" timestamp="1536490971139">
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" timestamp="1536491734472">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/nbless.py" timestamp="1536379554412">
         <mark key="[" line="2" column="0" />
@@ -238,7 +238,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" timestamp="1536448046758">
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" timestamp="1536491829314">
         <mark key="'" line="48" column="11" />
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
@@ -258,7 +258,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1536419242447">
+      <file name="/Python Console" timestamp="1536492091970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -281,6 +281,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbtest.py" timestamp="1536493056220">
+        <mark key="[" line="5" column="94" />
+        <mark key="]" line="5" column="99" />
+        <mark key="^" line="5" column="99" />
+        <mark key="." line="5" column="99" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
@@ -314,6 +320,12 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/__init__.py" timestamp="1536491308683">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zen/__init__.py" timestamp="1535491740481">
         <mark key="[" line="2" column="32" />
@@ -407,8 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="19" filename="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate.py" />
-      <jump line="18" column="19" filename="$USER_HOME$/github/biof309_fall2018/jupyter/nbexecute.py" />
       <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/jupyter/README.md" />
       <jump line="20" column="119" filename="$USER_HOME$/github/biof309_fall2018/jupyter/README.md" />
       <jump line="36" column="27" filename="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate.py" />
@@ -450,14 +460,12 @@
       <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="25" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="44" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
-      <jump line="4" column="50" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="23" column="2" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
       <jump line="6" column="27" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="2" column="22" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="35" column="23" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="37" column="29" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="31" column="4" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="15" column="34" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
@@ -501,11 +509,15 @@
       <jump line="26" column="50" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="47" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="8" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="1" column="5" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="46" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
       <jump line="5" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
+      <jump line="1" column="6" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
+      <jump line="4" column="5" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="48" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
     </jumps>
     <registers>
@@ -536,40 +548,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nbless.nbuild</text>
+        <text>output</text>
       </register>
       <register name="/" type="4">
         <text>outp</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bmJ1aWxkCg==</text>
+        <text>, output_path=&quot;packages/nbless/notebooks&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJ1aWxkIGltcG9ydCBuYnVpbGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBuYmV4ZWMKZnJvbSAuIGltcG9ydCBuYnVpbGQK</text>
+        <text encoding="base64">I2Zyb20gLiBpbXBvcnQgbmJ1aWxkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBuYnVpbGQK</text>
+        <text encoding="base64">bmJleGVjKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcGF0aCcsICctcCcsIGRlZmF1bHQ9Jy4vJywKICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSdUaGUgcGF0aCB3aGVyZSB0aGUgbm90ZWJvb2tzIHdpbGwgYmUgc2F2ZWQuJykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuYnVpbGRfcGF0aDogc3RyID0gJy4vJywK</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBuYmV4ZWMKZnJvbSAuIGltcG9ydCBuYnVpbGQK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBuYnVpbGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ibGVzcygpCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcGF0aCcsICctcCcsIGRlZmF1bHQ9Jy4vJywKICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSdUaGUgcGF0aCB3aGVyZSB0aGUgbm90ZWJvb2tzIHdpbGwgYmUgc2F2ZWQuJykKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIG5idWlsZChmaWxlbmFtZXM9bmFtZXMsCiAgICAgICAgICAgb3V0cHV0X25hbWU9b3V0X25hbWUsCiAgICAgICAgICAgb3V0cHV0X3BhdGg9b3V0X3BhdGgpCgogICAgbmJleGVjKGlucHV0X25hbWU9b3V0X3BhdGgsCiAgICAgICAgICAgb3V0cHV0X25hbWU9bmJleGVjX25hbWUsCiAgICAgICAgICAgb3V0cHV0X3BhdGg9bmJleGVjX3BhdGgp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICBuYnVpbGRfcGF0aDogc3RyID0gJy4vJywK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>action ActivateTerminalToolWindow</text>
