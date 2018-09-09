@@ -584,7 +584,7 @@
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -632,7 +632,6 @@
         <entry>action RenameProject</entry>
         <entry>action RenameFile</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action CloseProject</entry>
         <entry>action Move</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action GotoFile</entry>
@@ -640,6 +639,7 @@
         <entry>w</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
