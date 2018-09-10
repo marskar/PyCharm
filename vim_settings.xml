@@ -302,9 +302,10 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbtest.py" timestamp="1536519950124">
-        <mark key="[" line="5" column="68" />
-        <mark key="]" line="5" column="68" />
+      <file name="$USER_HOME$/github/nbless/nbtest.py" timestamp="1536544449493">
+        <mark key="'" line="0" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="70" />
         <mark key="^" line="5" column="68" />
         <mark key="." line="5" column="68" />
       </file>
@@ -441,7 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="18" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="17" column="31" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="31" column="62" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="34" column="34" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
@@ -541,6 +541,7 @@
       <jump line="47" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
       <jump line="15" column="20" filename="$USER_HOME$/github/nbless/nbless.py" />
       <jump line="51" column="11" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="0" column="24" filename="$USER_HOME$/github/nbless/nbtest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -576,7 +577,7 @@
         <text>outp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiQ3JlYXRlZCB7bmJ1aWxkX25hbWV9IGluIHtuYnVpbGRfcGF0aH0iKQo=</text>
+        <text encoding="base64">ZnJvbSBuYnVpbGQgaW1wb3J0IG5idWlsZApmcm9tIG5iZXhlYyBpbXBvcnQgbmJleGVjCmZyb20gbmJsZXNzIGltcG9ydCBuYmxlc3MKbmJ1aWxkKFsiUkVBRE1FLm1kIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikKbmJleGVjKCJub3RlYm9va3MvcmF3LmlweW5iIiwgb3V0cHV0X3BhdGg9Im5vdGVib29rcy8iKQpuYmxlc3MoWyJSRUFETUUubWQiLCAicGxvdC5weSIsICJub3Rlcy50eHQiXSwgbmJleGVjX3BhdGg9Im5vdGVib29rcy8iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCJDcmVhdGVkIHJhdy5pcHluYiIpCg==</text>
