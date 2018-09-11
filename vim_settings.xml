@@ -433,6 +433,9 @@
       <file name="$USER_HOME$/github/nbless/nbuild.py" timestamp="1536520216483">
         <mark key="'" line="37" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.md" timestamp="1536685414498">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test" timestamp="1536281750353">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -637,7 +640,7 @@
       <last-replace />
       <last-substitute>_event</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
