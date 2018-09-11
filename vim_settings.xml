@@ -627,7 +627,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -676,13 +676,13 @@
         <entry>action ReopenClosedTab</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>w</entry>
-        <entry>action CloseProject</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action Move</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
