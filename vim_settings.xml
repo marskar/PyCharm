@@ -248,12 +248,6 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1536698728384">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="1" column="0" />
@@ -365,12 +359,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="42" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536706335186">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536708843557">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="4" column="4" />
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -587,13 +581,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, round</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>outp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHlwaW5nIGFzIG5vcm1hbAo=</text>
+        <text encoding="base64">W24gZm9yIG4gaW4gcmFuZ2UoMTApXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQoKQo=</text>
@@ -635,7 +629,7 @@ print(</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -689,8 +683,8 @@ print(</text>
         <entry>action CloseProject</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivateSciViewToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
