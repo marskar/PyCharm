@@ -302,12 +302,12 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbtest.py" timestamp="1536544449493">
+      <file name="$USER_HOME$/github/nbless/nbtest.py" timestamp="1536625090412">
         <mark key="'" line="0" column="24" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="70" />
-        <mark key="^" line="5" column="68" />
-        <mark key="." line="5" column="68" />
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="72" />
+        <mark key="." line="11" column="72" />
+        <mark key="^" line="11" column="72" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" timestamp="1536448041736">
         <mark key="'" line="5" column="11" />
@@ -571,43 +571,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>raw</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text>outp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBuYnVpbGQgaW1wb3J0IG5idWlsZApmcm9tIG5iZXhlYyBpbXBvcnQgbmJleGVjCmZyb20gbmJsZXNzIGltcG9ydCBuYmxlc3MKbmJ1aWxkKFsiUkVBRE1FLm1kIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikKbmJleGVjKCJub3RlYm9va3MvcmF3LmlweW5iIiwgb3V0cHV0X3BhdGg9Im5vdGVib29rcy8iKQpuYmxlc3MoWyJSRUFETUUubWQiLCAicGxvdC5weSIsICJub3Rlcy50eHQiXSwgbmJleGVjX3BhdGg9Im5vdGVib29rcy8iKQo=</text>
+        <text encoding="base64">bmJsZXNzKFsiUkVBRE1FLm1kIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sIG5iZXhlY19wYXRoPSJub3RlYm9va3MvIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJDcmVhdGVkIHJhdy5pcHluYiIpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJsZXNzIGltcG9ydCBuYmxlc3MK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJleGVjIGltcG9ydCBuYmV4ZWMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJ1aWxkIGltcG9ydCBuYnVpbGQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2Zyb20gLiBpbXBvcnQgbmJ1aWxkCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bmJleGVjKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBBbm90aGVyIGFsdGVybmF0aXZlIGlzIHRvIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJDcmVhdGVkIHJhdy5pcHluYiIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJsZXNzIGltcG9ydCBuYmxlc3MK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJleGVjIGltcG9ydCBuYmV4ZWMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJ1aWxkIGltcG9ydCBuYnVpbGQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2Zyb20gLiBpbXBvcnQgbmJ1aWxkCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBuYmV4ZWMKZnJvbSAuIGltcG9ydCBuYnVpbGQK</text>
+        <text encoding="base64">bmJleGVjKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBuYnVpbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -660,9 +660,9 @@
         <entry>action JumpToLastWindow</entry>
         <entry>w</entry>
         <entry>action CloseProject</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action ActivateSciViewToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ActivateSciViewToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
