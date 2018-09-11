@@ -335,11 +335,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/github/nbless/__init__.py" timestamp="1536519680857">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/github/nbless/__init__.py" timestamp="1536627244876">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/__init__.py" timestamp="1536491308683">
         <mark key="[" line="0" column="0" />
@@ -371,6 +371,13 @@
         <mark key="]" line="2" column="2" />
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbless.py" timestamp="1536628541700">
+        <mark key="'" line="44" column="23" />
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="36" column="23" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="42" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -405,6 +412,12 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/github/nbless/nbless/__init__.py" timestamp="1536628227049">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.md" timestamp="1535861647605">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -433,6 +446,13 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbtest.py" timestamp="1536628454445">
+        <mark key="'" line="14" column="78" />
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" timestamp="1535484602691">
         <mark key="'" line="59" column="12" />
         <mark key="[" line="4" column="11" />
@@ -442,11 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="31" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
-      <jump line="31" column="62" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
-      <jump line="34" column="34" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="32" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="35" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
@@ -542,6 +557,11 @@
       <jump line="15" column="20" filename="$USER_HOME$/github/nbless/nbless.py" />
       <jump line="51" column="11" filename="$USER_HOME$/github/nbless/nbless.py" />
       <jump line="0" column="24" filename="$USER_HOME$/github/nbless/nbtest.py" />
+      <jump line="8" column="33" filename="$USER_HOME$/github/nbless/nbless/nbtest.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/nbless/nbless/nbtest.py" />
+      <jump line="37" column="50" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
+      <jump line="14" column="78" filename="$USER_HOME$/github/nbless/nbless/nbtest.py" />
+      <jump line="44" column="23" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -571,13 +591,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>nbexec</text>
       </register>
       <register name="/" type="4">
         <text>outp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bmJsZXNzKFsiUkVBRE1FLm1kIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sIG5iZXhlY19wYXRoPSJub3RlYm9va3MvIikK</text>
+        <text encoding="base64">ZnJvbSBuYmxlc3MubmJleGVjIGltcG9ydCBuYmV4ZWMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -607,7 +627,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -654,15 +674,15 @@
         <entry>action RenameProject</entry>
         <entry>action RenameFile</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action Move</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action GotoFile</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>w</entry>
         <entry>action CloseProject</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateSciViewToolWindow</entry>
+        <entry>action Move</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
