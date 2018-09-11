@@ -84,6 +84,9 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="2" />
       </file>
+      <file name="$USER_HOME$/github/nbless/plot.py" timestamp="1536690926540">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535644381827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="10" />
@@ -265,7 +268,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1536519698219">
+      <file name="/Python Console" timestamp="1536690880910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -356,7 +359,7 @@
       <file name="/Dummy.txt" timestamp="1536095381740">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1536116310340">
+      <file name="/code.py" timestamp="1536690749130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
@@ -378,6 +381,12 @@
         <mark key="]" line="36" column="23" />
         <mark key="^" line="36" column="23" />
         <mark key="." line="42" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536690426852">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -412,11 +421,11 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbless/__init__.py" timestamp="1536628227049">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
+      <file name="$USER_HOME$/github/nbless/nbless/__init__.py" timestamp="1536690285082">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.md" timestamp="1535861647605">
         <mark key="[" line="1" column="0" />
@@ -465,7 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="35" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
@@ -565,6 +573,7 @@
       <jump line="37" column="50" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
       <jump line="14" column="78" filename="$USER_HOME$/github/nbless/nbless/nbtest.py" />
       <jump line="44" column="23" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/nbless/plot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -594,7 +603,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nbexec</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>outp</text>
@@ -630,7 +639,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ActivateSciViewToolWindow</text>
       </register>
     </registers>
     <search>
@@ -679,13 +688,13 @@
         <entry>action ReopenClosedTab</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>w</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ActivateSciViewToolWindow</entry>
         <entry>action Move</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action GotoFile</entry>
         <entry>action CloseProject</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ActivateSciViewToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
