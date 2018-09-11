@@ -248,7 +248,7 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1536691368133">
+      <file name="/Python Console" timestamp="1536693718245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
@@ -362,11 +362,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="42" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536690426852">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536693653839">
+        <mark key="'" line="6" column="23" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="6" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -454,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="25" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="44" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
@@ -554,6 +554,7 @@
       <jump line="44" column="23" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/nbless/plot.py" />
       <jump line="9" column="10" filename="$USER_HOME$/github/nbless/plot.py" />
+      <jump line="5" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -583,43 +584,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>outp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBuYmxlc3MubmJleGVjIGltcG9ydCBuYmV4ZWMK</text>
+        <text encoding="base64">dHlwaW5nIGFzIG5vcm1hbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoInNvbWV0aGluZyIK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBBbm90aGVyIGFsdGVybmF0aXZlIGlzIHRvIAo=</text>
+      <register name="2" type="4">
+        <text>print(&quot;HI, my name is Martin!&quot;
+&quot;HI, my name is Martin!&quot;
+&quot;HI, my name is Martin!&quot;
+&quot;HI, my name is Martin!&quot;
+&quot;HI, my name is Martin!&quot;
+&quot;HI, my name is Martin!&quot;)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJDcmVhdGVkIHJhdy5pcHluYiIpCg==</text>
+      <register name="3" type="8">
+        <text>)
+)
+)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJsZXNzIGltcG9ydCBuYmxlc3MK</text>
+      <register name="4" type="8">
+        <text>print(
+print(
+print(
+print(
+print(
+print(</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJleGVjIGltcG9ydCBuYmV4ZWMK</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJ1aWxkIGltcG9ydCBuYnVpbGQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">I2Zyb20gLiBpbXBvcnQgbmJ1aWxkCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">bmJleGVjKCkK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBBbm90aGVyIGFsdGVybmF0aXZlIGlzIHRvIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJDcmVhdGVkIHJhdy5pcHluYiIpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBwYWNrYWdlcy5uYmxlc3MubmJsZXNzIGltcG9ydCBuYmxlc3MK</text>
+      </register>
       <register name=":" type="4">
-        <text>action ActivateSciViewToolWindow</text>
+        <text>action ActivatePythonConsoleToolWindow</text>
       </register>
     </registers>
     <search>
@@ -672,9 +685,9 @@
         <entry>action GotoFile</entry>
         <entry>action CloseProject</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ActivateSciViewToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ActivateSciViewToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
