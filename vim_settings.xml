@@ -79,8 +79,8 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="$USER_HOME$/github/nbless/plot.py" timestamp="1536690926540">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/github/nbless/plot.py" timestamp="1536693033680">
+        <mark key="'" line="9" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535644381827">
         <mark key="[" line="0" column="0" />
@@ -454,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
       <jump line="25" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
@@ -554,6 +553,7 @@
       <jump line="14" column="78" filename="$USER_HOME$/github/nbless/nbless/nbtest.py" />
       <jump line="44" column="23" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/nbless/plot.py" />
+      <jump line="9" column="10" filename="$USER_HOME$/github/nbless/plot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
