@@ -359,12 +359,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="42" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536720545410">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536722227421">
         <mark key="'" line="12" column="76" />
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="42" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="12" column="41" />
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -629,7 +629,7 @@ print(</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -683,8 +683,8 @@ print(</text>
         <entry>action CloseProject</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivateSciViewToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
