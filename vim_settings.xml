@@ -359,12 +359,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="42" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536718673117">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536719450600">
         <mark key="'" line="8" column="31" />
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="12" column="29" />
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -581,7 +581,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>value=</text>
       </register>
       <register name="/" type="4">
         <text>outp</text>
