@@ -359,12 +359,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="42" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536800564906">
-        <mark key="'" line="15" column="7" />
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="28" column="5" />
-        <mark key="^" line="28" column="10" />
-        <mark key="." line="28" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536801537467">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -581,13 +581,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>builtin</text>
+        <text>lunch_options</text>
       </register>
       <register name="/" type="4">
         <text>outp</text>
       </register>
-      <register name="0" type="4">
-        <text>[&quot;a&quot;,'b','c']</text>
+      <register name="0" type="2">
+        <text encoding="base64">Zm9vZF9pdGVtcyA9IFsnYnVycml0bycsICdzdXNoaScsICdwYXN0YSddCnByaW50KCpmb29kX2l0ZW1zKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQoKQo=</text>
@@ -734,6 +734,9 @@ print(</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
