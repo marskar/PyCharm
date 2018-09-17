@@ -328,6 +328,9 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="/Python Console" timestamp="1537203053046">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="1" column="0" />
@@ -433,7 +436,7 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537139518305">
+      <file name="/Dummy.txt" timestamp="1537203053114">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
@@ -562,12 +565,12 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537103149386">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="48" />
-        <mark key="." line="3" column="10" />
-        <mark key="^" line="4" column="10" />
+      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537203576991">
+        <mark key="'" line="32" column="32" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="32" />
+        <mark key="^" line="23" column="32" />
+        <mark key="." line="23" column="32" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbless/render.py" timestamp="1537139840624">
         <mark key="'" line="91" column="0" />
@@ -578,8 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/github/nbless/nbexec.py" />
       <jump line="16" column="23" filename="$USER_HOME$/github/nbless/nbexec.py" />
       <jump line="58" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
       <jump line="2" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
@@ -678,6 +679,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbexec.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
+      <jump line="0" column="29" filename="$USER_HOME$/github/nbtest/nbtest.py" />
+      <jump line="32" column="32" filename="$USER_HOME$/github/nbtest/nbtest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -735,43 +738,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>system</text>
+        <text>Or to run both nbuild and nbexec at once, use nbless</text>
       </register>
       <register name="/" type="4">
         <text>Jup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBjYWxsCgpjYWxsKFsnbHMnLCAnLWwnXSkK</text>
+        <text encoding="base64">IyBPciB0byBydW4gYm90aCBuYnVpbGQgYW5kIG5iZXhlYyBhdCBvbmNlLCB1c2UgbmJsZXNzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9uYW1lOiBzdHIgPSAnY2F0LlJtZCcsCiAgICBvdXRwdXRfcGF0aDogc3RyID0gJ05VTEwnLAogICAgb3V0cHV0X29wdGlvbnM6IHN0ciA9ICdOVUxMJywKCg==</text>
+        <text encoding="base64">bmJsZXNzLmNhdHJtZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBuYmV4ZWNfcGF0aD0ibm90ZWJvb2tzLyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9uYW1lOiBzdHIgPSAnY2F0LlJtZCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9mb3JtYXQ6IHN0ciA9ICdOVUxMJywK</text>
+        <text encoding="base64">IyBZb3UgY2FuIGFsc28gaW1wb3J0IGVhY2ggZnVuY3Rpb24gaW5kaXZpZHVhbGx5Cm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5iZXhlYygibm90ZWJvb2tzL3Jhdy5pcHluYiIsIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikKbmJsZXNzKFsiUkVBRE1FLm1kIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sIG5iZXhlY19wYXRoPSJub3RlYm9va3MvIikKIyBBbm90aGVyIGFsdGVybmF0aXZlIGlzIHRvIGltcG9ydCB0aGUgcGFja2FnZSBhbmQgdXNlIGl0IGFzIGEgbmFtZXNwYWNlLgoKbmJsZXNzLm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmV4ZWMoIm5vdGVib29rcy9yYXcuaXB5bmIiLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmxlc3MoWyJSRUFETUUubWQiLCAicGxvdC5weSIsICJub3Rlcy50eHQiXSwgbmJleGVjX3BhdGg9Im5vdGVib29rcy8iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9mb3JtYXQ6IHN0ciA9ICdOVUxMJywKICAgIG91dHB1dF9uYW1lOiBzdHIgPSAnY2F0LlJtZCcsCiAgICBvdXRwdXRfcGF0aDogc3RyID0gJ05VTEwnLAogICAgb3V0cHV0X29wdGlvbnM6IHN0ciA9ICdOVUxMJywKCg==</text>
+        <text encoding="base64">IyBUaGUgYWJvdmUgaW1wb3J0cyBhbGwgNCBmdW5jdGlvbnMgYW5kIGlzIHRoZSBzYW1lIGFzIHRoZSBsaW5lIGJlbG93Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludGVybV9wYXRoOiBzdHIgPSAnTlVMTCcsCiAgICBrbml0X3Jvb3RfcGF0aDogc3RyID0gJ05VTEwnLAogICAgcnVudGltZTogJ3N0ciA9IGMoImF1dG8iLCAic3RhdGljIiwgInNoaW55IiwgInNoaW55X3ByZXJlbmRlcmVkIiknLAogICAgY2xlYW46c3RyID0gJ1RSVUUnLAogICAgcGFyYW1zOnN0ciA9ICdOVUxMJywKICAgIGtuaXRfbWV0YTpzdHIgPSAnTlVMTCcsCiAgICBlbnZpcjpzdHIgPSAncGFyZW50LmZyYW1lKCknLAogICAgcnVuX3BhbmRvYzpzdHIgPSAnVFJVRScsCiAgICBxdWlldDpzdHIgPSAnRkFMU0UnLAogICAgZW5jb2Rpbmc6c3RyID0gJ2dldE9wdGlvbigiZW5jb2RpbmciKScK</text>
+        <text encoding="base64">IyBUaGUgYWJvdmUgaW1wb3J0cyBhbGwgNCBmdW5jdGlvbnMgYW5kIGlzIHRoZSBzYW1lIGFzIHRoZSBsaW5lIGJlbG93Lgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nTGlzdCBvZiBvdXRwdXQgb3B0aW9ucyB0aGF0IGNhbiBvdmVycmlkZSB0aGUgb3B0aW9ucyBzcGVjaWZpZWQgaW4gbWV0YWRhdGEgKGUuZy4gY291bGQgYmUgdXNlZCB0byBmb3JjZSBzZWxmX2NvbnRhaW5lZCBvciBtYXRoamF4ID0gImxvY2FsIikuIE5vdGUgdGhhdCB0aGlzIGlzIG9ubHkgdmFsaWQgd2hlbiB0aGUgb3V0cHV0IGZvcm1hdCBpcyByZWFkIGZyb20gbWV0YWRhdGEgKGkuZS4gbm90IGEgY3VzdG9tIGZvcm1hdCBvYmplY3QgcGFzc2VkIHRvIG91dHB1dF9mb3JtYXQpLicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCiAgICBpbl9uYW1lID0gYXJncy5pbnB1dF9uYW1lCiAgICBpbl9wYXRoID0gYXJncy5pbnB1dF9wYXRoCiAgICBvdXRfbmFtZSA9IGFyZ3MuZXhlY3V0ZWQKICAgIG91dF9wYXRoID0gYXJncy5pbnB1dF9wYXRoCiAgICBrZXJuZWwgPSBhcmdzLmtlcm5lbAoK</text>
+        <text encoding="base64">aW1wb3J0IG5ibGVzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWVzID0gYXJncy5uYW1lcwogICAgaW5fcGF0aCA9IGFyZ3MuaW5wdXRfcGF0aAogICAgb3V0X25hbWUgPSBhcmdzLnVucmVuZGVyZWQKICAgIG91dF9wYXRoID0gYXJncy5vdXRwdXRfcGF0aAo=</text>
+        <text encoding="base64">ZnJvbSBuYmxlc3MgaW1wb3J0IG5ibGVzcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -813,7 +816,6 @@
         <entry>action WelcomeScreen.Platform.NewProject</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>w</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action Move</entry>
         <entry>action RenameElement</entry>
@@ -825,8 +827,9 @@
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action RenameFile</entry>
         <entry>action OpenProjectWindows</entry>
-        <entry>action CloseProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>w</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
