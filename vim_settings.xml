@@ -562,7 +562,7 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537209206744">
+      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537210719539">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -686,13 +686,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="j" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="35" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="10" mods="0" />
-        </keys>
+        <text>k</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -771,7 +765,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -824,9 +818,9 @@
         <entry>action RenameFile</entry>
         <entry>action OpenProjectWindows</entry>
         <entry>w</entry>
-        <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
