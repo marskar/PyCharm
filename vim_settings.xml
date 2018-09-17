@@ -328,9 +328,6 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1537206282575">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="1" column="0" />
@@ -565,12 +562,12 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537204282857">
+      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537207704112">
         <mark key="'" line="32" column="32" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbless/render.py" timestamp="1537139840624">
         <mark key="'" line="91" column="0" />
@@ -746,35 +743,36 @@
       <register name="0" type="2">
         <text encoding="base64">IyBPciB0byBydW4gYm90aCBuYnVpbGQgYW5kIG5iZXhlYyBhdCBvbmNlLCB1c2UgbmJsZXNzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBuYmxlc3MubmJsZXNzIGltcG9ydCBuYnVpbGQK</text>
+      <register name="1" type="4">
+        <text>catrmd([&quot;header.yml&quot;, &quot;intro.md&quot;, &quot;letters.R&quot; &quot;plot.py&quot;, &quot;notes.txt&quot;],
+       output_path=&quot;rmarkdown/&quot;)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBuYmxlc3MubmJsZXNzIGltcG9ydCBuYnVpbGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGhvd2RvaQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bmJsZXNzLmNhdHJtZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBuYmV4ZWNfcGF0aD0ibm90ZWJvb2tzLyIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGhvd2RvaQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bmJsZXNzLmNhdHJtZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBuYmV4ZWNfcGF0aD0ibm90ZWJvb2tzLyIpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBZb3UgY2FuIGFsc28gaW1wb3J0IGVhY2ggZnVuY3Rpb24gaW5kaXZpZHVhbGx5Cm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5iZXhlYygibm90ZWJvb2tzL3Jhdy5pcHluYiIsIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikKbmJsZXNzKFsiUkVBRE1FLm1kIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sIG5iZXhlY19wYXRoPSJub3RlYm9va3MvIikKIyBBbm90aGVyIGFsdGVybmF0aXZlIGlzIHRvIGltcG9ydCB0aGUgcGFja2FnZSBhbmQgdXNlIGl0IGFzIGEgbmFtZXNwYWNlLgoKbmJsZXNzLm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmV4ZWMoIm5vdGVib29rcy9yYXcuaXB5bmIiLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmxlc3MoWyJSRUFETUUubWQiLCAicGxvdC5weSIsICJub3Rlcy50eHQiXSwgbmJleGVjX3BhdGg9Im5vdGVib29rcy8iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBUaGUgYWJvdmUgaW1wb3J0cyBhbGwgNCBmdW5jdGlvbnMgYW5kIGlzIHRoZSBzYW1lIGFzIHRoZSBsaW5lIGJlbG93Lgo=</text>
+        <text encoding="base64">IyBZb3UgY2FuIGFsc28gaW1wb3J0IGVhY2ggZnVuY3Rpb24gaW5kaXZpZHVhbGx5Cm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5iZXhlYygibm90ZWJvb2tzL3Jhdy5pcHluYiIsIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikKbmJsZXNzKFsiUkVBRE1FLm1kIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sIG5iZXhlY19wYXRoPSJub3RlYm9va3MvIikKIyBBbm90aGVyIGFsdGVybmF0aXZlIGlzIHRvIGltcG9ydCB0aGUgcGFja2FnZSBhbmQgdXNlIGl0IGFzIGEgbmFtZXNwYWNlLgoKbmJsZXNzLm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmV4ZWMoIm5vdGVib29rcy9yYXcuaXB5bmIiLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmxlc3MoWyJSRUFETUUubWQiLCAicGxvdC5weSIsICJub3Rlcy50eHQiXSwgbmJleGVjX3BhdGg9Im5vdGVib29rcy8iKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">IyBUaGUgYWJvdmUgaW1wb3J0cyBhbGwgNCBmdW5jdGlvbnMgYW5kIGlzIHRoZSBzYW1lIGFzIHRoZSBsaW5lIGJlbG93Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUaGUgYWJvdmUgaW1wb3J0cyBhbGwgNCBmdW5jdGlvbnMgYW5kIGlzIHRoZSBzYW1lIGFzIHRoZSBsaW5lIGJlbG93Lgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -821,15 +819,15 @@
         <entry>action RenameElement</entry>
         <entry>action NewDirectoryProject</entry>
         <entry>action Synchronize</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>nohlsearch</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action RenameFile</entry>
         <entry>action OpenProjectWindows</entry>
         <entry>w</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
