@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1535983899050">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1534786162105">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="30" column="60" />
@@ -13,12 +10,11 @@
         <mark key="." line="30" column="60" />
         <mark key="^" line="30" column="60" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535652939945">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="5" column="16" />
+      <file name="$USER_HOME$/github/biof309_fall2018/zip/zip.py" timestamp="1537101688213">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/test.py" timestamp="1536427865570">
         <mark key="'" line="16" column="0" />
@@ -40,11 +36,22 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1536282983054">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535652939945">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/packages/event/weekly.py" timestamp="1536425547096">
-        <mark key="'" line="37" column="0" />
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/event/weekly.py" timestamp="1537013973498">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="65" />
+        <mark key="]" line="61" column="59" />
+        <mark key="." line="61" column="59" />
+        <mark key="^" line="61" column="59" />
+      </file>
+      <file name="/a.dummy" timestamp="1537139491553">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535917865242">
         <mark key="'" line="50" column="0" />
@@ -73,6 +80,13 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
       </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbuild.py" timestamp="1537133372745">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534801208182">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="0" />
@@ -86,8 +100,14 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="$USER_HOME$/github/nbless/plot.py" timestamp="1536693033680">
-        <mark key="'" line="9" column="10" />
+      <file name="$USER_HOME$/github/nbless/plot.py" timestamp="1537125652488">
+        <mark key="'" line="1" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/zip.py" timestamp="1537062586517">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535644381827">
         <mark key="[" line="0" column="0" />
@@ -119,18 +139,38 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/github/nbless/catrmd.py" timestamp="1537121157380">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="7" column="37" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/test.py" timestamp="1536380807424">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="9" />
         <mark key="^" line="2" column="10" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbless.py" timestamp="1536521428443">
-        <mark key="'" line="52" column="11" />
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-        <mark key="^" line="37" column="50" />
+      <file name="$USER_HOME$/github/nbless/nbless.py" timestamp="1537143111924">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="77" />
+        <mark key="]" line="56" column="77" />
+        <mark key="." line="56" column="77" />
+        <mark key="^" line="56" column="77" />
+      </file>
+      <file name="$USER_HOME$/github/pydy/pydy.py" timestamp="1537139502049">
+        <mark key="'" line="18" column="26" />
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/setup.py" timestamp="1537130149158">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490915792">
         <mark key="'" line="0" column="0" />
@@ -145,6 +185,12 @@
         <mark key="]" line="44" column="21" />
         <mark key="." line="44" column="21" />
         <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pydy/helper.py" timestamp="1537034915374">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535490857550">
         <mark key="'" line="4" column="0" />
@@ -198,6 +244,12 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.Rmd" timestamp="1535919247062">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py" timestamp="1535880153874">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="815" column="4" />
@@ -205,17 +257,17 @@
         <mark key="^" line="815" column="3" />
         <mark key="." line="815" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.Rmd" timestamp="1535919247062">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.md" timestamp="1535878788523">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/pydy/__init__.py" timestamp="1537021308946">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/example.py" timestamp="1535591378737">
         <mark key="[" line="6" column="0" />
@@ -228,6 +280,20 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1537139710946">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbexec.py" timestamp="1537135167488">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="30" column="3" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/README.md" timestamp="1535985872345">
         <mark key="[" line="6" column="0" />
@@ -248,11 +314,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1536875362809">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1537013782393">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535736942883">
         <mark key="'" line="33" column="6" />
@@ -267,6 +334,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="77" />
+        <mark key="]" line="46" column="77" />
+        <mark key="^" line="46" column="77" />
+        <mark key="." line="46" column="77" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1535308608218">
         <mark key="'" line="35" column="32" />
@@ -309,6 +383,13 @@
         <mark key="." line="29" column="51" />
         <mark key="^" line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/github/nbless/nbless/catrmd.py" timestamp="1537134842761">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="60" column="24" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="18" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate-listcomp.py" timestamp="1536089487581">
         <mark key="'" line="9" column="12" />
         <mark key="[" line="7" column="67" />
@@ -340,16 +421,19 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1537139268139">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zen/__init__.py" timestamp="1535491740481">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536691368248">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1536691442940">
+      <file name="/Dummy.txt" timestamp="1537139518305">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
@@ -365,19 +449,19 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbless/nbless.py" timestamp="1536628541700">
+      <file name="$USER_HOME$/github/nbless/nbless/nbless.py" timestamp="1537130372857">
         <mark key="'" line="44" column="23" />
-        <mark key="[" line="42" column="23" />
+        <mark key="[" line="7" column="26" />
         <mark key="]" line="36" column="23" />
         <mark key="^" line="36" column="23" />
-        <mark key="." line="42" column="23" />
+        <mark key="." line="7" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1536806288687">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1537101529482">
         <mark key="'" line="15" column="32" />
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="20" column="7" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="20" column="7" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -385,6 +469,20 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/pydy/pydytest.py" timestamp="1537026782518">
+        <mark key="'" line="8" column="66" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/nbexec.py" timestamp="1536381258181">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/make_folders.py" timestamp="1534801124963">
         <mark key="[" line="1" column="0" />
@@ -398,12 +496,11 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/nbexec.py" timestamp="1536381258181">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/github/nbless/nbless/__init__.py" timestamp="1537129876540">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1535487927012">
         <mark key="'" line="10" column="0" />
@@ -411,12 +508,6 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
-      </file>
-      <file name="$USER_HOME$/github/nbless/nbless/__init__.py" timestamp="1536690285082">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.md" timestamp="1535861647605">
         <mark key="[" line="1" column="0" />
@@ -430,11 +521,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbuild.py" timestamp="1536520216483">
-        <mark key="'" line="37" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.md" timestamp="1536685414498">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/github/nbless/nbuild.py" timestamp="1537200746633">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="56" />
+        <mark key="]" line="41" column="56" />
+        <mark key="." line="41" column="56" />
+        <mark key="^" line="56" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test" timestamp="1536281750353">
         <mark key="[" line="0" column="0" />
@@ -463,199 +555,236 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1537122287690">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+      </file>
+      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537103149386">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/render.py" timestamp="1537139840624">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="23" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="37" column="29" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="15" column="34" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="19" column="13" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/event/weekly.py" />
-      <jump line="15" column="41" filename="$USER_HOME$/github/biof309_fall2018/test.py" />
-      <jump line="19" column="12" filename="$USER_HOME$/github/biof309_fall2018/test.py" />
-      <jump line="0" column="16" filename="$USER_HOME$/github/biof309_fall2018/test.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/github/biof309_fall2018/test.py" />
-      <jump line="6" column="34" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="32" column="48" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="40" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="41" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="43" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="44" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="10" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="11" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="17" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="18" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="6" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="13" column="44" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="15" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="16" column="8" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="18" column="26" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="29" column="50" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="30" column="50" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="33" column="53" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="41" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="42" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="24" column="35" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
-      <jump line="29" column="49" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="36" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="23" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="39" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="28" column="27" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="26" column="50" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="46" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="5" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" />
-      <jump line="1" column="6" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="4" column="5" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
-      <jump line="48" column="11" filename="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" />
-      <jump line="17" column="5" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="48" column="11" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="21" column="15" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="12" column="12" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="33" column="72" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
-      <jump line="25" column="77" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="46" column="16" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="16" column="23" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/github/nbless/catrmd.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/github/nbless/catrmd.py" />
+      <jump line="21" column="12" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="25" column="54" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="0" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="3" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="7" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="52" column="4" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="18" column="23" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="66" column="31" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="34" column="29" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="1" column="14" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="54" column="47" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="38" column="47" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="1" column="3" filename="$USER_HOME$/github/nbless/plot.py" />
+      <jump line="72" column="12" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="14" column="34" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="51" column="15" filename="$USER_HOME$/github/nbless/nbuild.py" />
       <jump line="47" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="15" column="20" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="51" column="11" filename="$USER_HOME$/github/nbless/nbless.py" />
-      <jump line="0" column="24" filename="$USER_HOME$/github/nbless/nbtest.py" />
-      <jump line="8" column="33" filename="$USER_HOME$/github/nbless/nbless/nbtest.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/nbless/nbless/nbtest.py" />
-      <jump line="37" column="50" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
-      <jump line="14" column="78" filename="$USER_HOME$/github/nbless/nbless/nbtest.py" />
-      <jump line="44" column="23" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/nbless/plot.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/github/nbless/plot.py" />
-      <jump line="5" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="8" column="31" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="12" column="76" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="15" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/distance_from_zero.py" />
-      <jump line="0" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/distance_from_zero.py" />
-      <jump line="10" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/distance_from_zero.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="57" column="11" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="56" column="4" filename="$USER_HOME$/github/nbless/nbuild.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="17" column="34" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="70" column="15" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="79" column="4" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="69" column="14" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
+      <jump line="41" column="40" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
+      <jump line="5" column="11" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/github/nbless/nbless/catrmd.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/github/nbless/nbless/catrmd.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/github/nbless/nbless/nbuild.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbless/nbuild.py" />
+      <jump line="60" column="18" filename="$USER_HOME$/github/nbless/nbless/catrmd.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="50" column="18" filename="$USER_HOME$/github/nbless/nbless/catrmd.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/github/nbless/nbless/nbuild.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/github/nbless/nbless/catrmd.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="5" column="3" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="3" column="1" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="32" column="36" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="13" column="29" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="14" column="30" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="16" column="39" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="17" column="34" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="18" column="30" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="19" column="37" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="34" column="27" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="26" column="12" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="52" column="55" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="6" column="36" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="83" column="4" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="58" column="59" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="0" column="20" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="28" column="42" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="15" column="34" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="68" column="33" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="104" column="11" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="105" column="22" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="12" column="12" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="33" column="26" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="67" column="28" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="86" column="34" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="2" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/github/nbless/nbless/render.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbless.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbexec.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>''</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="67" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="82" mods="130" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
       <register name="l" type="4">
         <keys>
-          <key char="65" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
           <key char="44" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>system</text>
       </register>
       <register name="/" type="4">
-        <text>outp</text>
+        <text>Jup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoeCwgKGludCwgZmxvYXQpKToK</text>
+        <text encoding="base64">ZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBjYWxsCgpjYWxsKFsnbHMnLCAnLWwnXSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>def distance_from_zero(x):
-    if type(x) in (int, float):
-    #if type(x) == int or type(x) ==  float:
-        return abs(x)
-    else:
-        return 'Nope'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG91dHB1dF9uYW1lOiBzdHIgPSAnY2F0LlJtZCcsCiAgICBvdXRwdXRfcGF0aDogc3RyID0gJ05VTEwnLAogICAgb3V0cHV0X29wdGlvbnM6IHN0ciA9ICdOVUxMJywKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwZShUcnVlKQo=</text>
+        <text encoding="base64">ICAgIG91dHB1dF9uYW1lOiBzdHIgPSAnY2F0LlJtZCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dHB1dF9mb3JtYXQ6IHN0ciA9ICdOVUxMJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWxpY2UsIGJvYiwgY2luZHkgCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dF9mb3JtYXQ6IHN0ciA9ICdOVUxMJywKICAgIG91dHB1dF9uYW1lOiBzdHIgPSAnY2F0LlJtZCcsCiAgICBvdXRwdXRfcGF0aDogc3RyID0gJ05VTEwnLAogICAgb3V0cHV0X29wdGlvbnM6IHN0ciA9ICdOVUxMJywKCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGludGVybV9wYXRoOiBzdHIgPSAnTlVMTCcsCiAgICBrbml0X3Jvb3RfcGF0aDogc3RyID0gJ05VTEwnLAogICAgcnVudGltZTogJ3N0ciA9IGMoImF1dG8iLCAic3RhdGljIiwgInNoaW55IiwgInNoaW55X3ByZXJlbmRlcmVkIiknLAogICAgY2xlYW46c3RyID0gJ1RSVUUnLAogICAgcGFyYW1zOnN0ciA9ICdOVUxMJywKICAgIGtuaXRfbWV0YTpzdHIgPSAnTlVMTCcsCiAgICBlbnZpcjpzdHIgPSAncGFyZW50LmZyYW1lKCknLAogICAgcnVuX3BhbmRvYzpzdHIgPSAnVFJVRScsCiAgICBxdWlldDpzdHIgPSAnRkFMU0UnLAogICAgZW5jb2Rpbmc6c3RyID0gJ2dldE9wdGlvbigiZW5jb2RpbmciKScK</text>
       </register>
       <register name="6" type="4">
-        <text>Alice</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nTGlzdCBvZiBvdXRwdXQgb3B0aW9ucyB0aGF0IGNhbiBvdmVycmlkZSB0aGUgb3B0aW9ucyBzcGVjaWZpZWQgaW4gbWV0YWRhdGEgKGUuZy4gY291bGQgYmUgdXNlZCB0byBmb3JjZSBzZWxmX2NvbnRhaW5lZCBvciBtYXRoamF4ID0gImxvY2FsIikuIE5vdGUgdGhhdCB0aGlzIGlzIG9ubHkgdmFsaWQgd2hlbiB0aGUgb3V0cHV0IGZvcm1hdCBpcyByZWFkIGZyb20gbWV0YWRhdGEgKGkuZS4gbm90IGEgY3VzdG9tIGZvcm1hdCBvYmplY3QgcGFzc2VkIHRvIG91dHB1dF9mb3JtYXQpLicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">X19hbGxfXwo=</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCiAgICBpbl9uYW1lID0gYXJncy5pbnB1dF9uYW1lCiAgICBpbl9wYXRoID0gYXJncy5pbnB1dF9wYXRoCiAgICBvdXRfbmFtZSA9IGFyZ3MuZXhlY3V0ZWQKICAgIG91dF9wYXRoID0gYXJncy5pbnB1dF9wYXRoCiAgICBrZXJuZWwgPSBhcmdzLmtlcm5lbAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwaW5nIGFzIG5vcm1hbAp0eXBpbmcgYXMgbm9ybWFsCg==</text>
+        <text encoding="base64">ICAgIG5hbWVzID0gYXJncy5uYW1lcwogICAgaW5fcGF0aCA9IGFyZ3MuaW5wdXRfcGF0aAogICAgb3V0X25hbWUgPSBhcmdzLnVucmVuZGVyZWQKICAgIG91dF9wYXRoID0gYXJncy5vdXRwdXRfcGF0aAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
-      <last-search>outp</last-search>
+      <last-search>Jup</last-search>
       <last-offset />
-      <last-pattern>outp</last-pattern>
+      <last-pattern>Jup</last-pattern>
       <last-replace />
       <last-substitute>_event</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>my</entry>
-        <entry encoding="base64">XDxhbm90aGVyXD4=</entry>
-        <entry encoding="base64">XDxpbnRcPg==</entry>
-        <entry encoding="base64">XDxoZXJlXD4=</entry>
-        <entry encoding="base64">XDxmcm9tXD4=</entry>
-        <entry>from</entry>
-        <entry encoding="base64">XDx3ZWVrZGF5c1w+</entry>
         <entry encoding="base64">XDx3ZWVrY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry encoding="base64">XDxzdGFydF9kYXRlXD4=</entry>
@@ -669,28 +798,35 @@
         <entry>raw</entry>
         <entry>e</entry>
         <entry>outp</entry>
+        <entry>isin</entry>
+        <entry>isins</entry>
+        <entry>hi</entry>
+        <entry>ends</entry>
+        <entry>+</entry>
+        <entry>runt</entry>
+        <entry>Jup</entry>
       </history-search>
       <history-cmd>
-        <entry>action JumpToLastChange</entry>
-        <entry>action Rename</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action CloseActiveTab</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action ActivateEventLogToolWindow</entry>
-        <entry>action RenameElement</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameProject</entry>
-        <entry>action RenameFile</entry>
-        <entry>action ReopenClosedTab</entry>
-        <entry>action JumpToLastWindow</entry>
-        <entry>w</entry>
-        <entry>action Move</entry>
         <entry>action GotoFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action WelcomeScreen.Platform.NewProject</entry>
+        <entry>action ReopenClosedTab</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>w</entry>
+        <entry>action JumpToLastWindow</entry>
+        <entry>action Move</entry>
+        <entry>action RenameElement</entry>
+        <entry>action NewDirectoryProject</entry>
+        <entry>action Synchronize</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>nohlsearch</entry>
+        <entry>action JumpToLastChange</entry>
         <entry>action ActivateSciViewToolWindow</entry>
+        <entry>action RenameFile</entry>
+        <entry>action OpenProjectWindows</entry>
         <entry>action CloseProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
