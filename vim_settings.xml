@@ -774,7 +774,7 @@
         <text encoding="base64">aW1wb3J0IG5ibGVzcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -828,8 +828,8 @@
         <entry>action RenameFile</entry>
         <entry>action OpenProjectWindows</entry>
         <entry>w</entry>
-        <entry>action CloseProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
