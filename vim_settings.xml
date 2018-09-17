@@ -562,12 +562,11 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537207704112">
-        <mark key="'" line="32" column="32" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537209206744">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbless/render.py" timestamp="1537139840624">
         <mark key="'" line="91" column="0" />
@@ -578,7 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/github/nbless/catrmd.py" />
       <jump line="51" column="0" filename="$USER_HOME$/github/nbless/catrmd.py" />
       <jump line="21" column="12" filename="$USER_HOME$/github/nbless/nbless.py" />
       <jump line="25" column="54" filename="$USER_HOME$/github/nbless/nbless.py" />
@@ -678,6 +676,7 @@
       <jump line="19" column="73" filename="$USER_HOME$/github/nbless/nbless/catrmd.py" />
       <jump line="22" column="4" filename="$USER_HOME$/github/nbless/nbless/catrmd.py" />
       <jump line="3" column="14" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/github/nbtest/nbtest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -735,41 +734,41 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>uild</text>
+        <text>nbless.</text>
       </register>
       <register name="/" type="4">
         <text>Jup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBPciB0byBydW4gYm90aCBuYnVpbGQgYW5kIG5iZXhlYyBhdCBvbmNlLCB1c2UgbmJsZXNzCg==</text>
+        <text encoding="base64">bmJsZXNzLmNhdHJtZChbImhlYWRlci55bWwiLCAiaW50cm8ubWQiLCAibGV0dGVycy5SIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sCiAgICAgICAgICAgICAgb3V0cHV0X3BhdGg9InJtYXJrZG93bi8iKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBvdXRwdXRfcGF0aD0icm1hcmtkb3duLyIpCm5ibGVzcy5jYXRybWQoWyJoZWFkZXIueW1sIiwgImludHJvLm1kIiwgImxldHRlcnMuUiIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLApjYXRybWQoWyJoZWFkZXIueW1sIiwgImludHJvLm1kIiwgImxldHRlcnMuUiIgInBsb3QucHkiLCAibm90ZXMudHh0Il0sCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bmJsZXNzLmNhdHJtZChbImhlYWRlci55bWwiLCAiaW50cm8ubWQiLCAibGV0dGVycy5SIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sCmNhdHJtZChbImhlYWRlci55bWwiLCAiaW50cm8ubWQiLCAibGV0dGVycy5SIiAicGxvdC5weSIsICJub3Rlcy50eHQiXSwKICAgICAgIG91dHB1dF9wYXRoPSJybWFya2Rvd24vIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bmJsZXNzLmNhdHJtZChbImhlYWRlci55bWwiLCAiaW50cm8ubWQiLCAibGV0dGVycy5SIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>catrmd([&quot;header.yml&quot;, &quot;intro.md&quot;, &quot;letters.R&quot; &quot;plot.py&quot;, &quot;notes.txt&quot;],
        output_path=&quot;rmarkdown/&quot;)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBuYmxlc3MubmJsZXNzIGltcG9ydCBuYnVpbGQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGhvd2RvaQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">bmJsZXNzLmNhdHJtZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBuYmV4ZWNfcGF0aD0ibm90ZWJvb2tzLyIpCg==</text>
+        <text encoding="base64">ZnJvbSBuYmxlc3MubmJsZXNzIGltcG9ydCBuYnVpbGQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBZb3UgY2FuIGFsc28gaW1wb3J0IGVhY2ggZnVuY3Rpb24gaW5kaXZpZHVhbGx5Cm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5iZXhlYygibm90ZWJvb2tzL3Jhdy5pcHluYiIsIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikKbmJsZXNzKFsiUkVBRE1FLm1kIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sIG5iZXhlY19wYXRoPSJub3RlYm9va3MvIikKIyBBbm90aGVyIGFsdGVybmF0aXZlIGlzIHRvIGltcG9ydCB0aGUgcGFja2FnZSBhbmQgdXNlIGl0IGFzIGEgbmFtZXNwYWNlLgoKbmJsZXNzLm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmV4ZWMoIm5vdGVib29rcy9yYXcuaXB5bmIiLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmxlc3MoWyJSRUFETUUubWQiLCAicGxvdC5weSIsICJub3Rlcy50eHQiXSwgbmJleGVjX3BhdGg9Im5vdGVib29rcy8iKQo=</text>
+        <text encoding="base64">aW1wb3J0IGhvd2RvaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBUaGUgYWJvdmUgaW1wb3J0cyBhbGwgNCBmdW5jdGlvbnMgYW5kIGlzIHRoZSBzYW1lIGFzIHRoZSBsaW5lIGJlbG93Lgo=</text>
+        <text encoding="base64">bmJsZXNzLmNhdHJtZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBuYmV4ZWNfcGF0aD0ibm90ZWJvb2tzLyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUaGUgYWJvdmUgaW1wb3J0cyBhbGwgNCBmdW5jdGlvbnMgYW5kIGlzIHRoZSBzYW1lIGFzIHRoZSBsaW5lIGJlbG93Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
