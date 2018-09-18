@@ -342,6 +342,9 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="/Python Console" timestamp="1537239700225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="1" column="0" />
@@ -441,12 +444,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/sarahnotebook.py" timestamp="1537238872298">
+      <file name="$USER_HOME$/Downloads/sarahnotebook.py" timestamp="1537240144486">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zen/__init__.py" timestamp="1535491740481">
         <mark key="[" line="2" column="32" />
@@ -457,12 +460,7 @@
       <file name="/Dummy.txt" timestamp="1537203053114">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/untitled/test.py" timestamp="1537235711601">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
+      <file name="$USER_HOME$/github/untitled/test.py" timestamp="1537240056767" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="11" />
@@ -771,34 +769,34 @@
         <text encoding="base64">bmJsZXNzLmNhdHJtZChbImhlYWRlci55bWwiLCAiaW50cm8ubWQiLCAibGV0dGVycy5SIiwgInBsb3QucHkiLCAibm90ZXMudHh0Il0sCiAgICAgICAgICAgICAgb3V0cHV0X3BhdGg9InJtYXJrZG93bi8iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">MioxNjgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IExhYmVsRW5jb2Rlcgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLmNyb3NzX3ZhbGlkYXRpb24gaW1wb3J0IHRyYWluX3Rlc3Rfc3BsaXQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgY3Jvc3NfdmFsX3Njb3JlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">emVuWzJdCgoiMSIgaW4gIjEiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">emVuID0gcmVhZF9kYXRhKCdkYXRhJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IExhYmVsRW5jb2Rlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBza2xlYXJuLmNyb3NzX3ZhbGlkYXRpb24gaW1wb3J0IHRyYWluX3Rlc3Rfc3BsaXQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">b3MubGlzdGRpcignZGF0YScpCg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgY3Jvc3NfdmFsX3Njb3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">emVuWzJdCgoiMSIgaW4gIjEiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action Move</text>
       </register>
     </registers>
     <search>
@@ -840,7 +838,6 @@
         <entry>action ReopenClosedTab</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action JumpToLastWindow</entry>
-        <entry>action Move</entry>
         <entry>action RenameElement</entry>
         <entry>action NewDirectoryProject</entry>
         <entry>action Synchronize</entry>
@@ -852,8 +849,9 @@
         <entry>action CloseProject</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameFile</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action Move</entry>
       </history-cmd>
       <history-expr />
       <history-input />
