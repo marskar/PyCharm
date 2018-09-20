@@ -252,8 +252,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/github/biof309/about_me.py" timestamp="1537480508188">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/github/biof309/about_me.py" timestamp="1537480690678">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1537139268139">
         <mark key="[" line="2" column="8" />
