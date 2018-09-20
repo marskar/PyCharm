@@ -209,9 +209,6 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1537484860013">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="77" />
@@ -252,11 +249,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/github/biof309/about_me.py" timestamp="1537485083418">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="18" column="6" />
-        <mark key="^" line="18" column="6" />
-        <mark key="." line="18" column="6" />
+      <file name="$USER_HOME$/github/biof309/about_me.py" timestamp="1537486009144">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="25" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1537139268139">
         <mark key="[" line="2" column="8" />
@@ -786,7 +783,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+1</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
