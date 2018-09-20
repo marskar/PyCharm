@@ -816,7 +816,7 @@
         <text encoding="base64">b25lLCB0d28sIHRocmVlID0gW3ggZm9yIHggaW4gcmFuZ2UoMSwgNCldCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -864,7 +864,6 @@
         <entry>action JumpToLastChange</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action OpenProjectWindows</entry>
-        <entry>action CloseProject</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameFile</entry>
         <entry>action NewDirectoryProject</entry>
@@ -872,6 +871,7 @@
         <entry>w</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
