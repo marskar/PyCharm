@@ -829,7 +829,7 @@
         <text encoding="base64">b25lLCB0d28gPSAK</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameFile</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -883,8 +883,8 @@
         <entry>w</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action CloseProject</entry>
         <entry>action RenameFile</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
