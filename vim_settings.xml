@@ -278,6 +278,12 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/assign.py" timestamp="1537532146189">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="12" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="11" />
@@ -552,7 +558,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537500338567">
+      <file name="/Dummy.txt" timestamp="1537532157147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1537101529482">
@@ -787,7 +793,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.items()</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
