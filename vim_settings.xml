@@ -209,7 +209,7 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1537499964327">
+      <file name="/Python Console" timestamp="1537539864853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
@@ -459,6 +459,11 @@
         <mark key="]" line="3" column="7" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/test/test2/__init__.py" timestamp="1537539923227">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/__init__.py" timestamp="1536383324099">
         <mark key="'" line="0" column="0" />
@@ -802,31 +807,31 @@
         <text>assign more than one variable at a time</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly9nb28uZ2wvOEo1RU1LCg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YSwgYiwgYyA9ICdhYmMnCg==</text>
+        <text encoding="base64">aHR0cHM6Ly9nb28uZ2wvOEo1RU1LCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">YSwgYiwgYyA9ICdhYmMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YSwgYiwgYyA9ICdhYmMnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyB0byByZXBsYWNlIG9uZSBjaGFyYWN0ZXIsIGhpdCByIGFuZCB0aGVuIGEgY2hhcmFjdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">IyB0byByZXBsYWNlIG9uZSBjaGFyYWN0ZXIsIGhpdCByIGFuZCB0aGVuIGEgY2hhcmFjdGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBhc3NpZ24gdHdvIHZhcmlhYmxlcyB0aGUgc2FtZSB2YWx1ZQo=</text>
+        <text encoding="base64">IyB0byByZXBsYWNlIG9uZSBjaGFyYWN0ZXIsIGhpdCByIGFuZCB0aGVuIGEgY2hhcmFjdGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBhc3NpZ24gdHdvIHZhcmlhYmxlcyB0aGUgc2FtZSB2YWx1ZQojIHRvIHJ1biBhIGxpbmUgb2YgY29kZSwgcHJlc3MgYWx0K3NoaWZ0K0UK</text>
+        <text encoding="base64">IyBhc3NpZ24gdHdvIHZhcmlhYmxlcyB0aGUgc2FtZSB2YWx1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b25lLCB0d28gPSAK</text>
+        <text encoding="base64">IyBhc3NpZ24gdHdvIHZhcmlhYmxlcyB0aGUgc2FtZSB2YWx1ZQojIHRvIHJ1biBhIGxpbmUgb2YgY29kZSwgcHJlc3MgYWx0K3NoaWZ0K0UK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
