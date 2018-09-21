@@ -249,11 +249,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/github/biof309/about_me.py" timestamp="1537486009144">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="25" column="36" />
+      <file name="$USER_HOME$/github/biof309/about_me.py" timestamp="1537492940545">
+        <mark key="'" line="30" column="9" />
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1537139268139">
         <mark key="[" line="2" column="8" />
@@ -632,7 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/github/nbless/nbless/nbuild.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbless/nbuild.py" />
       <jump line="60" column="18" filename="$USER_HOME$/github/nbless/nbless/catrmd.py" />
       <jump line="48" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
@@ -732,6 +732,7 @@
       <jump line="31" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" />
       <jump line="34" column="34" filename="$USER_HOME$/github/biof309_fall2018/assignment.py" />
       <jump line="10" column="16" filename="$USER_HOME$/github/biof309/about_me.py" />
+      <jump line="25" column="9" filename="$USER_HOME$/github/biof309/about_me.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -783,40 +784,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">YSA=</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">b25lLCB0d28gPSA=</text>
+        <text encoding="base64">dG8gY2hhbmdlIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b25lLCB0d28gPSAK</text>
+        <text encoding="base64">IyB0byByZXBsYWNlIG9uZSBjaGFyYWN0ZXIsIGhpdCByIGFuZCB0aGVuIGEgY2hhcmFjdGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB0byByZXBsYWNlIG9uZSBjaGFyYWN0ZXIsIGhpdCByIGFuZCB0aGVuIGEgY2hhcmFjdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBhc3NpZ24gdHdvIHZhcmlhYmxlcyB0aGUgc2FtZSB2YWx1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBhc3NpZ24gdHdvIHZhcmlhYmxlcyB0aGUgc2FtZSB2YWx1ZQojIHRvIHJ1biBhIGxpbmUgb2YgY29kZSwgcHJlc3MgYWx0K3NoaWZ0K0UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b25lLCB0d28gPSAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SGkgSGkgSGkgSGlIaSBIaSBIaSBIaUhpIEhpIEhpIEhpSGkgSGkgSGkgSGlIaSBIaSBIaSBIaUhpIEhpIEhpIEhpSGkgSGkgSGkgSGlIaSBIaSBIaSBIaUhpIEhpIEhpIEhpICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SSdtIGNvb2xJJ20gY29vbEknbSBjb29sSSdtIGNvb2wK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBwcmVzcyBpCiMgYW5kIG5vdyB5b3UgY2FuIHR5cGUgbm9ybWFsbHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
