@@ -209,9 +209,6 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1537565794821">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="77" />
@@ -252,12 +249,18 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/github/biof309/about_me.py" timestamp="1537492940545">
-        <mark key="'" line="30" column="9" />
+      <file name="$USER_HOME$/github/biof309/about_me.py" timestamp="1537581037237">
+        <mark key="'" line="0" column="7" />
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="30" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/github/biof309/say/__init__.py" timestamp="1537581303004">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1537139268139">
         <mark key="[" line="2" column="8" />
@@ -311,6 +314,13 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/github/biof309/say_hi.py" timestamp="1537581024395">
+        <mark key="'" line="1" column="14" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/nbexec.py" timestamp="1536381258181">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="2" column="0" />
@@ -337,12 +347,6 @@
         <mark key="]" line="41" column="56" />
         <mark key="." line="41" column="56" />
         <mark key="^" line="56" column="28" />
-      </file>
-      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537210719539">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbless/render.py" timestamp="1537139840624">
         <mark key="'" line="91" column="0" />
@@ -504,6 +508,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/github/biof309/test.py" timestamp="1537581323748">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535736942883">
         <mark key="'" line="33" column="6" />
         <mark key="[" line="1" column="0" />
@@ -654,8 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="26" filename="$USER_HOME$/github/nbless/nbless/render.py" />
-      <jump line="67" column="28" filename="$USER_HOME$/github/nbless/nbless/render.py" />
       <jump line="86" column="34" filename="$USER_HOME$/github/nbless/nbless/render.py" />
       <jump line="2" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
       <jump line="91" column="0" filename="$USER_HOME$/github/nbless/nbless/render.py" />
@@ -754,13 +762,15 @@
       <jump line="21" column="0" filename="$USER_HOME$/github/pydy/pydytest.py" />
       <jump line="24" column="0" filename="$USER_HOME$/github/pydy/pydytest.py" />
       <jump line="7" column="0" filename="$USER_HOME$/github/pydy/helper.py" />
+      <jump line="1" column="14" filename="$USER_HOME$/github/biof309/say_hi.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/github/biof309/about_me.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>2''2</text>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="j" type="4">
         <text>k</text>
@@ -805,7 +815,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>attributes</text>
+        <text>say_hi.</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -814,31 +824,31 @@
         <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYuc2hhcGUK</text>
+        <text encoding="base64">ZnJvbSBzYXkuc2F5X2hpIGltcG9ydCBzYXlfaGkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjb25maXJtIHRoYXQgZGYgaXMgYW4gaW5zdGFuY2Ugb2YgcGQuRGF0YUZyYW1lCg==</text>
+        <text encoding="base64">aW1wb3J0IHNyYy5zYXlfaGkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGYuc2F5X2hpKCkK</text>
+      <register name="4" type="4">
+        <text>Hi!</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGYuc2F2ZSgpCg==</text>
+        <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjb25maXJtIHRoYXQgZGYgaXMgYW4gaW5zdGFuY2Ugb2YgcGQuRGF0YUZyYW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGYudW51c2VkKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGYuc2F5X2hpKCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiB1bnVzZWQoKToKICAgIHByaW50KCJNb28hIikK</text>
+        <text encoding="base64">ZGYuc2F2ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
@@ -883,7 +893,6 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action RenameElement</entry>
-        <entry>action Synchronize</entry>
         <entry>nohlsearch</entry>
         <entry>action OpenProjectWindows</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
@@ -895,6 +904,7 @@
         <entry>w</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action Synchronize</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
