@@ -209,6 +209,9 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
+      <file name="/Python Console" timestamp="1537590886177">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="77" />
@@ -508,10 +511,10 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309/test.py" timestamp="1537589205860">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/github/biof309/test.py" timestamp="1537590954259">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535736942883">
@@ -824,34 +827,34 @@
         <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uZGEuYWJzb2x1dGVfaW1wb3J0Cg==</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzYXkuc2F5X2hpIGltcG9ydCBzYXlfaGkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNyYy5zYXlfaGkK</text>
-      </register>
-      <register name="4" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="5" type="4">
-        <text>Hi!</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGYuc2hhcGUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBjb25maXJtIHRoYXQgZGYgaXMgYW4gaW5zdGFuY2Ugb2YgcGQuRGF0YUZyYW1lCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmRhCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IF9faGVsbG9fXwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cGlwLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHBpcAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYuc2F5X2hpKCkK</text>
+        <text encoding="base64">Y29uZGEuYWJzb2x1dGVfaW1wb3J0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -905,8 +908,8 @@
         <entry>action JumpToLastChange</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
-        <entry>action CloseProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
