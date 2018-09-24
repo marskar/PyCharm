@@ -876,7 +876,7 @@
         <text encoding="base64">cGlwLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Move</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -928,10 +928,10 @@
         <entry>w</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action CloseProject</entry>
         <entry>action Synchronize</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action Move</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
