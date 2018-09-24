@@ -118,11 +118,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/github/nbless/setup.py" timestamp="1537130149158">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/github/nbless/setup.py" timestamp="1537827043412">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="51" />
         <mark key="^" line="7" column="18" />
+        <mark key="." line="15" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535490857550">
         <mark key="'" line="4" column="0" />
@@ -342,11 +342,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbless/__init__.py" timestamp="1537207492106">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/github/nbless/nbless/__init__.py" timestamp="1537827024256">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" timestamp="1537416086474">
         <mark key="'" line="31" column="13" />
@@ -589,8 +589,8 @@
         <mark key="." line="11" column="72" />
         <mark key="^" line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbless/catrmd.py" timestamp="1537206584082">
-        <mark key="'" line="22" column="4" />
+      <file name="$USER_HOME$/github/nbless/nbless/catrmd.py" timestamp="1537826982870">
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="60" column="24" />
         <mark key="." line="28" column="17" />
@@ -698,7 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbexec.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/nbless/nbuild.py" />
       <jump line="0" column="29" filename="$USER_HOME$/github/nbtest/nbtest.py" />
       <jump line="32" column="32" filename="$USER_HOME$/github/nbtest/nbtest.py" />
@@ -798,6 +797,7 @@
       <jump line="27" column="0" filename="$USER_HOME$/github/nbtest/nbtest.py" />
       <jump line="1" column="39" filename="$USER_HOME$/github/nbtest/call.py" />
       <jump line="26" column="0" filename="$USER_HOME$/github/nbtest/nbtest.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/github/nbless/nbless/catrmd.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -849,7 +849,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mynotebook</text>
+        <text>, 'catrmd.py'</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -858,34 +858,34 @@
         <text encoding="base64">Y2FsbCgnUnNjcmlwdCAtZSBcJ3JtYXJrZG93bjo6cmVuZGVyKCJjYXQuUm1kIiwgImFsbCIpXCcnLCBzaGVsbD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmFtZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhdHJtZCA9IG5ibGVzcy5jYXRybWQ6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCgpvcy5nZXRjd2QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhdHJtZCA9IG5ibGVzcy5jYXRybWQ6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGlicmFyeShyZXRpY3VsYXRlKQo=</text>
+        <text encoding="base64">bmFtZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcwo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCgpvcy5nZXRjd2QoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGlicmFyeShyZXRpY3VsYXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IF9faGVsbG9fXwo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action Move</text>
       </register>
     </registers>
     <search>
@@ -930,7 +930,6 @@
         <entry>nohlsearch</entry>
         <entry>action OpenProjectWindows</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action NewDirectoryProject</entry>
         <entry>action RenameFile</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateSciViewToolWindow</entry>
@@ -939,8 +938,9 @@
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action Move</entry>
         <entry>action CloseProject</entry>
+        <entry>action NewDirectoryProject</entry>
+        <entry>action Move</entry>
       </history-cmd>
       <history-expr />
       <history-input />
