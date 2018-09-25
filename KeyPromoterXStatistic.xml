@@ -62,7 +62,7 @@
           <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
           <ShortCut>'⌘''</ShortCut>
           <Description>Hide Grid</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Insert link">
@@ -198,7 +198,7 @@
           <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
           <ShortCut>'⌘''</ShortCut>
           <Description>Show Grid</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BDML'">
