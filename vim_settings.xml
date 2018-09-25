@@ -215,7 +215,7 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1537816209571">
+      <file name="/Python Console" timestamp="1537837781781">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
@@ -475,6 +475,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/joel.py" timestamp="1537837860488">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="39" />
       </file>
       <file name="$USER_HOME$/github/untitled/zen.txt" timestamp="1537234199580">
         <mark key="[" line="0" column="0" />
@@ -885,7 +891,7 @@
         <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -937,10 +943,10 @@
         <entry>action JumpToLastChange</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action NewDirectoryProject</entry>
         <entry>action Move</entry>
         <entry>action CloseProject</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
