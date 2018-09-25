@@ -215,6 +215,9 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
+      <file name="/Python Console" timestamp="1537918500651">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="77" />
@@ -444,6 +447,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/github/untitled1/pdtest" timestamp="1537918534219">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490915792">
         <mark key="'" line="0" column="0" />
@@ -854,7 +863,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text encoding="base64">IGFzIHBk</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -943,8 +952,8 @@
         <entry>action Move</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateSciViewToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
