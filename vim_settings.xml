@@ -215,7 +215,7 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1537918500651">
+      <file name="/Python Console" timestamp="1538000902934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
@@ -376,8 +376,8 @@
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1537757432811">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1538000899619">
+        <mark key="'" line="24" column="34" />
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="33" />
         <mark key="^" line="24" column="33" />
@@ -712,7 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Downloads/sarahnotebook.py" />
       <jump line="8" column="20" filename="$USER_HOME$/Downloads/01.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/sarahnotebook.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Downloads/sarahnotebook.py" />
@@ -812,6 +811,7 @@
       <jump line="24" column="0" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
       <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
+      <jump line="24" column="34" filename="$USER_HOME$/github/nbtest/nbtest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
