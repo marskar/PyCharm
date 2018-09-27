@@ -311,12 +311,12 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbless/nbless.py" timestamp="1538014611932">
+      <file name="$USER_HOME$/github/nbless/nbless/nbless.py" timestamp="1538015376697">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="9" />
+        <mark key="." line="44" column="9" />
+        <mark key="^" line="44" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -883,31 +883,31 @@
         <text encoding="base64">bmJjb2RlKCJyYXcuaXB5bmIiLCBpbnB1dF9wYXRoPSJub3RlYm9va3MvIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBrZXJuZWxfbmFtZTogc3RyID0gJ3B5dGhvbjMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGYnQ3JlYXRlZCB7bmJjb2RlX25hbWV9IGluIHtuYmNvZGVfcGF0aH0uJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuYmNvZGVfbmFtZTogc3RyID0gJ2NvZGUucHknLAogICAgICAgICAgIG5iY29kZV9wYXRoOiBzdHIgPSAnLi8nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmJ3VzaW5nIHRoZSB7a2VybmVsX25hbWV9IGtlcm5lbC4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5iY29kZShpbnB1dF9uYW1lPW5idWlsZF9uYW1lLAogICAgICAgICAgIGlucHV0X3BhdGg9bmJ1aWxkX3BhdGgsCiAgICAgICAgICAgb3V0cHV0X25hbWU9bmJjb2RlX25hbWUsCiAgICAgICAgICAgb3V0cHV0X3BhdGg9bmJjb2RlX3BhdGgpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICBrZXJuZWxfbmFtZTogc3RyID0gJ3B5dGhvbjMnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25iY29kZSA9IG5ibGVzcy5uYmNvZGU6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBuYmNvZGVfbmFtZTogc3RyID0gJ2NvZGUucHknLAogICAgICAgICAgIG5iY29kZV9wYXRoOiBzdHIgPSAnLi8nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25iY29kZSA9IG5ibGVzcy5uYmNvZGU6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
+        <text encoding="base64">ICAgIG5iY29kZShpbnB1dF9uYW1lPW5idWlsZF9uYW1lLAogICAgICAgICAgIGlucHV0X3BhdGg9bmJ1aWxkX3BhdGgsCiAgICAgICAgICAgb3V0cHV0X25hbWU9bmJjb2RlX25hbWUsCiAgICAgICAgICAgb3V0cHV0X3BhdGg9bmJjb2RlX3BhdGgpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgib25hbWUgaXMgTm9uZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25iY29kZSA9IG5ibGVzcy5uYmNvZGU6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICNpZiBvdXRwdXRfbmFtZSBpcyBub3QgTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25iY29kZSA9IG5ibGVzcy5uYmNvZGU6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgib25hbWUgaXMgTm9uZSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhZToKICAgICAgICBwcmludChhZSkK</text>
+        <text encoding="base64">ICAgICNpZiBvdXRwdXRfbmFtZSBpcyBub3QgTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
