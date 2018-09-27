@@ -252,9 +252,6 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538082990283">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="77" />
@@ -365,6 +362,13 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-09-20/about.py" timestamp="1538084986622">
+        <mark key="'" line="26" column="7" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/github/biof309/say_hi.py" timestamp="1537581024395">
         <mark key="'" line="1" column="14" />
@@ -533,6 +537,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/joel.py" timestamp="1538085238913">
+        <mark key="'" line="20" column="40" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/github/untitled/zen.txt" timestamp="1537234199580">
         <mark key="[" line="0" column="0" />
@@ -727,6 +737,13 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/import.py" timestamp="1538087328153">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/pydy/pydytest.py" timestamp="1537026782518">
         <mark key="'" line="8" column="66" />
         <mark key="[" line="1" column="0" />
@@ -827,23 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="52" column="9" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="49" column="20" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="39" column="53" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="3" column="7" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="15" column="13" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="8" column="29" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="6" column="26" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
       <jump line="27" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
       <jump line="28" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
       <jump line="1" column="0" filename="$USER_HOME$/github/nbless/nbless/nbcode.py" />
@@ -927,13 +927,30 @@
       <jump line="70" column="45" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
       <jump line="57" column="66" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
       <jump line="51" column="47" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
+      <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
+      <jump line="26" column="7" filename="$USER_HOME$/github/biof309_fall2018/2018-09-20/about.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
+      <jump line="2" column="36" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
+      <jump line="20" column="40" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
+      <jump line="3" column="1" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
+      <jump line="2" column="10" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
+      <jump line="1" column="55" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
+      <jump line="9" column="16" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
+      <jump line="16" column="3" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>2''2</text>
       </register>
       <register name="*" type="4">
-        <text>[]</text>
+        <text>()</text>
       </register>
       <register name="j" type="4">
         <text>k</text>
@@ -978,49 +995,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT4=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>]</text>
+        <text encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBhbm90aGVyIG9wdGlvbiBpcyB0byBtYWtlIGEgZHpzbGlkZXMgSFRNTCBzbGlkZSBkZWNrCnNsaWRlcyA9IHB5cGFuZG9jLmNvbnZlcnRfZmlsZSgnMjAxOC0wOS0yNy9zbGlkZXMubWQnLCB0bz0nZHpzbGlkZXMnLCBleHRyYV9hcmdzPVsnLXMnXSkKCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBicmFjZXMK</text>
       </register>
-      <register name="1" type="4">
-        <text>[]</text>
+      <register name="1" type="2">
+        <text encoding="base64">cGQuCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>zip</text>
+      <register name="2" type="2">
+        <text encoding="base64">bV9faGVsbG9fXwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>[]</text>
+      <register name="3" type="2">
+        <text encoding="base64">X19oZWxsb19fCg==</text>
       </register>
       <register name="4" type="4">
-        <text>Cindy</text>
+        <text>()</text>
       </register>
       <register name="5" type="4">
-        <text>[]</text>
+        <text>if you import a module, you need to use as a namespace</text>
       </register>
       <register name="6" type="4">
-        <text>built-ins</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>[]</text>
+        <text>if you import a module, you need to use as a namespace</text>
       </register>
       <register name="8" type="4">
-        <text>positional</text>
+        <text>''</text>
       </register>
       <register name="9" type="4">
-        <text>[]</text>
+        <text>if you import a module, you need to use as a namespace</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
-      <last-search>]</last-search>
+      <last-search encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</last-search>
       <last-offset />
-      <last-pattern>]</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</last-pattern>
       <last-replace />
       <last-substitute>\[</last-substitute>
       <last-dir>1</last-dir>
@@ -1028,7 +1045,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hi</entry>
         <entry>ends</entry>
         <entry>+</entry>
         <entry>runt</entry>
@@ -1048,6 +1064,7 @@
         <entry>[//g</entry>
         <entry>\[</entry>
         <entry>]</entry>
+        <entry encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action JumpToLastWindow</entry>
@@ -1062,14 +1079,14 @@
         <entry>action Move</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
         <entry>action GotoSymbol</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>%s/[//g</entry>
         <entry>%s/\[//g</entry>
         <entry>action CloseProject</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
