@@ -111,11 +111,11 @@
         <mark key="." line="56" column="77" />
         <mark key="^" line="56" column="77" />
       </file>
-      <file name="$USER_HOME$/github/pydy/pydy.py" timestamp="1537565510854">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/github/pydy/pydy.py" timestamp="1538021228839">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/github/nbless/setup.py" timestamp="1538014500018">
@@ -215,6 +215,9 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
+      <file name="/Python Console" timestamp="1538020859689">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="77" />
@@ -228,11 +231,6 @@
         <mark key="]" line="18" column="47" />
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
-      </file>
-      <file name="$USER_HOME$/github/nbtest/letters.R" timestamp="1537757132066">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" timestamp="1536448041736">
         <mark key="'" line="5" column="11" />
@@ -510,11 +508,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/test/test2/__init__.py" timestamp="1537539923227">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/__init__.py" timestamp="1536383324099">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="5" />
@@ -638,7 +631,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537816209780">
+      <file name="/Dummy.txt" timestamp="1538021421084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1537101529482">
@@ -722,8 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/github/pydy/pydy.py" />
-      <jump line="8" column="8" filename="$USER_HOME$/github/pydy/pydy.py" />
       <jump line="8" column="0" filename="$USER_HOME$/github/pydy/pydytest.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/pydy/pydytest.py" />
       <jump line="2" column="0" filename="$USER_HOME$/github/pydy/pydytest.py" />
@@ -822,6 +813,8 @@
       <jump line="22" column="34" filename="$USER_HOME$/github/nbless/setup.py" />
       <jump line="40" column="9" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
       <jump line="3" column="18" filename="$USER_HOME$/github/nbless/nbtest.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/github/pydy/pydy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/pydy/pydy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -882,31 +875,31 @@
         <text encoding="base64">bmJ1aWxkKFsicGxvdC5weSIsICJub3Rlcy50eHQiXSwgaW5wdXRfcGF0aD0naW5wdXRfZmlsZXMnLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5iZXhlYygibm90ZWJvb2tzL3Jhdy5pcHluYiIsIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikKbmJjb2RlKCJvdXQuaXB5bmIiLCBpbnB1dF9wYXRoPSJub3RlYm9va3MvIiwgb3V0cHV0X3BhdGg9J291dHB1dF9maWxlcycpCm5iaHRtbCgib3V0LmlweW5iIiwgaW5wdXRfcGF0aD0ibm90ZWJvb2tzLyIsIG91dHB1dF9wYXRoPSdvdXRwdXRfZmlsZXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY2hhbmdlIHRoaXMgbG9vcCB0byBtYXAgY2FsbD8K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmJsZXNzLm5iZXhlYygibm90ZWJvb2tzL291dC5pcHluYiIsIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">bmJsZXNzLm5iZXhlYygibm90ZWJvb2tzL291dC5pcHluYiIsIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmJsZXNzLm5ibGVzcyhbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBuYmV4ZWNfcGF0aD0ibm90ZWJvb2tzLyIpCg==</text>
+        <text encoding="base64">bmJsZXNzLm5iZXhlYygibm90ZWJvb2tzL291dC5pcHluYiIsIG91dHB1dF9wYXRoPSJub3RlYm9va3MvIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGYnQ3JlYXRlZCB7bmJjb2RlX25hbWV9IGluIHtuYmNvZGVfcGF0aH0uJykK</text>
+        <text encoding="base64">bmJsZXNzLm5ibGVzcyhbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBuYmV4ZWNfcGF0aD0ibm90ZWJvb2tzLyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmJ3VzaW5nIHRoZSB7a2VybmVsX25hbWV9IGtlcm5lbC4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGYnQ3JlYXRlZCB7bmJjb2RlX25hbWV9IGluIHtuYmNvZGVfcGF0aH0uJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBrZXJuZWxfbmFtZTogc3RyID0gJ3B5dGhvbjMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmJ3VzaW5nIHRoZSB7a2VybmVsX25hbWV9IGtlcm5lbC4nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuYmNvZGVfbmFtZTogc3RyID0gJ2NvZGUucHknLAogICAgICAgICAgIG5iY29kZV9wYXRoOiBzdHIgPSAnLi8nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICBrZXJuZWxfbmFtZTogc3RyID0gJ3B5dGhvbjMnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
@@ -960,9 +953,9 @@
         <entry>action NewDirectoryProject</entry>
         <entry>action Move</entry>
         <entry>action ActivateSciViewToolWindow</entry>
-        <entry>action Synchronize</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action Synchronize</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
