@@ -227,7 +227,7 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538024554735">
+      <file name="/Python Console" timestamp="1538024593976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
@@ -681,12 +681,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/github/untitled/test.py" timestamp="1538024564896">
+      <file name="$USER_HOME$/github/untitled/test.py" timestamp="1538024607467">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1537101529482">
         <mark key="'" line="15" column="32" />
@@ -979,7 +979,7 @@
       <last-replace />
       <last-substitute>_event</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
