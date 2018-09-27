@@ -118,11 +118,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/github/nbless/setup.py" timestamp="1538012350833">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="34" />
-        <mark key="^" line="22" column="34" />
+      <file name="$USER_HOME$/github/nbless/setup.py" timestamp="1538014500018">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535490857550">
         <mark key="'" line="4" column="0" />
@@ -311,12 +311,12 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbless/nbless.py" timestamp="1538010989190">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="45" column="13" />
-        <mark key="." line="45" column="13" />
-        <mark key="^" line="83" column="16" />
+      <file name="$USER_HOME$/github/nbless/nbless/nbless.py" timestamp="1538014611932">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
         <mark key="'" line="0" column="0" />
@@ -400,8 +400,8 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbless/nbuild.py" timestamp="1538012642252">
-        <mark key="'" line="8" column="31" />
+      <file name="$USER_HOME$/github/nbless/nbless/nbuild.py" timestamp="1538013580917">
+        <mark key="'" line="63" column="24" />
         <mark key="[" line="53" column="20" />
         <mark key="]" line="53" column="30" />
         <mark key="^" line="53" column="30" />
@@ -607,12 +607,12 @@
         <mark key="^" line="5" column="99" />
         <mark key="." line="5" column="99" />
       </file>
-      <file name="$USER_HOME$/github/nbless/nbtest.py" timestamp="1536625090412">
+      <file name="$USER_HOME$/github/nbless/nbtest.py" timestamp="1538014214568">
         <mark key="'" line="0" column="24" />
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="72" />
-        <mark key="." line="11" column="72" />
-        <mark key="^" line="11" column="72" />
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbless/catrmd.py" timestamp="1537826982870">
         <mark key="'" line="48" column="0" />
@@ -723,9 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/github/pydy/pydytest.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/github/pydy/pydytest.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/github/pydy/pydy.py" />
       <jump line="33" column="0" filename="$USER_HOME$/github/pydy/pydy.py" />
       <jump line="18" column="0" filename="$USER_HOME$/github/pydy/pydy.py" />
       <jump line="25" column="0" filename="$USER_HOME$/github/pydy/pydy.py" />
@@ -823,6 +820,9 @@
       <jump line="43" column="50" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
       <jump line="49" column="57" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
       <jump line="2" column="36" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
+      <jump line="63" column="24" filename="$USER_HOME$/github/nbless/nbless/nbuild.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
+      <jump line="22" column="34" filename="$USER_HOME$/github/nbless/setup.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -874,43 +874,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>unexecuted</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>execu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBuYmxlc3MubmJjb2RlIGltcG9ydCBuYmNvZGUK</text>
+        <text encoding="base64">bmJjb2RlKCJyYXcuaXB5bmIiLCBpbnB1dF9wYXRoPSJub3RlYm9va3MvIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25iY29kZSA9IG5ibGVzcy5uYmNvZGU6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBrZXJuZWxfbmFtZTogc3RyID0gJ3B5dGhvbjMnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgib25hbWUgaXMgTm9uZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBuYmNvZGVfbmFtZTogc3RyID0gJ2NvZGUucHknLAogICAgICAgICAgIG5iY29kZV9wYXRoOiBzdHIgPSAnLi8nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNpZiBvdXRwdXRfbmFtZSBpcyBub3QgTm9uZQo=</text>
+        <text encoding="base64">ICAgIG5iY29kZShpbnB1dF9uYW1lPW5idWlsZF9uYW1lLAogICAgICAgICAgIGlucHV0X3BhdGg9bmJ1aWxkX3BhdGgsCiAgICAgICAgICAgb3V0cHV0X25hbWU9bmJjb2RlX25hbWUsCiAgICAgICAgICAgb3V0cHV0X3BhdGg9bmJjb2RlX3BhdGgpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25iY29kZSA9IG5ibGVzcy5uYmNvZGU6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhZToKICAgICAgICBwcmludChhZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25iY29kZSA9IG5ibGVzcy5uYmNvZGU6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgib25hbWUgaXMgTm9uZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICNpZiBvdXRwdXRfbmFtZSBpcyBub3QgTm9uZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhZToKICAgICAgICBwcmludChhZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Refactorings.QuickListPopupAction</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -962,10 +962,10 @@
         <entry>action Move</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action CloseProject</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action Synchronize</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
