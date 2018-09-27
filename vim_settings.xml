@@ -227,7 +227,7 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538024657414">
+      <file name="/Python Console" timestamp="1538024806353">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
@@ -243,11 +243,6 @@
         <mark key="]" line="18" column="47" />
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
-      </file>
-      <file name="$USER_HOME$/github/nbtest/letters.R" timestamp="1537757132066">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" timestamp="1536448041736">
         <mark key="'" line="5" column="11" />
@@ -537,11 +532,6 @@
         <mark key="." line="10" column="59" />
         <mark key="^" line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/test/test2/__init__.py" timestamp="1537539923227">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/__init__.py" timestamp="1536383324099">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="5" />
@@ -549,7 +539,8 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/github/f2m/f2mtest.py" timestamp="1538023748462">
+      <file name="$USER_HOME$/github/f2m/f2mtest.py" timestamp="1538024805057">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
@@ -788,7 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/github/pydy/pydytest.py" />
       <jump line="7" column="0" filename="$USER_HOME$/github/pydy/helper.py" />
       <jump line="1" column="14" filename="$USER_HOME$/github/biof309/say_hi.py" />
       <jump line="0" column="7" filename="$USER_HOME$/github/biof309/about_me.py" />
@@ -888,6 +878,7 @@
       <jump line="19" column="0" filename="$USER_HOME$/github/f2m/setup.py" />
       <jump line="3" column="0" filename="$USER_HOME$/github/f2m/helper.py" />
       <jump line="3" column="0" filename="$USER_HOME$/github/untitled/test.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/github/f2m/f2mtest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -975,7 +966,7 @@
         <text encoding="base64">ICAgICMgY2hhbmdlIHRoaXMgbG9vcCB0byBtYXAgY2FsbD8K</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1029,8 +1020,8 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
-        <entry>action CloseProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
