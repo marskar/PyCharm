@@ -227,7 +227,7 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538024593976">
+      <file name="/Python Console" timestamp="1538024657414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
@@ -553,6 +553,12 @@
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.py" timestamp="1538024656947">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1535737035894">
         <mark key="[" line="0" column="0" />
@@ -969,7 +975,7 @@
         <text encoding="base64">ICAgICMgY2hhbmdlIHRoaXMgbG9vcCB0byBtYXAgY2FsbD8K</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -1023,8 +1029,8 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
