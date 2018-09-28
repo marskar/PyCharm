@@ -397,6 +397,13 @@
         <mark key="." line="6" column="57" />
         <mark key="^" line="6" column="57" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.py" timestamp="1538100565219">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" timestamp="1537416086474">
         <mark key="'" line="31" column="13" />
         <mark key="[" line="12" column="19" />
@@ -709,7 +716,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538098637402">
+      <file name="/Dummy.txt" timestamp="1538100256598">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pydy/README.md" timestamp="1538022198026">
@@ -853,7 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="4" filename="$USER_HOME$/github/nbless/nbless/nbhtml.py" />
       <jump line="52" column="0" filename="$USER_HOME$/github/nbless/nbless/nbhtml.py" />
       <jump line="2" column="21" filename="$USER_HOME$/github/nbless/nbless/nbhtml.py" />
       <jump line="60" column="13" filename="$USER_HOME$/github/nbless/nbless/nbhtml.py" />
@@ -953,6 +959,7 @@
       <jump line="34" column="7" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="54" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="33" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1004,7 +1011,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgYSBmdW5jdGlvbg==</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</text>
@@ -1012,35 +1019,68 @@
       <register name="0" type="4">
         <text encoding="base64">IGEgZnVuY3Rpb24gKG1vcmUgc3BlY2lmaWNhbGx5IGNhbGxlZCBhIG1ldGhvZCk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwYW5kYXMgaW1wb3J0ICoKZnJvbSBwYW5kYXMgaW1wb3J0IERhdGFGcmFtZQo=</text>
+      <register name="1" type="4">
+        <text>import pypandoc
+
+
+def write_file(filename, contents):
+    with open(filename, 'w') as f:
+        f.write(contents)
+
+
+# With an input file: pypandoc will infer the input format from the filename
+output = pypandoc.convert_file('2018-09-27/about.md', to='rst')
+write_file('2018-09-27/about.rst', output)
+
+# You can make a slidy HTML slide deck
+slides = pypandoc.convert_file('2018-09-27/slides.md', to='slidy', extra_args=['-s'])
+
+# And specify style with a css file, e.g. https://github.com/alblaine/countess
+slides = pypandoc.convert_file('2018-09-27/slides.md', to='slidy', extra_args=['-s', '--css=style.css'])
+
+# Another option is to make a dzslides HTML slide deck
+slides = pypandoc.convert_file('2018-09-27/slides.md', to='dzslides', extra_args=['-s'])
+
+# And now with a css style: https://gist.github.com/bjin/2264634
+slides = pypandoc.convert_file('2018-09-27/slides.md', to='dzslides', extra_args=['-s', '--css=slide.css'])
+
+# You can also make a revealjs HTML slide deck
+slides = pypandoc.convert_file('2018-09-27/slides.md', to='revealjs', extra_args=['-s', '-V', 'revealjs-url=http://lab.hakim.se/reveal-js'])
+
+# Try the sky revealjs theme
+slides = pypandoc.convert_file('2018-09-27/slides.md', to='revealjs', extra_args=['-s', '-V', 'revealjs-url=http://lab.hakim.se/reveal-js', '-V', 'theme=sky'])
+
+# Try the moon revealjs theme
+slides = pypandoc.convert_file('2018-09-27/slides.md', to='revealjs', extra_args=['-s', '-V', 'revealjs-url=http://lab.hakim.se/reveal-js', '-V', 'theme=moon'])
+
+write_file('2018-09-27/about.html', slides)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">ZnJvbSBwYW5kYXMgaW1wb3J0ICoKZnJvbSBwYW5kYXMgaW1wb3J0IERhdGFGcmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVsIGxpc3QK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGQuRGF0YUZyYW1lCg==</text>
+        <text encoding="base64">ZGVsIGxpc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3FydCg0MikK</text>
+        <text encoding="base64">cGQuRGF0YUZyYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3FydCg0MikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBwYW5kYXMgaW1wb3J0ICoKZnJvbSBwYW5kYXMgaW1wb3J0IERhdGFGcmFtZQppbXBvcnQgbnVtcHkgYXMgbnAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">X19oZWxsb19fCg==</text>
+        <text encoding="base64">ZnJvbSBwYW5kYXMgaW1wb3J0ICoKZnJvbSBwYW5kYXMgaW1wb3J0IERhdGFGcmFtZQppbXBvcnQgbnVtcHkgYXMgbnAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBicmFjZXMKaW1wb3J0IGFudGlncmF2aXR5Cg==</text>
+        <text encoding="base64">X19oZWxsb19fCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1093,9 +1133,9 @@
         <entry>action GotoDeclaration</entry>
         <entry>%s/[//g</entry>
         <entry>%s/\[//g</entry>
-        <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
