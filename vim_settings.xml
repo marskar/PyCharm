@@ -595,6 +595,12 @@
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.py" timestamp="1538080635445">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/github/mnist-analysis/writefile.py" timestamp="1538160896544">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/__init__.py" timestamp="1536383324099">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="5" />
@@ -659,11 +665,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/github/mnist-analysis/get_data.py" timestamp="1538156115967">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="14" column="11" />
+      <file name="$USER_HOME$/github/mnist-analysis/get_data.py" timestamp="1538158583450">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/github/mnist-analysis/plot_cm.py" timestamp="1538155783761">
         <mark key="'" line="17" column="0" />
@@ -692,13 +698,6 @@
         <mark key="]" line="31" column="32" />
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="32" />
-      </file>
-      <file name="$USER_HOME$/github/mnist-analysis/split_data.py" timestamp="1538157542229">
-        <mark key="'" line="19" column="21" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="16" column="38" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/jupyter/README.md" timestamp="1536111260880">
         <mark key="'" line="15" column="44" />
@@ -742,7 +741,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538100256598">
+      <file name="/Dummy.txt" timestamp="1538161429888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pydy/README.md" timestamp="1538022198026">
@@ -893,8 +892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="31" filename="$USER_HOME$/github/nbless/nbless/nbuild.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
       <jump line="11" column="31" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
       <jump line="21" column="9" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
       <jump line="35" column="21" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
@@ -993,6 +990,8 @@
       <jump line="11" column="13" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="12" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="22" column="21" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1044,43 +1043,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'foo.csv'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbl9zaXplPXRyYWluX3NpemUsCiAgICAgICAgdGVzdF9zaXplPXRlc3Rfc2l6ZSwKICAgICAgICByYW5kb21fc3RhdGU9cmFuZG9tX3N0YXRlKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB3cml0ZWZpbGUob2JqZWN0LCBmaWxlbmFtZTogc3RyKSAtPiBOb25lOgogICAgICAgIG9iamVjdC50b2ZpbGUoZmlsZW5hbWUsIHNlcD0nLCcpCgogICAgbmFtZXMgPSAneF90cmFpbi5jc3YnLCAneF90ZXN0LmNzdicsICd5X3RyYWluLmNzdicsICd5X3Rlc3QuY3N2JwoKICAgIGFueShtYXAod3JpdGVmaWxlLCBzcGxpdHMsIG5hbWVzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHJhaW5fc2l6ZT0wLjgKdGVzdF9zaXplPTAuMgpyYW5kb21fc3RhdGU9MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGRlZiB3cml0ZWZpbGUob2JqZWN0LCBmaWxlbmFtZTogc3RyKSAtPiBOb25lOgogICAgICAgIG9iamVjdC50b2ZpbGUoZmlsZW5hbWUsIHNlcD0nLCcpCgogICAgbmFtZXMgPSAneF90cmFpbi5jc3YnLCAneF90ZXN0LmNzdicsICd5X3RyYWluLmNzdicsICd5X3Rlc3QuY3N2JwoKICAgIGFueShtYXAod3JpdGVmaWxlLCBzcGxpdHMsIG5hbWVzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRhcmdldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUoY29udGVudHMpCg==</text>
+        <text encoding="base64">Y29sdW1uX25hbWVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d3JpdGVmaWxlKHhfdHJhaW4sICd4X3RyYWluLmNzdicpCg==</text>
+        <text encoding="base64">ZGF0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eF90cmFpbi50b2ZpbGUoJ2Zvby5jc3YnLCBzZXA9JywnKQo=</text>
+        <text encoding="base64">ICAgIG5hbWVzID0gJ3hfdHJhaW4uY3N2JywgJ3hfdGVzdC5jc3YnLCAneV90cmFpbi5jc3YnLCAneV90ZXN0LmNzdicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyh4X3RyYWluKQo=</text>
+        <text encoding="base64">dHJhaW5fc2l6ZT0wLjgKdGVzdF9zaXplPTAuMgpyYW5kb21fc3RhdGU9MAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8oeF90cmFpbikK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Synchronize</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -1134,8 +1133,8 @@
         <entry>%s/\[//g</entry>
         <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action Synchronize</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
