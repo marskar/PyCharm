@@ -1079,7 +1079,7 @@
         <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1131,10 +1131,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>%s/[//g</entry>
         <entry>%s/\[//g</entry>
-        <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
