@@ -369,12 +369,12 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262406326">
-        <mark key="'" line="0" column="19" />
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="4" column="52" />
-        <mark key="^" line="4" column="52" />
-        <mark key="." line="4" column="52" />
+      <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262582378">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="48" />
+        <mark key="^" line="26" column="48" />
+        <mark key="." line="26" column="48" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
@@ -966,7 +966,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538262329427">
+      <file name="/Dummy.txt" timestamp="1538262467312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -1142,7 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="3" column="1" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="2" column="10" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="1" column="55" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
@@ -1242,6 +1241,7 @@
       <jump line="24" column="36" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
       <jump line="28" column="3" filename="$USER_HOME$/github/skippy/README.md" />
       <jump line="0" column="19" filename="$USER_HOME$/PycharmProjects/skptest/regress.py" />
+      <jump line="8" column="19" filename="$USER_HOME$/PycharmProjects/skptest/regress.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1293,7 +1293,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Regressor</text>
+        <text>pickle</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
