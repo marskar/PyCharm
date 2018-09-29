@@ -187,7 +187,12 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/__init__.py" timestamp="1538242321540" />
+      <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538244307790">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="41" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="38" />
@@ -342,6 +347,13 @@
         <mark key="^" line="46" column="77" />
         <mark key="." line="46" column="77" />
       </file>
+      <file name="$USER_HOME$/github/skippy/pipelines/digits.py" timestamp="1538244373750">
+        <mark key="'" line="0" column="19" />
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="18" column="15" />
@@ -355,6 +367,13 @@
         <mark key="]" line="29" column="51" />
         <mark key="." line="29" column="51" />
         <mark key="^" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/pipelines/iris.py" timestamp="1538244396080">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate-listcomp.py" timestamp="1536089487581">
         <mark key="'" line="9" column="12" />
@@ -1053,13 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/github/pydy/setup.py" />
-      <jump line="4" column="46" filename="$USER_HOME$/github/pydy/pydytest.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/github/f2m/README.md" />
-      <jump line="12" column="49" filename="$USER_HOME$/github/f2m/setup.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/github/f2m/setup.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/f2m/helper.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/untitled/test.py" />
       <jump line="13" column="0" filename="$USER_HOME$/github/f2m/f2mtest.py" />
       <jump line="14" column="80" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/about.md" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" />
@@ -1153,6 +1165,13 @@
       <jump line="11" column="50" filename="$USER_HOME$/github/pype/iris.py" />
       <jump line="11" column="50" filename="$USER_HOME$/github/pype/wine.py" />
       <jump line="6" column="23" filename="$USER_HOME$/github/skippy/README.md" />
+      <jump line="3" column="11" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
+      <jump line="4" column="37" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
+      <jump line="5" column="13" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
+      <jump line="7" column="2" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
+      <jump line="11" column="2" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
+      <jump line="0" column="19" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/skippy/pipelines/iris.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1204,22 +1223,33 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>digits</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</text>
+        <text encoding="base64">XDxza2lwcHlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBweXBlIGltcG9ydCBnZXRfZGF0YSwgc3BsaXRfZGF0YSwgZ2V0X21vZGVsLCBwaWNrbGVfbW9kZWwsIHBsb3RfY20K</text>
+      <register name="0" type="4">
+        <text>skippy.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweXBlLmV2YWx1YXRlIGltcG9ydCBhY2N1cmFjeSwgY29uZm1hdAo=</text>
+      <register name="1" type="4">
+        <text>from skippy import get_data, split_data, get_model, pickle_model, plot_cm
+from sklearn.metrics import confusion_matrix, accuracy_score
+
+iris = get_data(name='iris')
+x_train, x_test, y_train, y_test = split_data(iris)
+logistic = get_model(model_type='linear_model', model_name='LogisticRegression')
+fit = logistic.fit(x_train, y_train)
+pickle_model(filename='iris_logistic.pickle', model=fit)
+predictions = fit.predict(x_test)
+accuracy = accuracy_score(y_test, predictions)
+confmat = confusion_matrix(y_test, predictions)
+plot_cm(cm=confmat, filename='iris_confusion_matrix.images', acc=accuracy)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBweXBlLnByZWRpY3QgaW1wb3J0IHByZWRpY3QK</text>
+        <text encoding="base64">ZnJvbSBweXBlLmV2YWx1YXRlIGltcG9ydCBhY2N1cmFjeSwgY29uZm1hdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBweXBlIGltcG9ydCBnZXRfZGF0YSwgc3BsaXRfZGF0YSwgZ2V0X21vZGVsLCBwbG90X2NtCg==</text>
+        <text encoding="base64">ZnJvbSBweXBlLnByZWRpY3QgaW1wb3J0IHByZWRpY3QK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZnJvbSBweXBlIGltcG9ydCBnZXRfZGF0YSwgc3BsaXRfZGF0YSwgZ2V0X21vZGVsLCBwbG90X2NtCg==</text>
@@ -1228,25 +1258,25 @@
         <text encoding="base64">ZnJvbSBweXBlIGltcG9ydCBnZXRfZGF0YSwgc3BsaXRfZGF0YSwgZ2V0X21vZGVsLCBwbG90X2NtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBQaWNrbGUgdGhlIG1vZGVsIHVzaW5nIHRoZSBoaWdoZXN0IHByb3RvY29sIGF2YWlsYWJsZS4K</text>
+        <text encoding="base64">ZnJvbSBweXBlIGltcG9ydCBnZXRfZGF0YSwgc3BsaXRfZGF0YSwgZ2V0X21vZGVsLCBwbG90X2NtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBQaWNrbGUgdGhlIG1vZGVsIHVzaW5nIHRoZSBoaWdoZXN0IHByb3RvY29sIGF2YWlsYWJsZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kZWwoKS5maXQoc3BsaXRzWzBdLCBzcGxpdHNbMl0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGxvdF9jbShjb25mbWF0LCBhY2N1cmFjeSkK</text>
+        <text encoding="base64">bW9kZWwoKS5maXQoc3BsaXRzWzBdLCBzcGxpdHNbMl0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</last-search>
+      <last-search encoding="base64">XDxza2lwcHlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxza2lwcHlcPg==</last-pattern>
       <last-replace />
       <last-substitute>\[</last-substitute>
       <last-dir>1</last-dir>
@@ -1254,7 +1284,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ends</entry>
         <entry>+</entry>
         <entry>runt</entry>
         <entry>Jup</entry>
@@ -1274,6 +1303,7 @@
         <entry>\[</entry>
         <entry>]</entry>
         <entry encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</entry>
+        <entry encoding="base64">XDxza2lwcHlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ReopenClosedTab</entry>
