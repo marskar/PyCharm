@@ -630,9 +630,9 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/classification.py" timestamp="1538260608136">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="14" />
+      <file name="$USER_HOME$/github/skippy/skippy/classification.py" timestamp="1538261605616">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="19" column="78" />
         <mark key="." line="22" column="14" />
         <mark key="^" line="21" column="42" />
       </file>
@@ -680,12 +680,12 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/skippy/README.md" timestamp="1538243227668">
-        <mark key="'" line="6" column="23" />
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="7" column="48" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="48" />
+      <file name="$USER_HOME$/github/skippy/README.md" timestamp="1538262325766">
+        <mark key="'" line="37" column="3" />
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="48" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490915792">
         <mark key="'" line="0" column="0" />
@@ -1135,7 +1135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="10" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="3" column="1" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
@@ -1235,6 +1234,7 @@
       <jump line="2" column="32" filename="$USER_HOME$/PycharmProjects/skptest/skptest.py" />
       <jump line="9" column="14" filename="$USER_HOME$/PycharmProjects/skptest/skptest.py" />
       <jump line="24" column="36" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
+      <jump line="28" column="3" filename="$USER_HOME$/github/skippy/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1286,13 +1286,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW4g</text>
+        <text encoding="base64">IGF0IGEgdGltZQ==</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIHBpY2tsZV9uYW1lIGlzIG5vdCBOb25lOgo=</text>
+      <register name="0" type="4">
+        <text>'digits_rf.pickle'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1301,28 +1301,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2twLnJlZ3Jlc3Npb24oZGF0YXNldD0nYm9zdG9uJywKICAgICAgICAgICBtb2RlbF90eXBlPSduZWlnaGJvcnMnLAogICAgICAgICAgIG1vZGVsX25hbWU9J0tOZWlnaGJvcnNDbGFzc2lmaWVyJywKICAgICAgICAgICBwaWNrbGVfbmFtZT0nZGlnaXRzX2tuZWFyZXN0X25laWdoYm9ycy5waWNrbGUnLAogICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX2tuZWFyZXN0X25laWdoYm9ycy5wbmcnKQo=</text>
+        <text encoding="base64">aWYgcGxvdF9uYW1lIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YSA9IHNrcC5nZXRfZGF0YShkYXRhc2V0KQo=</text>
+        <text encoding="base64">aWYgcGlja2xlX25hbWUgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2twLmNsYXNzaWZpY2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBza2lwcHkgaW1wb3J0IGNsYXNzaWZpY2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2twLnJlZ3Jlc3Npb24oZGF0YXNldD0nYm9zdG9uJywKICAgICAgICAgICBtb2RlbF90eXBlPSduZWlnaGJvcnMnLAogICAgICAgICAgIG1vZGVsX25hbWU9J0tOZWlnaGJvcnNDbGFzc2lmaWVyJywKICAgICAgICAgICBwaWNrbGVfbmFtZT0nZGlnaXRzX2tuZWFyZXN0X25laWdoYm9ycy5waWNrbGUnLAogICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX2tuZWFyZXN0X25laWdoYm9ycy5wbmcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSA9IHNrcC5nZXRfZGF0YShkYXRhc2V0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2twLmNsYXNzaWZpY2F0aW9uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1332,7 +1332,7 @@
       <last-replace />
       <last-substitute>\[</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1375,9 +1375,9 @@
         <entry>action RenameFile</entry>
         <entry>nohlsearch</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action CloseProject</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
