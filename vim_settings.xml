@@ -56,6 +56,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/skptest.py" timestamp="1538258750377">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/event/weekly.py" timestamp="1537013973498">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="59" column="65" />
@@ -361,9 +368,6 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
-      </file>
-      <file name="/Python Console" timestamp="1538254404308">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
@@ -1124,9 +1128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
-      <jump line="2" column="36" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
-      <jump line="20" column="40" filename="$USER_HOME$/github/biof309_fall2018/joel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="10" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
@@ -1224,6 +1225,9 @@
       <jump line="22" column="20" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
       <jump line="23" column="25" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
       <jump line="4" column="17" filename="$USER_HOME$/github/skippy/deploy.sh" />
+      <jump line="1" column="19" filename="$USER_HOME$/PycharmProjects/skptest/skptest.py" />
+      <jump line="2" column="32" filename="$USER_HOME$/PycharmProjects/skptest/skptest.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/PycharmProjects/skptest/skptest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1275,7 +1279,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>classification</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
@@ -1357,15 +1361,15 @@
         <entry>action NewDirectoryProject</entry>
         <entry>action Synchronize</entry>
         <entry>action JumpToLastWindow</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action RenameFile</entry>
         <entry>nohlsearch</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
