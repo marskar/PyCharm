@@ -10,6 +10,19 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/github/mnist/plot.py" timestamp="1538232135442">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/github/pype/setup.py" timestamp="1538241528356">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="61" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1534786162105">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="30" column="60" />
@@ -50,8 +63,14 @@
         <mark key="." line="61" column="59" />
         <mark key="^" line="61" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1538154131040">
+      <file name="/a.dummy" timestamp="1538240141722">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/skippy/get_data.py" timestamp="1538242472769">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/assignment.py" timestamp="1537500311622">
         <mark key="'" line="0" column="0" />
@@ -74,12 +93,24 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="20" />
       </file>
+      <file name="$USER_HOME$/github/mnist/mnist_pipeline/get_data.py" timestamp="1538232998964">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535134160169">
         <mark key="'" line="74" column="82" />
         <mark key="[" line="82" column="82" />
         <mark key="]" line="87" column="14" />
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/pickle_model.py" timestamp="1538240679330">
+        <mark key="'" line="4" column="64" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/notes.txt" timestamp="1536427681759">
         <mark key="[" line="1" column="1" />
@@ -137,6 +168,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="34" />
       </file>
+      <file name="$USER_HOME$/github/pype/pype/__init__.py" timestamp="1538241007559">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/github/f2m/f2m/pydy.py" timestamp="1538023427438">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
@@ -150,6 +187,7 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/github/skippy/skippy/__init__.py" timestamp="1538242321540" />
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="38" />
@@ -161,6 +199,12 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/mnist_pipeline/__init__.py" timestamp="1538232920775">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" timestamp="1538081092399">
         <mark key="'" line="56" column="47" />
@@ -183,12 +227,24 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
+      <file name="$USER_HOME$/github/pype/pype/evaluate.py" timestamp="1538236956221">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="60" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" timestamp="1538098442577">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="21" column="2" />
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="19" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/mnist-analysis/__init__.py" timestamp="1538232664047">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/RegalPython.py" timestamp="1535489027965">
         <mark key="[" line="0" column="0" />
@@ -256,6 +312,13 @@
         <mark key="^" line="55" column="1" />
         <mark key="." line="55" column="1" />
       </file>
+      <file name="$USER_HOME$/github/pype/wine.py" timestamp="1538240905200">
+        <mark key="'" line="11" column="50" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="11" column="50" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1535487974911">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="29" />
@@ -268,6 +331,9 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
+      </file>
+      <file name="/Python Console" timestamp="1538241919443">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
@@ -483,6 +549,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/github/skippy/skippy/split_data.py" timestamp="1538242493692">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/github/nbless/nbless/nbuild.py" timestamp="1538013580917">
         <mark key="'" line="63" column="24" />
         <mark key="[" line="53" column="20" />
@@ -541,6 +613,13 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/github/skippy/README.md" timestamp="1538243227668">
+        <mark key="'" line="6" column="23" />
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490915792">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="146" />
@@ -568,6 +647,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/model.py" timestamp="1538238077085">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/github/untitled/zen.txt" timestamp="1537234199580">
         <mark key="[" line="0" column="0" />
@@ -614,6 +699,13 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/github/pype/iris.py" timestamp="1538240901858">
+        <mark key="'" line="11" column="50" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="71" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="11" column="50" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1535737035894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="9" />
@@ -626,6 +718,12 @@
         <mark key="]" line="815" column="3" />
         <mark key="^" line="815" column="3" />
         <mark key="." line="815" column="3" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/cm_plot.py" timestamp="1538231999034">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/example.py" timestamp="1535591378737">
         <mark key="[" line="6" column="0" />
@@ -678,6 +776,13 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/github/pype/digits.py" timestamp="1538241267130">
+        <mark key="'" line="7" column="35" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="71" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535736942883">
         <mark key="'" line="33" column="6" />
         <mark key="[" line="1" column="0" />
@@ -685,12 +790,26 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="$USER_HOME$/github/pype/pype/get_data.py" timestamp="1538236011367">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="5" column="34" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/plot.py" timestamp="1538239764025">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1535308608218">
         <mark key="'" line="35" column="32" />
@@ -709,6 +828,12 @@
       <file name="$USER_HOME$/github/biof309_fall2018/syl.md" timestamp="1538090425699">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/github/pype/pype/pipeline.py" timestamp="1538235402486">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbtest.py" timestamp="1536493056220">
         <mark key="[" line="5" column="94" />
         <mark key="]" line="5" column="99" />
@@ -721,6 +846,12 @@
         <mark key="]" line="60" column="24" />
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="18" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/test.py" timestamp="1538231676731">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/github/pydy/pydytest.py" timestamp="1538022195411">
         <mark key="'" line="4" column="46" />
@@ -741,7 +872,20 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538161429888">
+      <file name="$USER_HOME$/github/pype/pype/split_data.py" timestamp="1538237529661">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pipeline.py" timestamp="1538239147909">
+        <mark key="'" line="5" column="79" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1538239887689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pydy/README.md" timestamp="1538022198026">
@@ -791,6 +935,17 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/predict.py" timestamp="1538236753380">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/get_model.py" timestamp="1538238168957">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/make_folders.py" timestamp="1534801124963">
         <mark key="[" line="1" column="0" />
@@ -855,6 +1010,12 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/github/mnist/mnist_pipeline/evaluate.py" timestamp="1538233087433">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/github/nbless/nbless/nbtest.py" timestamp="1536628454445">
         <mark key="'" line="14" column="78" />
         <mark key="[" line="3" column="1" />
@@ -892,23 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="31" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
-      <jump line="21" column="9" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
-      <jump line="35" column="21" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
-      <jump line="42" column="56" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
-      <jump line="43" column="50" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
-      <jump line="49" column="57" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
-      <jump line="2" column="36" filename="$USER_HOME$/github/nbless/nbless/nbexec.py" />
-      <jump line="63" column="24" filename="$USER_HOME$/github/nbless/nbless/nbuild.py" />
-      <jump line="16" column="4" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
-      <jump line="22" column="34" filename="$USER_HOME$/github/nbless/setup.py" />
-      <jump line="40" column="9" filename="$USER_HOME$/github/nbless/nbless/nbless.py" />
-      <jump line="3" column="18" filename="$USER_HOME$/github/nbless/nbtest.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/github/pydy/pydy.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/pydy/pydy.py" />
-      <jump line="20" column="9" filename="$USER_HOME$/github/pydy/pydytest.py" />
-      <jump line="0" column="18" filename="$USER_HOME$/github/pydy/pydytest.py" />
-      <jump line="8" column="31" filename="$USER_HOME$/github/pydy/README.md" />
       <jump line="34" column="0" filename="$USER_HOME$/github/pydy/setup.py" />
       <jump line="4" column="46" filename="$USER_HOME$/github/pydy/pydytest.py" />
       <jump line="6" column="0" filename="$USER_HOME$/github/f2m/README.md" />
@@ -992,13 +1136,30 @@
       <jump line="22" column="21" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="18" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="16" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/github/mnist/plot.py" />
+      <jump line="4" column="21" filename="$USER_HOME$/github/pype/pype/plot.py" />
+      <jump line="4" column="4" filename="$USER_HOME$/github/pype/pype/get_data.py" />
+      <jump line="14" column="17" filename="$USER_HOME$/github/pype/pype/get_data.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/github/pype/pype/get_data.py" />
+      <jump line="6" column="42" filename="$USER_HOME$/github/pype/pype/get_data.py" />
+      <jump line="9" column="13" filename="$USER_HOME$/github/pype/pype/split_data.py" />
+      <jump line="7" column="17" filename="$USER_HOME$/github/pype/pype/get_data.py" />
+      <jump line="0" column="23" filename="$USER_HOME$/github/pype/pype/evaluate.py" />
+      <jump line="5" column="79" filename="$USER_HOME$/github/pype/pipeline.py" />
+      <jump line="2" column="26" filename="$USER_HOME$/github/pype/pype/__init__.py" />
+      <jump line="9" column="32" filename="$USER_HOME$/github/pype/pype/plot.py" />
+      <jump line="2" column="64" filename="$USER_HOME$/github/pype/pype/pickle_model.py" />
+      <jump line="7" column="35" filename="$USER_HOME$/github/pype/digits.py" />
+      <jump line="11" column="50" filename="$USER_HOME$/github/pype/iris.py" />
+      <jump line="11" column="50" filename="$USER_HOME$/github/pype/wine.py" />
+      <jump line="6" column="23" filename="$USER_HOME$/github/skippy/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>2''2</text>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>''</text>
       </register>
       <register name="j" type="4">
         <text>k</text>
@@ -1043,40 +1204,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cml0ZWZpbGUob2JqZWN0LCBmaWxlbmFtZTogc3RyKSAtPiBOb25lOgogICAgICAgIG9iamVjdC50b2ZpbGUoZmlsZW5hbWUsIHNlcD0nLCcpCgogICAgbmFtZXMgPSAneF90cmFpbi5jc3YnLCAneF90ZXN0LmNzdicsICd5X3RyYWluLmNzdicsICd5X3Rlc3QuY3N2JwoKICAgIGFueShtYXAod3JpdGVmaWxlLCBzcGxpdHMsIG5hbWVzKSkK</text>
+        <text encoding="base64">ZnJvbSBweXBlIGltcG9ydCBnZXRfZGF0YSwgc3BsaXRfZGF0YSwgZ2V0X21vZGVsLCBwaWNrbGVfbW9kZWwsIHBsb3RfY20K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBweXBlLmV2YWx1YXRlIGltcG9ydCBhY2N1cmFjeSwgY29uZm1hdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cml0ZWZpbGUob2JqZWN0LCBmaWxlbmFtZTogc3RyKSAtPiBOb25lOgogICAgICAgIG9iamVjdC50b2ZpbGUoZmlsZW5hbWUsIHNlcD0nLCcpCgogICAgbmFtZXMgPSAneF90cmFpbi5jc3YnLCAneF90ZXN0LmNzdicsICd5X3RyYWluLmNzdicsICd5X3Rlc3QuY3N2JwoKICAgIGFueShtYXAod3JpdGVmaWxlLCBzcGxpdHMsIG5hbWVzKSkK</text>
+        <text encoding="base64">ZnJvbSBweXBlLnByZWRpY3QgaW1wb3J0IHByZWRpY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRhcmdldAo=</text>
+        <text encoding="base64">ZnJvbSBweXBlIGltcG9ydCBnZXRfZGF0YSwgc3BsaXRfZGF0YSwgZ2V0X21vZGVsLCBwbG90X2NtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29sdW1uX25hbWVzCg==</text>
+        <text encoding="base64">ZnJvbSBweXBlIGltcG9ydCBnZXRfZGF0YSwgc3BsaXRfZGF0YSwgZ2V0X21vZGVsLCBwbG90X2NtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YQo=</text>
+        <text encoding="base64">ZnJvbSBweXBlIGltcG9ydCBnZXRfZGF0YSwgc3BsaXRfZGF0YSwgZ2V0X21vZGVsLCBwbG90X2NtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBQaWNrbGUgdGhlIG1vZGVsIHVzaW5nIHRoZSBoaWdoZXN0IHByb3RvY29sIGF2YWlsYWJsZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWVzID0gJ3hfdHJhaW4uY3N2JywgJ3hfdGVzdC5jc3YnLCAneV90cmFpbi5jc3YnLCAneV90ZXN0LmNzdicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJhaW5fc2l6ZT0wLjgKdGVzdF9zaXplPTAuMgpyYW5kb21fc3RhdGU9MAo=</text>
+        <text encoding="base64">bW9kZWwoKS5maXQoc3BsaXRzWzBdLCBzcGxpdHNbMl0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">cGxvdF9jbShjb25mbWF0LCBhY2N1cmFjeSkK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
@@ -1089,7 +1250,7 @@
       <last-replace />
       <last-substitute>\[</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1115,25 +1276,25 @@
         <entry encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action JumpToLastWindow</entry>
-        <entry>action RenameElement</entry>
-        <entry>nohlsearch</entry>
-        <entry>action OpenProjectWindows</entry>
-        <entry>action RenameFile</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>w</entry>
         <entry>action JumpToLastChange</entry>
-        <entry>action NewDirectoryProject</entry>
         <entry>action Move</entry>
-        <entry>action ActivateSciViewToolWindow</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoSymbol</entry>
         <entry>action GotoDeclaration</entry>
         <entry>%s/[//g</entry>
         <entry>%s/\[//g</entry>
+        <entry>action ShowNavBar</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action ActivateSciViewToolWindow</entry>
+        <entry>action JumpToLastWindow</entry>
+        <entry>action ReformatCode</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action Synchronize</entry>
+        <entry>action RenameFile</entry>
+        <entry>action NewDirectoryProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action Synchronize</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
@@ -1187,6 +1348,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
