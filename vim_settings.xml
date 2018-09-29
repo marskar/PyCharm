@@ -56,7 +56,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/skptest/skptest.py" timestamp="1538258750377">
+      <file name="$USER_HOME$/PycharmProjects/skptest/skptest.py" timestamp="1538262350130">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="11" column="45" />
         <mark key="]" line="11" column="0" />
@@ -369,11 +369,12 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538260998845">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262406326">
+        <mark key="'" line="0" column="19" />
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="52" />
+        <mark key="^" line="4" column="52" />
+        <mark key="." line="4" column="52" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
@@ -674,6 +675,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/reg.py" timestamp="1538262356335">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+      </file>
       <file name="$USER_HOME$/github/untitled1/pdtest" timestamp="1538024529688">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -959,7 +966,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538260641773">
+      <file name="/Dummy.txt" timestamp="1538262329427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -1135,7 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="10" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="3" column="1" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="2" column="10" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
@@ -1235,6 +1241,7 @@
       <jump line="9" column="14" filename="$USER_HOME$/PycharmProjects/skptest/skptest.py" />
       <jump line="24" column="36" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
       <jump line="28" column="3" filename="$USER_HOME$/github/skippy/README.md" />
+      <jump line="0" column="19" filename="$USER_HOME$/PycharmProjects/skptest/regress.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1286,7 +1293,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGF0IGEgdGltZQ==</text>
+        <text>Regressor</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
