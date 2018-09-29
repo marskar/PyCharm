@@ -198,11 +198,11 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/__init__.py" timestamp="1538249942431">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="55" />
-        <mark key="^" line="4" column="60" />
+      <file name="$USER_HOME$/github/skippy/skippy/__init__.py" timestamp="1538250798854">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538249963027">
         <mark key="'" line="7" column="0" />
@@ -355,7 +355,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538245677364">
+      <file name="/Python Console" timestamp="1538250899888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
@@ -530,6 +530,13 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/github/skippy/pipelines/boston.py" timestamp="1538250898513">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" timestamp="1537416086474">
         <mark key="'" line="31" column="13" />
         <mark key="[" line="12" column="19" />
@@ -605,11 +612,11 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/classification.py" timestamp="1538249004181">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="18" column="22" />
+      <file name="$USER_HOME$/github/skippy/skippy/classification.py" timestamp="1538250682124">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="62" />
+        <mark key="." line="17" column="62" />
+        <mark key="^" line="17" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535644381827">
         <mark key="[" line="0" column="0" />
@@ -902,11 +909,11 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/regression.py" timestamp="1538248746034">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="18" column="31" />
-        <mark key="^" line="18" column="31" />
+      <file name="$USER_HOME$/github/skippy/skippy/regression.py" timestamp="1538250831250">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/github/nbless/__init__.py" timestamp="1536627244876">
         <mark key="[" line="0" column="5" />
@@ -1109,10 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="123" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
-      <jump line="9" column="95" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
-      <jump line="19" column="74" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
-      <jump line="41" column="29" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
       <jump line="34" column="131" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
       <jump line="67" column="49" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
       <jump line="68" column="47" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
@@ -1209,6 +1212,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/skippy/pipelines/iris.py" />
       <jump line="18" column="8" filename="$USER_HOME$/github/skippy/skippy/regression.py" />
       <jump line="7" column="0" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
+      <jump line="2" column="20" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
+      <jump line="8" column="25" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
+      <jump line="14" column="25" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
+      <jump line="20" column="25" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1260,13 +1267,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fitted</text>
+        <text>logistic</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxza2lwcHlcPg==</text>
+        <text encoding="base64">XDxkaWdpdHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNucy5oZWF0bWFwKGNtLCBzcXVhcmU9VHJ1ZSwgYW5ub3Q9VHJ1ZSwgY2Jhcj1GYWxzZSkKICAgIHBsdC54bGFiZWwoJ1ByZWRpY3RlZCBWYWx1ZScpCiAgICBwbHQueWxhYmVsKCdUcnVlIFZhbHVlJykKICAgIGlmIGFjYyBpcyBub3QgTm9uZToKICAgICAgICBwbHQudGl0bGUoZidBY2N1cmFjeSA9IHthY2M6LjAlfScpCiAgICBwbHQuc2F2ZWZpZyhmaWxlbmFtZSkKCiAgICAjIEluIGFkZGl0aW9uIHRvIHNhdmluZyB0aGUgcGxvdCwgeW91IGNhbiBzaG93IGl0CiAgICBwbHQuc2hvdygpCg==</text>
+        <text encoding="base64">ZnJvbSBza2lwcHkuY2xhc3NpZmljYXRpb24gaW1wb3J0IGNsYXNzaWZpY2F0aW9uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1300,9 +1307,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxza2lwcHlcPg==</last-search>
+      <last-search encoding="base64">XDxkaWdpdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxza2lwcHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkaWdpdHNcPg==</last-pattern>
       <last-replace />
       <last-substitute>\[</last-substitute>
       <last-dir>1</last-dir>
@@ -1310,7 +1317,6 @@
     </search>
     <history>
       <history-search>
-        <entry>+</entry>
         <entry>runt</entry>
         <entry>Jup</entry>
         <entry>map</entry>
@@ -1330,6 +1336,7 @@
         <entry>]</entry>
         <entry encoding="base64">XDx0cmFpbl90ZXN0X3NwbGl0XD4=</entry>
         <entry encoding="base64">XDxza2lwcHlcPg==</entry>
+        <entry encoding="base64">XDxkaWdpdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ReopenClosedTab</entry>
@@ -1342,15 +1349,15 @@
         <entry>%s/\[//g</entry>
         <entry>action ShowNavBar</entry>
         <entry>action ActivateSciViewToolWindow</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action NewDirectoryProject</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action Synchronize</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameFile</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
