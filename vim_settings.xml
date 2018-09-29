@@ -355,7 +355,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538250899888">
+      <file name="/Python Console" timestamp="1538251043038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
@@ -909,11 +909,12 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/regression.py" timestamp="1538250831250">
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/github/skippy/skippy/regression.py" timestamp="1538251027439">
+        <mark key="'" line="21" column="22" />
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/github/nbless/__init__.py" timestamp="1536627244876">
         <mark key="[" line="0" column="5" />
@@ -1116,7 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="131" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
       <jump line="67" column="49" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
       <jump line="68" column="47" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
       <jump line="69" column="25" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
@@ -1216,6 +1216,7 @@
       <jump line="8" column="25" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
       <jump line="14" column="25" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
       <jump line="20" column="25" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
+      <jump line="21" column="22" filename="$USER_HOME$/github/skippy/skippy/regression.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1267,7 +1268,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>logistic</text>
+        <text>plot_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWdpdHNcPg==</text>
@@ -1349,7 +1350,6 @@
         <entry>%s/\[//g</entry>
         <entry>action ShowNavBar</entry>
         <entry>action ActivateSciViewToolWindow</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action NewDirectoryProject</entry>
         <entry>action Synchronize</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
@@ -1357,6 +1357,7 @@
         <entry>action JumpToLastWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
