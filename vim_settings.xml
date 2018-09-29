@@ -204,11 +204,11 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538244307790">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="41" />
+      <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538248986375">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
         <mark key="[" line="3" column="30" />
@@ -604,6 +604,12 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/github/skippy/skippy/classification.py" timestamp="1538249004181">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="22" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535644381827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="10" />
@@ -895,6 +901,12 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="49" />
       </file>
+      <file name="$USER_HOME$/github/skippy/skippy/regression.py" timestamp="1538248746034">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/github/nbless/__init__.py" timestamp="1536627244876">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -1096,7 +1108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="24" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" />
       <jump line="172" column="53" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/slide.css" />
       <jump line="13" column="123" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
       <jump line="9" column="95" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" />
@@ -1196,6 +1207,7 @@
       <jump line="25" column="0" filename="$USER_HOME$/github/skippy/pipelines/wine.py" />
       <jump line="24" column="56" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/skippy/pipelines/iris.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/github/skippy/skippy/regression.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1247,43 +1259,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxza2lwcHlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBza2lwcHkgaW1wb3J0IGNsYXNzaWZpY2F0aW9uCgpjbGFzc2lmaWNhdGlvbihkYXRhc2V0PSdkaWdpdHMnLAogICAgICAgICAgICAgICBtb2RlbF90eXBlPSdsaW5lYXJfbW9kZWwnLAogICAgICAgICAgICAgICBtb2RlbF9uYW1lPSdMb2dpc3RpY1JlZ3Jlc3Npb24nLAogICAgICAgICAgICAgICBwaWNrbGVfbmFtZT0nZGlnaXRzX2xvZ2lzdGljX3JlZ3Jlc3Npb24ucGlja2xlJywKICAgICAgICAgICAgICAgcGxvdF9uYW1lPSdkaWdpdHNfbG9naXN0aWNfcmVncmVzc2lvbi5wbmcnKQoKY2xhc3NpZmljYXRpb24oZGF0YXNldD0nZGlnaXRzJywKICAgICAgICAgICAgICAgbW9kZWxfdHlwZT0nZW5zZW1ibGUnLAogICAgICAgICAgICAgICBtb2RlbF9uYW1lPSdSYW5kb21Gb3Jlc3RDbGFzc2lmaWVyJywKICAgICAgICAgICAgICAgcGlja2xlX25hbWU9J2RpZ2l0c19yYW5kb21fZm9yZXN0LnBpY2tsZScsCiAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX3JhbmRvbV9mb3Jlc3QucG5nJykKCmNsYXNzaWZpY2F0aW9uKGRhdGFzZXQ9J2RpZ2l0cycsCiAgICAgICAgICAgICAgIG1vZGVsX3R5cGU9J25haXZlX2JheWVzJywKICAgICAgICAgICAgICAgbW9kZWxfbmFtZT0nR2F1c3NpYW5OQicsCiAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdkaWdpdHNfbmFpdmVfYmF5ZXMucGlja2xlJywKICAgICAgICAgICAgICAgcGxvdF9uYW1lPSdkaWdpdHNfbmFpdmVfYmF5ZXMucG5nJykKCmNsYXNzaWZpY2F0aW9uKGRhdGFzZXQ9J2RpZ2l0cycsCiAgICAgICAgICAgICAgIG1vZGVsX3R5cGU9J25laWdoYm9ycycsCiAgICAgICAgICAgICAgIG1vZGVsX25hbWU9J0tOZWlnaGJvcnNDbGFzc2lmaWVyJywKICAgICAgICAgICAgICAgcGlja2xlX25hbWU9J2RpZ2l0c19rbmVhcmVzdF9uZWlnaGJvcnMucGlja2xlJywKICAgICAgICAgICAgICAgcGxvdF9uYW1lPSdkaWdpdHNfa25lYXJlc3RfbmVpZ2hib3JzLnBuZycpCg==</text>
+      <register name="0" type="4">
+        <text>plot_residuals_vs_fitted</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBza2lwcHkgaW1wb3J0IGNsYXNzaWZpY2F0aW9uCgoKY2xhc3NpZmljYXRpb24oZGF0YXNldD0naXJpcycsCiAgICAgICAgICAgICAgIG1vZGVsX3R5cGU9J2xpbmVhcl9tb2RlbCcsCiAgICAgICAgICAgICAgIG1vZGVsX25hbWU9J0xvZ2lzdGljUmVncmVzc2lvbicsCiAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdpcmlzX2xvZ2lzdGljLnBpY2tsZScsCiAgICAgICAgICAgICAgIHBsb3RfbmFtZT0naXJpc19jb25mdXNpb25fbWF0cml4LnBuZycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBza2lwcHkgaW1wb3J0IGNsYXNzaWZpY2F0aW9uCgoKY2xhc3NpZmljYXRpb24oZGF0YXNldD0nd2luZScsCiAgICAgICAgICAgICAgIG1vZGVsX3R5cGU9J2xpbmVhcl9tb2RlbCcsCiAgICAgICAgICAgICAgIG1vZGVsX25hbWU9J0xvZ2lzdGljUmVncmVzc2lvbicsCiAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSd3aW5lX2xvZ2lzdGljLnBpY2tsZScsCiAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nd2luZV9jb25mdXNpb25fbWF0cml4LnBuZycpCg==</text>
+        <text encoding="base64">ZnJvbSBza2lwcHkgaW1wb3J0IGNsYXNzaWZpY2F0aW9uCgoKY2xhc3NpZmljYXRpb24oZGF0YXNldD0naXJpcycsCiAgICAgICAgICAgICAgIG1vZGVsX3R5cGU9J2xpbmVhcl9tb2RlbCcsCiAgICAgICAgICAgICAgIG1vZGVsX25hbWU9J0xvZ2lzdGljUmVncmVzc2lvbicsCiAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdpcmlzX2xvZ2lzdGljLnBpY2tsZScsCiAgICAgICAgICAgICAgIHBsb3RfbmFtZT0naXJpc19jb25mdXNpb25fbWF0cml4LnBuZycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBza2lwcHkgaW1wb3J0IGNsYXNzaWZpY2F0aW9uCgoKY2xhc3NpZmljYXRpb24oZGF0YXNldD0nd2luZScsCiAgICAgICAgICAgICAgIG1vZGVsX3R5cGU9J2xpbmVhcl9tb2RlbCcsCiAgICAgICAgICAgICAgIG1vZGVsX25hbWU9J0xvZ2lzdGljUmVncmVzc2lvbicsCiAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSd3aW5lX2xvZ2lzdGljLnBpY2tsZScsCiAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nd2luZV9jb25mdXNpb25fbWF0cml4LnBuZycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBza2lwcHkgaW1wb3J0IGdldF9kYXRhLCBzcGxpdF9kYXRhLCBnZXRfbW9kZWwsIHBpY2tsZV9tb2RlbCwgcGxvdF9jbQpmcm9tIHNrbGVhcm4ubWV0cmljcyBpbXBvcnQgY29uZnVzaW9uX21hdHJpeCwgYWNjdXJhY3lfc2NvcmUKCndpbmUgPSBnZXRfZGF0YShuYW1lPSd3aW5lJykKeF90cmFpbiwgeF90ZXN0LCB5X3RyYWluLCB5X3Rlc3QgPSBzcGxpdF9kYXRhKHdpbmUpCmxvZ2lzdGljID0gZ2V0X21vZGVsKG1vZGVsX3R5cGU9J2xpbmVhcl9tb2RlbCcsIG1vZGVsX25hbWU9J0xvZ2lzdGljUmVncmVzc2lvbicpCmZpdCA9IGxvZ2lzdGljLmZpdCh4X3RyYWluLCB5X3RyYWluKQpwaWNrbGVfbW9kZWwoZmlsZW5hbWU9J3dpbmVfbG9naXN0aWMucGlja2xlJywgbW9kZWw9Zml0KQpwcmVkaWN0aW9ucyA9IGZpdC5wcmVkaWN0KHhfdGVzdCkKYWNjdXJhY3kgPSBhY2N1cmFjeV9zY29yZSh5X3Rlc3QsIHByZWRpY3Rpb25zKQpjb25mbWF0ID0gY29uZnVzaW9uX21hdHJpeCh5X3Rlc3QsIHByZWRpY3Rpb25zKQpwbG90X2NtKGNtPWNvbmZtYXQsIGZpbGVuYW1lPSd3aW5lX2NvbmZ1c2lvbl9tYXRyaXguaW1hZ2VzJywgYWNjPWFjY3VyYWN5KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGNvbmZ1c2lvbl9tYXRyaXgsIGFjY3VyYWN5X3Njb3JlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aXJpcyA9IHNrcC5nZXRfZGF0YSgnaXJpcycpCnhfdHJhaW4sIHhfdGVzdCwgeV90cmFpbiwgeV90ZXN0ID0gc2twLnNwbGl0X2RhdGEoaXJpcykKbG9naXN0aWMgPSBza3AuZ2V0X21vZGVsKG1vZGVsX3R5cGU9J2xpbmVhcl9tb2RlbCcsIG1vZGVsX25hbWU9J0xvZ2lzdGljUmVncmVzc2lvbicpCmZpdCA9IGxvZ2lzdGljLmZpdCh4X3RyYWluLCB5X3RyYWluKQpza3AucGlja2xlX21vZGVsKGZpbGVuYW1lPSdkaWdpdHNfbG9naXN0aWMucGlja2xlJywgbW9kZWw9Zml0KQpwcmVkaWN0aW9ucyA9IGZpdC5wcmVkaWN0KHhfdGVzdCkKY29uZm1hdCA9IGNvbmZ1c2lvbl9tYXRyaXgoeV90ZXN0LCBwcmVkaWN0aW9ucykKYWNjdXJhY3kgPSBhY2N1cmFjeV9zY29yZSh5X3Rlc3QsIHByZWRpY3Rpb25zKQpza3AucGxvdF9jbShjbT1jb25mbWF0LCBhY2M9YWNjdXJhY3ksIGZpbGVuYW1lPSdpcmlzX2NvbmZ1c2lvbl9tYXRyaXguaW1hZ2VzJykK</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBza2lwcHkgaW1wb3J0IGdldF9kYXRhLCBzcGxpdF9kYXRhLCBnZXRfbW9kZWwsIHBpY2tsZV9tb2RlbCwgcGxvdF9jbQpmcm9tIHNrbGVhcm4ubWV0cmljcyBpbXBvcnQgY29uZnVzaW9uX21hdHJpeCwgYWNjdXJhY3lfc2NvcmUKCndpbmUgPSBnZXRfZGF0YShuYW1lPSd3aW5lJykKeF90cmFpbiwgeF90ZXN0LCB5X3RyYWluLCB5X3Rlc3QgPSBzcGxpdF9kYXRhKHdpbmUpCmxvZ2lzdGljID0gZ2V0X21vZGVsKG1vZGVsX3R5cGU9J2xpbmVhcl9tb2RlbCcsIG1vZGVsX25hbWU9J0xvZ2lzdGljUmVncmVzc2lvbicpCmZpdCA9IGxvZ2lzdGljLmZpdCh4X3RyYWluLCB5X3RyYWluKQpwaWNrbGVfbW9kZWwoZmlsZW5hbWU9J3dpbmVfbG9naXN0aWMucGlja2xlJywgbW9kZWw9Zml0KQpwcmVkaWN0aW9ucyA9IGZpdC5wcmVkaWN0KHhfdGVzdCkKYWNjdXJhY3kgPSBhY2N1cmFjeV9zY29yZSh5X3Rlc3QsIHByZWRpY3Rpb25zKQpjb25mbWF0ID0gY29uZnVzaW9uX21hdHJpeCh5X3Rlc3QsIHByZWRpY3Rpb25zKQpwbG90X2NtKGNtPWNvbmZtYXQsIGZpbGVuYW1lPSd3aW5lX2NvbmZ1c2lvbl9tYXRyaXguaW1hZ2VzJywgYWNjPWFjY3VyYWN5KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGNvbmZ1c2lvbl9tYXRyaXgsIGFjY3VyYWN5X3Njb3JlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aXJpcyA9IHNrcC5nZXRfZGF0YSgnaXJpcycpCnhfdHJhaW4sIHhfdGVzdCwgeV90cmFpbiwgeV90ZXN0ID0gc2twLnNwbGl0X2RhdGEoaXJpcykKbG9naXN0aWMgPSBza3AuZ2V0X21vZGVsKG1vZGVsX3R5cGU9J2xpbmVhcl9tb2RlbCcsIG1vZGVsX25hbWU9J0xvZ2lzdGljUmVncmVzc2lvbicpCmZpdCA9IGxvZ2lzdGljLmZpdCh4X3RyYWluLCB5X3RyYWluKQpza3AucGlja2xlX21vZGVsKGZpbGVuYW1lPSdkaWdpdHNfbG9naXN0aWMucGlja2xlJywgbW9kZWw9Zml0KQpwcmVkaWN0aW9ucyA9IGZpdC5wcmVkaWN0KHhfdGVzdCkKY29uZm1hdCA9IGNvbmZ1c2lvbl9tYXRyaXgoeV90ZXN0LCBwcmVkaWN0aW9ucykKYWNjdXJhY3kgPSBhY2N1cmFjeV9zY29yZSh5X3Rlc3QsIHByZWRpY3Rpb25zKQpza3AucGxvdF9jbShjbT1jb25mbWF0LCBhY2M9YWNjdXJhY3ksIGZpbGVuYW1lPSdpcmlzX2NvbmZ1c2lvbl9tYXRyaXguaW1hZ2VzJykK</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      </register>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
+      </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1334,11 +1346,11 @@
         <entry>action NewDirectoryProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action Synchronize</entry>
-        <entry>action CloseProject</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameFile</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
