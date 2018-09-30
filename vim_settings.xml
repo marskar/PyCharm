@@ -376,6 +376,9 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="/Python Console" timestamp="1538265900360">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262582378">
         <mark key="'" line="8" column="19" />
         <mark key="[" line="26" column="46" />
@@ -1348,7 +1351,7 @@
         <text encoding="base64">bmJsZXNzLm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmV4ZWMoIm5vdGVib29rcy9yYXcuaXB5bmIiLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmxlc3MoWyJSRUFETUUubWQiLCAicGxvdC5weSIsICJub3Rlcy50eHQiXSwgbmJleGVjX3BhdGg9Im5vdGVib29rcy8iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ActivatePythonConsoleToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1400,10 +1403,10 @@
         <entry>action RenameFile</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ReformatCode</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>nohlsearch</entry>
         <entry>action CloseProject</entry>
         <entry>w</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
