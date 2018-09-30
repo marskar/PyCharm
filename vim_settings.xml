@@ -149,11 +149,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/github/scattr/scatest.py" timestamp="1538321627515">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-        <mark key="^" line="13" column="12" />
+      <file name="$USER_HOME$/github/scattr/scatest.py" timestamp="1538323040577">
+        <mark key="'" line="10" column="1" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.md" timestamp="1535861464153">
         <mark key="[" line="5" column="0" />
@@ -199,12 +199,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/github/scattr/README.md" timestamp="1538321553901">
-        <mark key="'" line="30" column="34" />
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-        <mark key="^" line="9" column="36" />
+      <file name="$USER_HOME$/github/scattr/README.md" timestamp="1538323254234">
+        <mark key="'" line="41" column="34" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/github/f2m/f2m/pydy.py" timestamp="1538023427438">
         <mark key="[" line="14" column="16" />
@@ -389,7 +389,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538320492178">
+      <file name="/Python Console" timestamp="1538322995761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262582378">
@@ -1009,7 +1009,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538321101149">
+      <file name="/Dummy.txt" timestamp="1538323294706">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -1148,11 +1148,10 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/github/scattr/helper.py" timestamp="1538321588465">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/github/scattr/helper.py" timestamp="1538323022853">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbless/nbtest.py" timestamp="1536628454445">
         <mark key="'" line="14" column="78" />
@@ -1197,8 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/github/mnist-analysis/joel.py" />
-      <jump line="1" column="14" filename="$USER_HOME$/github/mnist-analysis/get_data.py" />
       <jump line="3" column="46" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="4" column="16" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="5" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
@@ -1297,6 +1294,8 @@
       <jump line="3" column="36" filename="$USER_HOME$/github/scattr/scattr/scattr.py" />
       <jump line="26" column="34" filename="$USER_HOME$/github/scattr/README.md" />
       <jump line="7" column="0" filename="$USER_HOME$/github/scattr/scatest.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/github/scattr/scatest.py" />
+      <jump line="10" column="1" filename="$USER_HOME$/github/scattr/scatest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1354,48 +1353,37 @@
         <text>d</text>
       </register>
       <register name="0" type="4">
-        <text>`scattr`</text>
+        <text encoding="base64">VGhlIGBzY2F0dHJgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGkgPSAzLjE0CnBkLkRhdGFGcmFtZS5waSA9IHBpCnBkLkRhdGFGcmFtZS5waQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGYucGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBhZGQgcGkgdG8gYSBwYW5kYXMgRGF0YUZyYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGkgPSAzLjE0Cg==</text>
+        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLgoKQ2xhc3MgdmFyaWFibGVzLCBtZXRob2QgYW5kIGNsYXNzZXMgY2FuIGJlIGFkZGVkIGR5bmFtaWNhbGx5OgpgYGBweXRob24KIyBhZGQgcGkgdG8gYSBwYW5kYXMgRGF0YUZyYW1lCmltcG9ydCBwYW5kYXMgYXMgcGQKaW1wb3J0IG1hdGgKcGQuRGF0YUZyYW1lLnBpID0gbWF0aC5waQpgYGAKCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>F2M(cls):
-        pass
-
-    mod = import_module(src)
-    internals = mod.__dict__.items()
-    method_names = [name for name, val in internals if callable(val)]
-
-    for name in method_names:
-        met = getattr(mod, name)
-        setattr(F2M, name, met)
-
-    retur</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>''</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGYuc2F5X21vbygpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Create an R markdown file from the command line.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1441,16 +1429,16 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action ActivateSciViewToolWindow</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>action RenameFile</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action RenameElement</entry>
         <entry>action Synchronize</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
