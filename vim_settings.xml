@@ -1383,7 +1383,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -1393,7 +1393,7 @@
       <last-replace />
       <last-substitute>\[</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1434,11 +1434,11 @@
         <entry>action RenameFile</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ReformatCode</entry>
-        <entry>nohlsearch</entry>
         <entry>w</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action RenameElement</entry>
         <entry>action CloseProject</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
