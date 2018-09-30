@@ -1352,7 +1352,7 @@
         <text encoding="base64">SWYgeW91IGhhdmUgYW55IG90aGVyIFB5dGhvbiBpbnN0YWxsYXRpb24sIHJ1bgoKYGBgc2gKcGlwIGluc3RhbGwganVweXRlcgpgYGAK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1405,9 +1405,9 @@
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ReformatCode</entry>
         <entry>nohlsearch</entry>
-        <entry>action CloseProject</entry>
         <entry>w</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
