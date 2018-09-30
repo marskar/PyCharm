@@ -70,7 +70,7 @@
         <mark key="." line="61" column="59" />
         <mark key="^" line="61" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1538251181698">
+      <file name="/a.dummy" timestamp="1538319511029">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/skippy/skippy/get_data.py" timestamp="1538242472769">
@@ -192,6 +192,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/scattr/README.md" timestamp="1538318946394">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/github/f2m/f2m/pydy.py" timestamp="1538023427438">
         <mark key="[" line="14" column="16" />
@@ -572,6 +579,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/github/scattr/scattr/scattr.py" timestamp="1538319498866">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" timestamp="1537416086474">
         <mark key="'" line="31" column="13" />
@@ -976,6 +990,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/github/scattr/scattr/__init__.py" timestamp="1538318981601">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/github/pype/pipeline.py" timestamp="1538239147909">
         <mark key="'" line="5" column="79" />
         <mark key="[" line="10" column="20" />
@@ -1165,8 +1185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="35" column="2" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="34" column="7" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="54" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
@@ -1265,6 +1283,8 @@
       <jump line="79" column="20" filename="$USER_HOME$/github/catren/README.md" />
       <jump line="47" column="0" filename="$USER_HOME$/github/catren/catren/catrmd.py" />
       <jump line="9" column="58" filename="$USER_HOME$/github/catren/catren/catrmd.py" />
+      <jump line="0" column="14" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="5" column="15" filename="$USER_HOME$/github/scattr/scattr/scattr.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1316,40 +1336,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>the command line</text>
+        <text>Set</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
       </register>
       <register name="0" type="4">
-        <text>'Create an R markdown file from the command line.'</text>
+        <text>SubClassAttributes</text>
       </register>
       <register name="1" type="4">
-        <text>''</text>
+        <text>F2M(cls):
+        pass
+
+    mod = import_module(src)
+    internals = mod.__dict__.items()
+    method_names = [name for name, val in internals if callable(val)]
+
+    for name in method_names:
+        met = getattr(mod, name)
+        setattr(F2M, name, met)
+
+    retur</text>
       </register>
       <register name="2" type="4">
+        <text>''</text>
+      </register>
+      <register name="3" type="4">
         <text>Create an R markdown file from the command line.</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tdW5yZW5kZXJlZCcsICctdScsIGRlZmF1bHQ9J3VucmVuZGVyZWQuUm1kJywK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3JlcXVpcmVzPVsKICAgICAgICAnanVweXRlcicKICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNzY3JpcHRzPVsnbmJsZXNzLnB5JywgJ25idWlsZC5weScsICduYmV4ZWMucHknXSwK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3JlcXVpcmVzPVsKICAgICAgICAnanVweXRlcicKICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25idWlsZCA9IG5ibGVzcy5uYnVpbGQ6Y29tbWFuZF9saW5lX3J1bm5lcicsCiAgICAgICAgICAgICduYmV4ZWMgPSBuYmxlc3MubmJleGVjOmNvbW1hbmRfbGluZV9ydW5uZXInLAogICAgICAgICAgICAnbmJjb2RlID0gbmJsZXNzLm5iY29kZTpjb21tYW5kX2xpbmVfcnVubmVyJywKICAgICAgICAgICAgJ25iaHRtbCA9IG5ibGVzcy5uYmh0bWw6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
+        <text encoding="base64">ICAgICNzY3JpcHRzPVsnbmJsZXNzLnB5JywgJ25idWlsZC5weScsICduYmV4ZWMucHknXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25idWlsZCA9IG5ibGVzcy5uYnVpbGQ6Y29tbWFuZF9saW5lX3J1bm5lcicsCiAgICAgICAgICAgICduYmV4ZWMgPSBuYmxlc3MubmJleGVjOmNvbW1hbmRfbGluZV9ydW5uZXInLAogICAgICAgICAgICAnbmJjb2RlID0gbmJsZXNzLm5iY29kZTpjb21tYW5kX2xpbmVfcnVubmVyJywKICAgICAgICAgICAgJ25iaHRtbCA9IG5ibGVzcy5uYmh0bWw6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SWYgeW91IGhhdmUgYW55IG90aGVyIFB5dGhvbiBpbnN0YWxsYXRpb24sIHJ1bgoKYGBgc2gKcGlwIGluc3RhbGwganVweXRlcgpgYGAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
@@ -1362,7 +1393,7 @@
       <last-replace />
       <last-substitute>\[</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1388,7 +1419,6 @@
         <entry>d</entry>
       </history-search>
       <history-cmd>
-        <entry>action Move</entry>
         <entry>action GotoSymbol</entry>
         <entry>action GotoDeclaration</entry>
         <entry>%s/[//g</entry>
@@ -1407,6 +1437,7 @@
         <entry>nohlsearch</entry>
         <entry>w</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action RenameElement</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
