@@ -440,11 +440,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/github/catren/catren/catrmd.py" timestamp="1538265869426">
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="30" />
-        <mark key="." line="50" column="30" />
-        <mark key="^" line="50" column="30" />
+      <file name="$USER_HOME$/github/catren/catren/catrmd.py" timestamp="1538267660830">
+        <mark key="'" line="9" column="58" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="51" />
+        <mark key="." line="10" column="51" />
+        <mark key="^" line="10" column="51" />
       </file>
       <file name="$USER_HOME$/github/mnist-analysis/evaluate.py" timestamp="1538154090185">
         <mark key="'" line="6" column="14" />
@@ -982,7 +983,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538264914428">
+      <file name="/Dummy.txt" timestamp="1538267673946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -1164,8 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" />
-      <jump line="0" column="3" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/about.md" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" />
       <jump line="32" column="0" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
       <jump line="35" column="2" filename="$USER_HOME$/github/biof309_fall2018/import.py" />
@@ -1264,13 +1263,15 @@
       <jump line="17" column="33" filename="$USER_HOME$/github/catren/README.md" />
       <jump line="30" column="37" filename="$USER_HOME$/github/catren/README.md" />
       <jump line="79" column="20" filename="$USER_HOME$/github/catren/README.md" />
+      <jump line="47" column="0" filename="$USER_HOME$/github/catren/catren/catrmd.py" />
+      <jump line="9" column="58" filename="$USER_HOME$/github/catren/catren/catrmd.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>2''2</text>
       </register>
       <register name="*" type="4">
-        <text>pipelines</text>
+        <text>''</text>
       </register>
       <register name="j" type="4">
         <text>k</text>
@@ -1315,40 +1316,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nnrendered</text>
+        <text>the command line</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2F0cmVuIA==</text>
+        <text>'Create an R markdown file from the command line.'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tdW5yZW5kZXJlZCcsICctdScsIGRlZmF1bHQ9J3VucmVuZGVyZWQuUm1kJywK</text>
+      <register name="1" type="4">
+        <text>''</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Create an R markdown file from the command line.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3JlcXVpcmVzPVsKICAgICAgICAnanVweXRlcicKICAgIF0K</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tdW5yZW5kZXJlZCcsICctdScsIGRlZmF1bHQ9J3VucmVuZGVyZWQuUm1kJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICNzY3JpcHRzPVsnbmJsZXNzLnB5JywgJ25idWlsZC5weScsICduYmV4ZWMucHknXSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25idWlsZCA9IG5ibGVzcy5uYnVpbGQ6Y29tbWFuZF9saW5lX3J1bm5lcicsCiAgICAgICAgICAgICduYmV4ZWMgPSBuYmxlc3MubmJleGVjOmNvbW1hbmRfbGluZV9ydW5uZXInLAogICAgICAgICAgICAnbmJjb2RlID0gbmJsZXNzLm5iY29kZTpjb21tYW5kX2xpbmVfcnVubmVyJywKICAgICAgICAgICAgJ25iaHRtbCA9IG5ibGVzcy5uYmh0bWw6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3JlcXVpcmVzPVsKICAgICAgICAnanVweXRlcicKICAgIF0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICNzY3JpcHRzPVsnbmJsZXNzLnB5JywgJ25idWlsZC5weScsICduYmV4ZWMucHknXSwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">SWYgeW91IGhhdmUgYW55IG90aGVyIFB5dGhvbiBpbnN0YWxsYXRpb24sIHJ1bgoKYGBgc2gKcGlwIGluc3RhbGwganVweXRlcgpgYGAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25idWlsZCA9IG5ibGVzcy5uYnVpbGQ6Y29tbWFuZF9saW5lX3J1bm5lcicsCiAgICAgICAgICAgICduYmV4ZWMgPSBuYmxlc3MubmJleGVjOmNvbW1hbmRfbGluZV9ydW5uZXInLAogICAgICAgICAgICAnbmJjb2RlID0gbmJsZXNzLm5iY29kZTpjb21tYW5kX2xpbmVfcnVubmVyJywKICAgICAgICAgICAgJ25iaHRtbCA9IG5ibGVzcy5uYmh0bWw6Y29tbWFuZF9saW5lX3J1bm5lcicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBBbm90aGVyIGFsdGVybmF0aXZlIGlzIHRvIGltcG9ydCB0aGUgcGFja2FnZSBhbmQgdXNlIGl0IGFzIGEgbmFtZXNwYWNlLgppbXBvcnQgY2F0cmVuCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmJsZXNzLm5idWlsZChbIlJFQURNRS5tZCIsICJwbG90LnB5IiwgIm5vdGVzLnR4dCJdLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmV4ZWMoIm5vdGVib29rcy9yYXcuaXB5bmIiLCBvdXRwdXRfcGF0aD0ibm90ZWJvb2tzLyIpCm5ibGVzcy5uYmxlc3MoWyJSRUFETUUubWQiLCAicGxvdC5weSIsICJub3Rlcy50eHQiXSwgbmJleGVjX3BhdGg9Im5vdGVib29rcy8iKQo=</text>
+        <text encoding="base64">SWYgeW91IGhhdmUgYW55IG90aGVyIFB5dGhvbiBpbnN0YWxsYXRpb24sIHJ1bgoKYGBgc2gKcGlwIGluc3RhbGwganVweXRlcgpgYGAK</text>
       </register>
       <register name=":" type="4">
         <text>action ActivatePythonConsoleToolWindow</text>

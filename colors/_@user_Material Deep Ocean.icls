@@ -4,17 +4,17 @@
     <property name="created">2018-09-29T10:27:39</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-09-29T10:32:54</property>
+    <property name="modified">2018-09-29T20:36:41</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="FuraCode Nerd Font" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
@@ -2759,7 +2759,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="717cb4" />
+        <option name="FOREGROUND" value="30b000" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
