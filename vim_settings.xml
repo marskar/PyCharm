@@ -1383,7 +1383,7 @@
         <text encoding="base64">ZGYuc2F5X21vbygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1435,10 +1435,10 @@
         <entry>action RenameFile</entry>
         <entry>action RenameElement</entry>
         <entry>action Synchronize</entry>
-        <entry>action CloseProject</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
