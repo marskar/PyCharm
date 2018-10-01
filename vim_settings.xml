@@ -206,11 +206,11 @@
         <mark key="^" line="19" column="191" />
         <mark key="." line="19" column="191" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/skptest/import.py" timestamp="1538399941338">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/skptest/import.py" timestamp="1538400683748">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
       </file>
       <file name="$USER_HOME$/github/f2m/f2m/pydy.py" timestamp="1538023427438">
         <mark key="[" line="14" column="16" />
@@ -969,6 +969,12 @@
         <mark key="^" line="5" column="99" />
         <mark key="." line="5" column="99" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/blank.py" timestamp="1538400675151">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/nbless/nbless/catrmd.py" timestamp="1537826982870">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="31" column="0" />
@@ -1365,13 +1371,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>functions</text>
+        <text>pi</text>
       </register>
       <register name="/" type="4">
         <text>func</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YW5kIGNsYXNzZXMg</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHBpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLCBub3QgdmFyaWFibGVzLgoK</text>
