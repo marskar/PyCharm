@@ -149,8 +149,8 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/github/scattr/scatest.py" timestamp="1538323040577">
-        <mark key="'" line="10" column="1" />
+      <file name="$USER_HOME$/github/scattr/scatest.py" timestamp="1538359404185">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -389,7 +389,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538322995761">
+      <file name="/Python Console" timestamp="1538359298442">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262582378">
@@ -1196,7 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="$USER_HOME$/github/mnist-analysis/plot_cm.py" />
       <jump line="15" column="0" filename="$USER_HOME$/github/mnist-analysis/plot_cm.py" />
       <jump line="17" column="26" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="8" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
@@ -1296,6 +1295,7 @@
       <jump line="19" column="45" filename="$USER_HOME$/github/scattr/README.md" />
       <jump line="21" column="13" filename="$USER_HOME$/github/scattr/README.md" />
       <jump line="10" column="29" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/github/scattr/scatest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1383,7 +1383,7 @@
         <text encoding="base64">ZGYuc2F5X21vbygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action ActivatePythonConsoleToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1436,9 +1436,9 @@
         <entry>action RenameElement</entry>
         <entry>action Synchronize</entry>
         <entry>action CloseProject</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
