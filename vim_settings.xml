@@ -112,9 +112,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535134160169">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1538399351680">
         <mark key="'" line="74" column="82" />
-        <mark key="[" line="82" column="82" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="87" column="14" />
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
@@ -205,6 +205,12 @@
         <mark key="]" line="19" column="191" />
         <mark key="^" line="19" column="191" />
         <mark key="." line="19" column="191" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/import.py" timestamp="1538399941338">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/github/f2m/f2m/pydy.py" timestamp="1538023427438">
         <mark key="[" line="14" column="16" />
@@ -389,7 +395,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538359298442">
+      <file name="/Python Console" timestamp="1538399340890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262582378">
@@ -419,6 +425,12 @@
         <mark key="]" line="18" column="47" />
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/pi.py" timestamp="1538399922647">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" timestamp="1536448041736">
         <mark key="'" line="5" column="11" />
@@ -459,6 +471,12 @@
         <mark key="]" line="10" column="51" />
         <mark key="." line="10" column="51" />
         <mark key="^" line="10" column="51" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/say.py" timestamp="1538399902327">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/github/mnist-analysis/evaluate.py" timestamp="1538154090185">
         <mark key="'" line="6" column="14" />
@@ -1009,7 +1027,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538358230379">
+      <file name="/Dummy.txt" timestamp="1538399340951">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -1383,7 +1401,7 @@
         <text encoding="base64">ZGYuc2F5X21vbygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -1435,10 +1453,10 @@
         <entry>action RenameFile</entry>
         <entry>action RenameElement</entry>
         <entry>action Synchronize</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action CloseProject</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
