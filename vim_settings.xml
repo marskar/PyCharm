@@ -199,12 +199,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/github/scattr/README.md" timestamp="1538348511073">
-        <mark key="'" line="41" column="34" />
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
+      <file name="$USER_HOME$/github/scattr/README.md" timestamp="1538358163332">
+        <mark key="'" line="10" column="29" />
+        <mark key="[" line="19" column="115" />
+        <mark key="]" line="19" column="191" />
+        <mark key="^" line="19" column="191" />
+        <mark key="." line="19" column="191" />
       </file>
       <file name="$USER_HOME$/github/f2m/f2m/pydy.py" timestamp="1538023427438">
         <mark key="[" line="14" column="16" />
@@ -1009,7 +1009,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538323294706">
+      <file name="/Dummy.txt" timestamp="1538358230379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -1196,17 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="46" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
-      <jump line="4" column="16" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
-      <jump line="6" column="4" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
-      <jump line="11" column="4" filename="$USER_HOME$/github/mnist-analysis/model.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/github/mnist-analysis/model.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/github/mnist-analysis/evaluate.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
-      <jump line="5" column="14" filename="$USER_HOME$/github/mnist-analysis/evaluate.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/github/mnist-analysis/joel.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/github/mnist-analysis/model.py" />
       <jump line="5" column="4" filename="$USER_HOME$/github/mnist-analysis/plot_cm.py" />
       <jump line="15" column="0" filename="$USER_HOME$/github/mnist-analysis/plot_cm.py" />
       <jump line="17" column="26" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
@@ -1296,6 +1285,17 @@
       <jump line="7" column="0" filename="$USER_HOME$/github/scattr/scatest.py" />
       <jump line="13" column="0" filename="$USER_HOME$/github/scattr/scatest.py" />
       <jump line="10" column="1" filename="$USER_HOME$/github/scattr/scatest.py" />
+      <jump line="49" column="14" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="34" column="16" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="54" column="31" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="81" column="2" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="17" column="40" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="15" column="12" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="18" column="17" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="19" column="45" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="21" column="13" filename="$USER_HOME$/github/scattr/README.md" />
+      <jump line="10" column="29" filename="$USER_HOME$/github/scattr/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1347,59 +1347,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2Yg</text>
+        <text>functions</text>
       </register>
       <register name="/" type="4">
-        <text>d</text>
+        <text>func</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">VGhlIGBzY2F0dHJgIA==</text>
+        <text encoding="base64">YW5kIGNsYXNzZXMg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLCBub3QgdmFyaWFibGVzLgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBhZGQgcGkgdG8gYSBwYW5kYXMgRGF0YUZyYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLgoK</text>
+        <text encoding="base64">IyBhZGQgcGkgdG8gYSBwYW5kYXMgRGF0YUZyYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLgoKQ2xhc3MgdmFyaWFibGVzLCBtZXRob2QgYW5kIGNsYXNzZXMgY2FuIGJlIGFkZGVkIGR5bmFtaWNhbGx5OgpgYGBweXRob24KIyBhZGQgcGkgdG8gYSBwYW5kYXMgRGF0YUZyYW1lCmltcG9ydCBwYW5kYXMgYXMgcGQKaW1wb3J0IG1hdGgKcGQuRGF0YUZyYW1lLnBpID0gbWF0aC5waQpgYGAKCg==</text>
+        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLgoKQ2xhc3MgdmFyaWFibGVzLCBtZXRob2QgYW5kIGNsYXNzZXMgY2FuIGJlIGFkZGVkIGR5bmFtaWNhbGx5OgpgYGBweXRob24KIyBhZGQgcGkgdG8gYSBwYW5kYXMgRGF0YUZyYW1lCmltcG9ydCBwYW5kYXMgYXMgcGQKaW1wb3J0IG1hdGgKcGQuRGF0YUZyYW1lLnBpID0gbWF0aC5waQpgYGAKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGYuc2F5X21vbygpCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZGYuc2F5X21vbygpCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
-      <last-search>d</last-search>
+      <last-search>func</last-search>
       <last-offset />
-      <last-pattern>d</last-pattern>
+      <last-pattern>func</last-pattern>
       <last-replace />
       <last-substitute>\[</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
-        <entry>exec</entry>
-        <entry>nbfo</entry>
         <entry encoding="base64">XDxBcmd1bWVudFBhcnNlclw+</entry>
         <entry>Scr</entry>
         <entry>os</entry>
@@ -1417,6 +1414,9 @@
         <entry encoding="base64">XDxkaWdpdHNcPg==</entry>
         <entry>dig</entry>
         <entry>d</entry>
+        <entry>pre</entry>
+        <entry>functions</entry>
+        <entry>func</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSymbol</entry>
@@ -1436,9 +1436,9 @@
         <entry>action RenameElement</entry>
         <entry>action Synchronize</entry>
         <entry>action CloseProject</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
