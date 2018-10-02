@@ -1453,7 +1453,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1491,7 +1491,6 @@
       <history-cmd>
         <entry>action RenameFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action CloseProject</entry>
         <entry>%s/csv/raw data/g</entry>
         <entry>%s/get_data.py/a/g</entry>
         <entry>%s/clean_data.py/b/g</entry>
@@ -1509,6 +1508,7 @@
         <entry>action Synchronize</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action RenameElement</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
