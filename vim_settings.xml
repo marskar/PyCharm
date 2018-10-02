@@ -819,6 +819,12 @@
       <file name="/Python Console" timestamp="1538448669047">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="18" column="15" />
@@ -1000,6 +1006,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/results.py" timestamp="1538451169519">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/nbuild.py" timestamp="1536381156758">
         <mark key="'" line="15" column="1" />
@@ -1405,7 +1417,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, node_color=&quot;white&quot;</text>
+        <text>r(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -1414,34 +1426,34 @@
         <text>raw data\n\n</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ZnJvbSBteV9tb2R1bGUgaW1wb3J0IHRvX2ZpbGUKcmVzdWx0ID0gNDIKdG9fZmlsZShyZXN1bHQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgZWRnZV9sYWJlbHM9bGFiLCByb3RhdGU9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIHdpdGhfbGFiZWxzPVRydWUsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
+        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgZWRnZV9sYWJlbHM9bGFiLCByb3RhdGU9VHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
+        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIHdpdGhfbGFiZWxzPVRydWUsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgcm90YXRlPVRydWUpCg==</text>
+        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGFiID0geygib2J0YWluXG5kYXRhIiwgInByb2Nlc3NcbmRhdGEiKTogInJhd1xuZGF0YSIsCiAgICAgICAoInByb2Nlc3NcbmRhdGEiLCAibW9kZWwiKTogImZpbmFsXG5kYXRhIiwKICAgICAgICgibW9kZWwiLCAibWV0cmljc1xuJiBwbG90cyIpOiAiZml0dGVkXG52YWx1ZXMiCiAgICAgICB9Cg==</text>
+        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgcm90YXRlPVRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx0LnNhdmVmaWcoJ3NpbXBsZV9kYWcucG5nJykK</text>
+        <text encoding="base64">bGFiID0geygib2J0YWluXG5kYXRhIiwgInByb2Nlc3NcbmRhdGEiKTogInJhd1xuZGF0YSIsCiAgICAgICAoInByb2Nlc3NcbmRhdGEiLCAibW9kZWwiKTogImZpbmFsXG5kYXRhIiwKICAgICAgICgibW9kZWwiLCAibWV0cmljc1xuJiBwbG90cyIpOiAiZml0dGVkXG52YWx1ZXMiCiAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx0LnNhdmVmaWcoJ3NpbXBsZV9kYWcucG5nJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TiA9IGxlbihwb3MpCmtleXMgPSBsaXN0KHBvcy5rZXlzKCkpCgpYID0gW3Bvc1trZXldWzBdIGZvciBrZXkgaW4ga2V5c10KWSA9IFtwb3Nba2V5XVsxXSBmb3Iga2V5IGluIGtleXNdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -1481,8 +1493,6 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseProject</entry>
         <entry>%s/csv/raw data/g</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action RenameElement</entry>
         <entry>%s/get_data.py/a/g</entry>
         <entry>%s/clean_data.py/b/g</entry>
         <entry>%s/model.py/c/g</entry>
@@ -1495,8 +1505,10 @@
         <entry>%s//clean\ndata/g</entry>
         <entry>%s//process/g</entry>
         <entry>%s//obtain/g</entry>
-        <entry>action Synchronize</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action Synchronize</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
