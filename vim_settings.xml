@@ -206,11 +206,11 @@
         <mark key="^" line="19" column="191" />
         <mark key="." line="19" column="191" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/skptest/import.py" timestamp="1538400683748">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/skptest/import.py" timestamp="1538439770134">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/github/f2m/f2m/pydy.py" timestamp="1538023427438">
         <mark key="[" line="14" column="16" />
@@ -395,9 +395,6 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538399340890">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262582378">
         <mark key="'" line="8" column="19" />
         <mark key="[" line="26" column="46" />
@@ -445,6 +442,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="20" column="6" />
         <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/01_script.py" timestamp="1538439743267">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate-listcomp.py" timestamp="1536089487581">
         <mark key="'" line="9" column="12" />
@@ -1407,7 +1410,7 @@
         <text encoding="base64">ZGYuc2F5X21vbygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -1417,7 +1420,7 @@
       <last-replace />
       <last-substitute>\[</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1458,11 +1461,11 @@
         <entry>nohlsearch</entry>
         <entry>action RenameFile</entry>
         <entry>action RenameElement</entry>
-        <entry>action Synchronize</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
+        <entry>action Synchronize</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
