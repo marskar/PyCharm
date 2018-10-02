@@ -523,7 +523,7 @@
         <mark key="." line="26" column="15" />
         <mark key="^" line="25" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538517166572">
+      <file name="/Dummy.txt" timestamp="1538517814410">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -816,7 +816,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538517166407">
+      <file name="/Python Console" timestamp="1538517814149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
@@ -1504,10 +1504,10 @@
         <entry>%s//clean\ndata/g</entry>
         <entry>%s//process/g</entry>
         <entry>%s//obtain/g</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action Synchronize</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action RenameElement</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
