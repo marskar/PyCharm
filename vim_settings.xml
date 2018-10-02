@@ -1156,11 +1156,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/skptest/dag.py" timestamp="1538441180548">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="46" column="32" />
-        <mark key="^" line="46" column="32" />
-        <mark key="." line="46" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/skptest/dag.py" timestamp="1538442894799">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+        <mark key="^" line="14" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test" timestamp="1536281750353">
         <mark key="[" line="0" column="0" />
@@ -1229,8 +1229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/github/mnist-analysis/plot_cm.py" />
-      <jump line="17" column="26" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="8" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="10" column="0" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
       <jump line="11" column="13" filename="$USER_HOME$/github/mnist-analysis/split_data.py" />
@@ -1329,6 +1327,8 @@
       <jump line="21" column="13" filename="$USER_HOME$/github/scattr/README.md" />
       <jump line="10" column="29" filename="$USER_HOME$/github/scattr/README.md" />
       <jump line="14" column="0" filename="$USER_HOME$/github/scattr/scatest.py" />
+      <jump line="5" column="20" filename="$USER_HOME$/PycharmProjects/skptest/dag.py" />
+      <jump line="29" column="7" filename="$USER_HOME$/PycharmProjects/skptest/dag.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1380,57 +1380,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pi</text>
+        <text>model_</text>
       </register>
       <register name="/" type="4">
-        <text>func</text>
+        <text>csv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBpCg==</text>
+      <register name="0" type="4">
+        <text>model_performance_metrics.py</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLCBub3QgdmFyaWFibGVzLgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJtb2RlbC5weSIsICJwcmVkaWN0aW9ucy5weSIpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICJwcmVkaWN0aW9ucy5weSI6ICgwLCAtMSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICgibW9kZWwucHkiLCAicHJlZGljdGlvbnMucHkiKTogInByZWRpY3Rpb24iLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICgidHJhaW5fdGVzdF9zcGxpdC5weSIsICJtb2RlbC5weSIpOiAicGFuZG9jIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBhZGQgcGkgdG8gYSBwYW5kYXMgRGF0YUZyYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICJ0cmFpbl90ZXN0X3NwbGl0LnB5IjogKDAsIDApLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJ0cmFpbl90ZXN0X3NwbGl0LnB5IiwgIm1vZGVsLnB5IiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhlIGBzY2F0dHJgIGZ1bmN0aW9uIG9ubHkgYWRkcwpjYWxsYWJsZSBvYmplY3RzKG1ldGhvZHMgYW5kIGNsYXNzZXMpLgoKQ2xhc3MgdmFyaWFibGVzLCBtZXRob2QgYW5kIGNsYXNzZXMgY2FuIGJlIGFkZGVkIGR5bmFtaWNhbGx5OgpgYGBweXRob24KIyBhZGQgcGkgdG8gYSBwYW5kYXMgRGF0YUZyYW1lCmltcG9ydCBwYW5kYXMgYXMgcGQKaW1wb3J0IG1hdGgKcGQuRGF0YUZyYW1lLnBpID0gbWF0aC5waQpgYGAKCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYuc2F5X21vbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
-      <last-search>func</last-search>
+      <last-search>csv</last-search>
       <last-offset />
-      <last-pattern>func</last-pattern>
-      <last-replace />
-      <last-substitute>\[</last-substitute>
+      <last-pattern>csv</last-pattern>
+      <last-replace>raw data</last-replace>
+      <last-substitute>csv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcmd1bWVudFBhcnNlclw+</entry>
         <entry>Scr</entry>
         <entry>os</entry>
         <entry>Arg</entry>
@@ -1450,9 +1449,9 @@
         <entry>pre</entry>
         <entry>functions</entry>
         <entry>func</entry>
+        <entry>csv</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoSymbol</entry>
         <entry>action GotoDeclaration</entry>
         <entry>%s/[//g</entry>
         <entry>%s/\[//g</entry>
@@ -1466,11 +1465,12 @@
         <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>action RenameFile</entry>
-        <entry>action RenameElement</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseProject</entry>
         <entry>action Synchronize</entry>
+        <entry>action RenameElement</entry>
+        <entry>%s/csv/raw data/g</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
