@@ -198,6 +198,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="50" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/dag2.py" timestamp="1538448139795">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262582378">
         <mark key="'" line="8" column="19" />
         <mark key="[" line="26" column="46" />
@@ -809,6 +816,9 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="/Python Console" timestamp="1538448669047">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="18" column="15" />
@@ -896,6 +906,13 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/hybrid.py" timestamp="1538448788171">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/github/f2m/README.md" timestamp="1538023620796">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="8" column="0" />
@@ -924,11 +941,12 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" timestamp="1538444744930">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="35" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="19" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" timestamp="1538447837105">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="13" column="59" />
+        <mark key="." line="13" column="52" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbless/render.py" timestamp="1537139840624">
         <mark key="'" line="91" column="0" />
@@ -1236,10 +1254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="13" filename="$USER_HOME$/github/pype/pype/split_data.py" />
-      <jump line="7" column="17" filename="$USER_HOME$/github/pype/pype/get_data.py" />
-      <jump line="0" column="23" filename="$USER_HOME$/github/pype/pype/evaluate.py" />
-      <jump line="5" column="79" filename="$USER_HOME$/github/pype/pipeline.py" />
       <jump line="2" column="26" filename="$USER_HOME$/github/pype/pype/__init__.py" />
       <jump line="9" column="32" filename="$USER_HOME$/github/pype/pype/plot.py" />
       <jump line="2" column="64" filename="$USER_HOME$/github/pype/pype/pickle_model.py" />
@@ -1333,9 +1347,13 @@
       <jump line="4" column="38" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
       <jump line="14" column="9" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
       <jump line="8" column="8" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
-      <jump line="13" column="9" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
       <jump line="11" column="24" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
+      <jump line="13" column="52" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
+      <jump line="20" column="9" filename="$USER_HOME$/PycharmProjects/skptest/dag2.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/skptest/dag2.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/PycharmProjects/skptest/hybrid.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1387,43 +1405,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\nraw</text>
+        <text>, node_color=&quot;white&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>performance_metrics.py</text>
+        <text>raw data\n\n</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnNhdmVmaWcoJ3NpbXBsZV9kYWcucG5nJykK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgZWRnZV9sYWJlbHM9bGFiLCByb3RhdGU9VHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TiA9IGxlbihwb3MpCmtleXMgPSBsaXN0KHBvcy5rZXlzKCkpCgpYID0gW3Bvc1trZXldWzBdIGZvciBrZXkgaW4ga2V5c10KWSA9IFtwb3Nba2V5XVsxXSBmb3Iga2V5IGluIGtleXNdCg==</text>
+        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIHdpdGhfbGFiZWxzPVRydWUsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJtb2RlbC5weSIsICJwcmVkaWN0aW9ucy5weSIpLAo=</text>
+        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICJwcmVkaWN0aW9ucy5weSI6ICgwLCAtMSksCg==</text>
+        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgcm90YXRlPVRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICgibW9kZWwucHkiLCAicHJlZGljdGlvbnMucHkiKTogInByZWRpY3Rpb24iLAo=</text>
+        <text encoding="base64">bGFiID0geygib2J0YWluXG5kYXRhIiwgInByb2Nlc3NcbmRhdGEiKTogInJhd1xuZGF0YSIsCiAgICAgICAoInByb2Nlc3NcbmRhdGEiLCAibW9kZWwiKTogImZpbmFsXG5kYXRhIiwKICAgICAgICgibW9kZWwiLCAibWV0cmljc1xuJiBwbG90cyIpOiAiZml0dGVkXG52YWx1ZXMiCiAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICgidHJhaW5fdGVzdF9zcGxpdC5weSIsICJtb2RlbC5weSIpOiAicGFuZG9jIiwK</text>
+        <text encoding="base64">cGx0LnNhdmVmaWcoJ3NpbXBsZV9kYWcucG5nJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICJ0cmFpbl90ZXN0X3NwbGl0LnB5IjogKDAsIDApLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCJ0cmFpbl90ZXN0X3NwbGl0LnB5IiwgIm1vZGVsLnB5IiksCg==</text>
+        <text encoding="base64">TiA9IGxlbihwb3MpCmtleXMgPSBsaXN0KHBvcy5rZXlzKCkpCgpYID0gW3Bvc1trZXldWzBdIGZvciBrZXkgaW4ga2V5c10KWSA9IFtwb3Nba2V5XVsxXSBmb3Iga2V5IGluIGtleXNdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Synchronize</text>
+        <text>action ActivatePythonConsoleToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1460,7 +1478,6 @@
       </history-search>
       <history-cmd>
         <entry>action RenameFile</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseProject</entry>
         <entry>%s/csv/raw data/g</entry>
@@ -1479,6 +1496,7 @@
         <entry>%s//process/g</entry>
         <entry>%s//obtain/g</entry>
         <entry>action Synchronize</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
