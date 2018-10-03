@@ -790,12 +790,12 @@
         <mark key="." line="34" column="13" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/github/skippy/__main__.py" timestamp="1538585717077">
+      <file name="$USER_HOME$/github/skippy/__main__.py" timestamp="1538590024255">
         <mark key="'" line="11" column="59" />
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="5" />
-        <mark key="." line="32" column="5" />
-        <mark key="^" line="32" column="5" />
+        <mark key="[" line="38" column="40" />
+        <mark key="]" line="38" column="79" />
+        <mark key="." line="38" column="79" />
+        <mark key="^" line="38" column="79" />
       </file>
       <file name="$USER_HOME$/github/catren/README.md" timestamp="1538264736172">
         <mark key="'" line="81" column="20" />
@@ -1441,46 +1441,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lse</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>data+'_'+name+'.pickle'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWNhdGlvbihkYXRhc2V0PWRhdGEsCiAgICAgICAgICAgICAgICAgICAgICAgbW9kZWxfdHlwZT1uYW1lLAogICAgICAgICAgICAgICAgICAgICAgIG1vZGVsX25hbWU9dHlwZSwKICAgICAgICAgICAgICAgICAgICAgICBwaWNrbGVfbmFtZT1kYXRhKydfJytuYW1lKycucGlja2xlJywKICAgICAgICAgICAgICAgICAgICAgICBwbG90X25hbWU9ZGF0YSsnXycrbmFtZSsnLnBuZycpCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>dataset=data,
+                   model_type=name,
+                   model_name=type,
+                   pickle_name=data + '_' + name + '.pickle',
+                   plot_name=data + '_' + name + '.png'</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text>dataset=data,
+                       model_type=name,
+                       model_name=type,
+                       pickle_name=data + '_' + name + '.pickle',
+                       plot_name=data + '_' + name + '.png'</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50KCJUaGlzIGlzIHRoZSBtYWluIHJvdXRpbmUuIikKICAgIHByaW50KCJJdCBzaG91bGQgZG8gc29tZXRoaW5nIGludGVyZXN0aW5nLiIpCgo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="5" type="8">
         <text>s
 s
 s</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbmFtZScsICctbicsIGRlZmF1bHQ9J2RpZ2l0cycsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J1RoZSBtb2RlbCBuYW1lLicpCiAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ25hbWUnLCBoZWxwPSdBIGRhdGFzZXQgbmFtZS4nKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>'--input_path', '-i', default='./',
                         help='The filepath to the source files.'</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc2lmaWNhdGlvbigpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MgaXMgTm9uZToKICAgICAgICBhcmdzID0gc3lzLmFyZ3ZbMTpdCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MgaXMgTm9uZToKICAgICAgICBhcmdzID0gc3lzLmFyZ3ZbMTpdCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1532,10 +1540,10 @@ s</text>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action RenameFile</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action CloseProject</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
