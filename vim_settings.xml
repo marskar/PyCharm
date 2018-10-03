@@ -829,7 +829,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538583014576">
+      <file name="/Python Console" timestamp="1538583085917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
@@ -1243,12 +1243,12 @@
         <mark key="." line="11" column="8" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/run.md" timestamp="1538582985506">
+      <file name="$USER_HOME$/github/biof309_fall2018/run.md" timestamp="1538584130024">
         <mark key="'" line="35" column="25" />
-        <mark key="[" line="36" column="50" />
-        <mark key="]" line="37" column="68" />
-        <mark key="^" line="37" column="68" />
-        <mark key="." line="37" column="68" />
+        <mark key="[" line="44" column="3" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test" timestamp="1536281750353">
         <mark key="[" line="0" column="0" />
@@ -1443,40 +1443,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Create a `__main__.py` file</text>
+        <text>python my_project.zip</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">MS4gQ3JlYXRlIGEgYF9fbWFpbl9fLnB5YCBmaWxlCg==</text>
+        <text encoding="base64">WW91IGNhbiB6aXAgdGhlIHdob2xlIHByb2plY3QgYW5kIHN0aWxsIHJ1biBgX19tYWluX18ucHlgCmBgYHB5dGhvbgpweXRob24gLW0gemlwZmlsZSAtYyBteV9wcm9qZWN0LnppcCBteV9wcm9qZWN0LyoKcHl0aG9uIG15X3Byb2plY3QuemlwCmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHl0aG9uIC1tIHppcGZpbGUgLWMgbXlfcHJvamVjdC56aXAgbXlfcHJvamVjdC8qCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">XAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBteV9tb2R1bGUgaW1wb3J0IHRvX2ZpbGUKcmVzdWx0ID0gNDIKdG9fZmlsZShyZXN1bHQpCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgZWRnZV9sYWJlbHM9bGFiLCByb3RhdGU9VHJ1ZSkK</text>
+        <text encoding="base64">IyMgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIHdpdGhfbGFiZWxzPVRydWUsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
+        <text encoding="base64">XAo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
