@@ -185,6 +185,12 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/github/skippy/skippy/pickle_model.py" timestamp="1538591614556">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="52" />
+      </file>
       <file name="$USER_HOME$/github/mnist-analysis/01_get_data.py" timestamp="1538151465624">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="30" />
@@ -362,11 +368,12 @@
         <mark key="^" line="53" column="30" />
         <mark key="." line="53" column="30" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/classification.py" timestamp="1538261605616">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="19" column="78" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="21" column="42" />
+      <file name="$USER_HOME$/github/skippy/skippy/classification.py" timestamp="1538592348671">
+        <mark key="'" line="11" column="49" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="16" column="29" />
       </file>
       <file name="$USER_HOME$/github/nbless/call.py" timestamp="1537816311595">
         <mark key="[" line="6" column="0" />
@@ -529,12 +536,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/regression.py" timestamp="1538260535025">
-        <mark key="'" line="23" column="22" />
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
-        <mark key="^" line="25" column="45" />
+      <file name="$USER_HOME$/github/skippy/skippy/regression.py" timestamp="1538592342266">
+        <mark key="'" line="23" column="64" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="15" column="63" />
       </file>
       <file name="/Dummy.txt" timestamp="1538581738039">
         <mark key="[" line="0" column="0" />
@@ -790,12 +797,12 @@
         <mark key="." line="34" column="13" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/github/skippy/__main__.py" timestamp="1538590024255">
-        <mark key="'" line="11" column="59" />
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="79" />
-        <mark key="." line="38" column="79" />
-        <mark key="^" line="38" column="79" />
+      <file name="$USER_HOME$/github/skippy/__main__.py" timestamp="1538592581565">
+        <mark key="'" line="10" column="59" />
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="53" />
+        <mark key="^" line="16" column="53" />
+        <mark key="." line="16" column="53" />
       </file>
       <file name="$USER_HOME$/github/catren/README.md" timestamp="1538264736172">
         <mark key="'" line="81" column="20" />
@@ -829,6 +836,9 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
+      </file>
+      <file name="/Python Console" timestamp="1538590826627">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
@@ -1290,9 +1300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="50" filename="$USER_HOME$/github/pype/wine.py" />
-      <jump line="6" column="23" filename="$USER_HOME$/github/skippy/README.md" />
-      <jump line="5" column="13" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
       <jump line="11" column="0" filename="$USER_HOME$/github/skippy/pipelines/iris.py" />
       <jump line="11" column="80" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
       <jump line="13" column="0" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
@@ -1390,6 +1397,9 @@
       <jump line="7" column="0" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
       <jump line="19" column="0" filename="$USER_HOME$/github/skippy/__main__.py" />
       <jump line="11" column="59" filename="$USER_HOME$/github/skippy/__main__.py" />
+      <jump line="28" column="33" filename="$USER_HOME$/github/skippy/__main__.py" />
+      <jump line="11" column="49" filename="$USER_HOME$/github/skippy/skippy/classification.py" />
+      <jump line="23" column="64" filename="$USER_HOME$/github/skippy/skippy/regression.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1441,54 +1451,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x=5</text>
+        <text>LogisticRegression</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWNhdGlvbihkYXRhc2V0PWRhdGEsCiAgICAgICAgICAgICAgICAgICAgICAgbW9kZWxfdHlwZT1uYW1lLAogICAgICAgICAgICAgICAgICAgICAgIG1vZGVsX25hbWU9dHlwZSwKICAgICAgICAgICAgICAgICAgICAgICBwaWNrbGVfbmFtZT1kYXRhKydfJytuYW1lKycucGlja2xlJywKICAgICAgICAgICAgICAgICAgICAgICBwbG90X25hbWU9ZGF0YSsnXycrbmFtZSsnLnBuZycpCg==</text>
+      <register name="0" type="4">
+        <text>f'{dataset}_{model_name}.png'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNraXBweSBhcyBza3AK</text>
       </register>
-      <register name="2" type="4">
-        <text>dataset=data,
-                   model_type=name,
-                   model_name=type,
-                   pickle_name=data + '_' + name + '.pickle',
-                   plot_name=data + '_' + name + '.png'</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHNraXBweSBhcyBza3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>dataset=data,
-                       model_type=name,
-                       model_name=type,
-                       pickle_name=data + '_' + name + '.pickle',
-                       plot_name=data + '_' + name + '.png'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRhdGFzZXQgPSBhcmcuZGF0YQogICAgbW9kZWxfdHlwZSA9IGFyZy50eXBlCiAgICBtb2RlbF9uYW1lID0gYXJnLm5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJUaGlzIGlzIHRoZSBtYWluIHJvdXRpbmUuIikKICAgIHByaW50KCJJdCBzaG91bGQgZG8gc29tZXRoaW5nIGludGVyZXN0aW5nLiIpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcGlja2xlX25hbWU9Zid7ZGF0YXNldH1fe21vZGVsX25hbWV9LnBpY2tsZScsCiAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT1mJ3tkYXRhc2V0fV97bW9kZWxfbmFtZX0ucG5nJwo=</text>
       </register>
-      <register name="6" type="8">
-        <text>s
-s
-s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIHBpY2tsZV9uYW1lIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbmFtZScsICctbicsIGRlZmF1bHQ9J2RpZ2l0cycsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J1RoZSBtb2RlbCBuYW1lLicpCiAgICAK</text>
+        <text encoding="base64">ICAgIGlmIHBsb3RfbmFtZSBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ25hbWUnLCBoZWxwPSdBIGRhdGFzZXQgbmFtZS4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lOiBzdHIgPSBOb25lLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>'--input_path', '-i', default='./',
-                        help='The filepath to the source files.'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tdHlwZScsICctdCcsIGRlZmF1bHQ9Tm9uZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action JumpToLastWindow</text>
       </register>
     </registers>
     <search>
@@ -1524,9 +1523,6 @@ s</text>
         <entry encoding="base64">XDxnZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/clean_data.py/b/g</entry>
-        <entry>%s/model.py/c/g</entry>
-        <entry>%s//d/g</entry>
         <entry>%s//get/g</entry>
         <entry>%s//clean/g</entry>
         <entry>%s//model/g</entry>
@@ -1535,15 +1531,18 @@ s</text>
         <entry>%s//clean\ndata/g</entry>
         <entry>%s//process/g</entry>
         <entry>%s//obtain/g</entry>
-        <entry>action Synchronize</entry>
         <entry>action RenameElement</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action RenameFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action CloseProject</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivateDatabaseToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Synchronize</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action JumpToLastWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
