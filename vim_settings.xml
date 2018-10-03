@@ -244,12 +244,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/github/skippy/pipelines/iris.py" timestamp="1538258247150">
+      <file name="$USER_HOME$/github/skippy/pipelines/iris.py" timestamp="1538596907753">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="20" column="6" />
-        <mark key="^" line="2" column="18" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/01_script.py" timestamp="1538439743267">
         <mark key="[" line="0" column="0" />
@@ -314,12 +314,12 @@
         <mark key="." line="6" column="57" />
         <mark key="^" line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/github/skippy/pipelines/boston.py" timestamp="1538253939764">
-        <mark key="'" line="20" column="31" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="17" column="46" />
+      <file name="$USER_HOME$/github/skippy/pipelines/boston.py" timestamp="1538596876434">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" timestamp="1537416086474">
         <mark key="'" line="31" column="13" />
@@ -697,10 +697,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/github/skippy/pipelines/wine.py" timestamp="1538246595372">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/github/skippy/pipelines/wine.py" timestamp="1538596925975">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="48" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbless.py" timestamp="1537143111924">
         <mark key="'" line="0" column="0" />
@@ -1465,31 +1466,31 @@
         <text>f'{dataset}_{model_name}.png'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX2tuZWFyZXN0X25laWdoYm9ycy5wbmcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGxvdF9uYW1lPSd3aW5lX2tuZWFyZXN0X25laWdoYm9ycy5wbmcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdkaWdpdHNfa25lYXJlc3RfbmVpZ2hib3JzLnBpY2tsZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGlja2xlX25hbWU9J3dpbmVfa25lYXJlc3RfbmVpZ2hib3JzLnBpY2tsZScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX25haXZlX2JheWVzLnBuZycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGxvdF9uYW1lPSd3aW5lX25haXZlX2JheWVzLnBuZycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdkaWdpdHNfbmFpdmVfYmF5ZXMucGlja2xlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGlja2xlX25hbWU9J3dpbmVfbmFpdmVfYmF5ZXMucGlja2xlJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX3JhbmRvbV9mb3Jlc3QucG5nJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGxvdF9uYW1lPSd3aW5lX3JhbmRvbV9mb3Jlc3QucG5nJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdkaWdpdHNfcmFuZG9tX2ZvcmVzdC5waWNrbGUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGlja2xlX25hbWU9J3dpbmVfcmFuZG9tX2ZvcmVzdC5waWNrbGUnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX2xvZ2lzdGljX3JlZ3Jlc3Npb24ucG5nJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGxvdF9uYW1lPSd3aW5lX2xvZ2lzdGljX3JlZ3Jlc3Npb24ucG5nJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdkaWdpdHNfbG9naXN0aWNfcmVncmVzc2lvbi5waWNrbGUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGlja2xlX25hbWU9J3dpbmVfbG9naXN0aWNfcmVncmVzc2lvbi5waWNrbGUnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNraXBweSBhcyBza3AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0naXJpc19rbmVhcmVzdF9uZWlnaGJvcnMucG5nJykK</text>
       </register>
       <register name=":" type="4">
         <text>action ActivatePythonConsoleToolWindow</text>
