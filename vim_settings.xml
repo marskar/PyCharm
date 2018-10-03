@@ -51,7 +51,7 @@
         <mark key="." line="61" column="59" />
         <mark key="^" line="61" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1538320479990">
+      <file name="/a.dummy" timestamp="1538582731823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/assignment.py" timestamp="1537500311622">
@@ -211,6 +211,12 @@
         <mark key="]" line="26" column="48" />
         <mark key="^" line="26" column="48" />
         <mark key="." line="26" column="48" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/run.py" timestamp="1538582717033">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="24" column="7" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
         <mark key="'" line="0" column="0" />
@@ -530,7 +536,7 @@
         <mark key="." line="26" column="15" />
         <mark key="^" line="25" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538526169045">
+      <file name="/Dummy.txt" timestamp="1538581738039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -822,9 +828,6 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
-      </file>
-      <file name="/Python Console" timestamp="1538524875263">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
@@ -1237,6 +1240,13 @@
         <mark key="." line="11" column="8" />
         <mark key="^" line="14" column="47" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/run.md" timestamp="1538582985506">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="36" column="50" />
+        <mark key="]" line="37" column="68" />
+        <mark key="^" line="37" column="68" />
+        <mark key="." line="37" column="68" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test" timestamp="1536281750353">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1279,7 +1289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="64" filename="$USER_HOME$/github/pype/pype/pickle_model.py" />
       <jump line="7" column="35" filename="$USER_HOME$/github/pype/digits.py" />
       <jump line="11" column="50" filename="$USER_HOME$/github/pype/iris.py" />
       <jump line="11" column="50" filename="$USER_HOME$/github/pype/wine.py" />
@@ -1379,6 +1388,7 @@
       <jump line="0" column="12" filename="$USER_HOME$/PycharmProjects/skptest/hybrid.py" />
       <jump line="1" column="4" filename="$USER_HOME$/PycharmProjects/skptest/test.R" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/skptest/test.R" />
+      <jump line="35" column="25" filename="$USER_HOME$/github/biof309_fall2018/run.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1430,40 +1440,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r(</text>
+        <text>Create a `__main__.py` file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>raw data\n\n</text>
+      <register name="0" type="2">
+        <text encoding="base64">MS4gQ3JlYXRlIGEgYF9fbWFpbl9fLnB5YCBmaWxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBteV9tb2R1bGUgaW1wb3J0IHRvX2ZpbGUKcmVzdWx0ID0gNDIKdG9fZmlsZShyZXN1bHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgZWRnZV9sYWJlbHM9bGFiLCByb3RhdGU9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIHdpdGhfbGFiZWxzPVRydWUsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
+        <text encoding="base64">IyMgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
+        <text encoding="base64">XAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgcm90YXRlPVRydWUpCg==</text>
+        <text encoding="base64">ZnJvbSBteV9tb2R1bGUgaW1wb3J0IHRvX2ZpbGUKcmVzdWx0ID0gNDIKdG9fZmlsZShyZXN1bHQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGFiID0geygib2J0YWluXG5kYXRhIiwgInByb2Nlc3NcbmRhdGEiKTogInJhd1xuZGF0YSIsCiAgICAgICAoInByb2Nlc3NcbmRhdGEiLCAibW9kZWwiKTogImZpbmFsXG5kYXRhIiwKICAgICAgICgibW9kZWwiLCAibWV0cmljc1xuJiBwbG90cyIpOiAiZml0dGVkXG52YWx1ZXMiCiAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0LnNhdmVmaWcoJ3NpbXBsZV9kYWcucG5nJykK</text>
+        <text encoding="base64">bnguZHJhd19uZXR3b3JreF9lZGdlX2xhYmVscyhHLCBwb3MsIGZvbnRfc2l6ZT0xMCwgZWRnZV9sYWJlbHM9bGFiLCByb3RhdGU9VHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnguZHJhdyhHLCBwb3MsIHdpdGhfbGFiZWxzPVRydWUsIGZvbnRfc2l6ZT0xMCwgbm9kZV9zaXplPTE4MDAsIG5vZGVfY29sb3I9IndoaXRlIikK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
@@ -1502,7 +1512,6 @@
         <entry encoding="base64">XDxnZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/csv/raw data/g</entry>
         <entry>%s/get_data.py/a/g</entry>
         <entry>%s/clean_data.py/b/g</entry>
         <entry>%s/model.py/c/g</entry>
@@ -1517,10 +1526,11 @@
         <entry>%s//obtain/g</entry>
         <entry>action Synchronize</entry>
         <entry>action RenameElement</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action RenameFile</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
