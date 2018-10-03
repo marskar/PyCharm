@@ -231,12 +231,12 @@
         <mark key="^" line="46" column="77" />
         <mark key="." line="46" column="77" />
       </file>
-      <file name="$USER_HOME$/github/skippy/pipelines/digits.py" timestamp="1538584891100">
+      <file name="$USER_HOME$/github/skippy/pipelines/digits.py" timestamp="1538596169572">
         <mark key="'" line="2" column="18" />
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/pi.py" timestamp="1538399922647">
         <mark key="[" line="0" column="0" />
@@ -1443,15 +1443,20 @@
         <keys>
           <key char="102" code="0" mods="0" />
           <key char="44" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="10" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LogisticRegression</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -1460,31 +1465,31 @@
         <text>f'{dataset}_{model_name}.png'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNraXBweSBhcyBza3AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX2tuZWFyZXN0X25laWdoYm9ycy5wbmcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNraXBweSBhcyBza3AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdkaWdpdHNfa25lYXJlc3RfbmVpZ2hib3JzLnBpY2tsZScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX25haXZlX2JheWVzLnBuZycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXQgPSBhcmcuZGF0YQogICAgbW9kZWxfdHlwZSA9IGFyZy50eXBlCiAgICBtb2RlbF9uYW1lID0gYXJnLm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdkaWdpdHNfbmFpdmVfYmF5ZXMucGlja2xlJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcGlja2xlX25hbWU9Zid7ZGF0YXNldH1fe21vZGVsX25hbWV9LnBpY2tsZScsCiAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT1mJ3tkYXRhc2V0fV97bW9kZWxfbmFtZX0ucG5nJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX3JhbmRvbV9mb3Jlc3QucG5nJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHBpY2tsZV9uYW1lIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdkaWdpdHNfcmFuZG9tX2ZvcmVzdC5waWNrbGUnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHBsb3RfbmFtZSBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0nZGlnaXRzX2xvZ2lzdGljX3JlZ3Jlc3Npb24ucG5nJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lOiBzdHIgPSBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBpY2tsZV9uYW1lPSdkaWdpdHNfbG9naXN0aWNfcmVncmVzc2lvbi5waWNrbGUnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tdHlwZScsICctdCcsIGRlZmF1bHQ9Tm9uZSwK</text>
+        <text encoding="base64">aW1wb3J0IHNraXBweSBhcyBza3AK</text>
       </register>
       <register name=":" type="4">
         <text>action ActivatePythonConsoleToolWindow</text>
