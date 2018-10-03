@@ -1460,7 +1460,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateSciViewToolWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1513,9 +1513,9 @@
         <entry>action Synchronize</entry>
         <entry>action RenameElement</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action CloseProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateSciViewToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
