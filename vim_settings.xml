@@ -837,7 +837,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538590826627">
+      <file name="/Python Console" timestamp="1538595224000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
@@ -1487,7 +1487,7 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tdHlwZScsICctdCcsIGRlZmF1bHQ9Tm9uZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ActivatePythonConsoleToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1535,7 +1535,6 @@
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action RenameFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateDatabaseToolWindow</entry>
         <entry>action GotoDeclaration</entry>
@@ -1543,6 +1542,7 @@
         <entry>action ReformatCode</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action CloseProject</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
