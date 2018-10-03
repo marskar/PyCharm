@@ -1493,7 +1493,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHBsb3RfbmFtZT0naXJpc19rbmVhcmVzdF9uZWlnaGJvcnMucG5nJykK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1547,8 +1547,8 @@
         <entry>action Synchronize</entry>
         <entry>action ReformatCode</entry>
         <entry>action JumpToLastWindow</entry>
-        <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
