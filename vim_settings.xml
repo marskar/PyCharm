@@ -1113,11 +1113,11 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/main/__main__.py" timestamp="1538581523501">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/main/__main__.py" timestamp="1538590292872">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/syl.md" timestamp="1538090425699">
         <mark key="[" line="0" column="0" />
@@ -1441,7 +1441,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>x=5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -1449,43 +1449,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc2lmaWNhdGlvbihkYXRhc2V0PWRhdGEsCiAgICAgICAgICAgICAgICAgICAgICAgbW9kZWxfdHlwZT1uYW1lLAogICAgICAgICAgICAgICAgICAgICAgIG1vZGVsX25hbWU9dHlwZSwKICAgICAgICAgICAgICAgICAgICAgICBwaWNrbGVfbmFtZT1kYXRhKydfJytuYW1lKycucGlja2xlJywKICAgICAgICAgICAgICAgICAgICAgICBwbG90X25hbWU9ZGF0YSsnXycrbmFtZSsnLnBuZycpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>dataset=data,
                    model_type=name,
                    model_name=type,
                    pickle_name=data + '_' + name + '.pickle',
                    plot_name=data + '_' + name + '.png'</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>dataset=data,
                        model_type=name,
                        model_name=type,
                        pickle_name=data + '_' + name + '.pickle',
                        plot_name=data + '_' + name + '.png'</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50KCJUaGlzIGlzIHRoZSBtYWluIHJvdXRpbmUuIikKICAgIHByaW50KCJJdCBzaG91bGQgZG8gc29tZXRoaW5nIGludGVyZXN0aW5nLiIpCgo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>s
 s
 s</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbmFtZScsICctbicsIGRlZmF1bHQ9J2RpZ2l0cycsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J1RoZSBtb2RlbCBuYW1lLicpCiAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ25hbWUnLCBoZWxwPSdBIGRhdGFzZXQgbmFtZS4nKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>'--input_path', '-i', default='./',
                         help='The filepath to the source files.'</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWNhdGlvbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
