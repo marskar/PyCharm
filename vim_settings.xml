@@ -829,6 +829,9 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="/Python Console" timestamp="1538583014576">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1528,9 +1531,9 @@
         <entry>action RenameElement</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateSciViewToolWindow</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action RenameFile</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
