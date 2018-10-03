@@ -1109,6 +1109,12 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/main/__main__.py" timestamp="1538581523501">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/syl.md" timestamp="1538090425699">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1496,7 +1502,6 @@
         <entry encoding="base64">XDxnZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>%s/csv/raw data/g</entry>
         <entry>%s/get_data.py/a/g</entry>
         <entry>%s/clean_data.py/b/g</entry>
@@ -1515,6 +1520,7 @@
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateSciViewToolWindow</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
