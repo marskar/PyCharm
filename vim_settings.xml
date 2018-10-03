@@ -523,7 +523,7 @@
         <mark key="." line="26" column="15" />
         <mark key="^" line="25" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538518867026">
+      <file name="/Dummy.txt" timestamp="1538524595874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -816,7 +816,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538518866867">
+      <file name="/Python Console" timestamp="1538524595856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
