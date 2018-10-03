@@ -1487,7 +1487,7 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tdHlwZScsICctdCcsIGRlZmF1bHQ9Tm9uZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action JumpToLastWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1536,13 +1536,13 @@
         <entry>action RenameFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action CloseProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateDatabaseToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Synchronize</entry>
         <entry>action ReformatCode</entry>
         <entry>action JumpToLastWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
