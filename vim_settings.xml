@@ -51,7 +51,7 @@
         <mark key="." line="61" column="59" />
         <mark key="^" line="61" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1538582731823">
+      <file name="/a.dummy" timestamp="1538691088628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/assignment.py" timestamp="1537500311622">
@@ -555,7 +555,7 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538690302873">
+      <file name="/Dummy.txt" timestamp="1538690814020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -596,6 +596,12 @@
         <mark key="]" line="20" column="8" />
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="8" />
+      </file>
+      <file name="$USER_HOME$/github/new_repo2/script.md" timestamp="1538691140310">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/pydy/pydytest.py" timestamp="1537026782518">
         <mark key="'" line="8" column="66" />
