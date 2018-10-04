@@ -555,7 +555,7 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538683834000">
+      <file name="/Dummy.txt" timestamp="1538689626857">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -1541,7 +1541,7 @@
       <last-replace>obtain</last-replace>
       <last-substitute encoding="base64">XDxnZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
