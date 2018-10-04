@@ -124,11 +124,10 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/github/skippy/skippy/__init__.py" timestamp="1538660792294">
-        <mark key="'" line="6" column="30" />
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
+      <file name="$USER_HOME$/github/skippy/skippy/__init__.py" timestamp="1538662381478">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538259806021">
@@ -803,12 +802,12 @@
         <mark key="." line="34" column="13" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/github/skippy/__main__.py" timestamp="1538659869760">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="16" column="53" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/github/skippy/__main__.py" timestamp="1538662862091">
+        <mark key="'" line="6" column="40" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="34" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/github/catren/README.md" timestamp="1538264736172">
         <mark key="'" line="81" column="20" />
@@ -1298,16 +1297,15 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/github/skippy/setup.py" timestamp="1538661344462">
+      <file name="$USER_HOME$/github/skippy/setup.py" timestamp="1538662634814">
         <mark key="'" line="19" column="5" />
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
       <jump line="25" column="0" filename="$USER_HOME$/github/skippy/pipelines/wine.py" />
       <jump line="24" column="56" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/skippy/pipelines/iris.py" />
@@ -1404,9 +1402,10 @@
       <jump line="4" column="24" filename="$USER_HOME$/github/skippy/skippy/__init__.py" />
       <jump line="5" column="34" filename="$USER_HOME$/github/skippy/skippy/__init__.py" />
       <jump line="6" column="30" filename="$USER_HOME$/github/skippy/skippy/__init__.py" />
-      <jump line="8" column="139" filename="$USER_HOME$/github/skippy/skippy/__init__.py" />
       <jump line="22" column="28" filename="$USER_HOME$/github/skippy/setup.py" />
       <jump line="19" column="5" filename="$USER_HOME$/github/skippy/setup.py" />
+      <jump line="8" column="13" filename="$USER_HOME$/github/skippy/skippy/__init__.py" />
+      <jump line="6" column="40" filename="$USER_HOME$/github/skippy/__main__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1488,37 +1487,37 @@
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBza2lwcHkucmVncmVzc2lvbiBpbXBvcnQgcmVncmVzc2lvbgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJGaW5pc2hlZCBwYXJzaW5nIGFyZ3MiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJGaW5pc2hlZCBwYXJzaW5nIGFyZ3MiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAnc3BsaXRfZGF0YSknLAo=</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnZ2V0X2RhdGEnLAogICAgICAgICAgICdzcGxpdF9kYXRhJywKICAgICAgICAgICAnZ2V0X21vZGVsJywKICAgICAgICAgICAncGlja2xlX21vZGVsJywKICAgICAgICAgICAnY29uZnVzaW9uX21hdHJpeF9wbG90JywKICAgICAgICAgICAncmVzaWR1YWxfcGxvdCcsCiAgICAgICAgICAgJ2NsYXNzaWZpY2F0aW9uJywKICAgICAgICAgICAncmVncmVzc2lvbiddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAnZ2V0X21vZGVsJwo=</text>
+        <text encoding="base64">ZnJvbSBza2lwcHkuX19tYWluX18gaW1wb3J0IG1haW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHBsb3RfbmFtZSBpcyBub3QgTm9uZToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHBpY2tsZV9uYW1lIGlzIG5vdCBOb25lOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcGlja2xlX25hbWU6IHN0ciA9IE5vbmUsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAnc3BsaXRfZGF0YSknLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAnZ2V0X21vZGVsJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIHBsb3RfbmFtZSBpcyBub3QgTm9uZToK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcGxvdF9uYW1lPSd3aW5lX2tuZWFyZXN0X25laWdoYm9ycy5wbmcnKQo=</text>
+        <text encoding="base64">ICAgIGlmIHBpY2tsZV9uYW1lIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcGlja2xlX25hbWU9J3dpbmVfa25lYXJlc3RfbmVpZ2hib3JzLnBpY2tsZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGlja2xlX25hbWU6IHN0ciA9IE5vbmUsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Move</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1569,11 +1568,11 @@
         <entry>action GotoDeclaration</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action CloseProject</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action ReformatCode</entry>
         <entry>action Synchronize</entry>
         <entry>action Move</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
