@@ -555,7 +555,7 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538665904056">
+      <file name="/Dummy.txt" timestamp="1538683834000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -1531,7 +1531,7 @@
         <text encoding="base64">X19hbGxfXyA9IFsnZ2V0X2RhdGEnLAogICAgICAgICAgICdzcGxpdF9kYXRhJywKICAgICAgICAgICAnZ2V0X21vZGVsJywKICAgICAgICAgICAncGlja2xlX21vZGVsJywKICAgICAgICAgICAnY29uZnVzaW9uX21hdHJpeF9wbG90JywKICAgICAgICAgICAncmVzaWR1YWxfcGxvdCcsCiAgICAgICAgICAgJ2NsYXNzaWZpY2F0aW9uJywKICAgICAgICAgICAncmVncmVzc2lvbiddCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action Move</text>
       </register>
     </registers>
     <search>
@@ -1567,8 +1567,6 @@
         <entry>import</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//model/g</entry>
-        <entry>%s/.py//g</entry>
         <entry>%s///gc</entry>
         <entry>%s//clean\ndata/g</entry>
         <entry>%s//process/g</entry>
@@ -1576,17 +1574,19 @@
         <entry>action RenameElement</entry>
         <entry>action ActivateSciViewToolWindow</entry>
         <entry>action RenameFile</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivateDatabaseToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action Synchronize</entry>
-        <entry>action Move</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Move</entry>
       </history-cmd>
       <history-expr />
       <history-input />
