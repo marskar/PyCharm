@@ -555,7 +555,7 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538689626857">
+      <file name="/Dummy.txt" timestamp="1538690302873">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -794,6 +794,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/new_repo2/README.md" timestamp="1538690296645">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.md" timestamp="1535878788523">
         <mark key="[" line="5" column="0" />
@@ -1501,7 +1507,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'lin'</text>
+        <text encoding="base64">VGhpcyBpcyBteSA=</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
