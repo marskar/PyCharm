@@ -1531,7 +1531,7 @@
         <text encoding="base64">X19hbGxfXyA9IFsnZ2V0X2RhdGEnLAogICAgICAgICAgICdzcGxpdF9kYXRhJywKICAgICAgICAgICAnZ2V0X21vZGVsJywKICAgICAgICAgICAncGlja2xlX21vZGVsJywKICAgICAgICAgICAnY29uZnVzaW9uX21hdHJpeF9wbG90JywKICAgICAgICAgICAncmVzaWR1YWxfcGxvdCcsCiAgICAgICAgICAgJ2NsYXNzaWZpY2F0aW9uJywKICAgICAgICAgICAncmVncmVzc2lvbiddCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Move</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1582,11 +1582,11 @@
         <entry>action ReformatCode</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action CloseProject</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoFile</entry>
         <entry>action Move</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
