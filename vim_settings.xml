@@ -507,6 +507,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/github/new_repo2/run.py" timestamp="1538694487317">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+      </file>
       <file name="$USER_HOME$/github/mnist-analysis/plot_cm.py" timestamp="1538155783761">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="7" column="14" />
@@ -866,9 +872,6 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538657727028">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1207,6 +1210,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/github/new_repo2/run2.py" timestamp="1538694575909">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/__init__.py" timestamp="1536491308683">
         <mark key="[" line="0" column="0" />
@@ -1549,7 +1558,7 @@
         <text encoding="base64">X19hbGxfXyA9IFsnZ2V0X2RhdGEnLAogICAgICAgICAgICdzcGxpdF9kYXRhJywKICAgICAgICAgICAnZ2V0X21vZGVsJywKICAgICAgICAgICAncGlja2xlX21vZGVsJywKICAgICAgICAgICAnY29uZnVzaW9uX21hdHJpeF9wbG90JywKICAgICAgICAgICAncmVzaWR1YWxfcGxvdCcsCiAgICAgICAgICAgJ2NsYXNzaWZpY2F0aW9uJywKICAgICAgICAgICAncmVncmVzc2lvbiddCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ActivatePythonConsoleToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1598,13 +1607,13 @@
         <entry>action ShowBookmarks</entry>
         <entry>action Synchronize</entry>
         <entry>action ReformatCode</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoFile</entry>
         <entry>action Move</entry>
         <entry>action CloseProject</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
