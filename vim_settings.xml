@@ -1610,7 +1610,7 @@ Modularity makes code easier to
 - reuse.</text>
       </register>
       <register name=":" type="4">
-        <text>action Move</text>
+        <text>action ActivatePythonConsoleToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1663,9 +1663,9 @@ Modularity makes code easier to
         <entry>action GotoFile</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Move</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
