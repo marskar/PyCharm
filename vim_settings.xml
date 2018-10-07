@@ -24,12 +24,12 @@
         <mark key="." line="30" column="60" />
         <mark key="^" line="30" column="60" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/test.py" timestamp="1536427865570">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/github/biof309_fall2018/test.py" timestamp="1538939649538">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" timestamp="1536382364558">
         <mark key="[" line="0" column="7" />
@@ -123,9 +123,6 @@
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="18" />
         <mark key="^" line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/github/skippy/skippy/__init__.py" timestamp="1538663278658">
-        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538259806021">
         <mark key="'" line="24" column="36" />
@@ -287,6 +284,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/about_me.py" timestamp="1538939690074">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="11" />
@@ -394,11 +397,12 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/projects.md" timestamp="1538937560173">
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="79" column="83" />
-        <mark key="." line="79" column="83" />
-        <mark key="^" line="79" column="83" />
+      <file name="$USER_HOME$/github/biof309_fall2018/projects.md" timestamp="1538941436614">
+        <mark key="'" line="77" column="59" />
+        <mark key="[" line="79" column="3" />
+        <mark key="]" line="79" column="27" />
+        <mark key="." line="79" column="20" />
+        <mark key="^" line="79" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/catrmd.py" timestamp="1537121157380">
         <mark key="'" line="43" column="0" />
@@ -794,8 +798,10 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-04/run.md" timestamp="1538934602345">
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-04/run.md" timestamp="1538939887001">
         <mark key="'" line="45" column="0" />
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="44" column="2" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" timestamp="1538098442577">
         <mark key="'" line="33" column="0" />
@@ -880,6 +886,9 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
+      </file>
+      <file name="/Python Console" timestamp="1538939589353">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
@@ -1356,23 +1365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="25" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
-      <jump line="21" column="22" filename="$USER_HOME$/github/skippy/skippy/regression.py" />
-      <jump line="20" column="3" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
-      <jump line="12" column="27" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
-      <jump line="17" column="29" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
-      <jump line="20" column="31" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
-      <jump line="25" column="24" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
-      <jump line="20" column="70" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
-      <jump line="21" column="21" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
-      <jump line="22" column="20" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
-      <jump line="23" column="25" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
-      <jump line="4" column="17" filename="$USER_HOME$/github/skippy/deploy.sh" />
-      <jump line="1" column="19" filename="$USER_HOME$/PycharmProjects/skptest/skptest.py" />
-      <jump line="2" column="32" filename="$USER_HOME$/PycharmProjects/skptest/skptest.py" />
-      <jump line="9" column="14" filename="$USER_HOME$/PycharmProjects/skptest/skptest.py" />
-      <jump line="24" column="36" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
-      <jump line="28" column="3" filename="$USER_HOME$/github/skippy/README.md" />
       <jump line="0" column="19" filename="$USER_HOME$/PycharmProjects/skptest/regress.py" />
       <jump line="8" column="19" filename="$USER_HOME$/PycharmProjects/skptest/regress.py" />
       <jump line="45" column="22" filename="$USER_HOME$/github/skippy/README.md" />
@@ -1454,8 +1446,25 @@
       <jump line="32" column="9" filename="$USER_HOME$/github/skippy/README.md" />
       <jump line="20" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
       <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/run.md" />
-      <jump line="59" column="23" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="44" column="1" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="45" column="2" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="52" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="57" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="47" column="7" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="59" column="4" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="51" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="75" column="1" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="74" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="67" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="62" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="79" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="77" column="59" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1531,43 +1540,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T3Bwb3NpdGUgb2Yg</text>
+        <text>Avoid repetition</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">VEhJUyBJUyBBIFRISVJEIExJTkUhCg==</text>
+      <register name="0" type="4">
+        <text>The Reusability Principle</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyAK</text>
+      <register name="1" type="4">
+        <text>Lesson Goal: Establish principles to follow for all projects.
+
+The modularity principle is especially important.
+
+Modularity makes code easier to 
+- organize, 
+- maintain, 
+- debug,
+- test, and
+- reuse.</text>
       </register>
       <register name="2" type="4">
-        <text>''</text>
+        <text encoding="base64">TGVzc29uIEdvYWw6IEVzdGFibGlzaCBwcmluY2lwbGVzIHRvIGZvbGxvdyBmb3IgYWxsIHByb2plY3RzLgoKVGhlIG1vZHVsYXJpdHkgcHJpbmNpcGxlIGlzIGVzcGVjaWFsbHkgaW1wb3J0YW50LgoKTW9kdWxhcml0eSBtYWtlcyBjb2RlIGVhc2llciB0byAKLSBvcmdhbml6ZSwgCi0gbWFpbnRhaW4sIAotIGRlYnVnLAotIHRlc3QsIGFuZAotIHJldXNlLgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>digits</text>
+      <register name="3" type="2">
+        <text encoding="base64">aGVscChyYW5nZSkK</text>
       </register>
-      <register name="4" type="4">
-        <text>''</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IF9faGVsbG9fXwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>digits</text>
+      <register name="5" type="2">
+        <text encoding="base64">My4gQXV0b21hdGUgdGhlIHNlcXVlbmNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YSBzaGVsbFteMV0oV2luZG93cyB1c2VycyBzaG91bGQgd3JpdGUgYHB5YCBpbnN0ZWFkIG9mIGBweXRob25gKToKYGBgc2gKcHl0aG9uIG15X3NjcmlwdC5weQpgYGAKICAgIAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBza2lwcHkuX19tYWluX18gaW1wb3J0IG1haW4K</text>
+        <text encoding="base64">YSBzaGVsbFteMV0oV2luZG93cyB1c2VycyBzaG91bGQgd3JpdGUgYHB5YCBpbnN0ZWFkIG9mIGBweXRob25gKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJGaW5pc2hlZCBwYXJzaW5nIGFyZ3MiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1617,12 +1635,12 @@
         <entry>action Synchronize</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoFile</entry>
         <entry>action Move</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action CloseProject</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
