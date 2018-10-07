@@ -586,7 +586,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="/code.py" timestamp="1538659978905">
+      <file name="/code.py" timestamp="1538934513320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1537101529482">
@@ -787,6 +787,9 @@
         <mark key="]" line="0" column="60" />
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-04/run.md" timestamp="1538934602345">
+        <mark key="'" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" timestamp="1538098442577">
         <mark key="'" line="33" column="0" />
@@ -1347,7 +1350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/github/skippy/skippy/regression.py" />
       <jump line="7" column="0" filename="$USER_HOME$/github/skippy/skippy/plot.py" />
       <jump line="8" column="25" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
       <jump line="14" column="25" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
@@ -1447,6 +1449,7 @@
       <jump line="31" column="9" filename="$USER_HOME$/github/skippy/README.md" />
       <jump line="32" column="9" filename="$USER_HOME$/github/skippy/README.md" />
       <jump line="20" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/run.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
