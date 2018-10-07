@@ -397,12 +397,11 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/projects.md" timestamp="1538941436614">
-        <mark key="'" line="77" column="59" />
-        <mark key="[" line="79" column="3" />
-        <mark key="]" line="79" column="27" />
-        <mark key="." line="79" column="20" />
-        <mark key="^" line="79" column="0" />
+      <file name="$USER_HOME$/github/biof309_fall2018/projects.md" timestamp="1538944601633">
+        <mark key="[" line="75" column="84" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/github/nbless/catrmd.py" timestamp="1537121157380">
         <mark key="'" line="43" column="0" />
@@ -625,6 +624,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1538945867224">
+        <mark key="'" line="52" column="3" />
+        <mark key="[" line="94" column="60" />
+        <mark key="]" line="117" column="2" />
+        <mark key="^" line="117" column="2" />
+        <mark key="." line="117" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
         <mark key="'" line="21" column="25" />
@@ -1365,17 +1371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="19" filename="$USER_HOME$/PycharmProjects/skptest/regress.py" />
-      <jump line="8" column="19" filename="$USER_HOME$/PycharmProjects/skptest/regress.py" />
-      <jump line="45" column="22" filename="$USER_HOME$/github/skippy/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/skippy/deploy.sh" />
-      <jump line="12" column="71" filename="$USER_HOME$/github/catren/README.md" />
-      <jump line="16" column="43" filename="$USER_HOME$/github/catren/README.md" />
-      <jump line="17" column="33" filename="$USER_HOME$/github/catren/README.md" />
-      <jump line="30" column="37" filename="$USER_HOME$/github/catren/README.md" />
-      <jump line="79" column="20" filename="$USER_HOME$/github/catren/README.md" />
-      <jump line="47" column="0" filename="$USER_HOME$/github/catren/catren/catrmd.py" />
-      <jump line="9" column="58" filename="$USER_HOME$/github/catren/catren/catrmd.py" />
       <jump line="0" column="14" filename="$USER_HOME$/github/scattr/README.md" />
       <jump line="5" column="15" filename="$USER_HOME$/github/scattr/scattr/scattr.py" />
       <jump line="2" column="103" filename="$USER_HOME$/github/scattr/README.md" />
@@ -1460,11 +1455,22 @@
       <jump line="74" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="67" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="62" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="79" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="77" column="59" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="96" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="13" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="93" column="24" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
-      <jump line="79" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
-      <jump line="77" column="59" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="17" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
+      <jump line="73" column="66" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="31" column="24" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="69" column="2" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="52" column="3" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1540,15 +1546,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Avoid repetition</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text>hell</text>
       </register>
       <register name="0" type="4">
-        <text>The Reusability Principle</text>
+        <text>Modularity and Resusability</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">IyMgYF9fbWFpbl9fLnB5YAoKUnVubmluZyBhbiBlbnRpcmUgcHJvamVjdAoKMS4gQ3JlYXRlIGEgYF9fbWFpbl9fLnB5YCBmaWxlIGluIGEgZGlyZWN0b3J5IGNhbGxlZCBgbXlfcHJvamVjdGAKMi4gSW5jbHVkZSBjb2RlIGluIHRoZSBmaWxlLCBlLmcuIGBwcmludCgiVGhpcyBpcyBteSBwcm9qZWN0ISIpYAozLiBSdW4gYHB5dGhvbiBteV9wcm9qZWN0YAoKU29tZSBhZHZhbnRhZ2VzIG9mIHRoaXMgYXJlOgpZb3UgY2FuIHppcCB0aGUgd2hvbGUgcHJvamVjdCBhbmQgc3RpbGwgcnVuIGBfX21haW5fXy5weWAKYGBgYmFzaApweXRob24gLW0gemlwZmlsZSAtYyBteV9wcm9qZWN0LnppcCBteV9wcm9qZWN0LyoKcHl0aG9uIG15X3Byb2plY3QuemlwCmBgYAoKQ29udmVuaWVuY2Ugb2YgYSBzaW5nbGUgZmlsZSB3aXRob3V0IHNhY3JpZmljaW5nIG1vZHVsYXJpdHkhCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>The opposite of modular is monolithic.
+
+A monolithic file could, for example, contain all project
+- code,
+- documentation, and
+- output.
+
+Convenience at the price of modularity.
+
+To get the best of both worlds,
+1. start with small code files called scripts and then
+2. combine the scripts into a larger file later on.</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">QSBwcm9qZWN0IGlzIGEgZGlyZWN0b3J5IHRoYXQgY29udGFpbnMgcHJvamVjdCBmaWxlcy4KCkxlc3NvbiBHb2FsOiBFc3RhYmxpc2ggcHJpbmNpcGxlcyB0byBmb2xsb3cgZm9yIGFsbCBwcm9qZWN0cy4KCk1vZHVsYXIgYW5kIHJldXNhYmxlIGNvZGUgaXMgZWFzaWVyIHRvIAotIG9yZ2FuaXplLCAKLSBtYWludGFpbiwgCi0gZGVidWcsIGFuZAotIHRlc3QuZ3YK</text>
+      </register>
+      <register name="5" type="4">
+        <text>A project is a directory that contains project files.
+
+Lesson Goal: Establish principles to follow for all projects.
+
+Modular and reusable code is easier to 
+- organize, 
+- maintain, 
+- debug, and
+- test.</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QSBwcm9qZWN0IGlzIGEgZGlyZWN0b3J5IHRoYXQgY29udGFpbnMgcHJvamVjdCBmaWxlcy4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LSB0ZXN0LCBhbmQK</text>
+      </register>
+      <register name="9" type="4">
         <text>Lesson Goal: Establish principles to follow for all projects.
 
 The modularity principle is especially important.
@@ -1560,46 +1609,21 @@ Modularity makes code easier to
 - test, and
 - reuse.</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">TGVzc29uIEdvYWw6IEVzdGFibGlzaCBwcmluY2lwbGVzIHRvIGZvbGxvdyBmb3IgYWxsIHByb2plY3RzLgoKVGhlIG1vZHVsYXJpdHkgcHJpbmNpcGxlIGlzIGVzcGVjaWFsbHkgaW1wb3J0YW50LgoKTW9kdWxhcml0eSBtYWtlcyBjb2RlIGVhc2llciB0byAKLSBvcmdhbml6ZSwgCi0gbWFpbnRhaW4sIAotIGRlYnVnLAotIHRlc3QsIGFuZAotIHJldXNlLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aGVscChyYW5nZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IF9faGVsbG9fXwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">My4gQXV0b21hdGUgdGhlIHNlcXVlbmNlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YSBzaGVsbFteMV0oV2luZG93cyB1c2VycyBzaG91bGQgd3JpdGUgYHB5YCBpbnN0ZWFkIG9mIGBweXRob25gKToKYGBgc2gKcHl0aG9uIG15X3NjcmlwdC5weQpgYGAKICAgIAoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">YSBzaGVsbFteMV0oV2luZG93cyB1c2VycyBzaG91bGQgd3JpdGUgYHB5YCBpbnN0ZWFkIG9mIGBweXRob25gKToK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action Move</text>
       </register>
     </registers>
     <search>
-      <last-search>import</last-search>
+      <last-search>hell</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern>hell</last-pattern>
       <last-replace>obtain</last-replace>
       <last-substitute encoding="base64">XDxnZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxza2lwcHlcPg==</entry>
         <entry encoding="base64">XDxkaWdpdHNcPg==</entry>
         <entry>dig</entry>
         <entry>pre</entry>
@@ -1619,6 +1643,7 @@ Modularity makes code easier to
         <entry encoding="base64">XDxjbGVhblw+</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>import</entry>
+        <entry>hell</entry>
       </history-search>
       <history-cmd>
         <entry>%s///gc</entry>
@@ -1636,11 +1661,11 @@ Modularity makes code easier to
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
-        <entry>action Move</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action Move</entry>
       </history-cmd>
       <history-expr />
       <history-input />
