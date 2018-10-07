@@ -625,8 +625,8 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1538945867224">
-        <mark key="'" line="52" column="3" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1538950422893">
+        <mark key="'" line="77" column="35" />
         <mark key="[" line="94" column="60" />
         <mark key="]" line="117" column="2" />
         <mark key="^" line="117" column="2" />
@@ -1371,11 +1371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="14" filename="$USER_HOME$/github/scattr/README.md" />
-      <jump line="5" column="15" filename="$USER_HOME$/github/scattr/scattr/scattr.py" />
-      <jump line="2" column="103" filename="$USER_HOME$/github/scattr/README.md" />
-      <jump line="9" column="50" filename="$USER_HOME$/github/scattr/README.md" />
-      <jump line="3" column="36" filename="$USER_HOME$/github/scattr/scattr/scattr.py" />
       <jump line="26" column="34" filename="$USER_HOME$/github/scattr/README.md" />
       <jump line="7" column="0" filename="$USER_HOME$/github/scattr/scatest.py" />
       <jump line="13" column="0" filename="$USER_HOME$/github/scattr/scatest.py" />
@@ -1467,10 +1462,15 @@
       <jump line="17" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
-      <jump line="73" column="66" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="31" column="24" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="69" column="2" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="52" column="3" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="83" column="17" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="107" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="73" column="31" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="75" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="77" column="35" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1549,7 +1549,7 @@
         <text encoding="base64">aXMg</text>
       </register>
       <register name="/" type="4">
-        <text>hell</text>
+        <text>def</text>
       </register>
       <register name="0" type="4">
         <text>Modularity and Resusability</text>
@@ -1614,9 +1614,9 @@ Modularity makes code easier to
       </register>
     </registers>
     <search>
-      <last-search>hell</last-search>
+      <last-search>def</last-search>
       <last-offset />
-      <last-pattern>hell</last-pattern>
+      <last-pattern>def</last-pattern>
       <last-replace>obtain</last-replace>
       <last-substitute encoding="base64">XDxnZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1624,7 +1624,6 @@ Modularity makes code easier to
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaWdpdHNcPg==</entry>
         <entry>dig</entry>
         <entry>pre</entry>
         <entry>functions</entry>
@@ -1644,6 +1643,7 @@ Modularity makes code easier to
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>import</entry>
         <entry>hell</entry>
+        <entry>def</entry>
       </history-search>
       <history-cmd>
         <entry>%s///gc</entry>
