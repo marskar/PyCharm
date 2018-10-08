@@ -649,12 +649,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539037068452">
-        <mark key="'" line="135" column="39" />
-        <mark key="[" line="140" column="20" />
-        <mark key="]" line="140" column="20" />
-        <mark key="^" line="140" column="18" />
-        <mark key="." line="140" column="20" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539040140762">
+        <mark key="'" line="141" column="29" />
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="20" />
+        <mark key="^" line="141" column="29" />
+        <mark key="." line="44" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
         <mark key="'" line="21" column="25" />
@@ -1427,7 +1427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="69" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="71" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1527,6 +1526,7 @@
       <jump line="139" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="140" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="135" column="39" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="141" column="29" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1602,7 +1602,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>say.py</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>{{.}}</text>
