@@ -589,7 +589,7 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538956591887">
+      <file name="/Dummy.txt" timestamp="1538962878397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -644,12 +644,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1538958785535">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-        <mark key="^" line="54" column="40" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1538962443760">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="120" column="2" />
+        <mark key="." line="120" column="2" />
+        <mark key="^" line="120" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
         <mark key="'" line="21" column="25" />
@@ -1414,21 +1414,14 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="28" column="15" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/run_project.sh" timestamp="1538962093007">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="28" filename="$USER_HOME$/github/skippy/setup.py" />
-      <jump line="19" column="5" filename="$USER_HOME$/github/skippy/setup.py" />
-      <jump line="8" column="13" filename="$USER_HOME$/github/skippy/skippy/__init__.py" />
-      <jump line="6" column="40" filename="$USER_HOME$/github/skippy/__main__.py" />
-      <jump line="31" column="9" filename="$USER_HOME$/github/skippy/README.md" />
-      <jump line="32" column="9" filename="$USER_HOME$/github/skippy/README.md" />
-      <jump line="20" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/run.md" />
-      <jump line="44" column="1" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
-      <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
-      <jump line="45" column="2" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
-      <jump line="52" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
-      <jump line="57" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="47" column="7" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="59" column="4" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
@@ -1450,19 +1443,12 @@
       <jump line="17" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
-      <jump line="31" column="24" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="83" column="17" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="107" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="73" column="31" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="77" column="35" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="89" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="19" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="24" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="37" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="39" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="55" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1476,18 +1462,14 @@
       <jump line="0" column="11" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" />
       <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" />
       <jump line="10" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" />
-      <jump line="30" column="6" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="41" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="42" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="52" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="26" column="16" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="59" column="34" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="60" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="53" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="51" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="49" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="44" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="67" column="80" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="66" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="64" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1505,17 +1487,41 @@
       <jump line="121" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="101" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="100" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="98" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="91" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="115" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="17" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="116" column="54" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="54" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="48" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="51" column="39" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="17" column="6" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="30" column="43" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="31" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="33" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="35" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="37" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="44" column="18" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="48" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="58" column="39" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="59" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="61" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="63" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="87" column="49" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="95" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="97" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="72" column="30" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="77" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="88" column="2" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="89" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="96" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="98" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="104" column="19" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="108" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="115" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1591,46 +1597,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>say.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
       </register>
-      <register name="0" type="4">
-        <text>Modularity and Resusability</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAotCiAKIA==</text>
+      <register name="1" type="4">
+        <text>1. Create a directory called `my_project`
+2. Make a copy of `say.py` called `__main__.py` 
+3. Move `__main__.py` into `my_project`
+4. Run the project
+
+```bash
+mkdir my_project
+cp say.py __main__.py
+mv __main__.py my_project
+python my_project
+```
+
+You can zip the whole project and then run the zip file:
+```bash
+python -m zipfile -c my_project.zip my_project/*
+python my_project.zip
+```</text>
       </register>
       <register name="2" type="4">
-        <text>Scripts and modules
-- are plain-text files that
-- have `.py` extensions and
-- contain only Python code.
-
-Scripts and modules differ in how and why they are used. 
-
-| Verb   | Filetype | Goal             |
-|--------|----------|------------------|
-| Run    | Script   | Perform actions  |
-| Import | Module   | Provide tools    |</text>
-      </register>
-      <register name="3" type="4">
-        <text>The opposite of modular is monolithic.
-
-A monolithic file could, for example, contain all project
-- code,
-- documentation, and
-- output.
-
-The benefits of modularity with the convenience of a single file:
-1. start with small files and then
-2. combine them into a larger file later on.</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
         <text>It is possible for the same file to be used as both a module and a script.
 
 Add the code below to `say.py`:
@@ -1644,17 +1638,88 @@ The difference is that we can import the `hello` function from `say.py`, but not
 
 This approach works when we only want to call one function from a module.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CjIuIEdvIHVwIG9uZSBsZXZlbCBpbiB5b3VyIGZvbGRlciBzeXN0ZW0KMy4gUnVuIHRoZSBwcm9qZWN0CgpgYGBiYXNoCmNwIHNheS5weSBfX21haW5fXy5weQpjZCAuLgpweXRob24gbXlfcHJvamVjdApgYGAKCllvdSBjYW4gemlwIHRoZSB3aG9sZSBwcm9qZWN0IGFuZCBydW4gaXQ6CmBgYGJhc2gKcHl0aG9uIC1tIHppcGZpbGUgLWMgbXlfcHJvamVjdC56aXAgbXlfcHJvamVjdC8qCnB5dGhvbiBteV9wcm9qZWN0LnppcApgYGAKCg==</text>
+      <register name="3" type="4">
+        <text>1. Create a module named `say.py`, which uses the `def` statement to define a function called `hello`:
+```python
+def hello():
+       print(&quot;Hello World!&quot;)
+```
+
+2. Edit the `greet.py` script to import the `say` module and call the `hello` function:
+```python
+import say
+say.hello()
+```
+3. Run the `greet.py` script in a shell as before.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">MS4gQ3JlYXRlIGEgbW9kdWxlIG5hbWVkIGBzYXkucHlgLCB3aGljaCB1c2VzIHRoZSBgZGVmYCBzdGF0ZW1lbnQgdG8gZGVmaW5lIGEgZnVuY3Rpb24gY2FsbGVkIGBoZWxsb2A6CmBgYHB5dGhvbgpkZWYgaGVsbG8oKToKICAgICAgIHByaW50KCJIZWxsbyBXb3JsZCEiKQpgYGAKCjIuIEVkaXQgdGhlIGBncmVldC5weWAgc2NyaXB0IHRvIGltcG9ydCB0aGUgYHNheWAgbW9kdWxlIGFuZCBjYWxsIHRoZSBgaGVsbG9gIGZ1bmN0aW9uOgpgYGBweXRob24KaW1wb3J0IHNheQpzYXkuaGVsbG8oKQpgYGAKMy4gUnVuIHRoZSBgZ3JlZXQucHlgIHNjcmlwdCBpbiBhIHNoZWxsIGFzIGJlZm9yZS4g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">SXQgaXMgcG9zc2libGUgZm9yIHRoZSBzYW1lIGZpbGUgdG8gYmUgdXNlZCBhcyBib3RoIGEgbW9kdWxlIGFuZCBhIHNjcmlwdC4KCkFkZCB0aGUgY29kZSBiZWxvdyB0byBgc2F5LnB5YDoKYGBgcHl0aG9uCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBoZWxsbygpCmBgYApOb3cgcnVubmluZyBgc2F5LnB5YCBpbiBhIHNoZWxsIHdpbGwgYWxzbyBwcmludCAiSGVsbG8gV29ybGQiLgoKVGhlIGRpZmZlcmVuY2UgaXMgdGhhdCB3ZSBjYW4gaW1wb3J0IHRoZSBgaGVsbG9gIGZ1bmN0aW9uIGZyb20gYHNheS5weWAsIGJ1dCBub3QgYGdyZWV0LnB5YC4KClRoaXMgYXBwcm9hY2ggd29ya3MgYmVzdCB3aGVuIHdlIG9ubHkgd2FudCB0byBjYWxsIG9uZSBmdW5jdGlvbiBmcm9tIGEgbW9kdWxlLgo=</text>
+      <register name="5" type="4">
+        <text>Scripts in data science projects are typically run in a particular order.
+
+This order can be visualized as a diagram called a directed acyclic graph (DAG). 
+
+![](https://ndownloader.figshare.com/files/13168322/preview/13168322/preview.jpg)
+
+1. Create a script named `greet.py`:
+```python
+print(&quot;Hello World!&quot;)
+```
+2. Run the script in a shell:
+```bash
+python greet.py
+```</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Scripts and modules
+- are plain-text files that
+- have `.py` extensions and
+- contain only Python code.
+
+Scripts and modules differ in how and why they are used. 
+
+| Verb   | Filetype | Goal             |
+|--------|----------|------------------|
+| Run    | Script   | Perform actions  |
+| Import | Module   | Define functions |</text>
+      </register>
+      <register name="7" type="4">
+        <text>While working on a project, you may notice common patterns.
+
+Don't repeat code! Reuse it!
+
+One way to deal with code repetition is to define a function.
+
+Defining the same function in multiple code files would be repetitive.
+
+Instead, we will 
+- save our function definitions in `modules` and 
+- use the definitions in `scripts`.</text>
+      </register>
+      <register name="8" type="4">
+        <text>The opposite of modular is monolithic.
+
+A monolithic file could, for example, contain all project
+- code,
+- documentation, and
+- output.
+
+To get the benefits of modularity and the convenience of a single file:
+1. start with small files and then
+2. combine them into a larger file later on.</text>
+      </register>
+      <register name="9" type="4">
+        <text>A project is a directory that contains project files.
+
+Learning Goal: Establish principles to follow for all projects
+
+Following the Modularity and Reusability Principles makes code easier to 
+- read,
+- organize, 
+- maintain, 
+- debug, and
+- test.</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
