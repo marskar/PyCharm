@@ -124,6 +124,11 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/my_project/__main__.py" timestamp="1539031337365">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538259806021">
         <mark key="'" line="24" column="36" />
         <mark key="[" line="19" column="36" />
@@ -917,12 +922,6 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1539014690417">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -942,9 +941,10 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" timestamp="1538953771959">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="25" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" timestamp="1539030458640">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="39" />
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
@@ -1086,6 +1086,11 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/Downloads/output_python3.py" timestamp="1539031659918">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.py" timestamp="1537553435263">
         <mark key="'" line="5" column="0" />
@@ -1421,8 +1426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
-      <jump line="67" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="62" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="79" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="77" column="59" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
@@ -1521,6 +1524,8 @@
       <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="52" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="57" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="21" column="13" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" />
+      <jump line="12" column="0" filename="$USER_HOME$/Downloads/output_python3.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1596,52 +1601,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>my_module.</text>
       </register>
       <register name="/" type="4">
         <text>{{.}}</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">fCBJbXBvcnQgfCBNb2R1bGUgIA==</text>
+        <text>get_ipython().run_line_magic</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">V2hpbGUgd29ya2luZyBvbiBhIHByb2plY3QsIHlvdSBtYXkgbm90aWNlIGNvbW1vbiBwYXR0ZXJucy4KClJldXNhYmlsaXR5IFByaW5jaXBsZTogRG9uJ3QgcmVwZWF0IGNvZGUhIFJldXNlIGl0IQoKT25lIHdheSB0byBhdm9pZCBjb2RlIHJlcGV0aXRpb24gaXMgdG8gZGVmaW5lIGEgZnVuY3Rpb24uCgpEZWZpbmluZyB0aGUgc2FtZSBmdW5jdGlvbiBpbiBtdWx0aXBsZSBjb2RlIGZpbGVzIHdvdWxkIGJlIHJlcGV0aXRpdmUuCgpJbnN0ZWFkLCB3ZSB3aWxsIAotIGRlZmluZSBvdXIgZnVuY3Rpb25zIGluIGBtb2R1bGVzYCBhbmQgCi0gdXNlIHRoZSBmdW5jdGlvbnMgaW4gYHNjcmlwdHNgLgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">bXlfbW9kdWxlLnRvX2ZpbGUoJ2Fuc3dlci50eHQnLCBhbnN3ZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QSBtb25vbGl0aGljIGZpbGUgY291bGQsIGZvciBleGFtcGxlLCBjb250YWluIGFsbCBwcm9qZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QW4gZXhlcmNpc2UgaW4gZW1wYXRoeSBmb3IgdXNlcnMgb2YgeW91ciBjb2RlIChpbmNsdWRpbmcgeW91ciBmdXR1cmUgc2VsZiEpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">V2hpbGUgd29ya2luZyBvbiBhIHByb2plY3QsIHlvdSBtYXkgbm90aWNlIGNvbW1vbiBwYXR0ZXJucy4KClJldXNhYmlsaXR5IFByaW5jaXBsZTogRG9uJ3QgcmVwZWF0IGNvZGUhIFJldXNlIGl0IQoKT25lIHdheSB0byBhdm9pZCBjb2RlIHJlcGV0aXRpb24gaXMgdG8gZGVmaW5lIGEgZnVuY3Rpb24uCgpEZWZpbmluZyB0aGUgc2FtZSBmdW5jdGlvbiBpbiBtdWx0aXBsZSBjb2RlIGZpbGVzIHdvdWxkIGJlIHJlcGV0aXRpdmUuCgpJbnN0ZWFkLCB3ZSB3aWxsIAotIGRlZmluZSBvdXIgZnVuY3Rpb25zIGluIGBtb2R1bGVzYCBhbmQgCi0gdXNlIHRoZSBmdW5jdGlvbnMgaW4gYHNjcmlwdHNgLgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">QSBtb25vbGl0aGljIGZpbGUgY291bGQsIGZvciBleGFtcGxlLCBjb250YWluIGFsbCBwcm9qZWN0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QW4gZXhlcmNpc2UgaW4gZW1wYXRoeSBmb3IgdXNlcnMgb2YgeW91ciBjb2RlIChpbmNsdWRpbmcgeW91ciBmdXR1cmUgc2VsZiEpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">IyMgTW9kdWxhcml0eSBhbmQgUmV1c2FiaWxpdHkKCkEgcHJvamVjdCBpcyBhIGRpcmVjdG9yeSB0aGF0IGNvbnRhaW5zIHByb2plY3QgZmlsZXMuCgpMZWFybmluZyBHb2FsOiBFc3RhYmxpc2ggcHJpbmNpcGxlcyB0byBmb2xsb3cgZm9yIGFsbCBwcm9qZWN0cwoKRm9sbG93aW5nIHRoZSBNb2R1bGFyaXR5IGFuZCBSZXVzYWJpbGl0eSBQcmluY2lwbGVzIG1ha2UgY29kZSBlYXNpZXIgdG8gCi0gcmVhZCwKLSBvcmdhbml6ZSwgCi0gbWFpbnRhaW4sIAotIGRlYnVnLCBhbmQKLSB0ZXN0LgoK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>1. Create a directory called `my_project`
 2. Make a copy of `say.py` called `__main__.py` 
 3. Move `__main__.py` into `my_project`
 4. Run the project</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>| Verb   | Filetype | Goal             |
 |--------|----------|------------------|
 | Run    | Script   | Perform actions  |
 | Import | Module   | Define objects   |</text>
       </register>
-      <register name="8" type="8">
-        <text>|
-|
-|
-|</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">fCBGaWxldHlwZSAKfC0tLS0tLS0tLS0KfCBTY3JpcHQgICAKfCBNb2R1bGUgICA=</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/{{.}}//g</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -1688,15 +1690,15 @@
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>nohlsearch</entry>
         <entry>action Synchronize</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action NewDirectoryProject</entry>
         <entry>action Move</entry>
         <entry>action CloseProject</entry>
         <entry>%s/{{.}}//g</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
