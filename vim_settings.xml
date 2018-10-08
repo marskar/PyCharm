@@ -643,12 +643,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539014254908">
-        <mark key="'" line="104" column="39" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="107" column="45" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539015448658">
+        <mark key="'" line="107" column="45" />
+        <mark key="[" line="8" column="56" />
+        <mark key="]" line="8" column="56" />
         <mark key="^" line="107" column="45" />
-        <mark key="." line="107" column="45" />
+        <mark key="." line="8" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
         <mark key="'" line="21" column="25" />
@@ -1442,7 +1442,6 @@
       <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="83" column="17" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="107" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="73" column="31" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="19" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1521,6 +1520,7 @@
       <jump line="115" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="85" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="104" column="39" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="107" column="45" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1596,7 +1596,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>deal</text>
