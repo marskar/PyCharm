@@ -124,10 +124,11 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/my_project/__main__.py" timestamp="1539031337365">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="4" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/my_project/__main__.py" timestamp="1539033434868">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538259806021">
         <mark key="'" line="24" column="36" />
@@ -1609,41 +1610,52 @@
       <register name="0" type="4">
         <text>get_ipython().run_line_magic</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>def hello():
+    print(&quot;Hello World!&quot;)
+
+
+def to_file(filename, contents):
+    with open(filename, 'w') as f:
+        f.write(contents)
+
+answer = &quot;The answer to life is 42.&quot;
+
+%run ../
+
+if __name__ == '__main__':
+    hello()
+    to_file('answer.txt', answer)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bXlfbW9kdWxlLnRvX2ZpbGUoJ2Fuc3dlci50eHQnLCBhbnN3ZXIpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">bXlfbW9kdWxlLnRvX2ZpbGUoJ2Fuc3dlci50eHQnLCBhbnN3ZXIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">V2hpbGUgd29ya2luZyBvbiBhIHByb2plY3QsIHlvdSBtYXkgbm90aWNlIGNvbW1vbiBwYXR0ZXJucy4KClJldXNhYmlsaXR5IFByaW5jaXBsZTogRG9uJ3QgcmVwZWF0IGNvZGUhIFJldXNlIGl0IQoKT25lIHdheSB0byBhdm9pZCBjb2RlIHJlcGV0aXRpb24gaXMgdG8gZGVmaW5lIGEgZnVuY3Rpb24uCgpEZWZpbmluZyB0aGUgc2FtZSBmdW5jdGlvbiBpbiBtdWx0aXBsZSBjb2RlIGZpbGVzIHdvdWxkIGJlIHJlcGV0aXRpdmUuCgpJbnN0ZWFkLCB3ZSB3aWxsIAotIGRlZmluZSBvdXIgZnVuY3Rpb25zIGluIGBtb2R1bGVzYCBhbmQgCi0gdXNlIHRoZSBmdW5jdGlvbnMgaW4gYHNjcmlwdHNgLgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">QSBtb25vbGl0aGljIGZpbGUgY291bGQsIGZvciBleGFtcGxlLCBjb250YWluIGFsbCBwcm9qZWN0Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QW4gZXhlcmNpc2UgaW4gZW1wYXRoeSBmb3IgdXNlcnMgb2YgeW91ciBjb2RlIChpbmNsdWRpbmcgeW91ciBmdXR1cmUgc2VsZiEpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IyMgTW9kdWxhcml0eSBhbmQgUmV1c2FiaWxpdHkKCkEgcHJvamVjdCBpcyBhIGRpcmVjdG9yeSB0aGF0IGNvbnRhaW5zIHByb2plY3QgZmlsZXMuCgpMZWFybmluZyBHb2FsOiBFc3RhYmxpc2ggcHJpbmNpcGxlcyB0byBmb2xsb3cgZm9yIGFsbCBwcm9qZWN0cwoKRm9sbG93aW5nIHRoZSBNb2R1bGFyaXR5IGFuZCBSZXVzYWJpbGl0eSBQcmluY2lwbGVzIG1ha2UgY29kZSBlYXNpZXIgdG8gCi0gcmVhZCwKLSBvcmdhbml6ZSwgCi0gbWFpbnRhaW4sIAotIGRlYnVnLCBhbmQKLSB0ZXN0LgoK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>1. Create a directory called `my_project`
 2. Make a copy of `say.py` called `__main__.py` 
 3. Move `__main__.py` into `my_project`
 4. Run the project</text>
       </register>
-      <register name="9" type="4">
-        <text>| Verb   | Filetype | Goal             |
-|--------|----------|------------------|
-| Run    | Script   | Perform actions  |
-| Import | Module   | Define objects   |</text>
-      </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1697,8 +1709,8 @@
         <entry>action Move</entry>
         <entry>action CloseProject</entry>
         <entry>%s/{{.}}//g</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
