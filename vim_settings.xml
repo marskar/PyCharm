@@ -182,6 +182,12 @@
       <file name="$USER_HOME$/github/mnist-analysis/get_splits.py" timestamp="1538157447526">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/say.py" timestamp="1538961319973">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/github/nbtest/setup.Rmd" timestamp="1537757270720">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="1" column="18" />
@@ -241,6 +247,7 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/greet.py" timestamp="1538960122861" />
       <file name="$USER_HOME$/PycharmProjects/skptest/pi.py" timestamp="1538399922647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="11" />
@@ -563,6 +570,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/greet.py" timestamp="1538961290121">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/github/mnist/test.py" timestamp="1538231676731">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="0" />
@@ -662,6 +675,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/my_project/say.py" timestamp="1538959819722">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/github/mnist/mnist_pipeline/evaluate.py" timestamp="1538233087433">
         <mark key="[" line="2" column="5" />
@@ -899,8 +918,8 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538951915540">
-        <mark key="[" line="0" column="8" />
+      <file name="/Python Console" timestamp="1538960934969">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -1363,6 +1382,11 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/say.py" timestamp="1538960103088">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/github/nbless/nbless/nbtest.py" timestamp="1536628454445">
         <mark key="'" line="14" column="78" />
         <mark key="[" line="3" column="1" />
@@ -1567,7 +1591,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>say.</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
@@ -1633,7 +1657,7 @@ This approach works when we only want to call one function from a module.</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>action NewDirectoryProject</text>
       </register>
     </registers>
     <search>
@@ -1669,7 +1693,6 @@ This approach works when we only want to call one function from a module.</text>
         <entry>def</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//clean\ndata/g</entry>
         <entry>%s//process/g</entry>
         <entry>%s//obtain/g</entry>
         <entry>action RenameElement</entry>
@@ -1679,16 +1702,17 @@ This approach works when we only want to call one function from a module.</text>
         <entry>action GotoDeclaration</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action Synchronize</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
         <entry>action Move</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>nohlsearch</entry>
+        <entry>action Synchronize</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action NewDirectoryProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
