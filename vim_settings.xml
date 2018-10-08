@@ -917,7 +917,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1538960934969">
+      <file name="/Python Console" timestamp="1539014690417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -1066,12 +1066,12 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" timestamp="1538447837105">
+      <file name="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" timestamp="1539014925612">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="52" />
-        <mark key="]" line="13" column="52" />
-        <mark key="^" line="13" column="59" />
-        <mark key="." line="13" column="52" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="^" line="19" column="34" />
+        <mark key="." line="19" column="34" />
       </file>
       <file name="$USER_HOME$/github/nbless/nbless/render.py" timestamp="1537139840624">
         <mark key="'" line="91" column="0" />
@@ -1596,7 +1596,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>deal</text>
@@ -1740,13 +1740,13 @@ python greet.py
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
-        <entry>action Move</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>nohlsearch</entry>
         <entry>action Synchronize</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action NewDirectoryProject</entry>
+        <entry>action Move</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
