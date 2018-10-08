@@ -247,7 +247,6 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/greet.py" timestamp="1538960122861" />
       <file name="$USER_HOME$/PycharmProjects/skptest/pi.py" timestamp="1538399922647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="11" />
@@ -644,12 +643,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1538962443760">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="120" column="2" />
-        <mark key="." line="120" column="2" />
-        <mark key="^" line="120" column="2" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539012635301">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="54" column="39" />
+        <mark key="^" line="54" column="39" />
+        <mark key="." line="54" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
         <mark key="'" line="21" column="25" />
@@ -1422,7 +1421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="7" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="59" column="4" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="51" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
@@ -1522,6 +1520,7 @@
       <jump line="104" column="19" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="108" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="115" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="85" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1597,15 +1596,30 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>deal with</text>
       </register>
       <register name="/" type="4">
-        <text>def</text>
+        <text>deal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">fCBJbXBvcnQgfCBNb2R1bGUgIA==</text>
       </register>
       <register name="1" type="4">
+        <text>| Verb   | Filetype | Goal             |
+|--------|----------|------------------|
+| Run    | Script   | Perform actions  |
+| Import | Module   | Define objects   |</text>
+      </register>
+      <register name="2" type="8">
+        <text>|
+|
+|
+|</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">fCBGaWxldHlwZSAKfC0tLS0tLS0tLS0KfCBTY3JpcHQgICAKfCBNb2R1bGUgICA=</text>
+      </register>
+      <register name="4" type="4">
         <text>1. Create a directory called `my_project`
 2. Make a copy of `say.py` called `__main__.py` 
 3. Move `__main__.py` into `my_project`
@@ -1624,7 +1638,7 @@ python -m zipfile -c my_project.zip my_project/*
 python my_project.zip
 ```</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>It is possible for the same file to be used as both a module and a script.
 
 Add the code below to `say.py`:
@@ -1638,7 +1652,7 @@ The difference is that we can import the `hello` function from `say.py`, but not
 
 This approach works when we only want to call one function from a module.</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>1. Create a module named `say.py`, which uses the `def` statement to define a function called `hello`:
 ```python
 def hello():
@@ -1652,10 +1666,10 @@ say.hello()
 ```
 3. Run the `greet.py` script in a shell as before.</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">MS4gQ3JlYXRlIGEgbW9kdWxlIG5hbWVkIGBzYXkucHlgLCB3aGljaCB1c2VzIHRoZSBgZGVmYCBzdGF0ZW1lbnQgdG8gZGVmaW5lIGEgZnVuY3Rpb24gY2FsbGVkIGBoZWxsb2A6CmBgYHB5dGhvbgpkZWYgaGVsbG8oKToKICAgICAgIHByaW50KCJIZWxsbyBXb3JsZCEiKQpgYGAKCjIuIEVkaXQgdGhlIGBncmVldC5weWAgc2NyaXB0IHRvIGltcG9ydCB0aGUgYHNheWAgbW9kdWxlIGFuZCBjYWxsIHRoZSBgaGVsbG9gIGZ1bmN0aW9uOgpgYGBweXRob24KaW1wb3J0IHNheQpzYXkuaGVsbG8oKQpgYGAKMy4gUnVuIHRoZSBgZ3JlZXQucHlgIHNjcmlwdCBpbiBhIHNoZWxsIGFzIGJlZm9yZS4g</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>Scripts in data science projects are typically run in a particular order.
 
 This order can be visualized as a diagram called a directed acyclic graph (DAG). 
@@ -1671,7 +1685,7 @@ print(&quot;Hello World!&quot;)
 python greet.py
 ```</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>Scripts and modules
 - are plain-text files that
 - have `.py` extensions and
@@ -1684,59 +1698,21 @@ Scripts and modules differ in how and why they are used.
 | Run    | Script   | Perform actions  |
 | Import | Module   | Define functions |</text>
       </register>
-      <register name="7" type="4">
-        <text>While working on a project, you may notice common patterns.
-
-Don't repeat code! Reuse it!
-
-One way to deal with code repetition is to define a function.
-
-Defining the same function in multiple code files would be repetitive.
-
-Instead, we will 
-- save our function definitions in `modules` and 
-- use the definitions in `scripts`.</text>
-      </register>
-      <register name="8" type="4">
-        <text>The opposite of modular is monolithic.
-
-A monolithic file could, for example, contain all project
-- code,
-- documentation, and
-- output.
-
-To get the benefits of modularity and the convenience of a single file:
-1. start with small files and then
-2. combine them into a larger file later on.</text>
-      </register>
-      <register name="9" type="4">
-        <text>A project is a directory that contains project files.
-
-Learning Goal: Establish principles to follow for all projects
-
-Following the Modularity and Reusability Principles makes code easier to 
-- read,
-- organize, 
-- maintain, 
-- debug, and
-- test.</text>
-      </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
       </register>
     </registers>
     <search>
-      <last-search>def</last-search>
+      <last-search>deal</last-search>
       <last-offset />
-      <last-pattern>def</last-pattern>
+      <last-pattern>deal</last-pattern>
       <last-replace>obtain</last-replace>
       <last-substitute encoding="base64">XDxnZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dig</entry>
         <entry>pre</entry>
         <entry>functions</entry>
         <entry>func</entry>
@@ -1756,6 +1732,7 @@ Following the Modularity and Reusability Principles makes code easier to
         <entry>import</entry>
         <entry>hell</entry>
         <entry>def</entry>
+        <entry>deal</entry>
       </history-search>
       <history-cmd>
         <entry>%s//process/g</entry>
