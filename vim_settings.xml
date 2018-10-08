@@ -576,10 +576,10 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538953867902">
+      <file name="/Dummy.txt" timestamp="1538956591887">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/github/pydy/README.md" timestamp="1538022198026">
         <mark key="'" line="8" column="31" />
@@ -631,12 +631,11 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1538953590259">
-        <mark key="'" line="117" column="4" />
-        <mark key="[" line="119" column="3" />
-        <mark key="]" line="119" column="4" />
-        <mark key="^" line="133" column="3" />
-        <mark key="." line="119" column="4" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1538956569290">
+        <mark key="[" line="120" column="3" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="121" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
         <mark key="'" line="21" column="25" />
@@ -1392,30 +1391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="9" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
-      <jump line="8" column="8" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
-      <jump line="11" column="24" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
-      <jump line="13" column="52" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" />
-      <jump line="20" column="9" filename="$USER_HOME$/PycharmProjects/skptest/dag2.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/skptest/dag2.py" />
-      <jump line="0" column="12" filename="$USER_HOME$/PycharmProjects/skptest/hybrid.py" />
-      <jump line="1" column="4" filename="$USER_HOME$/PycharmProjects/skptest/test.R" />
-      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/skptest/test.R" />
-      <jump line="35" column="25" filename="$USER_HOME$/github/biof309_fall2018/run.md" />
-      <jump line="2" column="18" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/github/skippy/pipelines/digits.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/github/skippy/__main__.py" />
-      <jump line="11" column="59" filename="$USER_HOME$/github/skippy/__main__.py" />
-      <jump line="28" column="33" filename="$USER_HOME$/github/skippy/__main__.py" />
-      <jump line="11" column="49" filename="$USER_HOME$/github/skippy/skippy/classification.py" />
-      <jump line="23" column="64" filename="$USER_HOME$/github/skippy/skippy/regression.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/github/skippy/pipelines/wine.py" />
-      <jump line="2" column="11" filename="$USER_HOME$/github/skippy/pipelines/boston.py" />
-      <jump line="22" column="40" filename="$USER_HOME$/github/skippy/skippy/regression.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/github/skippy/setup.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/github/skippy/__main__.py" />
       <jump line="0" column="28" filename="$USER_HOME$/github/skippy/skippy/__init__.py" />
       <jump line="1" column="30" filename="$USER_HOME$/github/skippy/skippy/__init__.py" />
       <jump line="2" column="29" filename="$USER_HOME$/github/skippy/skippy/__init__.py" />
@@ -1458,12 +1433,10 @@
       <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/projects.md" />
       <jump line="31" column="24" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="52" column="3" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="83" column="17" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="107" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="73" column="31" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="75" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="77" column="35" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="89" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1472,18 +1445,12 @@
       <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="19" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="24" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="30" column="10" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="37" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="39" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="41" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="44" column="47" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="55" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="57" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="59" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="65" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="67" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="69" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="71" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="56" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1492,6 +1459,38 @@
       <jump line="0" column="11" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" />
       <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" />
       <jump line="10" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" />
+      <jump line="30" column="6" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="41" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="42" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="48" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="52" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="26" column="16" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="59" column="34" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="60" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="54" column="39" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="53" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="51" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="49" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="44" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="67" column="80" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="66" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="64" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="62" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="75" column="2" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="76" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="82" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="90" column="50" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="91" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="93" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="99" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="102" column="73" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="103" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="110" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="112" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="121" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1567,7 +1566,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
@@ -1576,50 +1575,54 @@
         <text>Modularity and Resusability</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjIuIEdvIHVwIG9uZSBsZXZlbCBpbiB5b3VyIGZvbGRlciBzeXN0ZW0KMy4gUnVuIHRoZSBwcm9qZWN0CgpgYGBiYXNoCmNwIHNheS5weSBfX21haW5fXy5weQpjZCAuLgpweXRob24gbXlfcHJvamVjdApgYGAKCllvdSBjYW4gemlwIHRoZSB3aG9sZSBwcm9qZWN0IGFuZCBydW4gaXQ6CmBgYGJhc2gKcHl0aG9uIC1tIHppcGZpbGUgLWMgbXlfcHJvamVjdC56aXAgbXlfcHJvamVjdC8qCnB5dGhvbiBteV9wcm9qZWN0LnppcApgYGAKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MS4gQ3JlYXRlIGEgCjIuIEluY2x1ZGUgY29kZSBpbiB0aGUgZmlsZSwgZS5nLiBgcHJpbnQoIlRoaXMgaXMgbXkgcHJvamVjdCEiKWAKMy4gUnVuIGBweXRob24gbXlfcHJvamVjdGAKClNvbWUgYWR2YW50YWdlcyBvZiB0aGlzIGFyZToKWW91IGNhbiB6aXAgdGhlIHdob2xlIHByb2plY3QgYW5kIHN0aWxsIHJ1biBgX19tYWluX18ucHlgCmBgYGJhc2gKcHl0aG9uIC1tIHppcGZpbGUgLWMgbXlfcHJvamVjdC56aXAgbXlfcHJvamVjdC8qCnB5dGhvbiBteV9wcm9qZWN0LnppcApgYGAKCkNvbnZlbmllbmNlIG9mIGEgc2luZ2xlIGZpbGUgd2l0aG91dCBzYWNyaWZpY2luZyBtb2R1bGFyaXR5IQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SXQgaXMgcG9zc2libGUgZm9yIHRoZSBzYW1lIGZpbGUgdG8gYmUgdXNlZCBhcyBib3RoIGEgbW9kdWxlIGFuZCBhIHNjcmlwdC4KCkFkZCB0aGUgY29kZSBiZWxvdyB0byBgc2F5LnB5YDoKYGBgcHl0aG9uCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBoZWxsbygpCmBgYApOb3cgcnVubmluZyBgc2F5LnB5YCBpbiBhIHNoZWxsIHdpbGwgYWxzbyBwcmludCAiSGVsbG8gV29ybGQiLgoKVGhlIGRpZmZlcmVuY2UgaXMgdGhhdCB3ZSBjYW4gaW1wb3J0IHRoZSBgaGVsbG9gIGZ1bmN0aW9uIGZyb20gYHNheS5weWAsIGJ1dCBub3QgYGdyZWV0LnB5YC4KClRoaXMgYXBwcm9hY2ggd29ya3MgYmVzdCB3aGVuIHdlIG9ubHkgd2FudCB0byBjYWxsIG9uZSBmdW5jdGlvbiBmcm9tIGEgbW9kdWxlLgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>1. Create a copy of `say.py` called `__main__.py` 
-2. Go up one level in your folder system
-3. Run the project
-
-```bash
-cp say.py __main__.py
-cd ..
-python my_project
-```
-
-You can zip the whole project and run it:
-```bash
-python -m zipfile -c my_project.zip my_project/*
-python my_project.zip
-```
-
-The convenience of a single file without sacrificing modularity!</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CjEuIENyZWF0ZSBhIGBfX21haW5fXy5weWAgZmlsZSBpbiBhIGRpcmVjdG9yeSBjYWxsZWQgYG15X3Byb2plY3RgCjIuIEluY2x1ZGUgY29kZSBpbiB0aGUgZmlsZSwgZS5nLiBgcHJpbnQoIlRoaXMgaXMgbXkgcHJvamVjdCEiKWAKMy4gUnVuIGBweXRob24gbXlfcHJvamVjdGAKClNvbWUgYWR2YW50YWdlcyBvZiB0aGlzIGFyZToKWW91IGNhbiB6aXAgdGhlIHdob2xlIHByb2plY3QgYW5kIHN0aWxsIHJ1biBgX19tYWluX18ucHlgCmBgYGJhc2gKcHl0aG9uIC1tIHppcGZpbGUgLWMgbXlfcHJvamVjdC56aXAgbXlfcHJvamVjdC8qCnB5dGhvbiBteV9wcm9qZWN0LnppcApgYGAKCkNvbnZlbmllbmNlIG9mIGEgc2luZ2xlIGZpbGUgd2l0aG91dCBzYWNyaWZpY2luZyBtb2R1bGFyaXR5IQoKCkZvciBleGFtcGxlLCBldmVyeSBzY3JpcHQgdGhhdCBwcm9kdWNlcyBhIGZpbGUgbWlnaHQgaW5jbHVkZQpgYGBweXRob24Kd2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGY6CiAgICBmLndyaXRlKGNvbnRlbnRzKQpgYGAKCldyaXRpbmcgYW5kIGltcG9ydGluZyBtb2R1bGVzIGNhbiBiZSBhcyBlYXN5IGFzIDEsIDIsIDMhCgoxLiBXcml0ZSBhIGZ1bmN0aW9uIG5hbWVkIGB0b19maWxlYCB0aGF0IHNhdmVzIGEgUHl0aG9uIG9iamVjdCB0byBhIGZpbGU6CmBgYHB5dGhvbgpkZWYgdG9fZmlsZShmaWxlbmFtZSwgY29udGVudHMpOgogICAgICAgd2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGY6CiAgICAgICAgICAgZi53cml0ZShjb250ZW50cykKYGBgCjIuIFNhdmUgdGhlIGZ1bmN0aW9uIGluIGEgZmlsZSBjYWxsZWQgYG15X21vZHVsZS5weWAuCjMuIEltcG9ydCB0aGUgYHRvX2ZpbGVgIGZ1bmN0aW9uIGludG8gZXZlcnkgc2NyaXB0IHRoYXQgcHJvZHVjZXMgYSBmaWxlOgpgYGBweXRob24KaW1wb3J0IG15X21vZHVsZQphbnN3ZXIgPSAiVGhlIGFuc3dlciB0byBsaWZlIGlzIDQyLiIKbXlfbW9kdWxlLnRvX2ZpbGUoJ2Fuc3dlci50eHQnLCBhbnN3ZXIpCmBgYAo=</text>
+        <text encoding="base64">IyMgUnVubmluZyBzY3JpcHRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWRkIHRoZSBuYW1lID09IG1haW4gY2hlY2sgdG8gYHNheS5weQo=</text>
+        <text encoding="base64">UmlnaHQgbm93LCBydW5uaW5nIGBncmVldC5weWAgd2lsbCBoYXZlIG5vIGVmZmVjdC4gCgpUbyBwcmludCAiSGVsbG8gV29ybGQiLAoKMS4gQWRkIGEgZnVuY3Rpb24gY2FsbCB0byBgZ3JlZXQucHlgOgpgYGBweXRob24KaW1wb3J0IHNheQpzYXkuaGVsbG8oKQpgYGAKCjIuIFJ1biB0aGUgYGdyZWV0LnB5YCBzY3JpcHQgaW4gYSBzaGVsbDogCmBgYGJhc2gKcHl0aG9uIGdyZWV0LnB5CmBgYAoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">UnVubmluZyBtb2R1bGVzIGFzIHNjcmlwdHMK</text>
+      <register name="7" type="4">
+        <text>Inside of a directory called `my_project`, create 2 Python code files:
+
+1. A module named `say.py`, which uses the `def` statement to define a function called `hello`:
+```python
+def hello():
+    print(&quot;Hello World!&quot;)
+```
+
+2. A script named `greet.py`, which uses the `import` statement to import the `say` module:
+```python
+import say
+```</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>Scripts
+- are plain-text files that
+- have `.py` extensions and
+- contain Python code.
+
+Scripts in data science projects are typically run in a particular order.
+
+This order can visualized as a diagram called a directed acyclic graph (DAG). 
+
+![](https://ndownloader.figshare.com/files/13168322/preview/13168322/preview.jpg)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgVGhlIFJldXNhYmlsaXR5IFByaW5jaXBsZQoKV2hpbGUgd29ya2luZyBvbiBhIHByb2plY3QsIHlvdSBtYXkgbm90aWNlIGNvbW1vbiBwYXR0ZXJucy4KCkZvciBleGFtcGxlLCBldmVyeSBzY3JpcHQgdGhhdCBwcm9kdWNlcyBhIGZpbGUgbWlnaHQgaW5jbHVkZQpgYGBweXRob24Kd2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGY6CiAgICBmLndyaXRlKGNvbnRlbnRzKQpgYGAKCkRvbid0IHJlcGVhdCBjb2RlISBSZXVzZSBpdCEKCkluIGEgbW9ub2xpdGhpYyBmaWxlLCB3ZSBjb3VsZCBkZWZpbmUgYSBmdW5jdGlvbiBhbmQgdXNlIGl0IHRocm91Z2hvdXQgdGhlIGZpbGUuCgpEZWZpbmluZyB0aGUgc2FtZSBmdW5jdGlvbiBpbiBtdWx0aXBsZSBzY3JpcHRzIHdvdWxkIGJlIHJlcGV0aXRpdmUuCgpJbnN0ZWFkLCB3ZSB3aWxsIHNhdmUgb3VyIGZ1bmN0aW9uIGRlZmluaXRpb24gaW4gYSBQeXRob24gY29kZSBmaWxlIGNhbGxlZCBhIG1vZHVsZS4K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -1629,7 +1632,7 @@ The convenience of a single file without sacrificing modularity!</text>
       <last-replace>obtain</last-replace>
       <last-substitute encoding="base64">XDxnZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1655,7 +1658,6 @@ The convenience of a single file without sacrificing modularity!</text>
         <entry>def</entry>
       </history-search>
       <history-cmd>
-        <entry>%s///gc</entry>
         <entry>%s//clean\ndata/g</entry>
         <entry>%s//process/g</entry>
         <entry>%s//obtain/g</entry>
@@ -1675,6 +1677,7 @@ The convenience of a single file without sacrificing modularity!</text>
         <entry>action Move</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
