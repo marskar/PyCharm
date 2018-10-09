@@ -124,11 +124,11 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/my_project/__main__.py" timestamp="1539033434868">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="10" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/my_project/__main__.py" timestamp="1539046943955">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538259806021">
         <mark key="'" line="24" column="36" />
@@ -649,7 +649,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539045898254">
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539047099360">
         <mark key="'" line="134" column="129" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="7" />
@@ -1602,13 +1602,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, __hello__</text>
       </register>
       <register name="/" type="4">
         <text>{{.}}</text>
       </register>
-      <register name="0" type="4">
-        <text>get_ipython().run_line_magic</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGdyZWV0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
