@@ -594,7 +594,7 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539117406877">
+      <file name="/Dummy.txt" timestamp="1539120541660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -1638,7 +1638,7 @@
         <text encoding="base64">TW9kdWxlcyBhbmQgc2NyaXB0cyBhcmUgUHl0aG9uIGNvZGUgZmlsZXMgd2l0aCAucHkgZXh0ZW5zaW9ucy4KVGhleSBkaWZmZXIgb25seSBpbiBob3cgYW5kIHdoeSB0aGV5IGFyZSB1c2VkLgpNb2R1bGVzIGFyZSBpbXBvcnRlZCB0byBkZWZpbmUgZnVuY3Rpb25zIChhbmQgb3RoZXIgUHl0aG9uIG9iamVjdHMpLAp3aGlsZSBzY3JpcHRzIGFyZSBydW4gdG8gcGVyZm9ybSBhY3Rpb25zICh0eXBpY2FsbHkgYnkgY2FsbGluZyBmdW5jdGlvbnMpLgoKIyMjIEluIG90aGVyIHdvcmRzLi4uCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action JumpToLastChange</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1687,13 +1687,13 @@
         <entry>action Synchronize</entry>
         <entry>action NewDirectoryProject</entry>
         <entry>action Move</entry>
-        <entry>action CloseProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>nohlsearch</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>%s/{{.}}//g</entry>
         <entry>action JumpToLastChange</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
