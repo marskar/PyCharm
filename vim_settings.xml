@@ -594,7 +594,7 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539045440192">
+      <file name="/Dummy.txt" timestamp="1539047933499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -649,12 +649,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539047099360">
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539047919162">
         <mark key="'" line="134" column="129" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="7" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
         <mark key="^" line="106" column="7" />
-        <mark key="." line="106" column="7" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
         <mark key="'" line="21" column="25" />
@@ -1611,24 +1611,30 @@
         <text encoding="base64">aW1wb3J0IGdyZWV0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjEuIE1ha2UgYSBkaXJlY3RvcnkgKGBta2RpcmApIGNhbGxlZCBgbXlfcHJvamVjdGAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">SW4gYWRkaXRpb24gdG8gcnVubmluZyBhIG1vZHVsZSBhcyBhIHNjcmlwdCwgd2UgY2FuIGFsc28gcnVuIGFuIGVudGlyZSBwcm9qZWN0LgoKVGhpcyByZXF1aXJlcyB0aGF0IHRoZSBwcm9qZWN0IGNvbnRhaW4gYSB0b3AtbGV2ZWwgc2NyaXB0IGNhbGxlZCBgX19tYWluX18ucHlgLiAKClRoZSBgX19tYWluX18ucHlgIHNjcmlwdCBjYW4gIAotIGV4ZWN1dGUgYWxsIG9mIHRoZSBjb2RlIGluIHRoZSBwcm9qZWN0IHNpbXBseSBieSBpbXBvcnRpbmcgZWFjaCBzY3JpcHQsIAotIGFjY2VwdCBpbnB1dCBmcm9tIHRoZSB1c2VyLCBhbmQgCi0gd29yayBldmVuIGlmIHRoZSBwcm9qZWN0IGlzIHR1cm5lZCBpbnRvIGEgemlwIGZpbGUsIGUuZy4gYG15X3Byb2plY3QuemlwYC4gCgpBIGdyZWF0IGV4YW1wbGUgb2YgaG93IHdlIGNhbiBlbmpveSB0aGUgY29udmVuaWVuY2Ugb2YgaW5jbHVkaW5nIGV2ZXJ5dGhpbmcgaW4gYSBzaW5nbGUgZmlsZSB3aXRob3V0IHNhY3JpZmljaW5nIG1vZHVsYXJpdHkhIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgUnVubmluZyBNb2R1bGVzIGFzIFNjcmlwdHMKCkl0IGlzIHBvc3NpYmxlIGZvciB0aGUgc2FtZSBmaWxlIHRvIGJlIHVzZWQgYXMgYm90aCBhIG1vZHVsZSBhbmQgYSBzY3JpcHQuCgpUbyBkZW1vbnN0cmF0ZSB0aGlzLCBhZGQgdGhlIGNvZGUgYmVsb3cgdG8gdGhlIGVuZCBvZiBgc2F5LnB5YDogCmBgYHB5dGhvbgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgaGVsbG8oKQpgYGAKCgpUaGUgY29kZSBhYm92ZSBjYWxscyB0aGUgYGhlbGxvYCBmdW5jdGlvbiBvbmx5IHdoZW4gYHNheWAgaXMgcnVuIGFzIGEgc2NyaXB0LiAKClRoZSBgaWZgIHN0YXRlbWVudCBwcmV2ZW50cyBgaGVsbG9gIGZyb20gYmVpbmcgY2FsbGVkIHdoZW4gYHNheWAgaXMgaW1wb3J0ZWQuIAoKQWRkaW5nIGBoZWxsbygpYCB0byBgc2F5LnB5YCB3aXRob3V0IHRoZSBgaWZgIHN0YXRlbWVudCwgd291bGQgbWFrZSBgZ3JlZXQucHlgIHByaW50IGBIZWxsbyBXb3JsZCFgIHR3aWNlLCAKYmVjYXVzZSBtb2R1bGVzIGFuZCBzY3JpcHRzIGFyZSBleGVjdXRlZCBpbW1lZGlhdGVseSB1cG9uIGltcG9ydCEgCgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fCBGaWxldHlwZSB8IFVzZSAgICB8IEFjdGlvbiAgICAgICAgICAgfAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">SW4gYWRkaXRpb24gdG8gcnVubmluZyBhIG1vZHVsZSBhcyBhIHNjcmlwdCwgd2UgY2FuIGFsc28gcnVuIGFuIGVudGlyZSBwcm9qZWN0LgoKVGhpcyByZXF1aXJlcyB0aGF0IHRoZSBwcm9qZWN0IGNvbnRhaW4gYSB0b3AtbGV2ZWwgc2NyaXB0IGNhbGxlZCBgX19tYWluX18ucHlgLiAKClRoZSBgX19tYWluX18ucHlgIHNjcmlwdCBjYW4gIAotIGV4ZWN1dGUgYWxsIG9mIHRoZSBjb2RlIGluIHRoZSBwcm9qZWN0IHNpbXBseSBieSBpbXBvcnRpbmcgZWFjaCBzY3JpcHQsIAotIGFjY2VwdCBpbnB1dCBmcm9tIHRoZSB1c2VyLCBhbmQgCi0gd29yayBldmVuIGlmIHRoZSBwcm9qZWN0IGlzIHR1cm5lZCBpbnRvIGEgemlwIGZpbGUsIGUuZy4gYG15X3Byb2plY3QuemlwYC4gCgpBIGdyZWF0IGV4YW1wbGUgb2YgaG93IHdlIGNhbiBlbmpveSB0aGUgY29udmVuaWVuY2Ugb2YgaW5jbHVkaW5nIGV2ZXJ5dGhpbmcgaW4gYSBzaW5nbGUgZmlsZSB3aXRob3V0IHNhY3JpZmljaW5nIG1vZHVsYXJpdHkhIA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyMgUnVubmluZyBNb2R1bGVzIGFzIFNjcmlwdHMKCkl0IGlzIHBvc3NpYmxlIGZvciB0aGUgc2FtZSBmaWxlIHRvIGJlIHVzZWQgYXMgYm90aCBhIG1vZHVsZSBhbmQgYSBzY3JpcHQuCgpUbyBkZW1vbnN0cmF0ZSB0aGlzLCBhZGQgdGhlIGNvZGUgYmVsb3cgdG8gdGhlIGVuZCBvZiBgc2F5LnB5YDogCmBgYHB5dGhvbgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgaGVsbG8oKQpgYGAKCgpUaGUgY29kZSBhYm92ZSBjYWxscyB0aGUgYGhlbGxvYCBmdW5jdGlvbiBvbmx5IHdoZW4gYHNheWAgaXMgcnVuIGFzIGEgc2NyaXB0LiAKClRoZSBgaWZgIHN0YXRlbWVudCBwcmV2ZW50cyBgaGVsbG9gIGZyb20gYmVpbmcgY2FsbGVkIHdoZW4gYHNheWAgaXMgaW1wb3J0ZWQuIAoKQWRkaW5nIGBoZWxsbygpYCB0byBgc2F5LnB5YCB3aXRob3V0IHRoZSBgaWZgIHN0YXRlbWVudCwgd291bGQgbWFrZSBgZ3JlZXQucHlgIHByaW50IGBIZWxsbyBXb3JsZCFgIHR3aWNlLCAKYmVjYXVzZSBtb2R1bGVzIGFuZCBzY3JpcHRzIGFyZSBleGVjdXRlZCBpbW1lZGlhdGVseSB1cG9uIGltcG9ydCEgCgo=</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">fCBGaWxldHlwZSB8IFVzZSAgICB8IEFjdGlvbiAgICAgICAgICAgfAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IyMgUnVubmluZyBTY3JpcHRzCgpTY3JpcHRzIGluIGRhdGEgc2NpZW5jZSBwcm9qZWN0cyBhcmUgdHlwaWNhbGx5IHJ1biBpbiBhIHBhcnRpY3VsYXIgb3JkZXIuCgpUaGlzIG9yZGVyIGNhbiBiZSB2aXN1YWxpemVkIGFzIGEgZGlhZ3JhbSBjYWxsZWQgYSBkaXJlY3RlZCBhY3ljbGljIGdyYXBoIChEQUcpLiAKCiFbXShodHRwczovL2Fzc2V0cy5kYXRhY2FtcC5jb20vcHJvZHVjdGlvbi9yZXBvc2l0b3JpZXMvMzY4Ny9kYXRhc2V0cy8zZDRmZGIzN2QwOTI0YTA1YWI3NWZjYzc4NmRjNTkwYjMzZGJiZjRiL3NpbXBsZV9kYWcucG5nKSAKCkVhY2ggc2NyaXB0IAotIGhhbmRsZXMgb25lIGFuZCBvbmx5IG9uZSBzdGVwIGluIHRoZSBwcm9jZXNzIAotIGltcG9ydHMgdGhlIHRvb2xzIGl0IG5lZWRzIGZyb20gbW9kdWxlcyB0aGF0IGFyZSBpbmNsdWRlZCBpbiB0aGUgcHJvamVjdC4gCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>Scripts and modules
 - are plain-text files that
 - have `.py` extensions and
@@ -1640,12 +1646,6 @@ Scripts and modules differ in how and why they are used.
 |----------|--------|------------------|
 | Script   | Run    | Perform actions  |
 | Module   | Import | Define objects   |</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">VGhlIGNvbnZlbmllbmNlIG9mIGEgc2luZ2xlIGZpbGUgd2l0aG91dCBzYWNyaWZpY2luZyBtb2R1bGFyaXR5IQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">SXQgaXMgcG9zc2libGUgZm9yIHRoZSBzYW1lIGZpbGUgdG8gYmUgdXNlZCBhcyBib3RoIGEgbW9kdWxlIGFuZCBhIHNjcmlwdC4KClRvIGRlbW9uc3RyYXRlIHRoaXMsIGFkZCB0aGUgY29kZSBiZWxvdyB0byB0aGUgZW5kIG9mIGBzYXkucHlgOgpgYGBweXRob24KaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGhlbGxvKCkKYGBgCgpUaGUgY29kZSBhYm92ZSBjYWxscyB0aGUgYGhlbGxvYCBmdW5jdGlvbiBvbmx5IHdoZW4gYHNheWAgaXMgcnVuIGFzIGEgc2NyaXB0LiAKClRoZSBgaWZgIHN0YXRlbWVudCBwcmV2ZW50cyBgaGVsbG9gIGZyb20gYmVpbmcgY2FsbGVkIHdoZW4gYHNheWAgaXMgaW1wb3J0ZWQgYXMgYSBtb2R1bGUuCgpBZGRpbmcgYGhlbGxvKClgIHRvIGBzYXkucHlgIHdpdGhvdXQgdGhlIGBpZmAgc3RhdGVtZW50LCB3b3VsZCBtYWtlIGBncmVldC5weWAgcHJpbnQgYEhlbGxvIFdvcmxkIWAgdHdpY2UhLiA=</text>
       </register>
       <register name=":" type="4">
         <text>%s/{{.}}//g</text>
