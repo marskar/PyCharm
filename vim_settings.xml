@@ -582,11 +582,11 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/github/my_proj/greet.py" timestamp="1539295555791">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
+      <file name="$USER_HOME$/github/my_proj/greet.py" timestamp="1539299796704">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1539295470819">
         <mark key="[" line="0" column="0" />
@@ -918,11 +918,6 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
-      </file>
-      <file name="/Python Console" timestamp="1539290303387">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
@@ -1594,7 +1589,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TW9kdWxlcyBhbmQgc2NyaXB0cyBhcmUgUHl0aG9uIGNvZGUgZmlsZXMgd2l0aCAucHkg</text>
+        <text>%%</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3dcPg==</text>
