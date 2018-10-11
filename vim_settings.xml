@@ -649,12 +649,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539288778275">
-        <mark key="'" line="217" column="171" />
-        <mark key="[" line="206" column="135" />
-        <mark key="]" line="207" column="0" />
-        <mark key="^" line="207" column="0" />
-        <mark key="." line="207" column="0" />
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539290607447">
+        <mark key="'" line="213" column="19" />
+        <mark key="[" line="110" column="51" />
+        <mark key="]" line="110" column="55" />
+        <mark key="^" line="110" column="55" />
+        <mark key="." line="110" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
         <mark key="'" line="21" column="25" />
@@ -922,6 +922,11 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
+      </file>
+      <file name="/Python Console" timestamp="1539290303387">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
@@ -1427,7 +1432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="17" column="6" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1527,6 +1531,7 @@
       <jump line="229" column="48" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="186" column="2" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="217" column="171" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="213" column="19" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1602,10 +1607,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">TW9kdWxlcyBhbmQgc2NyaXB0cyBhcmUgUHl0aG9uIGNvZGUgZmlsZXMgd2l0aCAucHkg</text>
       </register>
       <register name="/" type="4">
-        <text>tl</text>
+        <text encoding="base64">XDxob3dcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIHRsO2RyCg==</text>
@@ -1638,21 +1643,20 @@
         <text encoding="base64">IyMjIEluIG90aGVyIHdvcmRzLi4uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action RenameFile</text>
       </register>
     </registers>
     <search>
-      <last-search>tl</last-search>
+      <last-search encoding="base64">XDxob3dcPg==</last-search>
       <last-offset />
-      <last-pattern>tl</last-pattern>
+      <last-pattern encoding="base64">XDxob3dcPg==</last-pattern>
       <last-replace />
       <last-substitute>{{.}}</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>csv</entry>
         <entry>get_data.py</entry>
         <entry>clean_data.py</entry>
         <entry>model.py</entry>
@@ -1672,11 +1676,10 @@
         <entry>{{.}}</entry>
         <entry>in o</entry>
         <entry>tl</entry>
+        <entry encoding="base64">XDxob3dcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action RenameElement</entry>
         <entry>action ActivateSciViewToolWindow</entry>
-        <entry>action RenameFile</entry>
         <entry>action ActivateDatabaseToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action JumpToLastWindow</entry>
@@ -1685,21 +1688,23 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action Synchronize</entry>
-        <entry>action NewDirectoryProject</entry>
         <entry>action Move</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>nohlsearch</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>%s/{{.}}//g</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action CloseProject</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action NewDirectoryProject</entry>
+        <entry>action RenameFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1732,10 +1737,10 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1752,6 +1757,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
