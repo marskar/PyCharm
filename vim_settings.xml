@@ -1643,7 +1643,7 @@
         <text encoding="base64">IyMjIEluIG90aGVyIHdvcmRzLi4uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivatePythonConsoleToolWindow</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1693,12 +1693,12 @@
         <entry>nohlsearch</entry>
         <entry>%s/{{.}}//g</entry>
         <entry>action JumpToLastChange</entry>
-        <entry>action CloseProject</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action NewDirectoryProject</entry>
         <entry>action RenameFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
