@@ -649,12 +649,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539117392240">
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539288778275">
         <mark key="'" line="217" column="171" />
-        <mark key="[" line="217" column="170" />
-        <mark key="]" line="217" column="171" />
-        <mark key="^" line="235" column="0" />
-        <mark key="." line="217" column="170" />
+        <mark key="[" line="206" column="135" />
+        <mark key="]" line="207" column="0" />
+        <mark key="^" line="207" column="0" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
         <mark key="'" line="21" column="25" />
@@ -1611,31 +1611,31 @@
         <text encoding="base64">IyMjIHRsO2RyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CjEuIE1ha2UgYSBkaXJlY3RvcnkgKGBta2RpcmApIGNhbGxlZCBgbXlfcHJvamVjdGAKMi4gQ3JlYXRlIGEgZmlsZSBjYWxsZWQgYF9fbWFpbl9fLnB5YCB3aXRoIHRoZSBjb250ZW50cyBgaW1wb3J0IGdyZWV0YAozLiBNb3ZlIChgbXZgKSBgX19tYWluX18ucHlgLCBgc2F5LnB5YCwgYW5kIGBncmVldC5weWAgaW50byBgbXlfcHJvamVjdGAKNC4gUnVuIHRoZSBwcm9qZWN0IGxpa2UgeW91IHdvdWxkIHJ1biBhIHNjcmlwdA==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">CjEuIE1ha2UgYSBkaXJlY3RvcnkgKGBta2RpcmApIGNhbGxlZCBgbXlfcHJvamVjdGAKMi4gQ3JlYXRlIGEgZmlsZSBjYWxsZWQgYF9fbWFpbl9fLnB5YCB3aXRoIHRoZSBjb250ZW50cyBgaW1wb3J0IGdyZWV0YAozLiBNb3ZlIChgbXZgKSBgX19tYWluX18ucHlgLCBgc2F5LnB5YCwgYW5kIGBncmVldC5weWAgaW50byBgbXlfcHJvamVjdGAKNC4gUnVuIHRoZSBwcm9qZWN0IGxpa2UgeW91IHdvdWxkIHJ1biBhIHNjcmlwdA==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">SSBkbyBub3QgaW5jbHVkZSB0aGUgLnB5IGV4dGVuc2lvbiB3aGVuIHJlZmVycmluZyB0byBtb2R1bGVzIGFuZCBzY3JpcHRzLCBub3IgZG8gSSBpbmNsdWRlIHBhcmVudGhlc2VzIHdoZW4gcmVmZXJyaW5nIHRvIGZ1bmN0aW9ucy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">SSBkbyBub3QgaW5jbHVkZSB0aGUgLnB5IGV4dGVuc2lvbiB3aGVuIHJlZmVycmluZyB0byBtb2R1bGVzIGFuZCBzY3JpcHRzLCBub3IgZG8gSSBpbmNsdWRlIHBhcmVudGhlc2VzIHdoZW4gcmVmZXJyaW5nIHRvIGZ1bmN0aW9ucy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SSBkbyBub3QgaW5jbHVkZSB0aGUgLnB5IGV4dGVuc2lvbiB3aGVuIHJlZmVycmluZyB0byBtb2R1bGVzIGFuZCBzY3JpcHRzLCBub3IgZG8gSSBpbmNsdWRlIHBhcmVudGhlc2VzIHdoZW4gcmVmZXJyaW5nIHRvIGZ1bmN0aW9ucy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIEluIG90aGVyIHdvcmRzLi4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TW9kdWxlcyBhbmQgc2NyaXB0cyBhcmUgUHl0aG9uIGNvZGUgZmlsZXMgd2l0aCAucHkgZXh0ZW5zaW9ucy4KVGhleSBkaWZmZXIgb25seSBpbiBob3cgYW5kIHdoeSB0aGV5IGFyZSB1c2VkLgpNb2R1bGVzIGFyZSBpbXBvcnRlZCB0byBkZWZpbmUgZnVuY3Rpb25zIChhbmQgb3RoZXIgUHl0aG9uIG9iamVjdHMpLAp3aGlsZSBzY3JpcHRzIGFyZSBydW4gdG8gcGVyZm9ybSBhY3Rpb25zICh0eXBpY2FsbHkgYnkgY2FsbGluZyBmdW5jdGlvbnMpLgoKIyMjIEluIG90aGVyIHdvcmRzLi4uCgo=</text>
+        <text encoding="base64">IyMjIEluIG90aGVyIHdvcmRzLi4uCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
@@ -1648,7 +1648,7 @@
       <last-replace />
       <last-substitute>{{.}}</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
