@@ -842,6 +842,13 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="19" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-04/plot.py" timestamp="1539299965151">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="8" />
+      </file>
       <file name="$USER_HOME$/github/mnist/mnist-analysis/__init__.py" timestamp="1538232664047">
         <mark key="[" line="2" column="44" />
         <mark key="]" line="3" column="0" />
@@ -1414,8 +1421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="17" column="6" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="37" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="44" column="18" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1514,6 +1519,8 @@
       <jump line="186" column="2" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="217" column="171" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="213" column="19" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
+      <jump line="12" column="8" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/plot.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/plot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1589,7 +1596,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>%%</text>
+        <text>cosin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3dcPg==</text>
