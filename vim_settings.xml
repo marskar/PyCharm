@@ -588,7 +588,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539638153920">
+      <file name="/Dummy.txt" timestamp="1540067196729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -926,7 +926,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1539638151331">
+      <file name="/Python Console" timestamp="1540067193512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
@@ -1034,6 +1034,12 @@
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" timestamp="1540067267797">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/hybrid.py" timestamp="1538448788171">
         <mark key="'" line="0" column="12" />
@@ -1599,7 +1605,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cosin</text>
+        <text>eight_ball</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3dcPg==</text>
