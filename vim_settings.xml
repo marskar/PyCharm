@@ -811,6 +811,13 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" timestamp="1540074679877">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/github/f2m/f2m/__init__.py" timestamp="1538023474299">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -925,9 +932,6 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
-      </file>
-      <file name="/Python Console" timestamp="1540069946174">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
@@ -1431,8 +1435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="87" column="49" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="95" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="97" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="89" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1531,6 +1533,8 @@
       <jump line="18" column="24" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
+      <jump line="4" column="11" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1586,47 +1590,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzLnGludGVnZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aWYK</text>
+      <register name="0" type="4">
+        <text>&quot;Input must be an int between 1 and 8&quot;</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbl9vdXQgPSB7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>[]</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>1,8</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">bWFnaWM4KGludChpbnB1dCgiVGhlIG1hZ2ljIGVpZ2h0IGJhbGwgYXdhaXRzIHlvdXIgcXVlc3Rpb24gc2ltcGxlIGh1bWFuLi4uIikpKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHggPSByYW5kb20ucmFuZGludCgxLCA4KQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICA4OiAicGVyaGFwcyA7LCIpCg==</text>
-      </register>
-      <register name="8" type="8">
-        <text>print(
-print(
-print(
-print(
-print(
-print(
-print(
-print(</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIA==</text>
       </register>
       <register name=":" type="4">
         <text>action Move</text>
