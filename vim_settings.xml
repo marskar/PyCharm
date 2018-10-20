@@ -591,7 +591,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540070494594">
+      <file name="/Dummy.txt" timestamp="1540076174525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -935,6 +935,9 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="7" />
+      </file>
+      <file name="/Python Console" timestamp="1540076172274">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
         <mark key="[" line="3" column="0" />
@@ -1362,12 +1365,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540075424377">
-        <mark key="'" line="15" column="67" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="3" column="14" />
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540076207771">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/slide.css" timestamp="1538078226106">
         <mark key="[" line="0" column="0" />
@@ -1544,10 +1547,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
       <jump line="35" column="36" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
       <jump line="10" column="8" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
-      <jump line="3" column="14" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="4" column="13" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="13" column="8" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="15" column="67" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="3" column="19" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1603,13 +1606,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>dict</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJNYWdpYyA4IGJhbGwgYWNjZXB0aW5nIGFuIGludCBhbmQgcmV0dXJuaW5nIHNvbWUgcG9zdHVsYXRpb25zIiIiCg==</text>
+        <text encoding="base64">ZGVmIG1hZ2ljX2VpZ2h0X2RpY3QoaW50ZWdlcik6CiAgICAiIiJNYWdpYyA4IGJhbGwgYWNjZXB0aW5nIGFuIGludCBhbmQgcmV0dXJuaW5nIHNvbWUgcG9zdHVsYXRpb25zIiIiCiAgICBpbl9vdXQgPSB7CiAgICAgICAgMTogIlN0cmFpZ2h0IHVwLCBub3BlIiwKICAgICAgICAyOiAiSSB3b3VsZG4ndCBwdXQgbW9uZXkgb24gaXQiLAogICAgICAgIDM6ICJZQVNTIiwKICAgICAgICA0OiAiSSdtIHNvcnJ5LCBJIHdhc24ndCBsaXN0ZW5pbmcuLi4iLAogICAgICAgIDU6ICJBcmUgeW91IHJlYWxseSBhc2tpbmcgTUUgdGhhdCBraW5kIG9mIHF1ZXN0aW9uIT8iLAogICAgICAgIDY6ICIuLi4iLAogICAgICAgIDc6ICJObyIsCiAgICAgICAgODogIlBlcmhhcHMiCiAgICB9CiAgICByZXR1cm4gaW5fb3V0LmdldChpbnRlZ2VyLCAiSW5wdXQgbXVzdCBiZSBhbiBpbnQgYmV0d2VlbiAxIGFuZCA4IikKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
@@ -1649,7 +1652,7 @@
       <last-replace />
       <last-substitute>{{.}}</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
