@@ -51,6 +51,9 @@
         <mark key="." line="61" column="59" />
         <mark key="^" line="61" column="59" />
       </file>
+      <file name="/a.dummy" timestamp="1540075390061">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/assignment.py" timestamp="1537500311622">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="41" column="2" />
@@ -811,12 +814,12 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" timestamp="1540074679877">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="3" column="22" />
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" timestamp="1540075380618">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="58" />
+        <mark key="." line="4" column="58" />
+        <mark key="^" line="4" column="58" />
       </file>
       <file name="$USER_HOME$/github/f2m/f2m/__init__.py" timestamp="1538023474299">
         <mark key="[" line="0" column="8" />
@@ -1312,6 +1315,9 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="/m8" timestamp="1540075321185">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/pype/pipeline.py" timestamp="1538239147909">
         <mark key="'" line="5" column="79" />
         <mark key="[" line="10" column="20" />
@@ -1355,6 +1361,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540075424377">
+        <mark key="'" line="15" column="67" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/slide.css" timestamp="1538078226106">
         <mark key="[" line="0" column="0" />
@@ -1435,22 +1448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="97" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="89" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="96" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="108" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="107" column="45" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="9" column="17" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="33" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="13" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="14" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="27" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="52" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="57" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="21" column="13" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" />
       <jump line="12" column="0" filename="$USER_HOME$/Downloads/output_python3.py" />
       <jump line="8" column="19" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="11" column="17" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1534,7 +1531,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="4" column="11" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="14" column="5" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="36" column="22" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="13" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="16" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="22" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="25" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="28" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="31" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="3" column="24" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="35" column="36" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="3" column="14" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="4" column="13" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="15" column="67" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1590,49 +1603,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>integer</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzLnGludGVnZXJcPg==</text>
+        <text>8</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Input must be an int between 1 and 8&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAiIiJNYWdpYyA4IGJhbGwgYWNjZXB0aW5nIGFuIGludCBhbmQgcmV0dXJuaW5nIHNvbWUgcG9zdHVsYXRpb25zIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbl9vdXQgPSB7Cg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>[]</text>
+      <register name="3" type="2">
+        <text encoding="base64">cmV0dXJuIGluX291dC5nZXQoaW50ZWdlciwgIklucHV0IG11c3QgYmUgYW4gaW50IGJldHdlZW4gMSBhbmQgOCIpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>1,8</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDE6ICJTdHJhaWdodCB1cCwgbm9wZSIsCiAgICAyOiAiSSB3b3VsZG4ndCBwdXQgbW9uZXkgb24gaXQiLAogICAgMzogIllBU1MiLAogICAgNDogIkknbSBzb3JyeSwgSSB3YXNuJ3QgbGlzdGVuaW5nLi4uIiwKICAgIDU6ICJBcmUgeW91IHJlYWxseSBhc2tpbmcgTUUgdGhhdCBraW5kIG9mIHF1ZXN0aW9uIT8iLAogICAgNjogIi4uLiIsCiAgICA3OiAiTm8iLAogICAgODogIlBlcmhhcHMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWFnaWM4KGludChpbnB1dCgiVGhlIG1hZ2ljIGVpZ2h0IGJhbGwgYXdhaXRzIHlvdXIgcXVlc3Rpb24gc2ltcGxlIGh1bWFuLi4uIikpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHggPSByYW5kb20ucmFuZGludCgxLCA4KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA4OiAicGVyaGFwcyA7LCIpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbl9vdXQgPSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>[]</text>
+      </register>
+      <register name="9" type="4">
+        <text>1,8</text>
       </register>
       <register name=":" type="4">
-        <text>action Move</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzLnGludGVnZXJcPg==</last-search>
+      <last-search>8</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzLnGludGVnZXJcPg==</last-pattern>
+      <last-pattern>8</last-pattern>
       <last-replace />
       <last-substitute>{{.}}</last-substitute>
       <last-dir>1</last-dir>
@@ -1640,9 +1653,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjXD4=</entry>
-        <entry>.py</entry>
-        <entry>d</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjbGVhblw+</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
@@ -1660,6 +1670,9 @@
         <entry encoding="base64">XDwsXD4=</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDzLnGludGVnZXJcPg==</entry>
+        <entry encoding="base64">XDw6XD4=</entry>
+        <entry>:</entry>
+        <entry>8</entry>
       </history-search>
       <history-cmd>
         <entry>action ActivateSciViewToolWindow</entry>
@@ -1675,13 +1688,13 @@
         <entry>action JumpToLastChange</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action NewDirectoryProject</entry>
-        <entry>action RenameFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action CloseProject</entry>
         <entry>action Move</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action RenameFile</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
