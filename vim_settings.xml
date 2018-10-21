@@ -1364,12 +1364,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540144956799">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540146295344">
+        <mark key="'" line="88" column="40" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="83" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/slide.css" timestamp="1538078226106">
         <mark key="[" line="0" column="0" />
@@ -1458,15 +1458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="72" column="39" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="74" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="75" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="77" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="79" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="81" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="85" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="103" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="105" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="114" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="116" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1540,13 +1531,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" />
       <jump line="47" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="65" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="16" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="30" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="9" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="64" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="61" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
@@ -1554,10 +1543,21 @@
       <jump line="31" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="49" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="21" column="25" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="22" column="51" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="40" column="10" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="55" column="10" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="58" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="8" column="15" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="86" column="51" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="7" column="33" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="88" column="40" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1612,43 +1612,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;Input must be an int between 1 and 8&quot;</text>
+        <text>random.randint(1, 8)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">cmFuZG9tLnJhbmRpbnQoMSwgOCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHByaW50KCJwZXJoYXBzIDspIikK</text>
+        <text encoding="base64">bWFnaWNfZWlnaHRfZGljdChyYW5kb20ucmFuZGludCgxLCA4KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgeCA9IHJhbmRvbS5yYW5kaW50KDEsOCkK</text>
+        <text encoding="base64">bWFnaWNfZWlnaHRfZGljdF9jb21wKHJhbmRvbS5yYW5kaW50KDEsIDgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWFnaWNfZWlnaHQocmFuZG9tLnJhbmRpbnQoMSwgOCkpCg==</text>
+        <text encoding="base64">IyBVc2luZyBhIGNvbmRpdGlvbmFsIGV4cHJlc3Npb24KZGVmIG1hZ2ljX2VpZ2h0X2NvbmRfZXhwcihpbnRlZ2VyKToKICAgICIiIk1hZ2ljIDggYmFsbCBhY2NlcHRpbmcgYW4gaW50IGFuZCByZXR1cm5pbmcgc29tZSBwb3N0dWxhdGlvbnMiIiIKICAgIHJldHVybiAoCiAgICAgICAgIlN0cmFpZ2h0IHVwLCBub3BlIiBpZiBpbnRlZ2VyID09IDEgZWxzZQogICAgICAgICJJIHdvdWxkbid0IHB1dCBtb25leSBvbiBpdCIgaWYgaW50ZWdlciA9PSAyIGVsc2UKICAgICAgICAiWUFTUyIgaWYgaW50ZWdlciA9PSAzIGVsc2UKICAgICAgICAiSSdtIHNvcnJ5LCBJIHdhc24ndCBsaXN0ZW5pbmcuLi4iIGlmIGludGVnZXIgPT0gNCBlbHNlCiAgICAgICAgIkFyZSB5b3UgcmVhbGx5IGFza2luZyBNRSB0aGF0IGtpbmQgb2YgcXVlc3Rpb24hPyIgaWYgaW50ZWdlciA9PSA1IGVsc2UKICAgICAgICAiLi4uIiBpZiBpbnRlZ2VyID09IDYgZWxzZQogICAgICAgICJObyIgaWYgaW50ZWdlciA9PSA3IGVsc2UKICAgICAgICAiUGVyaGFwcyIgaWYgaW50ZWdlciA9PSA4IGVsc2UKICAgICAgICAiSW5wdXQgbXVzdCBiZSBhbiBpbnQgYmV0d2VlbiAxIGFuZCA4IgogICAgKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIG1hZ2ljX2VpZ2h0KHgpOgogICAgIiIiTWFnaWMgOCBiYWxsIGFjY2VwdGluZyBhbiBpbnQgYW5kIHJldHVybmluZyBzb21lIHBvc3R1bGF0aW9ucyIiIgogICAgcmV0dXJuICgKICAgICAgICAiU3RyYWlnaHQgdXAsIG5vcGUiIGlmIHggPT0gMSBlbHNlCiAgICAgICAgIkkgd291bGRuJ3QgcHV0IG1vbmV5IG9uIGl0IiBpZiB4ID09IDIgZWxzZQogICAgICAgICJZQVNTIiBpZiB4ID09IDMgZWxzZQogICAgICAgICJJJ20gc29ycnksIEkgd2Fzbid0IGxpc3RlbmluZy4uLiIgaWYgeCA9PSA0IGVsc2UKICAgICAgICAiQXJlIHlvdSByZWFsbHkgYXNraW5nIE1FIHRoYXQga2luZCBvZiBxdWVzdGlvbiE/IiBpZiB4ID09IDUgZWxzZQogICAgICAgICIuLi4iIGlmIHggPT0gNiBlbHNlCiAgICAgICAgIk5vIiBpZiB4ID09IDcgZWxzZQogICAgICAgICJQZXJoYXBzIiBpZiB4ID09IDggZWxzZQogICAgICAgICJJbnB1dCBtdXN0IGJlIGFuIGludCBiZXR3ZWVuIDEgYW5kIDgiCiAgICApCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWFnaWNfZWlnaHQocmFuZG9tLnJhbmRpbnQoMSwgOCkpCg==</text>
+        <text encoding="base64">c3RyX3R1cCA9ICgKICAgICJTdHJhaWdodCB1cCwgbm9wZSIsCiAgICAiSSB3b3VsZG4ndCBwdXQgbW9uZXkgb24gaXQiLAogICAgIllBU1MiLAogICAgIkknbSBzb3JyeSwgSSB3YXNuJ3QgbGlzdGVuaW5nLi4uIiwKICAgICJBcmUgeW91IHJlYWxseSBhc2tpbmcgTUUgdGhhdCBraW5kIG9mIHF1ZXN0aW9uIT8iLAogICAgIi4uLiIsCiAgICAiTm8iLAogICAgIlBlcmhhcHMiCikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluX291dCA9ICgKICAgICAgICAiU3RyYWlnaHQgdXAsIG5vcGUiLAogICAgICAgICJJIHdvdWxkbid0IHB1dCBtb25leSBvbiBpdCIsCiAgICAgICAgIllBU1MiLAogICAgICAgICJJJ20gc29ycnksIEkgd2Fzbid0IGxpc3RlbmluZy4uLiIsCiAgICAgICAgIkFyZSB5b3UgcmVhbGx5IGFza2luZyBNRSB0aGF0IGtpbmQgb2YgcXVlc3Rpb24hPyIsCiAgICAgICAgIi4uLiIsCiAgICAgICAgIk5vIiwKICAgICAgICAiUGVyaGFwcyIKICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIG1hZ2ljX2VpZ2h0KHgpOgogICAgIiIiTWFnaWMgOCBiYWxsIGFjY2VwdGluZyBhbiBpbnQgYW5kIHJldHVybmluZyBzb21lIHBvc3R1bGF0aW9ucyIiIgogICAgcmV0dXJuICgKICAgICAgICAiU3RyYWlnaHQgdXAsIG5vcGUiIGlmIHggPT0gMSBlbHNlCiAgICAgICAgIkkgd291bGRuJ3QgcHV0IG1vbmV5IG9uIGl0IiBpZiB4ID09IDIgZWxzZQogICAgICAgICJZQVNTIiBpZiB4ID09IDMgZWxzZQogICAgICAgICJJJ20gc29ycnksIEkgd2Fzbid0IGxpc3RlbmluZy4uLiIgaWYgeCA9PSA0IGVsc2UKICAgICAgICAiQXJlIHlvdSByZWFsbHkgYXNraW5nIE1FIHRoYXQga2luZCBvZiBxdWVzdGlvbiE/IiBpZiB4ID09IDUgZWxzZQogICAgICAgICIuLi4iIGlmIHggPT0gNiBlbHNlCiAgICAgICAgIk5vIiBpZiB4ID09IDcgZWxzZQogICAgICAgICJQZXJoYXBzIiBpZiB4ID09IDggZWxzZQogICAgICAgICJJbnB1dCBtdXN0IGJlIGFuIGludCBiZXR3ZWVuIDEgYW5kIDgiCiAgICApCgo=</text>
+        <text encoding="base64">c3RyX3R1cCA9ICgKICAgICJTdHJhaWdodCB1cCwgbm9wZSIsCiAgICAiSSB3b3VsZG4ndCBwdXQgbW9uZXkgb24gaXQiLAogICAgIllBU1MiLAogICAgIkknbSBzb3JyeSwgSSB3YXNuJ3QgbGlzdGVuaW5nLi4uIiwKICAgICJBcmUgeW91IHJlYWxseSBhc2tpbmcgTUUgdGhhdCBraW5kIG9mIHF1ZXN0aW9uIT8iLAogICAgIi4uLiIsCiAgICAiTm8iLAogICAgIlBlcmhhcHMiCikKCgpkZWYgbWFnaWNfZWlnaHRfZGljdF9jb21wKHgpOgogICAgaW5fb3V0ID0ge2kgKyAxOiBqIGZvciBpLCBqIGluIGVudW1lcmF0ZShzdHJfdHVwKX0KICAgIHJldHVybiBpbl9vdXQuZ2V0KHgsICJJbnB1dCBtdXN0IGJlIGFuIGludCBiZXR3ZWVuIDEgYW5kIDgiKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiU3RyYWlnaHQgdXAsIG5vcGUiLAogICAgICAgICJJIHdvdWxkbid0IHB1dCBtb25leSBvbiBpdCIsCiAgICAgICAgIllBU1MiLAogICAgICAgICJJJ20gc29ycnksIEkgd2Fzbid0IGxpc3RlbmluZy4uLiIsCiAgICAgICAgIkFyZSB5b3UgcmVhbGx5IGFza2luZyBNRSB0aGF0IGtpbmQgb2YgcXVlc3Rpb24hPyIsCiAgICAgICAgIi4uLiIsCiAgICAgICAgIk5vIiwKICAgICAgICAiUGVyaGFwcyIK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
     <search>
@@ -1684,7 +1684,6 @@
         <entry>8</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateDatabaseToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ShowBookmarks</entry>
@@ -1702,8 +1701,9 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>w</entry>
         <entry>action CloseProject</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
