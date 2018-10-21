@@ -591,7 +591,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540083278577">
+      <file name="/Dummy.txt" timestamp="1540090285896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -1651,7 +1651,7 @@
         <text encoding="base64">ICAgIHJldHVybiBpbl9vdXRbaW50ZWdlcl0K</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -1692,7 +1692,6 @@
         <entry>action GotoDeclaration</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action Synchronize</entry>
         <entry>nohlsearch</entry>
@@ -1707,6 +1706,7 @@
         <entry>action RenameFile</entry>
         <entry>action CloseProject</entry>
         <entry>action ReformatCode</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
