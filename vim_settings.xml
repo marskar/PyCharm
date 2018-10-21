@@ -1364,10 +1364,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540146295344">
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540154149350">
         <mark key="'" line="88" column="40" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="43" />
         <mark key="." line="83" column="0" />
         <mark key="^" line="83" column="0" />
       </file>
@@ -1617,8 +1617,8 @@
       <register name="/" type="4">
         <text>8</text>
       </register>
-      <register name="0" type="4">
-        <text>random.randint(1, 8)</text>
+      <register name="0" type="2">
+        <text encoding="base64">bWFnaWNfZWlnaHRfY29uZF9zdGF0KHJhbmRvbS5yYW5kaW50KDEsIDgpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cmFuZG9tLnJhbmRpbnQoMSwgOCkK</text>
