@@ -1364,12 +1364,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540083242125">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="46" />
-        <mark key="^" line="44" column="7" />
-        <mark key="." line="44" column="8" />
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540144956799">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/slide.css" timestamp="1538078226106">
         <mark key="[" line="0" column="0" />
@@ -1383,9 +1383,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" timestamp="1540082963836">
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="37" column="34" />
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" timestamp="1540144213328">
+        <mark key="a" line="10" column="4" />
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/dag.py" timestamp="1538442965253">
         <mark key="'" line="0" column="0" />
@@ -1454,23 +1458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="82" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="86" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="88" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="100" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="98" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="106" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="112" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="122" column="45" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="126" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="133" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="139" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="140" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="135" column="39" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="141" column="29" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="62" column="4" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
-      <jump line="66" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="68" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="72" column="39" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
       <jump line="74" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" />
@@ -1537,23 +1524,40 @@
       <jump line="13" column="8" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="15" column="67" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="17" column="24" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
-      <jump line="30" column="4" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="59" column="4" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
-      <jump line="47" column="32" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="2" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="44" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
-      <jump line="45" column="4" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="0" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
       <jump line="4" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
       <jump line="24" column="77" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
       <jump line="25" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="33" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
       <jump line="95" column="75" filename="$USER_HOME$/github/biof309_fall2018/README.md" />
       <jump line="102" column="161" filename="$USER_HOME$/github/biof309_fall2018/README.md" />
+      <jump line="37" column="26" filename="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" />
+      <jump line="14" column="16" filename="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="9" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="21" column="25" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="22" column="51" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1608,51 +1612,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGxlcyA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEJlZm9yZSB0aGUgZmlyc3QgY2xhc3MsIHBsZWFzZSB3YXRjaCB0aGUgW0dldHRpbmcgU3RhcnRlZCB3aXRoIFB5Q2hhcm1dKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QlBDLWJHZEJTTTgmbGlzdD1QTFExNzZGVUl5SVVaMW13Qi11SW1RRS1nbWt3empOTGpQKSB2aWRlbyBzZXJpZXMuCg==</text>
+      <register name="0" type="4">
+        <text>&quot;Input must be an int between 1 and 8&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGhlaXIgI0RhdGFTY2llbmNlIGNvdXJzZSBvZmZlcmluZ3MsIHRvb2xzIGFuZCBpbnRlcmZhY2Uga2VlcCBnZXR0aW5nIGJldHRlciBhbmQgYmV0dGVyLgpGaW5kIG91dCBtb3JlIGFib3V0IDoKaHR0cHM6Ly93d3cuZGF0YWNhbXAuY29tL2dyb3Vwcy9lZHVjYXRpb24g4oCmCgo=</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICBARGF0YUNhbXAgaGFzIG15IEludHJvIHRvICNQeXRob24gY2xhc3MuCg==</text>
+        <text encoding="base64">ICAgICAgIHByaW50KCJwZXJoYXBzIDspIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHggPSByYW5kb20ucmFuZGludCgxLCA4KQo=</text>
+        <text encoding="base64">ICAgeCA9IHJhbmRvbS5yYW5kaW50KDEsOCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>if
-    if
-    if
-    if
-    if</text>
+      <register name="4" type="2">
+        <text encoding="base64">bWFnaWNfZWlnaHQocmFuZG9tLnJhbmRpbnQoMSwgOCkpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>if
-    if
-    if
-    if
-    if</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIG1hZ2ljX2VpZ2h0KHgpOgogICAgIiIiTWFnaWMgOCBiYWxsIGFjY2VwdGluZyBhbiBpbnQgYW5kIHJldHVybmluZyBzb21lIHBvc3R1bGF0aW9ucyIiIgogICAgcmV0dXJuICgKICAgICAgICAiU3RyYWlnaHQgdXAsIG5vcGUiIGlmIHggPT0gMSBlbHNlCiAgICAgICAgIkkgd291bGRuJ3QgcHV0IG1vbmV5IG9uIGl0IiBpZiB4ID09IDIgZWxzZQogICAgICAgICJZQVNTIiBpZiB4ID09IDMgZWxzZQogICAgICAgICJJJ20gc29ycnksIEkgd2Fzbid0IGxpc3RlbmluZy4uLiIgaWYgeCA9PSA0IGVsc2UKICAgICAgICAiQXJlIHlvdSByZWFsbHkgYXNraW5nIE1FIHRoYXQga2luZCBvZiBxdWVzdGlvbiE/IiBpZiB4ID09IDUgZWxzZQogICAgICAgICIuLi4iIGlmIHggPT0gNiBlbHNlCiAgICAgICAgIk5vIiBpZiB4ID09IDcgZWxzZQogICAgICAgICJQZXJoYXBzIiBpZiB4ID09IDggZWxzZQogICAgICAgICJJbnB1dCBtdXN0IGJlIGFuIGludCBiZXR3ZWVuIDEgYW5kIDgiCiAgICApCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFnaWNfZWlnaHQocmFuZG9tLnJhbmRpbnQoMSwgOCkpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIG1hZ2ljX2VpZ2h0X2xpc3QoeCk6CiAgICAiIiJNYWdpYyA4IGJhbGwgYWNjZXB0aW5nIGFuIGludCBhbmQgcmV0dXJuaW5nIHNvbWUgcG9zdHVsYXRpb25zIiIiCiAgICBpbl9vdXQgPSBbCiAgICAgICAgIlN0cmFpZ2h0IHVwLCBub3BlIiwKICAgICAgICAiSSB3b3VsZG4ndCBwdXQgbW9uZXkgb24gaXQiLAogICAgICAgICJZQVNTIiwKICAgICAgICAiSSdtIHNvcnJ5LCBJIHdhc24ndCBsaXN0ZW5pbmcuLi4iLAogICAgICAgICJBcmUgeW91IHJlYWxseSBhc2tpbmcgTUUgdGhhdCBraW5kIG9mIHF1ZXN0aW9uIT8iLAogICAgICAgICIuLi4iLAogICAgICAgICJObyIsCiAgICAgICAgIlBlcmhhcHMiCiAgICBdCiAgICByZXR1cm4gaW5fb3V0W3gtMV0gaWYgeCBpbiByYW5nZSgxLCA4KSBlbHNlICJJbnB1dCBtdXN0IGJlIGFuIGludCBiZXR3ZWVuIDEgYW5kIDgiCg==</text>
+        <text encoding="base64">ZGVmIG1hZ2ljX2VpZ2h0KHgpOgogICAgIiIiTWFnaWMgOCBiYWxsIGFjY2VwdGluZyBhbiBpbnQgYW5kIHJldHVybmluZyBzb21lIHBvc3R1bGF0aW9ucyIiIgogICAgcmV0dXJuICgKICAgICAgICAiU3RyYWlnaHQgdXAsIG5vcGUiIGlmIHggPT0gMSBlbHNlCiAgICAgICAgIkkgd291bGRuJ3QgcHV0IG1vbmV5IG9uIGl0IiBpZiB4ID09IDIgZWxzZQogICAgICAgICJZQVNTIiBpZiB4ID09IDMgZWxzZQogICAgICAgICJJJ20gc29ycnksIEkgd2Fzbid0IGxpc3RlbmluZy4uLiIgaWYgeCA9PSA0IGVsc2UKICAgICAgICAiQXJlIHlvdSByZWFsbHkgYXNraW5nIE1FIHRoYXQga2luZCBvZiBxdWVzdGlvbiE/IiBpZiB4ID09IDUgZWxzZQogICAgICAgICIuLi4iIGlmIHggPT0gNiBlbHNlCiAgICAgICAgIk5vIiBpZiB4ID09IDcgZWxzZQogICAgICAgICJQZXJoYXBzIiBpZiB4ID09IDggZWxzZQogICAgICAgICJJbnB1dCBtdXN0IGJlIGFuIGludCBiZXR3ZWVuIDEgYW5kIDgiCiAgICApCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluX291dCA9ICgKICAgICAgICAiU3RyYWlnaHQgdXAsIG5vcGUiLAogICAgICAgICJJIHdvdWxkbid0IHB1dCBtb25leSBvbiBpdCIsCiAgICAgICAgIllBU1MiLAogICAgICAgICJJJ20gc29ycnksIEkgd2Fzbid0IGxpc3RlbmluZy4uLiIsCiAgICAgICAgIkFyZSB5b3UgcmVhbGx5IGFza2luZyBNRSB0aGF0IGtpbmQgb2YgcXVlc3Rpb24hPyIsCiAgICAgICAgIi4uLiIsCiAgICAgICAgIk5vIiwKICAgICAgICAiUGVyaGFwcyIKICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1701,13 +1697,13 @@
         <entry>action NewDirectoryProject</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action Move</entry>
         <entry>action RenameFile</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>w</entry>
         <entry>action CloseProject</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
