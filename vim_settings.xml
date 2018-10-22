@@ -353,6 +353,13 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="13" />
       </file>
+      <file name="$USER_HOME$/github/courses-creating-robust-python-projects/chapter1capstone.py" timestamp="1540214186196">
+        <mark key="'" line="81" column="11" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/github/nbless/nbuild.py" timestamp="1537200746633">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="41" column="56" />
@@ -854,11 +861,6 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-04/run.md" timestamp="1538939887001">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="33" column="2" />
-        <mark key="]" line="44" column="2" />
-      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" timestamp="1538098442577">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="21" column="2" />
@@ -1119,11 +1121,6 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/Downloads/output_python3.py" timestamp="1539031659918">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.py" timestamp="1537553435263">
         <mark key="'" line="5" column="0" />
@@ -1471,7 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="8" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="18" column="24" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
@@ -1571,6 +1567,7 @@
       <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
       <jump line="37" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
       <jump line="53" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="81" column="11" filename="$USER_HOME$/github/courses-creating-robust-python-projects/chapter1capstone.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1711,12 +1708,12 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ShowNavBar</entry>
         <entry>%s/Animal/DatasetInventory/g</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action RenameElement</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
