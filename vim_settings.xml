@@ -275,12 +275,12 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" timestamp="1540213361840">
-        <mark key="'" line="33" column="5" />
-        <mark key="[" line="43" column="14" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-        <mark key="^" line="45" column="20" />
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" timestamp="1540213981750">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="46" column="86" />
+        <mark key="]" line="46" column="86" />
+        <mark key="." line="46" column="86" />
+        <mark key="^" line="47" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/skptest/say.py" timestamp="1538399902327">
         <mark key="[" line="0" column="12" />
@@ -1471,10 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="8" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/plot.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/plot.py" />
-      <jump line="7" column="6" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="15" column="8" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="18" column="24" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
@@ -1570,7 +1566,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
       <jump line="38" column="27" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
       <jump line="31" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
-      <jump line="33" column="5" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="33" column="21" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="35" column="52" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1625,7 +1625,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: str</text>
+        <text encoding="base64">IC0+IHN0cg==</text>
       </register>
       <register name="/" type="4">
         <text>Animal</text>
@@ -1634,35 +1634,35 @@
         <text encoding="base64">ZGVmIG1ha2VfZ2VuZXJhdG9yKG5hbWVzOiBzdHIsIHNraXA6IHN0cik6CiAgICByZXR1cm4gKERhdGFzZXRJbnZlbnRvcnkobmFtZT14KSBmb3IgeCBpbiBuYW1lcyBpZiB4IG5vdCBpbiBza2lwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGlhYmV0ZXMuZGVzYwpEYXRhc2V0SW52ZW50b3J5Lm5hbWVzCgpuZXh0KGRzX2dlbikubmFtZQo=</text>
+        <text encoding="base64">ICAgICMgcGx0LnNhdmVmaWcoZmlsZW5hbWUpCiAgICAjIEluIGFkZGl0aW9uIHRvIHNhdmluZyB0aGUgcGxvdCwgeW91IGNhbiBzaG93IGl0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVzaWR1YWxfcGxvdChmaXR0ZWQ9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZHMgPSBEYXRhc2V0SW52ZW50b3J5KG5hbWU9J2Jvc3RvbicpCmRzID0gRGF0YXNldEludmVudG9yeShuYW1lPSdpcmlzJykKZHMgPSBEYXRhc2V0SW52ZW50b3J5KG5hbWU9J2RpZ2l0cycpCmRzID0gRGF0YXNldEludmVudG9yeShuYW1lPSdkaWFiZXRlcycpCmRzLmRlc2MKZHMubmFtZXMKZHMuY29scwo=</text>
+        <text encoding="base64">ZGlhYmV0ZXMuZGVzYwpEYXRhc2V0SW52ZW50b3J5Lm5hbWVzCgpuZXh0KGRzX2dlbikubmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XywgZGlhYmV0ZXMsICpfID0gZHNfZ2VuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ZHMgPSBEYXRhc2V0SW52ZW50b3J5KG5hbWU9J2Jvc3RvbicpCmRzID0gRGF0YXNldEludmVudG9yeShuYW1lPSdpcmlzJykKZHMgPSBEYXRhc2V0SW52ZW50b3J5KG5hbWU9J2RpZ2l0cycpCmRzID0gRGF0YXNldEludmVudG9yeShuYW1lPSdkaWFiZXRlcycpCmRzLmRlc2MKZHMubmFtZXMKZHMuY29scwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">XywgZGlhYmV0ZXMsICpfID0gZHNfZ2VuCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZHNfb2JqZWN0cwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>(
         'boston', 'diabetes', 'digits', 'iris', 'wine')</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ZnJvbSBza2xlYXJuLmRhdGFzZXRzIGltcG9ydCBsb2FkX2RpYWJldGVzCgpkPWxvYWRfZGlhYmV0ZXMoKQpkLmtleXMoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">W3ggZm9yIHggaW4gKCdkYXRhJywgJ3NldCcpXQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>[]</text>
-      </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -1707,17 +1707,17 @@
         <entry>action RenameFile</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>w</entry>
-        <entry>action CloseProject</entry>
         <entry>action GotoFile</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ShowNavBar</entry>
         <entry>%s/Animal/DatasetInventory/g</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RenameElement</entry>
         <entry>action JumpToLastChange</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
