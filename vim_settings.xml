@@ -19,9 +19,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554342289191">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535762975589">
         <mark key="'" line="1" column="8" />
         <mark key="[" line="5" column="13" />
@@ -46,11 +43,11 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1554352644606">
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1554355206157">
+        <mark key="[" line="61" column="24" />
+        <mark key="]" line="58" column="26" />
+        <mark key="." line="58" column="26" />
+        <mark key="^" line="58" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" timestamp="1535761202675">
         <mark key="'" line="6" column="17" />
@@ -334,8 +331,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICsgJywgJy5qb2luKCcgdG8gJy5qb2luKGxpc3RfY2hhbmdlZF9maWxlcygnUicpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="*" type="4">
         <text>()</text>
@@ -361,7 +358,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>_event</text>
