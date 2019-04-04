@@ -90,12 +90,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1554342329694">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1554351234432">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="41" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535818156972">
         <mark key="'" line="23" column="0" />
