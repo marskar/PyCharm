@@ -3,193 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1535762497345">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" timestamp="1535484602691">
-        <mark key="'" line="59" column="12" />
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/fun-with-comprehensions.py" timestamp="1535761565851">
-        <mark key="[" line="13" column="63" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535762975589">
-        <mark key="'" line="1" column="8" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="5" column="16" />
-      </file>
-      <file name="/a.dummy" timestamp="1535761853444">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534801208182">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="28" column="64" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535689603878">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1554355206157">
-        <mark key="[" line="61" column="24" />
-        <mark key="]" line="58" column="26" />
-        <mark key="." line="58" column="26" />
-        <mark key="^" line="58" column="26" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" timestamp="1535761202675">
-        <mark key="'" line="6" column="17" />
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="2" />
-        <mark key="." line="14" column="2" />
-        <mark key="^" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1535308608218">
-        <mark key="'" line="35" column="32" />
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="32" />
-        <mark key="^" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.py" timestamp="1535653136212">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/make_folders.py" timestamp="1534801124963">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/doc.md" timestamp="1535749138524">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1535487974911">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/example.py" timestamp="1535591378737">
+      <file name="$USER_HOME$/github/mnist-analysis/model.py" timestamp="1538153851051">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1554351234432">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="39" column="14" />
-        <mark key="]" line="41" column="4" />
-        <mark key="^" line="41" column="4" />
-        <mark key="." line="41" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1535818156972">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="0" column="84" />
-        <mark key="]" line="0" column="84" />
-        <mark key="." line="0" column="84" />
-        <mark key="^" line="4" column="13" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535690020120">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/zen/__init__.py" timestamp="1535491740481">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/smartly/test.md" timestamp="1535756435380">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535748426235">
-        <mark key="'" line="8" column="1" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1535762010014">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1535591386011">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490915792">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="146" />
-        <mark key="]" line="50" column="146" />
-        <mark key="." line="50" column="146" />
-        <mark key="^" line="50" column="83" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/cube/cube.py" timestamp="1535591030739">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="0" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.md" timestamp="1535749175285">
-        <mark key="'" line="1" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1535745065420">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/RegalPython.py" timestamp="1535489027965">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="47" />
-        <mark key="." line="40" column="12" />
-        <mark key="^" line="40" column="12" />
-      </file>
-      <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="3" column="38" />
-        <mark key="^" line="3" column="38" />
+      <file name="$USER_HOME$/github/mnist/plot.py" timestamp="1538232135442">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1534786162105">
         <mark key="'" line="8" column="0" />
@@ -198,6 +24,810 @@
         <mark key="." line="30" column="60" />
         <mark key="^" line="30" column="60" />
       </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/test.py" timestamp="1538939649538">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" timestamp="1536382364558">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/distance_from_zero.py" timestamp="1537012473123">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/event/weekly.py" timestamp="1537013973498">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="65" />
+        <mark key="]" line="61" column="59" />
+        <mark key="." line="61" column="59" />
+        <mark key="^" line="61" column="59" />
+      </file>
+      <file name="/a.dummy" timestamp="1540075390061">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/assignment.py" timestamp="1537500311622">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="2" />
+        <mark key="]" line="41" column="10" />
+        <mark key="." line="41" column="10" />
+        <mark key="^" line="41" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1538399351680">
+        <mark key="'" line="74" column="82" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="87" column="14" />
+        <mark key="." line="87" column="14" />
+        <mark key="^" line="87" column="14" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/notes.txt" timestamp="1536427681759">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/github/mnist-analysis/02_split_data.py" timestamp="1538151575820">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/zip.py" timestamp="1537062586517">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.md" timestamp="1535861464153">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.py" timestamp="1535653136212">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/examples/test.py" timestamp="1536380807424">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/github/pydy/pydy.py" timestamp="1538021228839">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/github/scattr/README.md" timestamp="1538358163332">
+        <mark key="'" line="10" column="29" />
+        <mark key="[" line="19" column="115" />
+        <mark key="]" line="19" column="191" />
+        <mark key="^" line="19" column="191" />
+        <mark key="." line="19" column="191" />
+      </file>
+      <file name="$USER_HOME$/github/f2m/f2m/pydy.py" timestamp="1538023427438">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/my_project/__main__.py" timestamp="1539046943955">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/skippy/plot.py" timestamp="1538259806021">
+        <mark key="'" line="24" column="36" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="19" column="36" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/event/__init__.py" timestamp="1535487851834">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/mnist_pipeline/__init__.py" timestamp="1538232920775">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/round.md" timestamp="1538081092399">
+        <mark key="'" line="56" column="47" />
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbless.py" timestamp="1536491734472">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/pipelines/linnerud.py" timestamp="1538665664982">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="2" column="31" />
+      </file>
+      <file name="/" timestamp="1540157338733">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/RegalPython.py" timestamp="1535489027965">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1537139710946">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/say.py" timestamp="1538961319973">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/nbtest/setup.Rmd" timestamp="1537757270720">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/skippy/pickle_model.py" timestamp="1538591614556">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="52" />
+      </file>
+      <file name="$USER_HOME$/github/mnist-analysis/01_get_data.py" timestamp="1538151465624">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/github/pype/wine.py" timestamp="1538240905200">
+        <mark key="'" line="11" column="50" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="11" column="50" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/dag2.py" timestamp="1538448139795">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/regress.py" timestamp="1538262582378">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="48" />
+        <mark key="^" line="26" column="48" />
+        <mark key="." line="26" column="48" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/run.py" timestamp="1538582717033">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="24" column="7" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbexec.py" timestamp="1537143154081">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="77" />
+        <mark key="]" line="46" column="77" />
+        <mark key="^" line="46" column="77" />
+        <mark key="." line="46" column="77" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/pipelines/digits.py" timestamp="1538596169572">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/pi.py" timestamp="1538399922647">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/pipelines/iris.py" timestamp="1538596907753">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/01_script.py" timestamp="1538439743267">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/event/make_folders.py" timestamp="1536419907662">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" timestamp="1540213981750">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="46" column="86" />
+        <mark key="]" line="46" column="86" />
+        <mark key="." line="46" column="86" />
+        <mark key="^" line="47" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/say.py" timestamp="1538399902327">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/github/pydy/pydy/__init__.py" timestamp="1538021527704">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1537139268139">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/about_me.py" timestamp="1538939690074">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1535653154247">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test3.md" timestamp="1535737018863">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbless.py" timestamp="1538016687677">
+        <mark key="'" line="40" column="9" />
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="9" />
+        <mark key="." line="44" column="9" />
+        <mark key="^" line="44" column="9" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-09-20/about.py" timestamp="1538090301118">
+        <mark key="'" line="11" column="18" />
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/__init__.py" timestamp="1538012381065">
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="6" column="57" />
+        <mark key="^" line="6" column="57" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/pipelines/boston.py" timestamp="1538665427039">
+        <mark key="'" line="2" column="11" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" timestamp="1537416086474">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/github/courses-creating-robust-python-projects/chapter1capstone.py" timestamp="1540214186196">
+        <mark key="'" line="81" column="11" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbuild.py" timestamp="1537200746633">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="56" />
+        <mark key="]" line="41" column="56" />
+        <mark key="." line="41" column="56" />
+        <mark key="^" line="56" column="28" />
+      </file>
+      <file name="$USER_HOME$/Downloads/02.py" timestamp="1537237148523">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="35" column="4" />
+        <mark key="." line="35" column="4" />
+      </file>
+      <file name="$USER_HOME$/github/nbtest/nbtest.py" timestamp="1538000899619">
+        <mark key="'" line="24" column="34" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/examples/__init_.py" timestamp="1536383388951">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/skippy/split_data.py" timestamp="1538242493692">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbuild.py" timestamp="1538013580917">
+        <mark key="'" line="63" column="24" />
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="30" />
+        <mark key="^" line="53" column="30" />
+        <mark key="." line="53" column="30" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/skippy/classification.py" timestamp="1538592348671">
+        <mark key="'" line="11" column="49" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/call.py" timestamp="1537816311595">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/test.R" timestamp="1538526163081">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/projects.md" timestamp="1538944601633">
+        <mark key="[" line="75" column="84" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/catrmd.py" timestamp="1537121157380">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/reg.py" timestamp="1538262356335">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/github/untitled1/pdtest" timestamp="1538024529688">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/README.md" timestamp="1538665324454">
+        <mark key="'" line="36" column="9" />
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" timestamp="1535490915792">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="146" />
+        <mark key="]" line="50" column="146" />
+        <mark key="." line="50" column="146" />
+        <mark key="^" line="50" column="83" />
+      </file>
+      <file name="$USER_HOME$/Downloads/01.py" timestamp="1537237005251">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="48" column="15" />
+        <mark key="^" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+      </file>
+      <file name="$USER_HOME$/github/pydy/helper.py" timestamp="1537565949040">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/model.py" timestamp="1538238077085">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/__main__.py" timestamp="1538951817161">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.md" timestamp="1535653146598">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/mnist-analysis/writefile.py" timestamp="1538160896544">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.py" timestamp="1538024656947">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/skippy/__main__.py" timestamp="1538665736347">
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="43" />
+        <mark key="^" line="31" column="81" />
+        <mark key="." line="28" column="43" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/cm_plot.py" timestamp="1538231999034">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbhtml.py" timestamp="1538012308544">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+      </file>
+      <file name="$USER_HOME$/github/nbtest/call.py" timestamp="1537757740556">
+        <mark key="'" line="1" column="39" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="4" column="75" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/README.md" timestamp="1540096348596">
+        <mark key="'" line="102" column="161" />
+        <mark key="[" line="103" column="204" />
+        <mark key="]" line="103" column="214" />
+        <mark key="^" line="103" column="214" />
+        <mark key="." line="103" column="214" />
+      </file>
+      <file name="$USER_HOME$/github/biof309/test.py" timestamp="1537590954259">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/new_repo2/run.py" timestamp="1538694487317">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/github/mnist-analysis/plot_cm.py" timestamp="1538155783761">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/github/pype/digits.py" timestamp="1538241267130">
+        <mark key="'" line="7" column="35" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="71" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="7" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1535876596512">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/weekly_event.py" timestamp="1535308608218">
+        <mark key="'" line="35" column="32" />
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="32" />
+        <mark key="^" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/README.md" timestamp="1536111260880">
+        <mark key="'" line="15" column="44" />
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/greet.py" timestamp="1538961290121">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/zoo/zoo.py" timestamp="1540157235061">
+        <mark key="'" line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/test.py" timestamp="1538231676731">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/skippy/regression.py" timestamp="1538658467205">
+        <mark key="'" line="22" column="40" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/github/my_proj/greet.py" timestamp="1539299796704">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540165240929">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pydy/README.md" timestamp="1538022198026">
+        <mark key="'" line="8" column="31" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="47" />
+      </file>
+      <file name="$USER_HOME$/github/untitled/test.py" timestamp="1538024607467">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/github/mnist-analysis/accuracy.py" timestamp="1538155221760">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1537101529482">
+        <mark key="'" line="15" column="32" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/import.py" timestamp="1538098358659">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="8" />
+      </file>
+      <file name="$USER_HOME$/github/new_repo2/script.md" timestamp="1538691777171">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/pydy/pydytest.py" timestamp="1537026782518">
+        <mark key="'" line="8" column="66" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/projects.md" timestamp="1539290607447">
+        <mark key="'" line="213" column="19" />
+        <mark key="[" line="110" column="51" />
+        <mark key="]" line="110" column="55" />
+        <mark key="^" line="110" column="55" />
+        <mark key="." line="110" column="55" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1538665589572">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.md" timestamp="1535861647605">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/about_me.md" timestamp="1538090342567">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/github/catren/setup.py" timestamp="1538265063729">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/my_project/say.py" timestamp="1538959819722">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/mnist_pipeline/evaluate.py" timestamp="1538233087433">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/github/scattr/helper.py" timestamp="1538323022853">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/events/weekly_event.py" timestamp="1535484602691">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/about.md" timestamp="1538097438202">
+        <mark key="'" line="0" column="3" />
+        <mark key="[" line="14" column="161" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/github/my_proj/say.py" timestamp="1539295536014">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/setup.py" timestamp="1538241528356">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="61" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/zip/zip.py" timestamp="1537101688213">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/skptest.py" timestamp="1538262350130">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/skippy/get_data.py" timestamp="1538242472769">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/deploy.sh" timestamp="1538263300031">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1535917865242">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbexecute.py" timestamp="1536110427619">
+        <mark key="'" line="18" column="19" />
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="30" column="20" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/mnist_pipeline/get_data.py" timestamp="1538232998964">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/pickle_model.py" timestamp="1538240679330">
+        <mark key="'" line="4" column="64" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/pipelines/wine.py" timestamp="1538658043775">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="48" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless.py" timestamp="1537143111924">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="77" />
+        <mark key="]" line="56" column="77" />
+        <mark key="." line="56" column="77" />
+        <mark key="^" line="56" column="77" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/setup.py" timestamp="1538014500018">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/__init__.py" timestamp="1538241007559">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/import.py" timestamp="1538441174811">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/pipelines/classification.py" timestamp="1538245097319">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1535490857550">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="3" column="4" />
@@ -205,144 +835,780 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1535487927012">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="7" column="6" />
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" timestamp="1540075380618">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="58" />
+        <mark key="." line="4" column="58" />
+        <mark key="^" line="4" column="58" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1535748430336">
+      <file name="$USER_HOME$/github/f2m/f2m/__init__.py" timestamp="1538023474299">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py" timestamp="1537237636424">
+        <mark key="'" line="4" column="50" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="8" column="2" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/evaluate.py" timestamp="1538236956221">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="60" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/pandoc.py" timestamp="1538098442577">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="19" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-04/plot.py" timestamp="1539299965151">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="8" />
+      </file>
+      <file name="$USER_HOME$/github/mnist/mnist-analysis/__init__.py" timestamp="1538232664047">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.Rmd" timestamp="1535919247062">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/new_repo2/README.md" timestamp="1538691891686">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.md" timestamp="1535878788523">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/pydy/__init__.py" timestamp="1537021308946">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbexec.py" timestamp="1538012657130">
+        <mark key="'" line="2" column="36" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="34" column="13" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/__main__.py" timestamp="1538662862091">
+        <mark key="'" line="6" column="40" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="34" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="26" column="3" />
+      </file>
+      <file name="$USER_HOME$/github/catren/README.md" timestamp="1538264736172">
+        <mark key="'" line="81" column="20" />
+        <mark key="[" line="18" column="56" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbuild.py" timestamp="1536491829314">
+        <mark key="'" line="48" column="11" />
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/styles.css" timestamp="1538077207614">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="55" column="1" />
+        <mark key="^" line="55" column="1" />
+        <mark key="." line="55" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1540083007988">
+        <mark key="'" line="25" column="15" />
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="22" column="52" />
+        <mark key="." line="20" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1538068814029">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/my_module.py" timestamp="1538451035543">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/new_repo/nr.py" timestamp="1538689804020">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/class_dates2.py" timestamp="1534793959283">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="40" column="12" />
+        <mark key="^" line="40" column="12" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/to_file.md" timestamp="1539030458640">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbexec.py" timestamp="1536448041736">
+        <mark key="'" line="5" column="11" />
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="29" column="51" />
+        <mark key="." line="29" column="51" />
+        <mark key="^" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate-listcomp.py" timestamp="1536089487581">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="7" column="67" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="53" />
+        <mark key="." line="7" column="67" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.md" timestamp="1535863917038">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/github/catren/catren/catrmd.py" timestamp="1538267660830">
+        <mark key="'" line="9" column="58" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="51" />
+        <mark key="." line="10" column="51" />
+        <mark key="^" line="10" column="51" />
+      </file>
+      <file name="$USER_HOME$/github/mnist-analysis/evaluate.py" timestamp="1538154090185">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+      </file>
+      <file name="$USER_HOME$/github/biof309/about_me.py" timestamp="1537581037237">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/github/biof309/say/__init__.py" timestamp="1537581303004">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Downloads/sarahnotebook.py" timestamp="1537240144486">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/zen/__init__.py" timestamp="1535491740481">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/assign.py" timestamp="1537532146189">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="12" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" timestamp="1535947306852">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/github/biof309/say_hi.py" timestamp="1537581024395">
+        <mark key="'" line="1" column="14" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" timestamp="1540070324199">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/hybrid.py" timestamp="1538448788171">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/github/f2m/README.md" timestamp="1538023620796">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/nbexec.py" timestamp="1536381258181">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.py" timestamp="1538100565219">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/github/scattr/scattr/scattr.py" timestamp="1538320881270">
+        <mark key="'" line="3" column="36" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/simple_dag.py" timestamp="1539014925612">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="^" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/render.py" timestamp="1537139840624">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" timestamp="1535652939945">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.py" timestamp="1537553435263">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534801208182">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="28" column="64" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535644381827">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbcode.py" timestamp="1538012272909">
+        <mark key="'" line="57" column="13" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="24" column="8" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/test.py" timestamp="1536381299380">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.md" timestamp="1535919188851">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/results.py" timestamp="1538451169519">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/nbuild.py" timestamp="1536381156758">
+        <mark key="'" line="15" column="1" />
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1536380307494">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/github/pydy/setup.py" timestamp="1538022122266">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="10" column="59" />
+        <mark key="]" line="10" column="59" />
+        <mark key="." line="10" column="59" />
+        <mark key="^" line="13" column="39" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/examples/nbless/__init__.py" timestamp="1536383324099">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/my_project/greet.py" timestamp="1538952285464">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/github/pype/iris.py" timestamp="1538240901858">
+        <mark key="'" line="11" column="50" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="71" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="11" column="50" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1535737035894">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py" timestamp="1535880153874">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="815" column="4" />
+        <mark key="]" line="815" column="3" />
+        <mark key="^" line="815" column="3" />
+        <mark key="." line="815" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/example.py" timestamp="1535591378737">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/zoo/Lion.py" timestamp="1536427531194">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/github/mnist-analysis/get_data.py" timestamp="1538158583450">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test2.md" timestamp="1535736942883">
+        <mark key="'" line="33" column="6" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/get_data.py" timestamp="1538236011367">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/plot.py" timestamp="1538239764025">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/main/__main__.py" timestamp="1538590292872">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/pipeline.py" timestamp="1538235402486">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/nbtest.py" timestamp="1536493056220">
+        <mark key="[" line="5" column="94" />
+        <mark key="]" line="5" column="99" />
+        <mark key="^" line="5" column="99" />
+        <mark key="." line="5" column="99" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/blank.py" timestamp="1538400675151">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/catrmd.py" timestamp="1537826982870">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="60" column="24" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="18" />
+      </file>
+      <file name="$USER_HOME$/github/pydy/pydytest.py" timestamp="1538022195411">
+        <mark key="'" line="4" column="46" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/__init__.py" timestamp="1536627244876">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/github/new_repo2/run2.py" timestamp="1538694575909">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/packages/nbless/__init__.py" timestamp="1536491308683">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/split_data.py" timestamp="1538237529661">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/github/scattr/scattr/__init__.py" timestamp="1538318981601">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
+      <file name="/m8" timestamp="1540075321185">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pipeline.py" timestamp="1538239147909">
+        <mark key="'" line="5" column="79" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/github/f2m/helper.py" timestamp="1538023694562">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/predict.py" timestamp="1538236753380">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pype/pype/get_model.py" timestamp="1538238168957">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/make_folders.py" timestamp="1534801124963">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/plot.py" timestamp="1535993913576">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/slides.md" timestamp="1538075817785">
+        <mark key="'" line="18" column="24" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" timestamp="1540154149350">
+        <mark key="'" line="88" column="40" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="43" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-09-27/slide.css" timestamp="1538078226106">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="172" column="53" />
+        <mark key="^" line="172" column="53" />
+        <mark key="." line="172" column="53" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/cube/cube.py" timestamp="1535591030739">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" timestamp="1540144213328">
+        <mark key="a" line="10" column="4" />
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/skptest/dag.py" timestamp="1538442965253">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/run.md" timestamp="1538584130024">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="44" column="3" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test" timestamp="1536281750353">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/jupyter/nbcreate.py" timestamp="1536110557281">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="46" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/say.py" timestamp="1538960103088">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/nbless/nbless/nbtest.py" timestamp="1536628454445">
+        <mark key="'" line="14" column="78" />
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/mnist-analysis/joel.py" timestamp="1538157060548">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="38" column="24" />
+        <mark key="^" line="38" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1537122287690">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+      </file>
+      <file name="$USER_HOME$/github/skippy/setup.py" timestamp="1538665801234">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="28" column="15" />
+      </file>
+      <file name="$USER_HOME$/github/biof309_fall2018/2018-10-11/run_project.sh" timestamp="1538962093007">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
-      <jump line="50" column="103" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/zoo/Animal.py" />
-      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="129" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="142" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="145" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="165" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="176" column="0" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="8" column="1" filename="$USER_HOME$/github/biof309_fall2018/zen/zen.py" />
-      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/square/square.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/square/square.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/github/biof309_fall2018/square/square.py" />
-      <jump line="2" column="14" filename="$USER_HOME$/github/biof309_fall2018/cube/cube.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/cube/cube.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/cube/cube.py" />
-      <jump line="1" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/test.md" />
-      <jump line="0" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" />
-      <jump line="2" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/test2.md" />
-      <jump line="35" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/test2.md" />
-      <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-      <jump line="8" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
-      <jump line="9" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" />
-      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" />
-      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" />
-      <jump line="11" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" />
-      <jump line="6" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" />
-      <jump line="1" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" />
-      <jump line="1" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="7" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="3" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="5" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="0" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="15" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="2" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="13" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="22" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-      <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
+      <jump line="18" column="24" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/2018-10-04/magic8.py" />
+      <jump line="4" column="11" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="14" column="5" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="36" column="22" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="13" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="16" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="22" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="25" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="28" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="31" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="3" column="24" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="35" column="36" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
+      <jump line="4" column="13" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="15" column="67" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="17" column="24" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="0" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+      <jump line="4" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+      <jump line="24" column="77" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+      <jump line="25" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="95" column="75" filename="$USER_HOME$/github/biof309_fall2018/README.md" />
+      <jump line="102" column="161" filename="$USER_HOME$/github/biof309_fall2018/README.md" />
+      <jump line="37" column="26" filename="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" />
+      <jump line="14" column="16" filename="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/MagicEight.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="9" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="21" column="25" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="22" column="51" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="40" column="10" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="55" column="10" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="58" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="8" column="15" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="86" column="51" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="7" column="33" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="88" column="40" filename="$USER_HOME$/github/biof309_fall2018/scripts/magic8.py" />
+      <jump line="48" column="106" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/github/biof309_fall2018/packages/zoo/zoo.py" />
+      <jump line="47" column="12" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="20" column="15" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="17" column="44" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="8" column="28" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="40" column="34" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="42" column="33" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="2" column="16" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="22" column="74" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="26" column="27" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="11" column="4" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="36" column="33" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="23" column="31" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="38" column="27" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="33" column="21" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="35" column="52" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/github/biof309_fall2018/scripts/data_repo.py" />
+      <jump line="81" column="11" filename="$USER_HOME$/github/courses-creating-robust-python-projects/chapter1capstone.py" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="126" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="10" mods="0" />
-        </keys>
-      </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>2''2</text>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>[]</text>
       </register>
       <register name="j" type="4">
         <keys>
-          <key char="65" code="0" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="32" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="82" mods="130" />
+          <key char="48" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
@@ -352,78 +1618,109 @@
           <key char="32" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
           <key char="65535" code="10" mods="0" />
-          <key char="113" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IC0+IHN0cg==</text>
       </register>
       <register name="/" type="4">
-        <text>_event</text>
+        <text>Animal</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZW5kaW5nIGVhY2ggbGluZSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIG1ha2VfZ2VuZXJhdG9yKG5hbWVzOiBzdHIsIHNraXA6IHN0cik6CiAgICByZXR1cm4gKERhdGFzZXRJbnZlbnRvcnkobmFtZT14KSBmb3IgeCBpbiBuYW1lcyBpZiB4IG5vdCBpbiBza2lwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICsgJywgJy5qb2luKCcgdG8gJy5qb2luKGxpc3RfY2hhbmdlZF9maWxlcygnUicpKQo=</text>
+        <text encoding="base64">ICAgICMgcGx0LnNhdmVmaWcoZmlsZW5hbWUpCiAgICAjIEluIGFkZGl0aW9uIHRvIHNhdmluZyB0aGUgcGxvdCwgeW91IGNhbiBzaG93IGl0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICsgJywgJy5qb2luKCcgdG8gJy5qb2luKGxpc3RfY2hhbmdlZF9maWxlcygnUicpKQo=</text>
+        <text encoding="base64">cmVzaWR1YWxfcGxvdChmaXR0ZWQ9KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IkluICNQeXRob24sIHlvdSBjYW4gIitcCiJjb25jYXRlbmF0ZSAoY29tYmluZSkgc3RyaW5ncyAiK1wKInVzaW5nIHRoZSBwbHVzICgrKSBvcGVyYXRvci4iCgooCiAiT3IsIGluc3RlYWQgb2YgZW5kaW5nIGVhY2ggbGluZSAiCiAid2l0aCBhIHBsdXMgYW5kIGEgYmFja3NsYXNoICgrXCAsICIKICJ3cmFwIHRoZSBzdHJpbmdzIGluIHBhcmVudGhlc2VzIGFuZCAiCiAidXNlIGxpbmVicmVha3MgJiBpbmRlbnRhdGlvbiAiCiAidG8gaW1wcm92ZSBjb2RlIHJlYWRhYmlsaXR5LiIKKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGlhYmV0ZXMuZGVzYwpEYXRhc2V0SW52ZW50b3J5Lm5hbWVzCgpuZXh0KGRzX2dlbikubmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICJ3aXRob3V0IGVuZGluZyBlYWNoIGxpbmUgIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICJ3aXRoIGEgcGx1cyBhbmQgYSBiYWNrc2xhc2guIgo=</text>
+        <text encoding="base64">ZHMgPSBEYXRhc2V0SW52ZW50b3J5KG5hbWU9J2Jvc3RvbicpCmRzID0gRGF0YXNldEludmVudG9yeShuYW1lPSdpcmlzJykKZHMgPSBEYXRhc2V0SW52ZW50b3J5KG5hbWU9J2RpZ2l0cycpCmRzID0gRGF0YXNldEludmVudG9yeShuYW1lPSdkaWFiZXRlcycpCmRzLmRlc2MKZHMubmFtZXMKZHMuY29scwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiBtdWx0aWxpbmUiK1wKIiAiK1wKIiB3aXRob3V0IitcCiIgYmFja3NsYXNoZXMhIgo=</text>
+        <text encoding="base64">XywgZGlhYmV0ZXMsICpfID0gZHNfZ2VuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICJUaGlzICIKICJUaGlzICIK</text>
+        <text encoding="base64">ZHNfb2JqZWN0cwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICJhbmQgIgogImNhbiAiCiAiYmUgIgogInVzZWQgIgogImZvciAiCiAicmVhZCAiCg==</text>
+      <register name="8" type="4">
+        <text>(
+        'boston', 'diabetes', 'digits', 'iris', 'wine')</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICJncmVhdCAiCiAiZm9yICIKICJyZWFkYWJpbGl0eSAiCiAiYXMgIgo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLmRhdGFzZXRzIGltcG9ydCBsb2FkX2RpYWJldGVzCgpkPWxvYWRfZGlhYmV0ZXMoKQpkLmtleXMoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
-      <last-search>_event</last-search>
+      <last-search>Animal</last-search>
       <last-offset />
-      <last-pattern>_event</last-pattern>
-      <last-replace />
-      <last-substitute>_event</last-substitute>
+      <last-pattern>Animal</last-pattern>
+      <last-replace>DatasetInventory</last-replace>
+      <last-substitute>Animal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry>ra</entry>
-        <entry>or</entry>
-        <entry>obj</entry>
-        <entry>_event</entry>
+        <entry encoding="base64">XDxjbGVhblw+</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry>import</entry>
+        <entry>hell</entry>
+        <entry>def</entry>
+        <entry>deal</entry>
+        <entry>{{.}}</entry>
+        <entry>in o</entry>
+        <entry>tl</entry>
+        <entry encoding="base64">XDxob3dcPg==</entry>
+        <entry encoding="base64">XDzLnGlmXD4=</entry>
+        <entry encoding="base64">XDzLnG1hZ2ljOFw+</entry>
+        <entry>˜</entry>
+        <entry encoding="base64">XDwsXD4=</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDzLnGludGVnZXJcPg==</entry>
+        <entry encoding="base64">XDw6XD4=</entry>
+        <entry>:</entry>
+        <entry>8</entry>
+        <entry>Animal</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;/'/gc</entry>
-        <entry>%s/_event//g</entry>
+        <entry>action ShowBookmarks</entry>
+        <entry>action Synchronize</entry>
+        <entry>nohlsearch</entry>
+        <entry>%s/{{.}}//g</entry>
+        <entry>action NewDirectoryProject</entry>
+        <entry>action Move</entry>
+        <entry>action RenameFile</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action ShowNavBar</entry>
+        <entry>%s/Animal/DatasetInventory/g</entry>
+        <entry>action RenameElement</entry>
+        <entry>action JumpToLastChange</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -448,10 +1745,37 @@
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
