@@ -137,12 +137,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1563881966555">
-        <mark key="'" line="16" column="32" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="51" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" timestamp="1564341839464">
+        <mark key="'" line="1" column="37" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/" timestamp="1540157338733">
         <mark key="[" line="0" column="0" />
@@ -1034,9 +1033,6 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1563881941039">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/biof309_fall2018/class_dates.py" timestamp="1534801208182">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="0" />
@@ -1492,7 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
       <jump line="16" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
       <jump line="19" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
       <jump line="22" column="20" filename="$USER_HOME$/github/biof309_fall2018/scripts/m8.py" />
@@ -1592,10 +1587,14 @@
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/test2.py" />
       <jump line="22" column="4" filename="$USER_HOME$/github/rmdawn/test.Rmd" />
       <jump line="9" column="0" filename="$USER_HOME$/github/rmdawn/test.py" />
+      <jump line="1" column="37" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">W3gqKjIgZm9yIHggaW4gcmFuZ2UoOSkgaWYgMiA8IHggPCA4IGFuZCB4ICUgMiA9PSAwXQo=</text>
+        <text encoding="base64">W2xldF9udW1fZGljdFtpXSBmb3IgaSBpbiBudW1zXQo=</text>
+      </register>
+      <register name="f" type="4">
+        <text>f x</text>
       </register>
       <register name="*" type="4">
         <text>[]</text>
@@ -1646,7 +1645,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test.</text>
+        <text>15</text>
       </register>
       <register name="/" type="4">
         <text>Animal</text>
@@ -1655,31 +1654,39 @@
         <text encoding="base64">W3gqKjIgZm9yIHggaW4gcmFuZ2UoOSkgaWYgMiA8IHggPCA4IGFuZCB4ICUgMiA9PSAwXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dCA9ICgpCnR5cGUodCkKdC5fX2FkZF9fKCdhJykK</text>
+        <text encoding="base64">W2xldF9udW1fZGljdFtpXSBmb3IgaSBpbiBudW1zXQo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">bnVtcyA9IGxpc3QobWFwKGludCwgbGlzdCgiODUxMjEyMTUyMzE1MTgxMjQiKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dCA9ICgpCnR5cGUodCkKdC5fX2FkZF9fKCdhJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YGBgcHl0aG9uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YGBgCmBgYHB5dGhvbgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgCmBgYHB5dGhvbgo=</text>
+        <text encoding="base64">YGBgcHl0aG9uCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">YGBgCmBgYHB5dGhvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">YGBgCmBgYHB5dGhvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseProject</text>
