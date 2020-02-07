@@ -68,6 +68,9 @@
       <shortcut-conflict owner="vim">
         <text>shift alt pressed F</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl alt pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
