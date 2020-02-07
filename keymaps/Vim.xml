@@ -1,5 +1,11 @@
 <keymap version="1" name="Vim" parent="Mac OS X 10.5+">
   <action id="ActivateMessagesToolWindow" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="meta 0" />
@@ -10,4 +16,5 @@
   <action id="SaveAs">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="ShowFilterPopup" />
 </keymap>
