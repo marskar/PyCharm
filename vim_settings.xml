@@ -1,6 +1,10 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
@@ -81,9 +85,46 @@
         <text>ctrl alt pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1589222331501">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589222479798">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="380" column="72" />
+        <mark key="]" line="380" column="51" />
+        <mark key="^" line="380" column="51" />
+        <mark key="." line="380" column="50" />
+      </file>
+      <file name="/" timestamp="1589222397360">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="69" column="8" filename="$USER_HOME$/mskar/sir/sir.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>true</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="true" />
