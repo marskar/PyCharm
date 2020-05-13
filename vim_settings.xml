@@ -102,13 +102,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mskar/sir/tests/test_population.py" timestamp="1589380689974">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/mskar/sir/tests/test_population.py" timestamp="1589384684227">
+        <mark key="'" line="55" column="11" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589382064547">
-        <mark key="'" line="66" column="8" />
-        <mark key="[" line="364" column="5" />
-        <mark key="]" line="364" column="43" />
+      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589384384833">
+        <mark key="'" line="117" column="20" />
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="378" column="43" />
         <mark key="^" line="385" column="35" />
         <mark key="." line="364" column="5" />
       </file>
@@ -136,21 +140,25 @@
       <jump line="173" column="38" filename="$USER_HOME$/mskar/sir/sir.py" />
       <jump line="21" column="8" filename="$USER_HOME$/mskar/sir/sir.py" />
       <jump line="66" column="8" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="117" column="20" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="26" column="10" filename="$USER_HOME$/mskar/sir/tests/test_population.py" />
+      <jump line="28" column="42" filename="$USER_HOME$/mskar/sir/tests/test_population.py" />
+      <jump line="55" column="11" filename="$USER_HOME$/mskar/sir/tests/test_population.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="4">
-        <text>population_column_name</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbHVtbl9uYW1lcyA9IFsKICAgICAgICAiZGF5cyIsCiAgICAgICAgInN1c2NlcHRpYmxlIiwKICAgICAgICAidG90YWxfaW5mZWN0ZWQiLAogICAgICAgICJ0b3RhbF9yZWNvdmVyZWQiLAogICAgICAgICJuZXdfaW5mZWN0ZWQiLAogICAgICAgICJuZXdfcmVjb3ZlcmVkIiwKICAgICAgICAnbm9uX2ljdV9pbmNpZGVuY2VfaGlnaCcsCiAgICAgICAgJ25vbl9pY3VfaW5jaWRlbmNlX21pZCcsCiAgICAgICAgJ25vbl9pY3VfaW5jaWRlbmNlX2xvdycsCiAgICAgICAgJ2ljdV9pbmNpZGVuY2VfaGlnaCcsCiAgICAgICAgJ2ljdV9pbmNpZGVuY2VfbWlkJywKICAgICAgICAnaWN1X2luY2lkZW5jZV9sb3cnLAogICAgICAgICJiZXRhIiwKICAgICAgICAiZG91YmxpbmdfdGltZSIsCiAgICAgICAgImdyb3d0aF9yYXRlIiwKICAgICAgICAicl9uYXVnaHQiCiAgICBdCiAgICBtaXRpZ2F0ZWRfZGYgPSBwZC5EYXRhRnJhbWUoCiAgICAgICAgc2lyKAogICAgICAgICAgICBzdXNjZXB0aWJsZT1DT1VOVFlfUE9QVUxBVElPTiwKICAgICAgICAgICAgdG90YWxfaW5mZWN0ZWQ9SU5GRUNURURfQ09ORklSTUVELAogICAgICAgICAgICBuZXdfaW5mZWN0ZWQ9SU5GRUNURURfTkVXLAogICAgICAgICAgICB0b3RhbF9yZWNvdmVyZWQ9UkVDT1ZFUkVELAogICAgICAgICAgICBiZXRhPU1JVElHQVRFRF9CRVRBLAogICAgICAgICAgICBnYW1tYT1HQU1NQSwKICAgICAgICAgICAgc3RhcnQ9MCwKICAgICAgICAgICAgc3RvcD1NSVRJR0FURURfREFZUwogICAgICAgICksIGNvbHVtbnM9Y29sdW1uX25hbWVzCiAgICApLmNsaXAodXBwZXI9Q09VTlRZX1BPUFVMQVRJT04sIGF4aXM9MSkKCiAgICB1bm1pdGlnYXRlZF9kZiA9IHBkLkRhdGFGcmFtZSgKICAgICAgICBzaXIoCiAgICAgICAgICAgIHN1c2NlcHRpYmxlPW1pdGlnYXRlZF9kZlsic3VzY2VwdGlibGUiXVtNSVRJR0FURURfREFZU10sCiAgICAgICAgICAgIHRvdGFsX2luZmVjdGVkPW1pdGlnYXRlZF9kZlsidG90YWxfaW5mZWN0ZWQiXVtNSVRJR0FURURfREFZU10sCiAgICAgICAgICAgIHRvdGFsX3JlY292ZXJlZD1taXRpZ2F0ZWRfZGZbInRvdGFsX3JlY292ZXJlZCJdW01JVElHQVRFRF9EQVlTXSwKICAgICAgICAgICAgbmV3X2luZmVjdGVkPW1pdGlnYXRlZF9kZlsibmV3X2luZmVjdGVkIl1bTUlUSUdBVEVEX0RBWVNdLAogICAgICAgICAgICBuZXdfcmVjb3ZlcmVkPW1pdGlnYXRlZF9kZlsibmV3X3JlY292ZXJlZCJdW01JVElHQVRFRF9EQVlTXSwKICAgICAgICAgICAgYmV0YT1VTk1JVElHQVRFRF9CRVRBLAogICAgICAgICAgICBnYW1tYT1HQU1NQSwKICAgICAgICAgICAgc3RhcnQ9TUlUSUdBVEVEX0RBWVMsCiAgICAgICAgICAgIHN0b3A9VE9UQUxfREFZUwogICAgICAgICksIGNvbHVtbnM9Y29sdW1uX25hbWVzCiAgICApLmNsaXAodXBwZXI9Q09VTlRZX1BPUFVMQVRJT04sIGF4aXM9MSkK</text>
       </register>
-      <register name="*" type="4">
-        <text>.clip(upper=COUNTY_POPULATION, axis=1)</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIGNvbHVtbl9uYW1lcyA9IFsKICAgICAgICAiZGF5cyIsCiAgICAgICAgInN1c2NlcHRpYmxlIiwKICAgICAgICAidG90YWxfaW5mZWN0ZWQiLAogICAgICAgICJ0b3RhbF9yZWNvdmVyZWQiLAogICAgICAgICJuZXdfaW5mZWN0ZWQiLAogICAgICAgICJuZXdfcmVjb3ZlcmVkIiwKICAgICAgICAnbm9uX2ljdV9pbmNpZGVuY2VfaGlnaCcsCiAgICAgICAgJ25vbl9pY3VfaW5jaWRlbmNlX21pZCcsCiAgICAgICAgJ25vbl9pY3VfaW5jaWRlbmNlX2xvdycsCiAgICAgICAgJ2ljdV9pbmNpZGVuY2VfaGlnaCcsCiAgICAgICAgJ2ljdV9pbmNpZGVuY2VfbWlkJywKICAgICAgICAnaWN1X2luY2lkZW5jZV9sb3cnLAogICAgICAgICJiZXRhIiwKICAgICAgICAiZG91YmxpbmdfdGltZSIsCiAgICAgICAgImdyb3d0aF9yYXRlIiwKICAgICAgICAicl9uYXVnaHQiCiAgICBdCiAgICBtaXRpZ2F0ZWRfZGYgPSBwZC5EYXRhRnJhbWUoCiAgICAgICAgc2lyKAogICAgICAgICAgICBzdXNjZXB0aWJsZT1DT1VOVFlfUE9QVUxBVElPTiwKICAgICAgICAgICAgdG90YWxfaW5mZWN0ZWQ9SU5GRUNURURfQ09ORklSTUVELAogICAgICAgICAgICBuZXdfaW5mZWN0ZWQ9SU5GRUNURURfTkVXLAogICAgICAgICAgICB0b3RhbF9yZWNvdmVyZWQ9UkVDT1ZFUkVELAogICAgICAgICAgICBiZXRhPU1JVElHQVRFRF9CRVRBLAogICAgICAgICAgICBnYW1tYT1HQU1NQSwKICAgICAgICAgICAgc3RhcnQ9MCwKICAgICAgICAgICAgc3RvcD1NSVRJR0FURURfREFZUwogICAgICAgICksIGNvbHVtbnM9Y29sdW1uX25hbWVzCiAgICApLmNsaXAodXBwZXI9Q09VTlRZX1BPUFVMQVRJT04sIGF4aXM9MSkKCiAgICB1bm1pdGlnYXRlZF9kZiA9IHBkLkRhdGFGcmFtZSgKICAgICAgICBzaXIoCiAgICAgICAgICAgIHN1c2NlcHRpYmxlPW1pdGlnYXRlZF9kZlsic3VzY2VwdGlibGUiXVtNSVRJR0FURURfREFZU10sCiAgICAgICAgICAgIHRvdGFsX2luZmVjdGVkPW1pdGlnYXRlZF9kZlsidG90YWxfaW5mZWN0ZWQiXVtNSVRJR0FURURfREFZU10sCiAgICAgICAgICAgIHRvdGFsX3JlY292ZXJlZD1taXRpZ2F0ZWRfZGZbInRvdGFsX3JlY292ZXJlZCJdW01JVElHQVRFRF9EQVlTXSwKICAgICAgICAgICAgbmV3X2luZmVjdGVkPW1pdGlnYXRlZF9kZlsibmV3X2luZmVjdGVkIl1bTUlUSUdBVEVEX0RBWVNdLAogICAgICAgICAgICBuZXdfcmVjb3ZlcmVkPW1pdGlnYXRlZF9kZlsibmV3X3JlY292ZXJlZCJdW01JVElHQVRFRF9EQVlTXSwKICAgICAgICAgICAgYmV0YT1VTk1JVElHQVRFRF9CRVRBLAogICAgICAgICAgICBnYW1tYT1HQU1NQSwKICAgICAgICAgICAgc3RhcnQ9TUlUSUdBVEVEX0RBWVMsCiAgICAgICAgICAgIHN0b3A9VE9UQUxfREFZUwogICAgICAgICksIGNvbHVtbnM9Y29sdW1uX25hbWVzCiAgICApLmNsaXAodXBwZXI9Q09VTlRZX1BPUFVMQVRJT04sIGF4aXM9MSkK</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
       </register>
       <register name="-" type="4">
-        <text>.clip(upper=COUNTY_POPULATION, axis=1)</text>
+        <text>UN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlX2FkanVzdG1lbnRfZmFjdG9yXD4=</text>
