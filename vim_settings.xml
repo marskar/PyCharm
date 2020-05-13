@@ -121,10 +121,10 @@
         <mark key="^" line="385" column="35" />
         <mark key="." line="364" column="5" />
       </file>
-      <file name="$USER_HOME$/mskar/sir/tests/test_sir.py" timestamp="1589389590109">
-        <mark key="'" line="73" column="48" />
-        <mark key="[" line="79" column="22" />
-        <mark key="]" line="79" column="24" />
+      <file name="$USER_HOME$/mskar/sir/tests/test_sir.py" timestamp="1589391289266">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="24" column="1" />
         <mark key="." line="79" column="23" />
         <mark key="^" line="79" column="24" />
       </file>
@@ -159,15 +159,16 @@
       <jump line="64" column="8" filename="$USER_HOME$/mskar/sir/tests/test_sir.py" />
       <jump line="73" column="48" filename="$USER_HOME$/mskar/sir/tests/test_sir.py" />
       <jump line="190" column="73" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/mskar/sir/tests/test_sir.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGFsbF92YWx1ZXNfbGVfcG9wdWxhdGlvbigpOgogICAgYXNzZXJ0IGFsbCh1bm1pdGlnYXRlZF9kZi5zZWxlY3RfZHR5cGVzKCJudW1iZXIiKSA8PSBDT1VOVFlfUE9QVUxBVElPTikKCg==</text>
+        <text encoding="base64">Q09VTlRZX1BPUFVMQVRJT04gPSAyMDBfMDAwCklORkVDVEVEX0NPTkZJUk1FRCA9IDEwMApJTkZFQ1RFRF9ORVcgPSAxOApSRUNPVkVSRUQgPSBpbnQocm91bmQoMS43OSAqIElORkVDVEVEX0NPTkZJUk1FRCkpClJFQ09WRVJZX1RJTUUgPSA3CkdBTU1BID0gMSAvIFJFQ09WRVJZX1RJTUUKTUlUSUdBVEVEX0RBWVMgPSAzMApUT1RBTF9EQVlTID0gOTAKTUlUSUdBVEVEX0RPVUJMSU5HX1RJTUUgPSA0Ck1JVElHQVRFRF9HUk9XVEhfUkFURSA9IDIgKiogKDEgLyBNSVRJR0FURURfRE9VQkxJTkdfVElNRSkgLSAxCk1JVElHQVRFRF9CRVRBID0gKAogICAgICAgIChNSVRJR0FURURfR1JPV1RIX1JBVEUgKyBHQU1NQSkKICAgICAgICAvIChDT1VOVFlfUE9QVUxBVElPTiAtIElORkVDVEVEX0NPTkZJUk1FRCkKKQpVTk1JVElHQVRFRF9ET1VCTElOR19USU1FID0gMQpVTk1JVElHQVRFRF9HUk9XVEhfUkFURSA9IDIgKiogKDEgLyBVTk1JVElHQVRFRF9ET1VCTElOR19USU1FKSAtIDEKVU5NSVRJR0FURURfQkVUQSA9ICgKICAgICAgICAoVU5NSVRJR0FURURfR1JPV1RIX1JBVEUgKyBHQU1NQSkKICAgICAgICAvIChDT1VOVFlfUE9QVUxBVElPTiAtIElORkVDVEVEX0NPTkZJUk1FRCkKKQo=</text>
       </register>
-      <register name="*" type="4">
-        <text>INFECTED_CONFIRMED +</text>
+      <register name="*" type="2">
+        <text encoding="base64">Q09VTlRZX1BPUFVMQVRJT04gPSAyMDBfMDAwCklORkVDVEVEX0NPTkZJUk1FRCA9IDEwMApJTkZFQ1RFRF9ORVcgPSAxOApSRUNPVkVSRUQgPSBpbnQocm91bmQoMS43OSAqIElORkVDVEVEX0NPTkZJUk1FRCkpClJFQ09WRVJZX1RJTUUgPSA3CkdBTU1BID0gMSAvIFJFQ09WRVJZX1RJTUUKTUlUSUdBVEVEX0RBWVMgPSAzMApUT1RBTF9EQVlTID0gOTAKTUlUSUdBVEVEX0RPVUJMSU5HX1RJTUUgPSA0Ck1JVElHQVRFRF9HUk9XVEhfUkFURSA9IDIgKiogKDEgLyBNSVRJR0FURURfRE9VQkxJTkdfVElNRSkgLSAxCk1JVElHQVRFRF9CRVRBID0gKAogICAgICAgIChNSVRJR0FURURfR1JPV1RIX1JBVEUgKyBHQU1NQSkKICAgICAgICAvIChDT1VOVFlfUE9QVUxBVElPTiAtIElORkVDVEVEX0NPTkZJUk1FRCkKKQpVTk1JVElHQVRFRF9ET1VCTElOR19USU1FID0gMQpVTk1JVElHQVRFRF9HUk9XVEhfUkFURSA9IDIgKiogKDEgLyBVTk1JVElHQVRFRF9ET1VCTElOR19USU1FKSAtIDEKVU5NSVRJR0FURURfQkVUQSA9ICgKICAgICAgICAoVU5NSVRJR0FURURfR1JPV1RIX1JBVEUgKyBHQU1NQSkKICAgICAgICAvIChDT1VOVFlfUE9QVUxBVElPTiAtIElORkVDVEVEX0NPTkZJUk1FRCkKKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
