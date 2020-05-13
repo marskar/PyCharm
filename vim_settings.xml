@@ -97,12 +97,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589225502146">
-        <mark key="'" line="387" column="34" />
-        <mark key="[" line="383" column="33" />
-        <mark key="]" line="384" column="41" />
-        <mark key="^" line="384" column="41" />
-        <mark key="." line="383" column="38" />
+      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589380316102">
+        <mark key="'" line="388" column="34" />
+        <mark key="[" line="364" column="5" />
+        <mark key="]" line="364" column="43" />
+        <mark key="^" line="385" column="35" />
+        <mark key="." line="364" column="5" />
       </file>
       <file name="/" timestamp="1589224016217">
         <mark key="[" line="0" column="0" />
@@ -117,17 +117,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVubWl0aWdhdGVkX2RmWyJzdXNjZXB0aWJsZSJdCg==</text>
+      <register name="0" type="4">
+        <text>population_column_name</text>
       </register>
       <register name="*" type="4">
-        <text>susceptible</text>
+        <text>.clip(upper=COUNTY_POPULATION, axis=1)</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
       </register>
       <register name="-" type="4">
-        <text>susceptible</text>
+        <text>.clip(upper=COUNTY_POPULATION, axis=1)</text>
       </register>
     </registers>
   </component>
