@@ -121,12 +121,12 @@
         <mark key="^" line="385" column="35" />
         <mark key="." line="364" column="5" />
       </file>
-      <file name="$USER_HOME$/mskar/sir/tests/test_sir.py" timestamp="1589385581477">
+      <file name="$USER_HOME$/mskar/sir/tests/test_sir.py" timestamp="1589389590109">
         <mark key="'" line="73" column="48" />
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="55" column="2" />
-        <mark key="." line="55" column="1" />
-        <mark key="^" line="55" column="2" />
+        <mark key="[" line="79" column="22" />
+        <mark key="]" line="79" column="24" />
+        <mark key="." line="79" column="23" />
+        <mark key="^" line="79" column="24" />
       </file>
       <file name="/" timestamp="1589224016217">
         <mark key="[" line="0" column="0" />
@@ -163,17 +163,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="4">
-        <text>clip(upper=COUNTY_POPULATION, axis=1)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGFsbF92YWx1ZXNfbGVfcG9wdWxhdGlvbigpOgogICAgYXNzZXJ0IGFsbCh1bm1pdGlnYXRlZF9kZi5zZWxlY3RfZHR5cGVzKCJudW1iZXIiKSA8PSBDT1VOVFlfUE9QVUxBVElPTikKCg==</text>
       </register>
       <register name="*" type="4">
-        <text>clip(upper=COUNTY_POPULATION, axis=1)</text>
+        <text>INFECTED_CONFIRMED +</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
       </register>
       <register name="-" type="4">
-        <text>unmitigated_gt_mitigated</text>
+        <text>INFECTED_CONFIRMED +</text>
       </register>
       <register name="/" type="4">
         <text>clip</text>
