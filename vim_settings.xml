@@ -6,6 +6,11 @@
   </component>
   <component name="VimHistorySettings">
     <history>
+      <history-search>
+        <entry>case</entry>
+        <entry>total</entry>
+        <entry encoding="base64">XDxjYXNlX2FkanVzdG1lbnRfZmFjdG9yXD4=</entry>
+      </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
@@ -97,8 +102,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589380316102">
-        <mark key="'" line="388" column="34" />
+      <file name="$USER_HOME$/mskar/sir/tests/test_population.py" timestamp="1589380689974">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589382064547">
+        <mark key="'" line="66" column="8" />
         <mark key="[" line="364" column="5" />
         <mark key="]" line="364" column="43" />
         <mark key="^" line="385" column="35" />
@@ -113,6 +121,21 @@
       <jump line="378" column="4" filename="$USER_HOME$/mskar/sir/sir.py" />
       <jump line="311" column="4" filename="$USER_HOME$/mskar/sir/sir.py" />
       <jump line="383" column="34" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="116" column="4" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="55" column="49" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="58" column="45" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="70" column="18" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="76" column="11" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="77" column="11" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="146" column="30" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="148" column="32" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="153" column="8" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="154" column="8" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="171" column="36" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="173" column="38" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="21" column="8" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/mskar/sir/sir.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -129,11 +152,17 @@
       <register name="-" type="4">
         <text>.clip(upper=COUNTY_POPULATION, axis=1)</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjYXNlX2FkanVzdG1lbnRfZmFjdG9yXD4=</text>
+      </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxjYXNlX2FkanVzdG1lbnRfZmFjdG9yXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjYXNlX2FkanVzdG1lbnRfZmFjdG9yXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
