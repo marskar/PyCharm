@@ -114,11 +114,12 @@
       <file name="/a.dummy" timestamp="1589384836272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1589498414577">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1589499223067">
+        <mark key="'" line="18" column="45" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="46" />
       </file>
       <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589388341973">
         <mark key="'" line="190" column="73" />
@@ -166,45 +167,50 @@
       <jump line="73" column="48" filename="$USER_HOME$/mskar/sir/tests/test_sir.py" />
       <jump line="190" column="73" filename="$USER_HOME$/mskar/sir/sir.py" />
       <jump line="4" column="0" filename="$USER_HOME$/mskar/sir/tests/test_sir.py" />
+      <jump line="17" column="39" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="18" column="45" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>[(x_i - min(x)) / (max(x) - min(x)) for x_i in x]</text>
+      <register name="*" type="2">
+        <text encoding="base64">c2NhbGVkX3ZhbHVlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>[(x_i - min(x)) / (max(x) - min(x)) for x_i in x]</text>
+        <text>original_values</text>
       </register>
       <register name="/" type="4">
         <text>clip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1heF92YWwgPSBtYXgodmFsdWVzKQo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlCgpjbGFzcyBNaW5NYXhTY2FsZXI6CiAgICBkZWYgX19pbml0X18oc2VsZiwgdmFsdWVzOiBUdXBsZSk6CiAgICAgICAgc2VsZi52YWx1ZXMgPSB2YWx1ZXMKICAgICAgICBzZWxmLm1pbl92YWwgPSBtaW4odmFsdWVzKQogICAgICAgIHNlbGYubWF4X3ZhbCA9IG1heCh2YWx1ZXMpCgogICAgZGVmIG1pbl9tYXhfc2NhbGUoc2VsZiwgeDogVHVwbGUpOgogICAgICAgIHJldHVybiBbKHhfaSAtIHNlbGYubWluX3ZhbCkgLyAoc2VsZi5tYXhfdmFsIC0gc2VsZi5taW5fdmFsKSBmb3IgeF9pIGluIHhdCgogICAgZGVmIGludmVyc2VfbWluX21heF9zY2FsZShzZWxmLCB4OiBUdXBsZSk6CiAgICAgICAgcmV0dXJuIFt4X2kgKiAoc2VsZi5tYXhfdmFsIC0gc2VsZi5taW5fdmFsKSArIHNlbGYubWluX3ZhbCBmb3IgeF9pIGluIHhdCgpvcmlnaW5hbF92YWx1ZXMgPSA1LCA4LCAxMgptbXMgPSBNaW5NYXhTY2FsZXIob3JpZ2luYWxfdmFsdWVzKQpzY2FsZWRfdmFsdWVzID0gbW1zLm1pbl9tYXhfc2NhbGUob3JpZ2luYWxfdmFsdWVzKQptbXMuaW52ZXJzZV9taW5fbWF4X3NjYWxlKHNjYWxlZF92YWx1ZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FsZSA9IDEgLyAobWF4KHgpIC0gbWluKHgpCg==</text>
+        <text encoding="base64">c2NhbGVkX3ZhbHVlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZhbHVlX3JhbmdlID0gc2VsZi5taW5fdmFsCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW52ZXJzZV9taW5fbWF4X3NjYWxlKG1pbl9tYXhfc2NhbGUoWzIsIDQsIDhdKSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGYudmFsdWVzID0gdmFsdWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWluX21heF9zY2FsZShbMiwgNCwgOF0pKQo=</text>
+        <text encoding="base64">bW1zLmludmVyc2VfbWluX21heF9zY2FsZShtbXMubWluX21heF9zY2FsZSg2KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1pbl94ID0gbWluKHgpIAo=</text>
+        <text encoding="base64">bW1zID0gTWluTWF4U2NhbGVyKFs1LCA4LCAxMl0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1heF94ID0gbWF4KHgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjYWxlZF9yYW5nZSA9IHNjYWxlZF9yYW5nZQo=</text>
       </register>
       <register name="8" type="2">
-        <text>Xi = (Xi - Xmin)/(Xmax-Xmin)</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcmVsZWFzZV9mcm9tX3BlcmNlbnQoeCwgdW5taXRpZ2F0ZWQsIG1pdGlnYXRlZCk6CiAgICAgICAgcmV0dXJuIFsoeF9pIC0gKSAvIChtYXgoeCkgLSBtaW4oeCkpIGZvciB4X2kgaW4geF0KCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
