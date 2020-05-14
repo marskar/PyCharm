@@ -114,11 +114,11 @@
       <file name="/a.dummy" timestamp="1589384836272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1589496420110">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1589497365425">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589388341973">
         <mark key="'" line="190" column="73" />
@@ -171,16 +171,28 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">Q09VTlRZX1BPUFVMQVRJT04gPSAyMDBfMDAwCklORkVDVEVEX0NPTkZJUk1FRCA9IDEwMApJTkZFQ1RFRF9ORVcgPSAxOApSRUNPVkVSRUQgPSBpbnQocm91bmQoMS43OSAqIElORkVDVEVEX0NPTkZJUk1FRCkpClJFQ09WRVJZX1RJTUUgPSA3CkdBTU1BID0gMSAvIFJFQ09WRVJZX1RJTUUKTUlUSUdBVEVEX0RBWVMgPSAzMApUT1RBTF9EQVlTID0gOTAKTUlUSUdBVEVEX0RPVUJMSU5HX1RJTUUgPSA0Ck1JVElHQVRFRF9HUk9XVEhfUkFURSA9IDIgKiogKDEgLyBNSVRJR0FURURfRE9VQkxJTkdfVElNRSkgLSAxCk1JVElHQVRFRF9CRVRBID0gKAogICAgICAgIChNSVRJR0FURURfR1JPV1RIX1JBVEUgKyBHQU1NQSkKICAgICAgICAvIChDT1VOVFlfUE9QVUxBVElPTiAtIElORkVDVEVEX0NPTkZJUk1FRCkKKQpVTk1JVElHQVRFRF9ET1VCTElOR19USU1FID0gMQpVTk1JVElHQVRFRF9HUk9XVEhfUkFURSA9IDIgKiogKDEgLyBVTk1JVElHQVRFRF9ET1VCTElOR19USU1FKSAtIDEKVU5NSVRJR0FURURfQkVUQSA9ICgKICAgICAgICAoVU5NSVRJR0FURURfR1JPV1RIX1JBVEUgKyBHQU1NQSkKICAgICAgICAvIChDT1VOVFlfUE9QVUxBVElPTiAtIElORkVDVEVEX0NPTkZJUk1FRCkKKQo=</text>
+        <text encoding="base64">ZGVmIG1pbl9tYXhfc2NhbGUoeCk6CiAgICByZXR1cm4gWyh4X2kgLSBtaW4oeCkpIC8gKG1heCh4KSAtIG1pbih4KSkgZm9yIHhfaSBpbiB4XQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">bWluX21heF9zY2FsZShbMiwgNCwgOF0pKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG1pbl94ID0gbWluKHgpIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1heF94ID0gbWF4KHgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text>Xi = (Xi - Xmin)/(Xmax-Xmin)</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Q09VTlRZX1BPUFVMQVRJT04gPSAyMDBfMDAwCklORkVDVEVEX0NPTkZJUk1FRCA9IDEwMApJTkZFQ1RFRF9ORVcgPSAxOApSRUNPVkVSRUQgPSBpbnQocm91bmQoMS43OSAqIElORkVDVEVEX0NPTkZJUk1FRCkpClJFQ09WRVJZX1RJTUUgPSA3CkdBTU1BID0gMSAvIFJFQ09WRVJZX1RJTUUKTUlUSUdBVEVEX0RBWVMgPSAzMApUT1RBTF9EQVlTID0gOTAKTUlUSUdBVEVEX0RPVUJMSU5HX1RJTUUgPSA0Ck1JVElHQVRFRF9HUk9XVEhfUkFURSA9IDIgKiogKDEgLyBNSVRJR0FURURfRE9VQkxJTkdfVElNRSkgLSAxCk1JVElHQVRFRF9CRVRBID0gKAogICAgICAgIChNSVRJR0FURURfR1JPV1RIX1JBVEUgKyBHQU1NQSkKICAgICAgICAvIChDT1VOVFlfUE9QVUxBVElPTiAtIElORkVDVEVEX0NPTkZJUk1FRCkKKQpVTk1JVElHQVRFRF9ET1VCTElOR19USU1FID0gMQpVTk1JVElHQVRFRF9HUk9XVEhfUkFURSA9IDIgKiogKDEgLyBVTk1JVElHQVRFRF9ET1VCTElOR19USU1FKSAtIDEKVU5NSVRJR0FURURfQkVUQSA9ICgKICAgICAgICAoVU5NSVRJR0FURURfR1JPV1RIX1JBVEUgKyBHQU1NQSkKICAgICAgICAvIChDT1VOVFlfUE9QVUxBVElPTiAtIElORkVDVEVEX0NPTkZJUk1FRCkKKQo=</text>
+        <text encoding="base64">ZGVmIG1pbl9tYXhfc2NhbGUoeCk6CiAgICByZXR1cm4gWyh4X2kgLSBtaW4oeCkpIC8gKG1heCh4KSAtIG1pbih4KSkgZm9yIHhfaSBpbiB4XQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
       </register>
       <register name="-" type="4">
-        <text>INFECTED_CONFIRMED +</text>
+        <text>max_scale(</text>
       </register>
       <register name="/" type="4">
         <text>clip</text>
