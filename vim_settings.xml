@@ -114,6 +114,12 @@
       <file name="/a.dummy" timestamp="1589384836272">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1589496420110">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589388341973">
         <mark key="'" line="190" column="73" />
         <mark key="[" line="364" column="6" />
