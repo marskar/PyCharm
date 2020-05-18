@@ -11,10 +11,12 @@
         <entry>total</entry>
         <entry encoding="base64">XDxjYXNlX2FkanVzdG1lbnRfZmFjdG9yXD4=</entry>
         <entry>clip</entry>
+        <entry>line</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action CloseProject</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
     </history>
   </component>
@@ -104,6 +106,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/mskar/sir/usa_facts.py" timestamp="1589385740357" />
+      <file name="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" timestamp="1589806122724">
+        <mark key="'" line="162" column="21" />
+        <mark key="[" line="152" column="19" />
+        <mark key="]" line="152" column="25" />
+        <mark key="." line="152" column="24" />
+        <mark key="^" line="152" column="25" />
+      </file>
       <file name="$USER_HOME$/mskar/sir/tests/test_population.py" timestamp="1589384813435">
         <mark key="'" line="55" column="11" />
         <mark key="[" line="73" column="44" />
@@ -134,6 +143,7 @@
         <mark key="." line="79" column="23" />
         <mark key="^" line="79" column="24" />
       </file>
+      <file name="$USER_HOME$/covid/research/code/Python/realtime-r0.py" timestamp="1589806163390" />
       <file name="/" timestamp="1589224016217">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,21 +178,23 @@
       <jump line="4" column="0" filename="$USER_HOME$/mskar/sir/tests/test_sir.py" />
       <jump line="17" column="39" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="18" column="45" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" />
+      <jump line="162" column="21" filename="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlLCBMaXN0CgpjbGFzcyBNaW5NYXhTY2FsZXI6CiAgICBkZWYgX19pbml0X18oc2VsZiwgdmFsdWVzOiBUdXBsZSkgLT4gTGlzdDoKICAgICAgICBzZWxmLnZhbHVlcyA9IHZhbHVlcwogICAgICAgIHNlbGYubWluX3ZhbCA9IG1pbih2YWx1ZXMpCiAgICAgICAgc2VsZi5tYXhfdmFsID0gbWF4KHZhbHVlcykKICAgICAgICBzZWxmLm1heF9taW5fZGlmZiA9IHNlbGYubWF4X3ZhbCAtIHNlbGYubWluX3ZhbAoKICAgIGRlZiBtaW5fbWF4X3NjYWxlKHNlbGYsIHg6IFR1cGxlKToKICAgICAgICByZXR1cm4gWyh4X2kgLSBzZWxmLm1pbl92YWwpIC8gc2VsZi5tYXhfbWluX2RpZmYgZm9yIHhfaSBpbiB4XQoKICAgIGRlZiBpbnZlcnNlX21pbl9tYXhfc2NhbGUoc2VsZiwgeDogVHVwbGUpOgogICAgICAgIHJldHVybiBbeF9pICogc2VsZi5tYXhfbWluX2RpZmYgKyBzZWxmLm1pbl92YWwgZm9yIHhfaSBpbiB4XQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG9yaWdpbmFsX3ZhbHVlcyA9IDUsIDgsIDEyCiAgICBtbXMgPSBNaW5NYXhTY2FsZXIob3JpZ2luYWxfdmFsdWVzKQogICAgc2NhbGVkX3ZhbHVlcyA9IG1tcy5taW5fbWF4X3NjYWxlKG1tcy52YWx1ZXMpCiAgICBzY2FsZWRfdmFsdWVzICMgWzAuMCwgMC40Mjg1NzE0Mjg1NzE0Mjg1NSwgMS4wXQogICAgbW1zLmludmVyc2VfbWluX21heF9zY2FsZShzY2FsZWRfdmFsdWVzKSAjIFs1LjAsIDguMCwgMTIuMF0K</text>
+      <register name="*" type="4">
+        <text>csv</text>
       </register>
       <register name="-" type="4">
-        <text>(self.max_val - self.min_val)</text>
+        <text>csv</text>
       </register>
       <register name="/" type="4">
-        <text>clip</text>
+        <text>line</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlLCBMaXN0CgpjbGFzcyBNaW5NYXhTY2FsZXI6CiAgICBkZWYgX19pbml0X18oc2VsZiwgdmFsdWVzOiBUdXBsZSkgLT4gTGlzdDoKICAgICAgICBzZWxmLnZhbHVlcyA9IHZhbHVlcwogICAgICAgIHNlbGYubWluX3ZhbCA9IG1pbih2YWx1ZXMpCiAgICAgICAgc2VsZi5tYXhfdmFsID0gbWF4KHZhbHVlcykKICAgICAgICBzZWxmLm1heF9taW5fZGlmZiA9IHNlbGYubWF4X3ZhbCAtIHNlbGYubWluX3ZhbAoKICAgIGRlZiBtaW5fbWF4X3NjYWxlKHNlbGYsIHg6IFR1cGxlKToKICAgICAgICByZXR1cm4gWyh4X2kgLSBzZWxmLm1pbl92YWwpIC8gc2VsZi5tYXhfbWluX2RpZmYgZm9yIHhfaSBpbiB4XQoKICAgIGRlZiBpbnZlcnNlX21pbl9tYXhfc2NhbGUoc2VsZiwgeDogVHVwbGUpOgogICAgICAgIHJldHVybiBbeF9pICogc2VsZi5tYXhfbWluX2RpZmYgKyBzZWxmLm1pbl92YWwgZm9yIHhfaSBpbiB4XQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG9yaWdpbmFsX3ZhbHVlcyA9IDUsIDgsIDEyCiAgICBtbXMgPSBNaW5NYXhTY2FsZXIob3JpZ2luYWxfdmFsdWVzKQogICAgc2NhbGVkX3ZhbHVlcyA9IG1tcy5taW5fbWF4X3NjYWxlKG1tcy52YWx1ZXMpCiAgICBzY2FsZWRfdmFsdWVzICMgWzAuMCwgMC40Mjg1NzE0Mjg1NzE0Mjg1NSwgMS4wXQogICAgbW1zLmludmVyc2VfbWluX21heF9zY2FsZShzY2FsZWRfdmFsdWVzKSAjIFs1LjAsIDguMCwgMTIuMF0K</text>
+      <register name="0" type="4">
+        <text>https://raw.githubusercontent.com/beoutbreakprepared/nCoV2019/master/latest_data/latestdata.csv</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -212,15 +224,15 @@
         <text encoding="base64">ICAgIGRlZiBnZXRfcmVsZWFzZV9mcm9tX3BlcmNlbnQoeCwgdW5taXRpZ2F0ZWQsIG1pdGlnYXRlZCk6CiAgICAgICAgcmV0dXJuIFsoeF9pIC0gKSAvIChtYXgoeCkgLSBtaW4oeCkpIGZvciB4X2kgaW4geF0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clip</last-search>
+      <last-search>line</last-search>
       <last-offset />
-      <last-pattern>clip</last-pattern>
+      <last-pattern>line</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
