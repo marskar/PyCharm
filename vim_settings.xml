@@ -105,7 +105,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mskar/sir/usa_facts.py" timestamp="1589385740357" />
       <file name="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" timestamp="1589806122724">
         <mark key="'" line="162" column="21" />
         <mark key="[" line="152" column="19" />
@@ -119,6 +118,9 @@
         <mark key="]" line="74" column="4" />
         <mark key="^" line="74" column="4" />
         <mark key="." line="74" column="3" />
+      </file>
+      <file name="/Python Console" timestamp="1590499970465">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1589384836272">
         <mark key="[" line="0" column="0" />
@@ -143,7 +145,6 @@
         <mark key="." line="79" column="23" />
         <mark key="^" line="79" column="24" />
       </file>
-      <file name="$USER_HOME$/covid/research/code/Python/realtime-r0.py" timestamp="1589806163390" />
       <file name="/" timestamp="1589224016217">
         <mark key="[" line="0" column="0" />
       </file>
@@ -234,7 +235,7 @@
       <last-offset />
       <last-pattern>line</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
