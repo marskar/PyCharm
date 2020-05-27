@@ -15,9 +15,12 @@
       </history-search>
       <history-cmd>
         <entry>action CloseProject</entry>
+        <entry>action ReformatCode</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -105,22 +108,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" timestamp="1589806122724">
-        <mark key="'" line="162" column="21" />
-        <mark key="[" line="152" column="19" />
-        <mark key="]" line="152" column="25" />
-        <mark key="." line="152" column="24" />
-        <mark key="^" line="152" column="25" />
-      </file>
-      <file name="$USER_HOME$/mskar/sir/tests/test_population.py" timestamp="1589384813435">
-        <mark key="'" line="55" column="11" />
-        <mark key="[" line="73" column="44" />
-        <mark key="]" line="74" column="4" />
-        <mark key="^" line="74" column="4" />
-        <mark key="." line="74" column="3" />
-      </file>
-      <file name="/Python Console" timestamp="1590499970465">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/covid/research/code/python/usa_facts.py" timestamp="1590590694973">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1589384836272">
         <mark key="[" line="0" column="0" />
@@ -138,15 +130,38 @@
         <mark key="^" line="385" column="35" />
         <mark key="." line="364" column="5" />
       </file>
+      <file name="$USER_HOME$/covid/research/code/Python/explanatory.py" timestamp="1590589498748">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1589224016217">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" timestamp="1589806122724">
+        <mark key="'" line="162" column="21" />
+        <mark key="[" line="152" column="19" />
+        <mark key="]" line="152" column="25" />
+        <mark key="." line="152" column="24" />
+        <mark key="^" line="152" column="25" />
+      </file>
+      <file name="$USER_HOME$/covid/research/code/Python/usa_facts.py" timestamp="1590590293915">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/mskar/sir/tests/test_population.py" timestamp="1589384813435">
+        <mark key="'" line="55" column="11" />
+        <mark key="[" line="73" column="44" />
+        <mark key="]" line="74" column="4" />
+        <mark key="^" line="74" column="4" />
+        <mark key="." line="74" column="3" />
+      </file>
       <file name="$USER_HOME$/mskar/sir/tests/test_sir.py" timestamp="1589391289266">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="24" column="1" />
         <mark key="." line="79" column="23" />
         <mark key="^" line="79" column="24" />
-      </file>
-      <file name="/" timestamp="1589224016217">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -186,10 +201,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>csv</text>
+        <text>doubling</text>
       </register>
       <register name="-" type="4">
-        <text>csv</text>
+        <text>doubling</text>
       </register>
       <register name="/" type="4">
         <text>line</text>
@@ -198,31 +213,31 @@
         <text>https://raw.githubusercontent.com/beoutbreakprepared/nCoV2019/master/latest_data/latestdata.csv</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2NhbGVkX3ZhbHVlcwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBwbG90IGltcG9ydCBwbG90X2NvbHVtbnNfdmVyc3VzX2RheXMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW52ZXJzZV9taW5fbWF4X3NjYWxlKG1pbl9tYXhfc2NhbGUoWzIsIDQsIDhdKSkK</text>
+        <text encoding="base64">c2NhbGVkX3ZhbHVlcwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW1zLmludmVyc2VfbWluX21heF9zY2FsZShtbXMubWluX21heF9zY2FsZSg2KSkK</text>
+        <text encoding="base64">aW52ZXJzZV9taW5fbWF4X3NjYWxlKG1pbl9tYXhfc2NhbGUoWzIsIDQsIDhdKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW1zID0gTWluTWF4U2NhbGVyKFs1LCA4LCAxMl0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjYWxlZF9yYW5nZSA9IHNjYWxlZF9yYW5nZQo=</text>
+        <text encoding="base64">bW1zLmludmVyc2VfbWluX21heF9zY2FsZShtbXMubWluX21heF9zY2FsZSg2KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcmVsZWFzZV9mcm9tX3BlcmNlbnQoeCwgdW5taXRpZ2F0ZWQsIG1pdGlnYXRlZCk6CiAgICAgICAgcmV0dXJuIFsoeF9pIC0gKSAvIChtYXgoeCkgLSBtaW4oeCkpIGZvciB4X2kgaW4geF0KCg==</text>
+        <text encoding="base64">bW1zID0gTWluTWF4U2NhbGVyKFs1LCA4LCAxMl0pCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
