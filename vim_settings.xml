@@ -15,11 +15,11 @@
         <entry>grow</entry>
       </history-search>
       <history-cmd>
-        <entry>action ReformatCode</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>w</entry>
         <entry>action CloseProject</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -110,11 +110,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" timestamp="1590598099489">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="22" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/data_dir.py" timestamp="1590599262414">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" timestamp="1590600302042">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="8" />
+        <mark key="^" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/covid/research/code/python/usa_facts.py" timestamp="1590590694973">
         <mark key="[" line="6" column="17" />
@@ -127,8 +133,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1589384836272">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1590600419492">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1589500369086">
         <mark key="'" line="20" column="45" />
@@ -150,13 +158,6 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589388341973">
-        <mark key="'" line="190" column="73" />
-        <mark key="[" line="364" column="6" />
-        <mark key="]" line="364" column="42" />
-        <mark key="^" line="385" column="35" />
-        <mark key="." line="364" column="5" />
-      </file>
       <file name="$USER_HOME$/covid/research/code/Python/explanatory.py" timestamp="1590589498748">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,9 +166,6 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="22" />
-      </file>
-      <file name="/" timestamp="1589224016217">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" timestamp="1589806122724">
         <mark key="'" line="162" column="21" />
@@ -182,12 +180,18 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/mskar/sir/tests/test_population.py" timestamp="1589384813435">
-        <mark key="'" line="55" column="11" />
-        <mark key="[" line="73" column="44" />
-        <mark key="]" line="74" column="4" />
-        <mark key="^" line="74" column="4" />
-        <mark key="." line="74" column="3" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590600460700">
+        <mark key="'" line="5" column="54" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/path.py" timestamp="1590600129414">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/covid/research/code/python/data/county_pop.py" timestamp="1590597769185">
         <mark key="]" line="3" column="15" />
@@ -200,6 +204,12 @@
         <mark key="]" line="24" column="1" />
         <mark key="." line="79" column="23" />
         <mark key="^" line="79" column="24" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/usa_facts.py" timestamp="1590600541623">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -236,51 +246,52 @@
       <jump line="162" column="21" filename="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" />
       <jump line="16" column="0" filename="$USER_HOME$/covid/research/code/python/calc/doubling.py" />
       <jump line="21" column="0" filename="$USER_HOME$/covid/research/code/python/data/usa_facts.py" />
+      <jump line="5" column="54" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>range(1, 8)</text>
+      <register name="*" type="2">
+        <text encoding="base64">IyBNZWx0IGRhdGFmcmFtZSAod2lkZSB0byBsb25nIGZvcm1hdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>range(1, 8)</text>
+        <text>case_df = case_df</text>
       </register>
       <register name="/" type="4">
         <text>line</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGZbImNvdW50eV9maXBzIl0g</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWYgbm90IGNlbnN1c19kYXRhX2ZpbGUuZXhpc3RzKCk6CiAgICBjb3VudHlfcG9wID0gZ2V0X2NlbnN1c19kYXRhKCkKICAgIGNvdW50eV9wb3BbImNvdW50eV9maXBzIl0gPSBjb3VudHlfcG9wWyJDT1VOVFkiXSArIDEwMDAKICAgIGNvdW50eV9wb3AudG9fY3N2KGNlbnN1c19kYXRhX2ZpbGUpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGZbImNvdW50eV9maXBzIl0uc29ydF92YWx1ZXMoKQo=</text>
+        <text encoding="base64">IyBNZWx0IGRhdGFmcmFtZSAod2lkZSB0byBsb25nIGZvcm1hdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWF4X2RhdGUgPSBjYXNlX2RmWydkYXRlJ10ubWF4KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwbG90IGltcG9ydCBwbG90X2NvbHVtbnNfdmVyc3VzX2RheXMK</text>
+        <text encoding="base64">bWluX2RhdGUgPSBjYXNlX2RmWydkYXRlJ10ubWluKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2FzZV9kZlsiZGF5Il0gPSAoY2FzZV9kZlsnZGF0ZSddIC0gbWluX2RhdGUpLmR0LmRheXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2NhbGVkX3ZhbHVlcwo=</text>
+        <text encoding="base64">Y291bnR5X2RmID0gcGQucmVhZF9jc3YoZGF0YV9kaXJlY3RvcnkgLyAiY291bnR5X3BvcHNfdmV0c190b3RhbF9wb3AuY3N2IikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW52ZXJzZV9taW5fbWF4X3NjYWxlKG1pbl9tYXhfc2NhbGUoWzIsIDQsIDhdKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW1zLmludmVyc2VfbWluX21heF9zY2FsZShtbXMubWluX21heF9zY2FsZSg2KSkK</text>
+        <text encoding="base64">ZGF0YV9kaXIgLyAK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
