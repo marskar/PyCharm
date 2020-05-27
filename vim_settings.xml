@@ -12,6 +12,7 @@
         <entry encoding="base64">XDxjYXNlX2FkanVzdG1lbnRfZmFjdG9yXD4=</entry>
         <entry>clip</entry>
         <entry>line</entry>
+        <entry>grow</entry>
       </history-search>
       <history-cmd>
         <entry>action CloseProject</entry>
@@ -114,6 +115,11 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/covid/research/code/python/src/calc/doubling.py" timestamp="1590592169848">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1589384836272">
         <mark key="[" line="0" column="0" />
       </file>
@@ -122,6 +128,19 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="63" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/covid/research/code/python/data/usa_facts.py" timestamp="1590596791552">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/covid/research/code/python/calc/doubling.py" timestamp="1590596749620">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="43" />
+        <mark key="^" line="19" column="43" />
+        <mark key="." line="19" column="42" />
       </file>
       <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589388341973">
         <mark key="'" line="190" column="73" />
@@ -132,6 +151,12 @@
       </file>
       <file name="$USER_HOME$/covid/research/code/Python/explanatory.py" timestamp="1590589498748">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/covid/research/code/python/src/data/usa_facts.py" timestamp="1590592208193">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="/" timestamp="1589224016217">
         <mark key="[" line="0" column="0" />
@@ -155,6 +180,12 @@
         <mark key="]" line="74" column="4" />
         <mark key="^" line="74" column="4" />
         <mark key="." line="74" column="3" />
+      </file>
+      <file name="$USER_HOME$/covid/research/code/python/data/county_pop.py" timestamp="1590596793706">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/mskar/sir/tests/test_sir.py" timestamp="1589391289266">
         <mark key="'" line="4" column="0" />
@@ -196,12 +227,13 @@
       <jump line="18" column="45" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="61" column="0" filename="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" />
       <jump line="162" column="21" filename="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/covid/research/code/python/calc/doubling.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>doubling</text>
+      <register name="*" type="2">
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="-" type="4">
         <text>doubling</text>
@@ -209,8 +241,8 @@
       <register name="/" type="4">
         <text>line</text>
       </register>
-      <register name="0" type="4">
-        <text>https://raw.githubusercontent.com/beoutbreakprepared/nCoV2019/master/latest_data/latestdata.csv</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
