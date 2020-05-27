@@ -128,12 +128,11 @@
         <mark key="]" line="20" column="63" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/covid/research/code/python/data/usa_facts.py" timestamp="1590593660690">
-        <mark key="'" line="15" column="137" />
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="45" />
+      <file name="$USER_HOME$/covid/research/code/python/data/usa_facts.py" timestamp="1590594513269">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589388341973">
         <mark key="'" line="190" column="73" />
@@ -221,10 +220,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, &quot;CTYNAME&quot;, &quot;TOT_POP&quot;]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, &quot;CTYNAME&quot;, &quot;TOT_POP&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>line</text>
