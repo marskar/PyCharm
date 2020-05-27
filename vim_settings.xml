@@ -12,6 +12,7 @@
         <entry encoding="base64">XDxjYXNlX2FkanVzdG1lbnRfZmFjdG9yXD4=</entry>
         <entry>clip</entry>
         <entry>line</entry>
+        <entry>grow</entry>
       </history-search>
       <history-cmd>
         <entry>action CloseProject</entry>
@@ -134,6 +135,13 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/covid/research/code/python/calc/doubling.py" timestamp="1590595940740">
+        <mark key="'" line="37" column="20" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="43" />
+        <mark key="^" line="19" column="43" />
+        <mark key="." line="19" column="42" />
+      </file>
       <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1589388341973">
         <mark key="'" line="190" column="73" />
         <mark key="[" line="364" column="6" />
@@ -215,6 +223,7 @@
       <jump line="162" column="21" filename="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" />
       <jump line="16" column="62" filename="$USER_HOME$/covid/research/code/python/data/usa_facts.py" />
       <jump line="15" column="137" filename="$USER_HOME$/covid/research/code/python/data/usa_facts.py" />
+      <jump line="36" column="20" filename="$USER_HOME$/covid/research/code/python/calc/doubling.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -226,7 +235,7 @@
         <text>, &quot;CTYNAME&quot;, &quot;TOT_POP&quot;]</text>
       </register>
       <register name="/" type="4">
-        <text>line</text>
+        <text>grow</text>
       </register>
       <register name="0" type="4">
         <text>https://raw.githubusercontent.com/beoutbreakprepared/nCoV2019/master/latest_data/latestdata.csv</text>
@@ -265,11 +274,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>line</last-search>
+      <last-search>grow</last-search>
       <last-offset />
-      <last-pattern>line</last-pattern>
+      <last-pattern>grow</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
