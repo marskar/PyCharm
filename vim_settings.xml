@@ -19,8 +19,8 @@
         <entry>action ReformatCode</entry>
         <entry>action CloseProject</entry>
         <entry>w</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -182,12 +182,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590697707754">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590698268972">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="37" column="11" />
-        <mark key="]" line="37" column="16" />
-        <mark key="^" line="37" column="16" />
-        <mark key="." line="37" column="15" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="20" />
+        <mark key="^" line="53" column="20" />
+        <mark key="." line="53" column="19" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/path.py" timestamp="1590600129414">
         <mark key="[" line="7" column="0" />
@@ -310,7 +310,7 @@
         <text encoding="base64">ICAgIGdldF9kb3VibGluZ190aW1lLAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
