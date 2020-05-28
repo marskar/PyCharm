@@ -19,6 +19,7 @@
         <entry>action ReformatCode</entry>
         <entry>action CloseProject</entry>
         <entry>w</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
@@ -182,12 +183,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590705240931">
-        <mark key="'" line="39" column="10" />
-        <mark key="[" line="30" column="40" />
-        <mark key="]" line="30" column="12" />
-        <mark key="." line="30" column="11" />
-        <mark key="^" line="30" column="12" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590706352803">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="94" column="8" />
+        <mark key="]" line="94" column="8" />
+        <mark key="^" line="94" column="8" />
+        <mark key="." line="94" column="7" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/path.py" timestamp="1590600129414">
         <mark key="[" line="7" column="0" />
@@ -267,50 +268,53 @@
       <jump line="74" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="24" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="33" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="15" column="24" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="35" column="10" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y291bnR5X3BvcFsiU1RBVEUiXS5hc3R5cGUoc3RyKSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2FzZV9jb3VudHlfZGYgPSBjYXNlX2NvdW50eV9kZi5hc3NpZ24oCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvdW50eV9wb3BbImNvdW50eV9maXBzIl0gPSBjb3VudHlfcG9wWyJTVEFURSJdLmFzdHlwZShzdHIpICsgIjAgKyBjb3VudHlfcG9wWyJDT1VOVFkiXS5hc3R5cGUoc3RyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y291bnR5X3BvcFsiY291bnR5X2ZpcHMiXSA9IGNvdW50eV9wb3BbIlNUQVRFIl0uYXN0eXBlKHN0cikgKyBjb3VudHlfcG9wLkNPVU5UWS5hc3R5cGUoc3RyKS5zdHIuemZpbGwoMykK</text>
+        <text encoding="base64">IyBDb3VudHkgYmV0YXMKY2FzZV9jb3VudHlfZGZbImNvdW50eV9yX25hdWdodCJdID0gZ2V0X3J0KAogICAgY2FzZV9jb3VudHlfZGYsCiAgICAiY291bnR5X2JldGEiLAogICAgR0FNTUEsCiAgICAiY291bnR5X3BvcHVsYXRpb24iCikKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5zPVsiQ09VTlRZIiwgIlNUTkFNRSIsICJDVFlOQU1FIiwgIlBPUEVTVElNQVRFMjAxOSJdLAo=</text>
+        <text encoding="base64">Y2FzZV9jb3VudHlfZGZbImNvdW50eV9iZXRhIl0gPSBnZXRfYmV0YSgKICAgIGNhc2VfY291bnR5X2RmLAogICAgImNvdW50eV9nciIsCiAgICBHQU1NQSwKICAgICJjb3VudHlfcG9wdWxhdGlvbiIKKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvdW50eV9wb3BbImNvdW50eV9maXBzIl0gPSBjb3VudHlfcG9wWyJDT1VOVFkiXSArIDEwMDAK</text>
+        <text encoding="base64">IyBDb3VudHkgYmV0YXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y291bnR5X3BvcC5pbmRleC5udW5pcXVlKCkK</text>
+        <text encoding="base64">PSBnZXRfZG91YmxpbmdfdGltZSgKICAgIGNhc2VfY291bnR5X2RmLAogICAgImNvdW50eV9nciIKKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y291bnR5X3BvcC5zaGFwZQo=</text>
+        <text encoding="base64">IyBDb3VudHkgZG91YmxpbmcgdGltZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiMjAxMC0yMDE5L2NvdW50aWVzL3RvdGFscy9jby1lc3QyMDE5LWFubnJlcy54bHN4Igo=</text>
+        <text encoding="base64">IyBDb3VudHkgZ3Jvd3RoIHJhdGVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly93d3cyLmNlbnN1cy5nb3YvcHJvZ3JhbXMtc3VydmV5cy9wb3Blc3QvdGFibGVzLyIK</text>
+        <text encoding="base64">Y2FzZV9jb3VudHlfZGYuY29sdW1ucwpjYXNlcy5kYXkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly93d3cyLmNlbnN1cy5nb3YvcHJvZ3JhbXMtc3VydmV5cy9wb3Blc3QvZGF0YXNldHMvIgo=</text>
+        <text encoding="base64">ICAgIGNvdW50eV9wb3BbImNvdW50eV9maXBzIl0gPSBjb3VudHlfcG9wWyJTVEFURSJdLmFzdHlwZShzdHIpICsgIjAgKyBjb3VudHlfcG9wWyJDT1VOVFkiXS5hc3R5cGUoc3RyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
