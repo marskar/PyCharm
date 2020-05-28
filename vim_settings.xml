@@ -13,11 +13,12 @@
         <entry>clip</entry>
         <entry>line</entry>
         <entry>grow</entry>
+        <entry>day</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>action ReformatCode</entry>
         <entry>action CloseProject</entry>
+        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
@@ -133,12 +134,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1590688544594">
-        <mark key="'" line="13" column="18" />
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="20" column="8" />
-        <mark key="." line="18" column="31" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1590693607669">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="142" column="9" />
+        <mark key="]" line="142" column="10" />
+        <mark key="^" line="142" column="10" />
+        <mark key="." line="142" column="9" />
       </file>
       <file name="/a.dummy" timestamp="1590600419492">
         <mark key="[" line="0" column="3" />
@@ -181,11 +182,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590671090075">
-        <mark key="[" line="43" column="6" />
-        <mark key="]" line="43" column="12" />
-        <mark key="." line="43" column="12" />
-        <mark key="^" line="43" column="8" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590693783529">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/path.py" timestamp="1590600129414">
         <mark key="[" line="7" column="0" />
@@ -254,48 +256,57 @@
       <jump line="12" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/doubling.py" />
       <jump line="109" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
       <jump line="13" column="18" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
+      <jump line="47" column="44" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="130" column="27" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
+      <jump line="9" column="12" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="311" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="59" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
+      <jump line="69" column="41" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="10" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>time_differences</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>time_differences</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>line</text>
+        <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2FzZXMuaGVhZCgpCg==</text>
+        <text encoding="base64">IyBDb3VudHkgYmV0YXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgRW5kIHZhbHVlIGRpdmlkZWQgYnkgU3RhcnQgdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICBzdXNjZXB0aWJsZV9jb2w6IHN0cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGQgPSBkZltjYXNlX2NvbF0uZGlmZih3aW5kb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICBnYW1tYTogZmxvYXQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldF9sYXN0X2RvdWJsaW5nX3RpbWVfYnlfZ3JvdXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjYWxjLmRvdWJsaW5nIGltcG9ydCAoCiAgICBnZXRfZG91YmxpbmdfdGltZSwKICAgIGdldF9kb3VibGluZ190aW1lX2J5X2dyb3VwLAogICAgZ2V0X2dyb3d0aF9yYXRlLAogICAgZ2V0X2JldGEsCiAgICBnZXRfcl9uYXVnaHQsCiAgICBnZXRfbGFzdF9kb3VibGluZ190aW1lLAogICAgZ2V0X2xhc3RfZG91YmxpbmdfdGltZV9ieV9ncm91cAopCgoK</text>
+        <text encoding="base64">ICAgIGdldF9sYXN0X2RvdWJsaW5nX3RpbWUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgppbXBvcnQgbnVtcHkgYXMgbnAK</text>
+        <text encoding="base64">ICAgIGdldF9ncm93dGhfcmF0ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldF9kb3VibGluZ190aW1lLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNhX2ZhY3RzX2RhdGFfZmlsZSA9IGRhdGFfZGlyIC8gImNvdmlkX2NvbmZpcm1lZF91c2FmYWN0cy5jc3YiCg==</text>
+        <text encoding="base64">YXZlcmFnZV9ncm93dGhfcmF0ZShwZC5EYXRhRnJhbWUoeyJncm93dGhfcmF0ZSI6IGdldF9ncm93dGhfcmF0ZShkZiwgIngiLCAneScsIDEpfSksIHdpbmRvdz0yKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdW50eV9wb3AgPSBnZXRfY2Vuc3VzX2RhdGEoKQogICAgY291bnR5X3BvcFsiY291bnR5X2ZpcHMiXSA9IGNvdW50eV9wb3BbIkNPVU5UWSJdICsgMTAwMAogICAgY291bnR5X3BvcC50b19jc3YoY2Vuc3VzX2RhdGFfZmlsZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZi5ncm91cGJ5KGdyb3VwX2NvbClbZ3RfY29sXS5yb2xsaW5nKHdpbmRvdykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
@@ -304,11 +315,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>line</last-search>
+      <last-search>day</last-search>
       <last-offset />
-      <last-pattern>line</last-pattern>
+      <last-pattern>day</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
