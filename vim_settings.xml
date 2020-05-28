@@ -19,8 +19,8 @@
         <entry>action ReformatCode</entry>
         <entry>action CloseProject</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -182,12 +182,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590696628956">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="48" column="3" />
-        <mark key="]" line="48" column="3" />
-        <mark key="^" line="48" column="3" />
-        <mark key="." line="48" column="2" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590697707754">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="16" />
+        <mark key="^" line="37" column="16" />
+        <mark key="." line="37" column="15" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/path.py" timestamp="1590600129414">
         <mark key="[" line="7" column="0" />
@@ -265,51 +265,52 @@
       <jump line="69" column="41" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="10" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="74" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>confirmed_usafacts</text>
+        <text>head()</text>
       </register>
       <register name="-" type="4">
-        <text>confirmed_usafacts</text>
+        <text>head()</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="4">
-        <text>f&quot;{datetime.today().isoformat()}_covid_confirmed_usafacts.csv&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNhc2VzLnRvX2Nzdih1c2FfZmFjdHNfZGF0YV9maWxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXNjZXB0aWJsZV9jb2w6IHN0cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1tYTogZmxvYXQsCg==</text>
+        <text encoding="base64">Y2FzZV9jb3VudHlfZGYuY29sdW1ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldF9sYXN0X2RvdWJsaW5nX3RpbWVfYnlfZ3JvdXAK</text>
+        <text encoding="base64">IyAlJSBNZXJnZSBjYXNlIGRhdGEgYW5kIGNvdW50eSBsZXZlbCBkYXRhCmNhc2VfY291bnR5X2RmID0gY2FzZXMubWVyZ2UoCiAgICBjb3VudHlfcG9wLAogICAgbGVmdF9vbj0iY291bnR5RklQUyIsCiAgICByaWdodF9vbj0iY291bnR5X2ZpcHMiLAogICAgaG93PSJsZWZ0IiwKKS5yZW5hbWUoewogICAgImNvbmZpcm1lZCI6ICJjb3VudHlfY29uZmlybWVkIiwKICAgICJUT1RfUE9QIjogImNvdW50eV9wb3B1bGF0aW9uIgp9LCBheGlzPTEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldF9sYXN0X2RvdWJsaW5nX3RpbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXNjZXB0aWJsZV9jb2w6IHN0cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldF9ncm93dGhfcmF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICBnYW1tYTogZmxvYXQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldF9kb3VibGluZ190aW1lLAo=</text>
+        <text encoding="base64">ICAgIGdldF9sYXN0X2RvdWJsaW5nX3RpbWVfYnlfZ3JvdXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXZlcmFnZV9ncm93dGhfcmF0ZShwZC5EYXRhRnJhbWUoeyJncm93dGhfcmF0ZSI6IGdldF9ncm93dGhfcmF0ZShkZiwgIngiLCAneScsIDEpfSksIHdpbmRvdz0yKQo=</text>
+        <text encoding="base64">ICAgIGdldF9sYXN0X2RvdWJsaW5nX3RpbWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGYK</text>
+        <text encoding="base64">ICAgIGdldF9ncm93dGhfcmF0ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkZi5ncm91cGJ5KGdyb3VwX2NvbClbZ3RfY29sXS5yb2xsaW5nKHdpbmRvdykpCg==</text>
+        <text encoding="base64">ICAgIGdldF9kb3VibGluZ190aW1lLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
