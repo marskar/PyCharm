@@ -182,12 +182,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590701671559">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590702516156">
         <mark key="'" line="35" column="10" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="18" />
+        <mark key="." line="58" column="17" />
+        <mark key="^" line="58" column="18" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/path.py" timestamp="1590600129414">
         <mark key="[" line="7" column="0" />
@@ -273,44 +273,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">Y291bnR5X3BvcC5zaGFwZQo=</text>
+      <register name="*" type="4">
+        <text>left</text>
       </register>
       <register name="-" type="4">
-        <text>COUNTY</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y291bnR5X3BvcC5jb3VudHlfZmlwcy5udW5pcXVlKCkK</text>
+        <text encoding="base64">Y2FzZXMuaW5kZXgubnVuaXF1ZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y291bnR5X3BvcC5zaGFwZQo=</text>
+        <text encoding="base64">Y291bnR5X3BvcC5pbmRleC5udW5pcXVlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiMjAxMC0yMDE5L2NvdW50aWVzL3RvdGFscy9jby1lc3QyMDE5LWFubnJlcy54bHN4Igo=</text>
+        <text encoding="base64">Y291bnR5X3BvcC5zaGFwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly93d3cyLmNlbnN1cy5nb3YvcHJvZ3JhbXMtc3VydmV5cy9wb3Blc3QvdGFibGVzLyIK</text>
+        <text encoding="base64">ICAgICAgICAiMjAxMC0yMDE5L2NvdW50aWVzL3RvdGFscy9jby1lc3QyMDE5LWFubnJlcy54bHN4Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly93d3cyLmNlbnN1cy5nb3YvcHJvZ3JhbXMtc3VydmV5cy9wb3Blc3QvZGF0YXNldHMvIgo=</text>
+        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly93d3cyLmNlbnN1cy5nb3YvcHJvZ3JhbXMtc3VydmV5cy9wb3Blc3QvdGFibGVzLyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiMjAxMC0yMDE4L2NvdW50aWVzL2FzcmgvY2MtZXN0MjAxOC1hbGxkYXRhLmNzdiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly93d3cyLmNlbnN1cy5nb3YvcHJvZ3JhbXMtc3VydmV5cy9wb3Blc3QvZGF0YXNldHMvIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiMjAxMC0yMDE4L2NvdW50aWVzL2FzcmgvY2MtZXN0MjAxOC1hbGxkYXRhLmNzdiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FzZV9jb3VudHlfZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAlJSBNZXJnZSBjYXNlIGRhdGEgYW5kIGNvdW50eSBsZXZlbCBkYXRhCmNhc2VfY291bnR5X2RmID0gY2FzZXMubWVyZ2UoCiAgICBjb3VudHlfcG9wLAogICAgbGVmdF9vbj0iY291bnR5RklQUyIsCiAgICByaWdodF9vbj0iY291bnR5X2ZpcHMiLAogICAgaG93PSJsZWZ0IiwKKS5yZW5hbWUoewogICAgImNvbmZpcm1lZCI6ICJjb3VudHlfY29uZmlybWVkIiwKICAgICJUT1RfUE9QIjogImNvdW50eV9wb3B1bGF0aW9uIgp9LCBheGlzPTEpCg==</text>
+        <text encoding="base64">Y2FzZV9jb3VudHlfZGYuY29sdW1ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXNjZXB0aWJsZV9jb2w6IHN0cgo=</text>
+        <text encoding="base64">IyAlJSBNZXJnZSBjYXNlIGRhdGEgYW5kIGNvdW50eSBsZXZlbCBkYXRhCmNhc2VfY291bnR5X2RmID0gY2FzZXMubWVyZ2UoCiAgICBjb3VudHlfcG9wLAogICAgbGVmdF9vbj0iY291bnR5RklQUyIsCiAgICByaWdodF9vbj0iY291bnR5X2ZpcHMiLAogICAgaG93PSJsZWZ0IiwKKS5yZW5hbWUoewogICAgImNvbmZpcm1lZCI6ICJjb3VudHlfY29uZmlybWVkIiwKICAgICJUT1RfUE9QIjogImNvdW50eV9wb3B1bGF0aW9uIgp9LCBheGlzPTEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
