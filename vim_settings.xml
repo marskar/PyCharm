@@ -211,12 +211,12 @@
         <mark key="^" line="154" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590772832852">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590778219133">
         <mark key="'" line="18" column="4" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="5" />
-        <mark key="^" line="20" column="6" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="47" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590764272844">
         <mark key="'" line="88" column="20" />
@@ -369,7 +369,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>gr</text>
+        <text>na</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -378,13 +378,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gr</text>
+        <text>na</text>
       </register>
       <register name="/" type="4">
         <text>end</text>
       </register>
-      <register name="0" type="4">
-        <text>case_pop_rt_df</text>
+      <register name="0" type="2">
+        <text encoding="base64">Z3JfaXNfbmEgPSBjYXNlX3BvcF9ydF9kZlsiY291bnR5X2dyIl0uaXNuYSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY29sdW1ucwo=</text>
