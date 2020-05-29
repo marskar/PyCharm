@@ -131,10 +131,10 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590709906135">
-        <mark key="[" line="0" column="79" />
-        <mark key="]" line="0" column="79" />
-        <mark key="." line="0" column="79" />
+      <file name="/Dummy.txt" timestamp="1590717579146">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" timestamp="1590700966018">
         <mark key="[" line="3" column="37" />
@@ -182,18 +182,17 @@
       <file name="$USER_HOME$/covid/research/code/Python/explanatory.py" timestamp="1590589498748">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/hello.py" timestamp="1590758103917">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="3" column="8" />
+      </file>
       <file name="$USER_HOME$/covid/research/code/python/src/data/usa_facts.py" timestamp="1590592208193">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/covid/research/code/Python/realtime-rt-mcmc.py" timestamp="1589806122724">
-        <mark key="'" line="162" column="21" />
-        <mark key="[" line="152" column="19" />
-        <mark key="]" line="152" column="25" />
-        <mark key="." line="152" column="24" />
-        <mark key="^" line="152" column="25" />
       </file>
       <file name="$USER_HOME$/covid/research/code/Python/usa_facts.py" timestamp="1590590293915">
         <mark key="[" line="6" column="5" />
@@ -201,12 +200,19 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590717492362">
-        <mark key="'" line="381" column="22" />
-        <mark key="[" line="389" column="35" />
-        <mark key="]" line="389" column="45" />
-        <mark key="." line="389" column="44" />
-        <mark key="^" line="389" column="45" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590758439285">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590758526047">
+        <mark key="'" line="68" column="17" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+        <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/path.py" timestamp="1590600129414">
         <mark key="[" line="7" column="0" />
@@ -269,7 +275,6 @@
       <jump line="5" column="54" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="331" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data/usa_facts.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data/usa_facts.py" />
-      <jump line="23" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="33" column="13" filename="$USER_HOME$/Skarzynski-Martin/rt/data/usa_facts.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/doubling.py" />
       <jump line="109" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
@@ -320,6 +325,12 @@
       <jump line="333" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="381" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="324" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="389" column="35" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="196" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="19" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +350,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>shelter-in-place</text>
+        <text>merged</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -348,69 +359,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>shelter-in-place</text>
+        <text>merged</text>
       </register>
       <register name="/" type="4">
         <text>No order</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBUT0RPIGNyZWF0ZSBjb2x1bW4gb2YgZGF5cyBzaW5jZSBzaGVsdGVyLWluLXBsYWNlCg==</text>
+        <text encoding="base64">bWVyZ2VkX2ZpbGUgPSBkYXRhX2RpciAvIGYie2RhdGV0aW1lLnRvZGF5KCkuaXNvZm9ybWF0KCl9X2Nhc2VzX3BvcHVsYXRpb25zLmNzdiIK</text>
       </register>
       <register name="1" type="2">
-        <text>days_since_state_lockdown</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zmlyc3RfY2FzZV9kYXRlcyA9IGNhc2VzW2Nhc2VzWyJjb25maXJtZWQiXS5uZSgwKV0uZ3JvdXBieSgiY291bnR5RklQUyIpLmZpcnN0KClbImRhdGUiXQo=</text>
+        <text encoding="base64">R0FNTUEgPSAxIC8gUkVDT1ZFUllfVElNRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF5c19zaW5jZV9maXJzdF9jYXNlID0gY2FzZXNbImRhdGUiXSAtIGZpcnN0X2Nhc2VfZGF0ZXMKZGF5c19zaW5jZV9maXJzdF9jYXNlCg==</text>
+        <text encoding="base64">UkVDT1ZFUllfVElNRSA9IDE0Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>-
--
--
--
--
--</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>-2020
--1930
--2020
--2020
--2020
--2020</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKCmltcG9ydCBwYW5kYXMgYXMgcGQKCmZyb20gZGF0YS5wYXRoIGltcG9ydCBnZXRfZGF0YV9kaXIKZnJvbSBjYWxjLmdyb3d0aCBpbXBvcnQgKAogICAgZ2V0X2dyb3d0aF9yYXRlLAogICAgZ2V0X2dyb3d0aF9yYXRlX2J5X2dyb3VwLAogICAgZ2V0X2xhc3RfZ3Jvd3RoX3JhdGUsCiAgICBnZXRfbGFzdF9ncm93dGhfcmF0ZV9ieV9ncm91cCwKICAgIGdldF9kb3VibGluZ190aW1lLAogICAgZ2V0X2JldGEsCiAgICBnZXRfcnQsCikK</text>
       </register>
-      <register name="6" type="8">
-        <text>-
--
--
--</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKaW1wb3J0IHJ1bnB5CgppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IHBhbmRhcyBhcyBwZAoKZnJvbSBkYXRhLmNlbnN1cyBpbXBvcnQgZ2V0X2NlbnN1c19kYXRhCmZyb20gZGF0YS5wYXRoIGltcG9ydCBnZXRfZGF0YV9kaXIKZnJvbSBkYXRhLnVzYV9mYWN0cyBpbXBvcnQgZ2V0X3VzYV9mYWN0c19kYXRhCgpmcm9tIGNhbGMuZ3Jvd3RoIGltcG9ydCAoCiAgICBnZXRfZ3Jvd3RoX3JhdGUsCiAgICBnZXRfZ3Jvd3RoX3JhdGVfYnlfZ3JvdXAsCiAgICBnZXRfbGFzdF9ncm93dGhfcmF0ZSwKICAgIGdldF9sYXN0X2dyb3d0aF9yYXRlX2J5X2dyb3VwLAogICAgZ2V0X2RvdWJsaW5nX3RpbWUsCiAgICBnZXRfYmV0YSwKICAgIGdldF9ydCwKKQoKUkVDT1ZFUllfVElNRSA9IDE0CkdBTU1BID0gMSAvIFJFQ09WRVJZX1RJTUUKCmRhdGFfZGlyID0gZ2V0X2RhdGFfZGlyKCkKY2Vuc3VzX2RhdGFfZmlsZSA9IGRhdGFfZGlyIC8gImNjLWVzdDIwMTgtYWxsZGF0YS5jc3YiCnVzYV9mYWN0c19kYXRhX2ZpbGUgPSBkYXRhX2RpciAvIGYie2RhdGV0aW1lLnRvZGF5KCkuaXNvZm9ybWF0KCl9X2NvdmlkX2NvbmZpcm1lZF91c2FmYWN0cy5jc3YiCm1lcmdlZF9maWxlID0gZGF0YV9kaXIgLyBmIntkYXRldGltZS50b2RheSgpLmlzb2Zvcm1hdCgpfV9jYXNlc19wb3B1bGF0aW9ucy5jc3YiCgpydW5weS5ydW5fbW9kdWxlKCJoZWxsbyIpCgppZiBjZW5zdXNfZGF0YV9maWxlLmV4aXN0cygpOgogICAgY291bnR5X3BvcCA9IHBkLnJlYWRfY3N2KGNlbnN1c19kYXRhX2ZpbGUpCmVsc2U6CiAgICBjb3VudHlfcG9wID0gZ2V0X2NlbnN1c19kYXRhKAogICAgICAgIGNvbHVtbnM9WyJTVEFURSIsICJDT1VOVFkiLCAiU1ROQU1FIiwgIkNUWU5BTUUiLCAiUE9QRVNUSU1BVEUyMDE5Il0sCiAgICAgICAgZW5jb2Rpbmc9ImxhdGluLTEiCiAgICApCiAgICAjIENvbWJpbmUgc3RhdGUgYW5kIGNvdW50eSBmaXBzIHRvIG1hdGNoIHVzYSBmYWN0cyBkYXRhIGZpcHMgY29kZXMKICAgIGNvdW50eV9wb3AgPSBjb3VudHlfcG9wLmFzc2lnbigKICAgICAgICBjb3VudHlfZmlwcz0oCiAgICAgICAgICAgICAgICBjb3VudHlfcG9wWyJTVEFURSJdLmFzdHlwZShzdHIpCiAgICAgICAgICAgICAgICArIGNvdW50eV9wb3BbIkNPVU5UWSJdLmFzdHlwZShzdHIpLnN0ci56ZmlsbCgzKQogICAgICAgICkuYXN0eXBlKGludCkKICAgICkKICAgIGNvdW50eV9wb3AudG9fY3N2KGNlbnN1c19kYXRhX2ZpbGUsIGluZGV4PUZhbHNlKQoKaWYgdXNhX2ZhY3RzX2RhdGFfZmlsZS5leGlzdHMoKToKICAgIGNhc2VzID0gcGQucmVhZF9jc3YodXNhX2ZhY3RzX2RhdGFfZmlsZSkKZWxzZToKICAgIGNhc2VzID0gZ2V0X3VzYV9mYWN0c19kYXRhKCkKICAgIGNhc2VzLnRvX2Nzdih1c2FfZmFjdHNfZGF0YV9maWxlLCBpbmRleD1GYWxzZSkKCmlmIG1lcmdlZF9maWxlLmV4aXN0cygpOgogICAgY2FzZV9jb3VudHlfZGYgPSBwZC5yZWFkX2NzdihtZXJnZWRfZmlsZSkKZWxzZToKICAgICMgJSUgTWVyZ2UgY2FzZSBkYXRhIGFuZCBjb3VudHkgbGV2ZWwgZGF0YQogICAgY2FzZV9jb3VudHlfZGYgPSBjYXNlcy5tZXJnZSgKICAgICAgICBjb3VudHlfcG9wLAogICAgICAgIGxlZnRfb249ImNvdW50eUZJUFMiLAogICAgICAgIHJpZ2h0X29uPSJjb3VudHlfZmlwcyIsCiAgICAgICAgaG93PSJsZWZ0IiwKICAgICkucmVuYW1lKHsKICAgICAgICAiY29uZmlybWVkIjogImNvdW50eV9jb25maXJtZWQiLAogICAgICAgICJQT1BFU1RJTUFURTIwMTkiOiAiY291bnR5X3BvcHVsYXRpb24iCiAgICB9LCBheGlzPTEpCiAgICBjYXNlX2NvdW50eV9kZi50b19jc3YobWVyZ2VkX2ZpbGUpCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>-2020
--2020
--2020
--2020</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>-
--
--
--
--
--</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHJ1bnB5Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>-2020
--2020
--2020
--2020
--2020
--2020</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
