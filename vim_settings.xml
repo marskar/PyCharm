@@ -211,12 +211,12 @@
         <mark key="^" line="154" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590778219133">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590778447635">
         <mark key="'" line="18" column="4" />
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="47" />
-        <mark key="." line="18" column="46" />
-        <mark key="^" line="18" column="47" />
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="49" />
+        <mark key="^" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590764272844">
         <mark key="'" line="88" column="20" />
@@ -369,7 +369,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>na</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -378,13 +378,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>na</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>end</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3JfaXNfbmEgPSBjYXNlX3BvcF9ydF9kZlsiY291bnR5X2dyIl0uaXNuYSgpCg==</text>
+        <text encoding="base64">Z3JfaXNfaW5mID0gY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdID09IG5wLmluZgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY29sdW1ucwo=</text>
