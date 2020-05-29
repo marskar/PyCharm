@@ -211,12 +211,12 @@
         <mark key="^" line="154" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590772445294">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590772832852">
         <mark key="'" line="18" column="4" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="18" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="5" />
+        <mark key="^" line="20" column="6" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590764272844">
         <mark key="'" line="88" column="20" />
@@ -369,7 +369,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>mitigated_gr</text>
+        <text>gr</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -378,43 +378,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mitigated_gr</text>
+        <text>gr</text>
       </register>
       <register name="/" type="4">
         <text>end</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYgPSBjYXNlX3BvcF9ydF9kZi5hc3NpZ24oCiAgICAjIEZpbmFsIG1pdGlnYXRlZCBncm93dGggcmF0ZXMKICAgIG1pdGlnYXRlZF9ncj1jYXNlX3BvcF9ydF9kZlsKICAgICAgICAiY291bnR5X21pdGlnYXRlZF9nciIKICAgIF0ucmVwbGFjZSgKICAgICAgICBucC5uYW4sCiAgICAgICAgY2FzZV9wb3BfcnRfZGZbInN0YXRlX21pdGlnYXRlZF9nciJdCiAgICApLnJlcGxhY2UoCiAgICAgICAgbnAuaW5mLAogICAgICAgIGNhc2VfcG9wX3J0X2RmWyJzdGF0ZV9taXRpZ2F0ZWRfZ3IiXQogICAgKS5yZXBsYWNlKAogICAgICAgIDAsCiAgICAgICAgY2FzZV9wb3BfcnRfZGZbInN0YXRlX21pdGlnYXRlZF9nciJdCiAgICApCikK</text>
+      <register name="0" type="4">
+        <text>case_pop_rt_df</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGYie21heF9kYXRlfV8iCg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY29sdW1ucwo=</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGYie21pbl9kYXRlfS10by0iCg==</text>
+        <text encoding="base64">ICAgIGYie21heF9kYXRlfV8iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kID0gc21mLm9scyhmb3JtdWxhPSdMb3R0ZXJ5IH4gTGl0ZXJhY3kgKyBXZWFsdGggKyBSZWdpb24nLCBkYXRhPWRmKQo=</text>
+        <text encoding="base64">ICAgIGYie21pbl9kYXRlfS10by0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kID0gc21mLm9scyhmb3JtdWxhPSdMb3R0ZXJ5IH4gTGl0ZXJhY3kgKyBXZWFsdGggKyBSZWdpb24nLCBkYXRhPWRmKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5RklQUy5udW5pcXVlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5RklQUy5udW5pcXVlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYgPSBjYXNlX3BvcF9ydF9kZltjYXNlX3BvcF9ydF9kZi5maXJzdF9jYXNlX2RhdGUubm90bmEoKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYgPSBjYXNlX3BvcF9ydF9kZltjYXNlX3BvcF9ydF9kZi5maXJzdF9jYXNlX2RhdGUubm90bmEoKV0K</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
