@@ -28,12 +28,12 @@
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action RenameElement</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry encoding="base64">JzwsJz5ub3JtIEEi</entry>
         <entry encoding="base64">JzwsJz5nL14vbm9ybSBBIg==</entry>
         <entry encoding="base64">JzwsJz5zL1wvLy0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL05vIG9yZGVyL05vbmUvZw==</entry>
         <entry encoding="base64">JzwsJz5nL05vbmUvbTc1</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
@@ -201,12 +201,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590716084941">
-        <mark key="'" line="323" column="0" />
-        <mark key="[" line="374" column="15" />
-        <mark key="]" line="374" column="16" />
-        <mark key="." line="374" column="16" />
-        <mark key="^" line="374" column="21" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590717492362">
+        <mark key="'" line="381" column="22" />
+        <mark key="[" line="389" column="35" />
+        <mark key="]" line="389" column="45" />
+        <mark key="." line="389" column="44" />
+        <mark key="^" line="389" column="45" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/path.py" timestamp="1590600129414">
         <mark key="[" line="7" column="0" />
@@ -316,8 +316,10 @@
       <jump line="281" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="374" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="324" column="10" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="323" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="333" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="381" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="324" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,7 +339,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>None</text>
+        <text>shelter-in-place</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -346,51 +348,69 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>shelter-in-place</text>
       </register>
       <register name="/" type="4">
         <text>No order</text>
       </register>
-      <register name="0" type="4">
-        <text>03-25-2020</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBUT0RPIGNyZWF0ZSBjb2x1bW4gb2YgZGF5cyBzaW5jZSBzaGVsdGVyLWluLXBsYWNlCg==</text>
       </register>
-      <register name="1" type="8">
-        <text />
+      <register name="1" type="2">
+        <text>days_since_state_lockdown</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGxvdF9jb2x1bW5zX3ZlcnN1c19kYXlzKG1lcmdlZF9kZiwgMzYwNjEsICJzdW1pa28iKQo=</text>
+        <text encoding="base64">Zmlyc3RfY2FzZV9kYXRlcyA9IGNhc2VzW2Nhc2VzWyJjb25maXJtZWQiXS5uZSgwKV0uZ3JvdXBieSgiY291bnR5RklQUyIpLmZpcnN0KClbImRhdGUiXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF5c19zaW5jZV9maXJzdF9jYXNlID0gY2FzZXNbImRhdGUiXSAtIGZpcnN0X2Nhc2VfZGF0ZXMKZGF5c19zaW5jZV9maXJzdF9jYXNlCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bGF0ZXN0X2RmWyIiXSAKCmxhdGVzdF9kZlsidW5taXRpZ2F0ZWRfcl9uYXVnaHQiXSA9IGdldF9yX25hdWdodCgKICAgIGxhdGVzdF9kZiwKICAgICJ1bm1pdGlnYXRlZF9iZXRhIiwKICAgIEdBTU1BLAogICAgImNvdW50eV9wb3B1bGF0aW9uIgopCgpsYXRlc3RfZGZbIm1pdGlnYXRlZF9nciJdID0gZ2V0X2dyb3d0aF9yYXRlKAogICAgbGF0ZXN0X2RmLAogICAgIm1pdGlnYXRlZF9kdCIKKQoKbGF0ZXN0X2RmWyJtaXRpZ2F0ZWRfYmV0YSJdID0gZ2V0X2JldGEoCiAgICBsYXRlc3RfZGYsCiAgICAibWl0aWdhdGVkX2dyIiwKICAgIEdBTU1BLAogICAgImNvdW50eV9wb3B1bGF0aW9uIgopCgpsYXRlc3RfZGZbIm1pdGlnYXRlZF9yX25hdWdodCJdID0gZ2V0X3JfbmF1Z2h0KAogICAgbGF0ZXN0X2RmLAogICAgIm1pdGlnYXRlZF9iZXRhIiwKICAgIEdBTU1BLAogICAgImNvdW50eV9wb3B1bGF0aW9uIgopCg==</text>
+      <register name="4" type="8">
+        <text>-
+-
+-
+-
+-
+-</text>
       </register>
-      <register name="5" type="4">
-        <text>= get_beta(
-    latest_df,
-    &quot;unmitigated_gr&quot;,
-    GAMMA,
-    &quot;county_population&quot;
-)</text>
+      <register name="5" type="8">
+        <text>-2020
+-1930
+-2020
+-2020
+-2020
+-2020</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGF0ZXN0X2RmWyIiXSA9IAo=</text>
+      <register name="6" type="8">
+        <text>-
+-
+-
+-</text>
       </register>
-      <register name="7" type="4">
-        <text>get_doubling_time(
-    df=latest_df,
-    gr_col=&quot;unmitigated_gr&quot;
-)</text>
+      <register name="7" type="8">
+        <text>-2020
+-2020
+-2020
+-2020</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bGF0ZXN0X2RmLnNvbHVtbnMK</text>
+      <register name="8" type="8">
+        <text>-
+-
+-
+-
+-
+-</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">bWVyZ2VkX2RmLmNvbHVtbnMK</text>
+      <register name="9" type="8">
+        <text>-2020
+-2020
+-2020
+-2020
+-2020
+-2020</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
