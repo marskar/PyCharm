@@ -173,11 +173,11 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1590765016357">
-        <mark key="[" line="207" column="68" />
-        <mark key="]" line="197" column="25" />
-        <mark key="." line="197" column="24" />
-        <mark key="^" line="197" column="25" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1590766571067">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+        <mark key="^" line="216" column="0" />
       </file>
       <file name="$USER_HOME$/covid/research/code/python/calc/doubling.py" timestamp="1590596749620">
         <mark key="'" line="16" column="0" />
@@ -210,12 +210,12 @@
         <mark key="^" line="154" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590759565541">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590766606964">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="3" column="19" />
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590764272844">
         <mark key="'" line="88" column="20" />
@@ -368,7 +368,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>calc_rt</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -377,43 +377,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>calc_rt</text>
       </register>
       <register name="/" type="4">
         <text>end</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnM9WyJTdGF0ZSIsICJzaGVsdGVyX2RhdGUiXQo=</text>
+      <register name="0" type="4">
+        <text>case_pop_rt_df</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcywgZCBpbiBzaGVsdGVyX2RhdGVzLml0ZW1zKCkgaWYgZAo=</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5RklQUy5udW5pcXVlKCkK</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuaGVhZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYgPSBjYXNlX3BvcF9ydF9kZltjYXNlX3BvcF9ydF9kZi5maXJzdF9jYXNlX2RhdGUubm90bmEoKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2hlbHRlcl9kZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5RklQUwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGQuRGF0YUZyYW1lLmZyb21fZGljdChzaGVsdGVyX2RhdGVzLAogICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbnM9WyJTdGF0ZSIsICJzaGVsdGVyX2RhdGUiXQogICAgICAgICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">IyBSZW1vdmUgY291bnRpZXMgd2l0aG91dCBhbnkgY2FzZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0ZS50b2RheSgpLmlzb2Zvcm1hdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2hlbHRlcl9kZiA9IHBkLkRhdGFGcmFtZSgKICAgIHNoZWx0ZXJfZGF0ZXMuaXRlbXMoKSwKICAgIGNvbHVtbnM9WyJTdGF0ZSIsICJzaGVsdGVyX2RhdGUiXQopCg==</text>
+        <text encoding="base64">bWluX2RhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuU3RhdGUK</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2hhcGUK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
