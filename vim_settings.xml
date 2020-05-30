@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>day</entry>
         <entry encoding="base64">XDxnZXRfZ3Jvd3RoX3JhdGVcPg==</entry>
         <entry>State</entry>
         <entry>min</entry>
@@ -27,6 +26,7 @@
         <entry>by_grou</entry>
         <entry>groupby</entry>
         <entry>by_g</entry>
+        <entry>shelter_</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -174,12 +174,12 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1590863820179">
-        <mark key="'" line="209" column="0" />
-        <mark key="[" line="250" column="32" />
-        <mark key="]" line="250" column="38" />
-        <mark key="." line="250" column="37" />
-        <mark key="^" line="250" column="38" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1590864096610">
+        <mark key="'" line="251" column="27" />
+        <mark key="[" line="251" column="15" />
+        <mark key="]" line="251" column="17" />
+        <mark key="^" line="251" column="17" />
+        <mark key="." line="251" column="16" />
       </file>
       <file name="$USER_HOME$/covid/research/code/python/calc/doubling.py" timestamp="1590596749620">
         <mark key="'" line="16" column="0" />
@@ -251,12 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="238" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="246" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="266" column="2" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="2" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="296" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="184" column="36" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
@@ -351,6 +345,12 @@
       <jump line="12" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="209" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="267" column="59" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="7" column="23" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="194" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="195" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="196" column="23" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="251" column="27" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -370,7 +370,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>peak_dates</text>
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -379,40 +379,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>peak_dates</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>by_g</text>
+        <text>shelter_</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYg</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbeXNpYl0icGVha19kYXRlcyJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAucmVzZXRfaW5kZXgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">IyBGaW5kIHBlYWsgZ3Jvd3RoIHJhdGUKY2FzZV9wb3BfcnRfZGYgPSBjYXNlX3BvcF9ydF9kZi5hc3NpZ24oCiAgICBwZWFrX2RhdGVzPSgKICAgICAgICBjYXNlX3BvcF9ydF9kZgogICAgICAgIC5zZXRfaW5kZXgoImRhdGUiKQogICAgICAgIC5ncm91cGJ5KCJjb3VudHlGSVBTIilbInJvbGxpbmdfbWVhbl9nciJdCiAgICAgICAgLmlkeG1heChheGlzPTEpCiAgICApCikKCmNhc2VfcG9wX3J0X2RmID0gY2FzZV9wb3BfcnRfZGYuYXNzaWduKAogICAgcGVha19kYXRlPWdldF9ydCgKICAgICAgICBkZj1jYXNlX3BvcF9ydF9kZiwKICAgICAgICBiZXRhX2NvbD0icm9sbGluZ19tZWFuX2JldGEiLAogICAgICAgIGdhbW1hPUdBTU1BLAogICAgICAgIHN1c2NlcHRpYmxlX2NvbD0iY291bnR5X3BvcHVsYXRpb24iCiAgICApCikKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhvdz0ibGVmdCIK</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2hhcGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9uPSJjb3VudHlGSVBTIiwK</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYucGVha19kYXRlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVzZXRfaW5kZXgoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfZGYuaGVhZCgpCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhvdz0ibGVmdCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbInJvbGxpbmdfbWVhbl9ydCJdCg==</text>
+        <text encoding="base64">ICAgIG9uPSJjb3VudHlGSVBTIiwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -424,9 +424,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>by_g</last-search>
+      <last-search>shelter_</last-search>
       <last-offset />
-      <last-pattern>by_g</last-pattern>
+      <last-pattern>shelter_</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
