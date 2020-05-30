@@ -26,6 +26,7 @@
         <entry>pd.</entry>
         <entry>pd.to</entry>
         <entry>end</entry>
+        <entry>smoo</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -157,8 +158,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1590708250752">
-        <mark key="'" line="132" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1590859439625">
+        <mark key="'" line="112" column="8" />
         <mark key="[" line="75" column="8" />
         <mark key="]" line="75" column="8" />
         <mark key="^" line="142" column="10" />
@@ -176,11 +177,12 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1590781542602">
-        <mark key="'" line="223" column="1" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1590859743246">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="209" column="21" />
+        <mark key="]" line="209" column="21" />
+        <mark key="." line="209" column="21" />
+        <mark key="^" line="209" column="19" />
       </file>
       <file name="$USER_HOME$/covid/research/code/python/calc/doubling.py" timestamp="1590596749620">
         <mark key="'" line="16" column="0" />
@@ -213,12 +215,12 @@
         <mark key="^" line="154" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590781878292">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="25" column="28" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590859451638">
+        <mark key="'" line="25" column="21" />
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590764272844">
         <mark key="'" line="88" column="20" />
@@ -252,10 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="27" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
-      <jump line="9" column="12" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="311" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="59" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="132" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
       <jump line="69" column="41" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="10" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
@@ -352,6 +350,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data/mitigated.py" />
       <jump line="224" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="18" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
+      <jump line="25" column="21" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="13" column="31" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -370,8 +372,8 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdID0gbnAud2hlcmUoY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdLmlzbmEoKSwgY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0sIGNhc2VfcG9wX3J0X2RmWyJjb3VudHlfZ3IiXSkKY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdID0gbnAud2hlcmUoY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdLmlzbmEoKSwgY2FzZV9wb3BfcnRfZGZbIm5hdGlvbmFsX2dyIl0sIGNhc2VfcG9wX3J0X2RmWyJjb3VudHlfZ3IiXSkKY2FzZV9wb3BfcnRfZGZbWyJuYXRpb25hbF9nciIsICJjb3VudHlfZ3IiLCAiY291bnR5RklQUyJdXQpjYXNlX3BvcF9ydF9kZlsiY291bnR5X2dyIl0ucmVwbGFjZSgKICAgICAgICBucC5uYW4sCiAgICAgICAgY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0KICAgICkucmVwbGFjZSgKICAgICAgICBucC5pbmYsCiAgICAgICAgY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0KICAgICkucmVwbGFjZSgKICAgICAgICAwLAogICAgICAgIGNhc2VfcG9wX3J0X2RmWyJzdGF0ZV9nciJdCiAgICApCg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -380,43 +382,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>county_gr</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>end</text>
+        <text>smoo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ImNvdW50eV9nciIsIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdID0gbnAud2hlcmUoY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdLmlzbmEoKSwgY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0sIGNhc2VfcG9wX3J0X2RmWyJjb3VudHlfZ3IiXSkKY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdID0gbnAud2hlcmUoY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdLmlzbmEoKSwgY2FzZV9wb3BfcnRfZGZbIm5hdGlvbmFsX2dyIl0sIGNhc2VfcG9wX3J0X2RmWyJjb3VudHlfZ3IiXSkKY2FzZV9wb3BfcnRfZGZbWyJuYXRpb25hbF9nciIsICJjb3VudHlfZ3IiLCAiY291bnR5RklQUyJdXQpjYXNlX3BvcF9ydF9kZlsiY291bnR5X2dyIl0ucmVwbGFjZSgKICAgICAgICBucC5uYW4sCiAgICAgICAgY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0KICAgICkucmVwbGFjZSgKICAgICAgICBucC5pbmYsCiAgICAgICAgY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0KICAgICkucmVwbGFjZSgKICAgICAgICAwLAogICAgICAgIGNhc2VfcG9wX3J0X2RmWyJzdGF0ZV9nciJdCiAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuaGVhZCgpCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgYSBiaW5hcnkgdmFyaWFibGUgZm9yIHNoZWx0ZXItaW4tcGxhY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBDcmVhdGUgYSBiaW5hcnkgdmFyaWFibGUgZm9yIHNoZWx0ZXItaW4tcGxhY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYubG9jW2dyX2lzX2luZiAmIGdyX2lzX25hbiAmIGdyX2lzX3plcm8sICJzdGF0ZV9nciJdID0gY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0KCg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdID0gbnAud2hlcmUoY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdLmlzbmEoKSwgY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0sIGNhc2VfcG9wX3J0X2RmWyJjb3VudHlfZ3IiXSkKY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdID0gbnAud2hlcmUoY2FzZV9wb3BfcnRfZGZbImNvdW50eV9nciJdLmlzbmEoKSwgY2FzZV9wb3BfcnRfZGZbIm5hdGlvbmFsX2dyIl0sIGNhc2VfcG9wX3J0X2RmWyJjb3VudHlfZ3IiXSkKY2FzZV9wb3BfcnRfZGZbWyJuYXRpb25hbF9nciIsICJjb3VudHlfZ3IiLCAiY291bnR5RklQUyJdXQpjYXNlX3BvcF9ydF9kZlsiY291bnR5X2dyIl0ucmVwbGFjZSgKICAgICAgICBucC5uYW4sCiAgICAgICAgY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0KICAgICkucmVwbGFjZSgKICAgICAgICBucC5pbmYsCiAgICAgICAgY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0KICAgICkucmVwbGFjZSgKICAgICAgICAwLAogICAgICAgIGNhc2VfcG9wX3J0X2RmWyJzdGF0ZV9nciJdCiAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGYie21heF9kYXRlfV8iCg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuaGVhZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGYie21pbl9kYXRlfS10by0iCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kID0gc21mLm9scyhmb3JtdWxhPSdMb3R0ZXJ5IH4gTGl0ZXJhY3kgKyBXZWFsdGggKyBSZWdpb24nLCBkYXRhPWRmKQo=</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYubG9jW2dyX2lzX2luZiAmIGdyX2lzX25hbiAmIGdyX2lzX3plcm8sICJzdGF0ZV9nciJdID0gY2FzZV9wb3BfcnRfZGZbInN0YXRlX2dyIl0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
@@ -425,9 +427,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>end</last-search>
+      <last-search>smoo</last-search>
       <last-offset />
-      <last-pattern>end</last-pattern>
+      <last-pattern>smoo</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
