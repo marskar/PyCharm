@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZ3Jvd3RoX3JhdGVcPg==</entry>
         <entry>State</entry>
         <entry>min</entry>
         <entry>start</entry>
@@ -27,6 +26,7 @@
         <entry>groupby</entry>
         <entry>by_g</entry>
         <entry>shelter_</entry>
+        <entry>by_</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -41,8 +41,8 @@
         <entry>w</entry>
         <entry>action EditorKillToWordEnd</entry>
         <entry>nohlsearch</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -155,8 +155,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1590861828715">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1590874634042">
+        <mark key="'" line="36" column="20" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="^" line="61" column="52" />
@@ -174,12 +174,12 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1590864096610">
-        <mark key="'" line="251" column="27" />
-        <mark key="[" line="251" column="15" />
-        <mark key="]" line="251" column="17" />
-        <mark key="^" line="251" column="17" />
-        <mark key="." line="251" column="16" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1590874899044">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="256" column="1" />
+        <mark key="]" line="256" column="1" />
+        <mark key="." line="256" column="1" />
+        <mark key="^" line="254" column="8" />
       </file>
       <file name="$USER_HOME$/covid/research/code/python/calc/doubling.py" timestamp="1590596749620">
         <mark key="'" line="16" column="0" />
@@ -251,13 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="184" column="36" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="158" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="281" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="374" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="323" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="333" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="381" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
@@ -351,6 +344,13 @@
       <jump line="195" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="196" column="23" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="251" column="27" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="14" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
+      <jump line="60" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
+      <jump line="36" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -370,7 +370,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -379,54 +379,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>shelter_</text>
+        <text>by_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbeXNpYl0icGVha19kYXRlcyJdCg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYgPSBjYXNlX3BvcF9ydF9kZi5hc3NpZ24oCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuZHR5cGVzCg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBGaW5kIHBlYWsgZ3Jvd3RoIHJhdGUKY2FzZV9wb3BfcnRfZGYgPSBjYXNlX3BvcF9ydF9kZi5hc3NpZ24oCiAgICBwZWFrX2RhdGVzPSgKICAgICAgICBjYXNlX3BvcF9ydF9kZgogICAgICAgIC5zZXRfaW5kZXgoImRhdGUiKQogICAgICAgIC5ncm91cGJ5KCJjb3VudHlGSVBTIilbInJvbGxpbmdfbWVhbl9nciJdCiAgICAgICAgLmlkeG1heChheGlzPTEpCiAgICApCikKCmNhc2VfcG9wX3J0X2RmID0gY2FzZV9wb3BfcnRfZGYuYXNzaWduKAogICAgcGVha19kYXRlPWdldF9ydCgKICAgICAgICBkZj1jYXNlX3BvcF9ydF9kZiwKICAgICAgICBiZXRhX2NvbD0icm9sbGluZ19tZWFuX2JldGEiLAogICAgICAgIGdhbW1hPUdBTU1BLAogICAgICAgIHN1c2NlcHRpYmxlX2NvbD0iY291bnR5X3BvcHVsYXRpb24iCiAgICApCikKCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2hhcGUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYucGVha19kYXRlcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucmVzZXRfaW5kZXgoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGhvdz0ibGVmdCIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG9uPSJjb3VudHlGSVBTIiwK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuaGVhZCgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYgPSBjYXNlX3BvcF9ydF9kZi5hc3NpZ24oCiAgICBwZWFrX2RhdGU9Z2V0X3J0KAogICAgICAgIGRmPWNhc2VfcG9wX3J0X2RmLAogICAgICAgIGJldGFfY29sPSJyb2xsaW5nX21lYW5fYmV0YSIsCiAgICAgICAgZ2FtbWE9R0FNTUEsCiAgICAgICAgc3VzY2VwdGlibGVfY29sPSJjb3VudHlfcG9wdWxhdGlvbiIKICAgICkKKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuaGVhZCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2V0X2luZGV4KCJkYXRlIikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJyb2xsaW5nX21lYW5fZ3IiXS5pZHhtYXgoYXhpcz0xKS5zaGFwZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2hhcGUK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuZHR5cGVzCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>shelter_</last-search>
+      <last-search>by_</last-search>
       <last-offset />
-      <last-pattern>shelter_</last-pattern>
+      <last-pattern>by_</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
