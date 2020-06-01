@@ -39,10 +39,10 @@
         <entry encoding="base64">JzwsJz5nL05vbmUvbTc1</entry>
         <entry>action RenameElement</entry>
         <entry>action EditorKillToWordEnd</entry>
+        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -200,9 +200,9 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" timestamp="1590762760901">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" timestamp="1591033678407">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="88" />
         <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/mitigated.py" timestamp="1590772388964">
@@ -212,12 +212,12 @@
         <mark key="^" line="154" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591021748135">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591033704046">
         <mark key="'" line="38" column="1" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="48" column="10" />
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="17" />
+        <mark key="^" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590764272844">
         <mark key="'" line="88" column="20" />
@@ -372,8 +372,8 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5X3J0Cg==</text>
+      <register name="*" type="4">
+        <text>to</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -382,46 +382,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tail</text>
+        <text>to</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlX3BvcF9ydF9maWxlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>.tail(29)</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBUT0RPIHdoZW4gc2hlbHRlcl9kYXRlIGlzIE5BCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5X3J0Cg==</text>
+        <text encoding="base64">IyBUT0RPIHJlcGxhY2UgZGF5cyBzaW5jZSBzaGVsdGVyIHdpdGggZGF5cyBzaW5jZSBwZWFrCg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuZGF5c19zaW5jZV9zaGVsdGVyCg==</text>
+        <text encoding="base64">IyBUT0RPIGRheXMgc2luY2UuLiB2YXJpYWJsZXMgY2FwdHVyZSB0aGUgc2FtZSB0aGluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUT0RPIGRheXNfc2luY2VfcGVhaz8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFycyA9IHZhcnNbMTpdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVzLnBhcmFtcwo=</text>
+        <text encoding="base64">ICAgICsgZGF5c19zaW5jZV9wZWFrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2V0X2luZGV4KCJkYXRlIilbImRheXNfc2luY2VfcGVhayJdLnBsb3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2hhcGUK</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJkYXlzX3NpbmNlX3NoZWx0ZXIiLAo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJkYXlzX3NpbmNlX3BlYWsiCg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5X3J0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
@@ -433,7 +433,7 @@
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
