@@ -200,7 +200,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" timestamp="1591033678407">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" timestamp="1591033797473">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="88" />
         <mark key="." line="2" column="6" />
@@ -212,12 +212,12 @@
         <mark key="^" line="154" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591033704046">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591034375789">
         <mark key="'" line="38" column="1" />
-        <mark key="[" line="48" column="16" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="17" />
-        <mark key="^" line="48" column="18" />
+        <mark key="[" line="57" column="7" />
+        <mark key="]" line="57" column="39" />
+        <mark key="." line="57" column="38" />
+        <mark key="^" line="57" column="39" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590764272844">
         <mark key="'" line="88" column="20" />
@@ -373,7 +373,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>to</text>
+        <text>coeffs</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -382,43 +382,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>to</text>
+        <text>coeffs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlX3BvcF9ydF9maWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBUT0RPIHdoZW4gc2hlbHRlcl9kYXRlIGlzIE5BCg==</text>
+        <text encoding="base64">IyAtIGNvZWZmcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUT0RPIHJlcGxhY2UgZGF5cyBzaW5jZSBzaGVsdGVyIHdpdGggZGF5cyBzaW5jZSBwZWFrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPIGRheXMgc2luY2UuLiB2YXJpYWJsZXMgY2FwdHVyZSB0aGUgc2FtZSB0aGluZwo=</text>
+        <text encoding="base64">IyBUT0RPIHJlcGxhY2UgZGF5cyBzaW5jZSBzaGVsdGVyIHdpdGggZGF5cyBzaW5jZSBwZWFrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUT0RPIGRheXNfc2luY2VfcGVhaz8K</text>
+        <text encoding="base64">IyBUT0RPIGRheXMgc2luY2UuLiB2YXJpYWJsZXMgY2FwdHVyZSB0aGUgc2FtZSB0aGluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBUT0RPIGRheXNfc2luY2VfcGVhaz8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICsgZGF5c19zaW5jZV9wZWFrCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2V0X2luZGV4KCJkYXRlIilbImRheXNfc2luY2VfcGVhayJdLnBsb3QoKQo=</text>
+        <text encoding="base64">ICAgICsgZGF5c19zaW5jZV9wZWFrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2V0X2luZGV4KCJkYXRlIilbImRheXNfc2luY2VfcGVhayJdLnBsb3QoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5X3J0Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
