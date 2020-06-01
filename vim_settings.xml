@@ -38,11 +38,11 @@
         <entry encoding="base64">JzwsJz5zL05vIG9yZGVyL05vbmUvZw==</entry>
         <entry encoding="base64">JzwsJz5nL05vbmUvbTc1</entry>
         <entry>action RenameElement</entry>
-        <entry>w</entry>
         <entry>action EditorKillToWordEnd</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,7 +139,7 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590781915907">
+      <file name="/Dummy.txt" timestamp="1591021752634">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -212,11 +212,11 @@
         <mark key="^" line="154" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1590878532248">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591021748135">
         <mark key="'" line="38" column="1" />
-        <mark key="[" line="48" column="6" />
-        <mark key="]" line="48" column="10" />
-        <mark key="." line="48" column="9" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
         <mark key="^" line="48" column="10" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590764272844">
@@ -372,8 +372,8 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="4">
-        <text>tail</text>
+      <register name="*" type="2">
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5X3J0Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -391,37 +391,37 @@
         <text>.tail(29)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuY291bnR5X3J0Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFycyA9IHZhcnNbMTpdCg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuZGF5c19zaW5jZV9zaGVsdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzLnBhcmFtcwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">dmFycyA9IHZhcnNbMTpdCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2hhcGUK</text>
+        <text encoding="base64">cmVzLnBhcmFtcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJkYXlzX3NpbmNlX3NoZWx0ZXIiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJkYXlzX3NpbmNlX3BlYWsiCg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2hhcGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICsgZGF5c19zaW5jZV9wZWFrCg==</text>
+        <text encoding="base64">ICAgICJkYXlzX3NpbmNlX3NoZWx0ZXIiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICsgcG9zdF9wZWFrICogCg==</text>
+        <text encoding="base64">ICAgICJkYXlzX3NpbmNlX3BlYWsiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
