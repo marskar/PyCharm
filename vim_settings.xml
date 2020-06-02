@@ -40,10 +40,10 @@
         <entry>action EditorKillToWordEnd</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action CloseProject</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -178,12 +178,12 @@
         <mark key="." line="282" column="25" />
         <mark key="^" line="282" column="26" />
       </file>
-      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1591125211034">
-        <mark key="'" line="321" column="10" />
+      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1591127893115">
+        <mark key="'" line="321" column="22" />
         <mark key="[" line="321" column="21" />
-        <mark key="]" line="320" column="11" />
-        <mark key="." line="320" column="10" />
-        <mark key="^" line="320" column="11" />
+        <mark key="]" line="321" column="23" />
+        <mark key="." line="321" column="22" />
+        <mark key="^" line="321" column="23" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/hello.py" timestamp="1590758103917">
         <mark key="[" line="0" column="0" />
@@ -244,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
       <jump line="317" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
       <jump line="7" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
       <jump line="297" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
@@ -343,7 +342,8 @@
       <jump line="39" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
       <jump line="44" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
       <jump line="47" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
-      <jump line="321" column="10" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="315" column="19" filename="$USER_HOME$/mskar/sir/sir.py" />
+      <jump line="321" column="22" filename="$USER_HOME$/mskar/sir/sir.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -414,7 +414,7 @@
         <text encoding="base64">ICAgICsgZGF5c19zaW5jZV9wZWFrCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
