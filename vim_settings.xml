@@ -39,10 +39,11 @@
         <entry>action RenameElement</entry>
         <entry>action EditorKillToWordEnd</entry>
         <entry>w</entry>
-        <entry>action CloseProject</entry>
         <entry>nohlsearch</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,6 +140,7 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/mskar/sir/usa_facts.py" timestamp="1591125158594" />
       <file name="/Dummy.txt" timestamp="1591021752634">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -149,11 +151,6 @@
         <mark key="]" line="16" column="56" />
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="37" />
-      </file>
-      <file name="$USER_HOME$/covid/research/code/python/src/calc/doubling.py" timestamp="1590592169848">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1590874634042">
         <mark key="'" line="36" column="20" />
@@ -181,24 +178,18 @@
         <mark key="." line="282" column="25" />
         <mark key="^" line="282" column="26" />
       </file>
-      <file name="$USER_HOME$/covid/research/code/python/calc/doubling.py" timestamp="1590596749620">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="43" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="19" column="42" />
+      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1591125211034">
+        <mark key="'" line="321" column="10" />
+        <mark key="[" line="321" column="21" />
+        <mark key="]" line="320" column="11" />
+        <mark key="." line="320" column="10" />
+        <mark key="^" line="320" column="11" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/hello.py" timestamp="1590758103917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/covid/research/code/python/src/data/usa_facts.py" timestamp="1590592208193">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" timestamp="1591118780718">
         <mark key="'" line="47" column="11" />
@@ -244,6 +235,7 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/mskar/sir/sir_county.py" timestamp="1591124925647" />
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/usa_facts.py" timestamp="1590708948063">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="16" column="0" />
@@ -252,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
       <jump line="153" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
       <jump line="317" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
       <jump line="7" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
@@ -352,6 +343,7 @@
       <jump line="39" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
       <jump line="44" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
       <jump line="47" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
+      <jump line="321" column="10" filename="$USER_HOME$/mskar/sir/sir.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -374,7 +366,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">VE9ETyA=</text>
+        <text>30</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -383,7 +375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VE9ETyA=</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>None</text>
@@ -422,7 +414,7 @@
         <text encoding="base64">ICAgICsgZGF5c19zaW5jZV9wZWFrCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
