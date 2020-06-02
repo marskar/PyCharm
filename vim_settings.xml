@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>start</entry>
-        <entry>last</entry>
         <entry>\/</entry>
         <entry>No order</entry>
         <entry encoding="base64">XDxjYXNlX2NvdW50eV9kZlw+</entry>
@@ -27,10 +25,11 @@
         <entry>by_</entry>
         <entry>date</entry>
         <entry encoding="base64">XDxjYXNlX3BvcF9ydF9maWxlXD4=</entry>
+        <entry>shelter_in</entry>
+        <entry>None</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
-        <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry encoding="base64">JzwsJz5ub3JtIEEi</entry>
         <entry encoding="base64">JzwsJz5nL14vbm9ybSBBIg==</entry>
@@ -40,9 +39,10 @@
         <entry>action RenameElement</entry>
         <entry>action EditorKillToWordEnd</entry>
         <entry>w</entry>
-        <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -150,6 +150,9 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="37" />
       </file>
+      <file name="/Python Console" timestamp="1591117506257">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/covid/research/code/python/src/calc/doubling.py" timestamp="1590592169848">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -174,12 +177,12 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1590876085565">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="255" column="20" />
-        <mark key="]" line="255" column="21" />
-        <mark key="." line="255" column="20" />
-        <mark key="^" line="255" column="21" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591117799067">
+        <mark key="'" line="262" column="10" />
+        <mark key="[" line="210" column="1" />
+        <mark key="]" line="210" column="14" />
+        <mark key="." line="210" column="13" />
+        <mark key="^" line="210" column="14" />
       </file>
       <file name="$USER_HOME$/covid/research/code/python/calc/doubling.py" timestamp="1590596749620">
         <mark key="'" line="16" column="0" />
@@ -200,7 +203,8 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" timestamp="1591033797473">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" timestamp="1591118780718">
+        <mark key="'" line="47" column="11" />
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="88" />
         <mark key="." line="2" column="6" />
@@ -212,12 +216,12 @@
         <mark key="^" line="154" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591035047107">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591118956557">
         <mark key="'" line="38" column="1" />
-        <mark key="[" line="59" column="15" />
-        <mark key="]" line="59" column="18" />
-        <mark key="." line="59" column="17" />
-        <mark key="^" line="59" column="18" />
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="22" />
+        <mark key="." line="50" column="22" />
+        <mark key="^" line="50" column="46" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" timestamp="1590764272844">
         <mark key="'" line="88" column="20" />
@@ -251,15 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
-      <jump line="69" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
-      <jump line="53" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
-      <jump line="266" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
-      <jump line="265" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
-      <jump line="242" column="29" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="121" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
       <jump line="153" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
       <jump line="317" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/calc_rt.py" />
@@ -351,6 +346,15 @@
       <jump line="32" column="98" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="29" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="38" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="262" column="10" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="4" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
+      <jump line="6" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
+      <jump line="18" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
+      <jump line="30" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
+      <jump line="37" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
+      <jump line="39" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
+      <jump line="44" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
+      <jump line="47" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -373,7 +377,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>pick a shelter_date</text>
+        <text>together</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -382,58 +386,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pick a shelter_date</text>
+        <text>together</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXNlX3BvcF9ydF9maWxlXD4=</text>
+        <text>None</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAyLiBwaWNrIGEgc2hlbHRlcl9kYXRlCg==</text>
+        <text encoding="base64">IyAzLiBzaGVsdGVyX2luX3BsYWNlICsgc2Nob29sX2Nsb3N1cmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUT0RPIHNoZWx0ZXJfaW5fcGxhY2Ugc2hvdWxkIGJlIEZhbHNlCg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPIHJlcGxhY2UgZGF5cyBzaW5jZSBzaGVsdGVyIHdpdGggZGF5cyBzaW5jZSBwZWFrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUT0RPIGRheXMgc2luY2UuLiB2YXJpYWJsZXMgY2FwdHVyZSB0aGUgc2FtZSB0aGluZwo=</text>
+        <text encoding="base64">IyBUT0RPIHJlcGxhY2UgZGF5cyBzaW5jZSBzaGVsdGVyIHdpdGggZGF5cyBzaW5jZSBwZWFrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPIGRheXNfc2luY2VfcGVhaz8K</text>
+        <text encoding="base64">IyBUT0RPIGRheXMgc2luY2UuLiB2YXJpYWJsZXMgY2FwdHVyZSB0aGUgc2FtZSB0aGluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBUT0RPIGRheXNfc2luY2VfcGVhaz8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICsgZGF5c19zaW5jZV9wZWFrCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2V0X2luZGV4KCJkYXRlIilbImRheXNfc2luY2VfcGVhayJdLnBsb3QoKQo=</text>
+        <text encoding="base64">ICAgICsgZGF5c19zaW5jZV9wZWFrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2V0X2luZGV4KCJkYXRlIilbImRheXNfc2luY2VfcGVhayJdLnBsb3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYXNlX3BvcF9ydF9maWxlXD4=</last-search>
+      <last-search>None</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXNlX3BvcF9ydF9maWxlXD4=</last-pattern>
+      <last-pattern>None</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
