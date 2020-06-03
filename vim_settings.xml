@@ -7,15 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3VudHlfcG9wdWxhdGlvblw+</entry>
-        <entry>aggre</entry>
-        <entry>by_grou</entry>
-        <entry>groupby</entry>
-        <entry>by_g</entry>
-        <entry>shelter_</entry>
-        <entry>by_</entry>
-        <entry>date</entry>
-        <entry encoding="base64">XDxjYXNlX3BvcF9ydF9maWxlXD4=</entry>
         <entry>shelter_in</entry>
         <entry>None</entry>
         <entry>tt</entry>
@@ -27,6 +18,15 @@
         <entry>astype</entry>
         <entry>shelter_date</entry>
         <entry>fillna</entry>
+        <entry>worlg</entry>
+        <entry>world_</entry>
+        <entry>news_da</entry>
+        <entry encoding="base64">XDxnaXRodWJcPg==</entry>
+        <entry>states</entry>
+        <entry>unemp</entry>
+        <entry>locat</entry>
+        <entry>loca</entry>
+        <entry encoding="base64">XDxjb3VudHlGSVBTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -37,14 +37,15 @@
         <entry encoding="base64">JzwsJz5nL05vbmUvbTc1</entry>
         <entry>action EditorKillToWordEnd</entry>
         <entry>w</entry>
-        <entry>nohlsearch</entry>
         <entry>action CloseProject</entry>
         <entry>action RenameElement</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action NewDirectoryProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -166,12 +167,12 @@
         <mark key="]" line="0" column="88" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591205301833">
-        <mark key="'" line="87" column="13" />
-        <mark key="[" line="116" column="40" />
-        <mark key="]" line="116" column="57" />
-        <mark key="^" line="116" column="57" />
-        <mark key="." line="116" column="56" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591209994421">
+        <mark key="'" line="123" column="15" />
+        <mark key="[" line="130" column="20" />
+        <mark key="]" line="130" column="21" />
+        <mark key="^" line="130" column="21" />
+        <mark key="." line="130" column="21" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/path.py" timestamp="1590600129414">
         <mark key="[" line="7" column="0" />
@@ -246,21 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="24" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="67" column="30" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="66" column="30" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="227" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="242" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="198" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="213" column="35" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="140" column="23" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="12" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="194" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
-      <jump line="60" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
-      <jump line="36" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
       <jump line="160" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="23" column="26" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="24" column="30" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -309,7 +295,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/realtime-rt-mcmc.py" />
       <jump line="9" column="16" filename="$USER_HOME$/Skarzynski-Martin/rt/realtime-rt-mcmc.py" />
       <jump line="103" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="87" column="13" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="264" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="146" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -346,6 +331,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="223" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="225" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="311" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="164" column="61" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="163" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="145" column="47" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="202" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="129" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="124" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,7 +369,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuZHR5cGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -377,54 +378,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.fillna(0)</text>
+        <text>12</text>
       </register>
       <register name="/" type="4">
-        <text>fillna</text>
+        <text encoding="base64">XDxjb3VudHlGSVBTXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbInNoZWx0ZXJfZGF0ZSJdLnVuaXF1ZSgpCg==</text>
+      <register name="0" type="4">
+        <text>case_pop_rt_df[&quot;countyFIPS&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuZHR5cGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuc2hlbHRlcl9kYXRlLnVuaXF1ZSgpCg==</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYucm9sbGluZ19tZWFuX3J0Lm1heCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbInNoZWx0ZXJfZGF0ZSJdLnVuaXF1ZSgpCg==</text>
+        <text encoding="base64">Y291bnRpZXNbImZlYXR1cmVzIl1bMF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGQudG9fZGF0ZXRpbWUoKQo=</text>
+        <text encoding="base64">Y291bnRpZXNbImZlYXR1cmVzIl1bMF0KZmlnID0gcHguY2hvcm9wbGV0aCgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGZbInNoZWx0ZXJfaW5fcGxhY2UiXQo=</text>
+        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuQ09VTlRZLmFzdHlwZShpbnQpLmFzdHlwZShzdHIpLnN0ci56ZmlsbCgzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuZHR5cGVzCg==</text>
+        <text encoding="base64">IyMjIyNBUEkgcmVxdWVzdHxJbXBvcnQgcmF3IEpTT04gaW50byBQYW5kYXMgRGF0YWZyYW1lIyMjIyMKZGZfcmF3MiA9IHBkLnJlYWRfanNvbignaHR0cHM6Ly9jb3ZpZHRyYWNraW5nLmNvbS9hcGkvdjEvc3RhdGVzL2N1cnJlbnQuanNvbicpCgojIyMjI0NsZWFuL0Zvcm1hdCBEYXRhIGZvciBQbG90bHkjIyMjIwpkZl91cyA9IGRmX3JhdzIubG9jWzA6NTAsIFsnc3RhdGUnLCAnZmlwcycsICdwb3NpdGl2ZScsICdkZWF0aCddXQoKZGZfdXNbJ2RlYXRoJ10gPSBkZl91c1snZGVhdGgnXS5tYXAobGFtYmRhIHg6ICJ7Oix9Ii5mb3JtYXQoeCkpCmRmX3VzWydwb3NpdGl2ZWNhc2VzJ10gPSBkZl91c1sncG9zaXRpdmUnXS5tYXAobGFtYmRhIHg6ICJ7Oix9Ii5mb3JtYXQoeCkpCgojIyMjI0NyZWF0ZSBuZXcgY29sdW1uIHdpdGhpbiBEYXRhZnJhbWUgdG8gaG9sZCB0ZXh0IHN0cmluZ3MgZm9yIHBsb3QgaW5mbyMjIyMjCmZvciBjb2wgaW4gZGZfdXMuY29sdW1uczoKICAgIGRmX3VzW2NvbF0gPSBkZl91c1tjb2xdLmFzdHlwZShzdHIpCgpkZl91c1sndGV4dCddID0gIlN0YXRlOiAiICsgZGZfdXNbJ3N0YXRlJ10gKyAiPGJyPiIgKyBcCiAgICAgICAgICAgICAgICAiUG9zaXRpdmUgQ2FzZXM6ICIgKyBkZl91c1sncG9zaXRpdmVjYXNlcyddICsgIjxicj4iICsgXAogICAgICAgICAgICAgICAgIkRlYXRoczogIiArIGRmX3VzWydkZWF0aCddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYuZHR5cGVzCg==</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIucmVxdWVzdCBpbXBvcnQgdXJsb3BlbgppbXBvcnQganNvbgppbXBvcnQgcGFuZGFzIGFzIHBkCmltcG9ydCBwbG90bHkuZXhwcmVzcyBhcyBweAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgcGxvdGx5LmV4cHJlc3MgYXMgcHgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">aW1wb3J0IHBsb3RseS5leHByZXNzIGFzIHB4Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fillna</last-search>
+      <last-search encoding="base64">XDxjb3VudHlGSVBTXD4=</last-search>
       <last-offset />
-      <last-pattern>fillna</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudHlGSVBTXD4=</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
