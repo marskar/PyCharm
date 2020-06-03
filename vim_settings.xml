@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pym</entry>
-        <entry>pm</entry>
         <entry encoding="base64">PD0=</entry>
         <entry>days</entry>
         <entry>astype</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDx3b3JsZF9kYXRhXD4=</entry>
+        <entry>shift</entry>
+        <entry>lag</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -168,7 +168,8 @@
         <mark key="]" line="0" column="88" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591214737385">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591220300029">
+        <mark key="'" line="198" column="34" />
         <mark key="[" line="195" column="21" />
         <mark key="]" line="195" column="21" />
         <mark key="^" line="172" column="42" />
@@ -247,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="32" column="98" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
@@ -347,6 +347,7 @@
       <jump line="106" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="107" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="198" column="34" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -381,7 +382,7 @@
         <text encoding="base64">TWFwIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3b3JsZF9kYXRhXD4=</text>
+        <text>lag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRjYy5HcmFwaChpZD0nZzInLCBmaWd1cmU9ZmlnKSwK</text>
@@ -423,9 +424,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx3b3JsZF9kYXRhXD4=</last-search>
+      <last-search>lag</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3b3JsZF9kYXRhXD4=</last-pattern>
+      <last-pattern>lag</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
