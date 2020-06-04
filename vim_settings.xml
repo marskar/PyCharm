@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>worlg</entry>
-        <entry>world_</entry>
-        <entry>news_da</entry>
-        <entry encoding="base64">XDxnaXRodWJcPg==</entry>
         <entry>states</entry>
         <entry>unemp</entry>
         <entry>locat</entry>
@@ -23,10 +19,14 @@
         <entry>shift</entry>
         <entry>lag</entry>
         <entry>line</entry>
-        <entry>doubling</entry>
         <entry encoding="base64">XDxtZXRyaWNzXD4=</entry>
         <entry>covid_m</entry>
         <entry>else</entry>
+        <entry>doubling</entry>
+        <entry encoding="base64">XDxzaXJfZGZcPg==</entry>
+        <entry>doubli</entry>
+        <entry encoding="base64">XDxnZXRfY291bnR5XD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVMaW5lQ2hhcnRTSVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -240,12 +240,12 @@
         <mark key="^" line="560" column="9" />
         <mark key="." line="560" column="8" />
       </file>
-      <file name="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" timestamp="1591297569481">
-        <mark key="'" line="240" column="214" />
-        <mark key="[" line="242" column="52" />
-        <mark key="]" line="243" column="4" />
-        <mark key="." line="243" column="3" />
-        <mark key="^" line="243" column="4" />
+      <file name="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" timestamp="1591303754457">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="251" column="52" />
+        <mark key="]" line="252" column="4" />
+        <mark key="." line="252" column="3" />
+        <mark key="^" line="252" column="4" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/usa_facts.py" timestamp="1590708948063">
         <mark key="'" line="18" column="13" />
@@ -255,22 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/realtime-rt-mcmc.py" />
-      <jump line="9" column="16" filename="$USER_HOME$/Skarzynski-Martin/rt/realtime-rt-mcmc.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="87" column="13" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="264" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="208" column="52" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="233" column="36" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="253" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="255" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="256" column="55" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="259" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="251" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="262" column="53" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="218" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="37" column="29" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="38" column="32" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="39" column="10" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -328,7 +312,6 @@
       <jump line="303" column="27" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="249" column="28" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="250" column="26" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
-      <jump line="106" column="21" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="108" column="21" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="109" column="120" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="201" column="28" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
@@ -342,7 +325,6 @@
       <jump line="192" column="4" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="194" column="36" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="196" column="79" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
-      <jump line="199" column="32" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="434" column="27" filename="$USER_HOME$/epimaps/back/helpers/daily_update.py" />
       <jump line="505" column="28" filename="$USER_HOME$/epimaps/back/helpers/daily_update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/epimaps/back/helpers/daily_update.py" />
@@ -355,6 +337,24 @@
       <jump line="176" column="4" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="231" column="212" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
       <jump line="240" column="214" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="235" column="23" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="258" column="28" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="106" column="81" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="107" column="44" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="113" column="58" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="114" column="41" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="199" column="4" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="210" column="51" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="212" column="61" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="259" column="12" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="274" column="16" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="131" column="21" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="207" column="20" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="208" column="18" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="152" column="4" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="223" column="46" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="272" column="50" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -389,7 +389,7 @@
         <text>create</text>
       </register>
       <register name="/" type="4">
-        <text>else</text>
+        <text encoding="base64">XDxjcmVhdGVMaW5lQ2hhcnRTSVJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgVE9ETyBjcmVhdGUgZnVuY3Rpb24gdG8gYWRkIHNvbCBtb2RlbCBwcmVkaWN0aW9ucwo=</text>
@@ -431,9 +431,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>else</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVMaW5lQ2hhcnRTSVJcPg==</last-search>
       <last-offset />
-      <last-pattern>else</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVMaW5lQ2hhcnRTSVJcPg==</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
