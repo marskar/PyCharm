@@ -216,12 +216,12 @@
         <mark key="." line="37" column="19" />
         <mark key="^" line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591371230194">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591372376223">
         <mark key="'" line="94" column="0" />
-        <mark key="[" line="131" column="2" />
-        <mark key="]" line="131" column="6" />
-        <mark key="^" line="131" column="6" />
-        <mark key="." line="131" column="5" />
+        <mark key="[" line="137" column="35" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1591127893115">
         <mark key="'" line="321" column="22" />
@@ -383,7 +383,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>head</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -392,47 +392,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>head</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>avera</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdzogaW50LAo=</text>
+      <register name="0" type="4">
+        <text>[&quot;county_gr&quot;].mean().reset_index(level=0, drop=True)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDcsCg==</text>
+        <text encoding="base64">ICAgIDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjZW50ZXI9VHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjZW50ZXI9VHJ1ZQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB3aW4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.astype({
     &quot;date&quot;: &quot;datetime64&quot;,
     &quot;shelter_date&quot;: &quot;datetime64&quot;,
     &quot;peak_date&quot;: &quot;datetime64&quot;
 })</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBkYXRhLmRhdGVzIGltcG9ydCBzaGVsdGVyX2RhdGVzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBNZXJnZSBjYXNlIHBvcCBkZiB3aXRoIHN0YXRlIGFuZCBuYXRpb25hbCBkZnMKY2FzZV9wb3BfcnVjY19ydF9kZiA9IGNhc2VfcG9wX3J1Y2NfZGYubWVyZ2UoCiAgICBzdGF0ZV9kZiwKICAgIG9uPVsic3RhdGVGSVBTIiwgImRheSIsICJkYXRlIl0KKS5tZXJnZSgKICAgIG5hdGlvbmFsX2RmLAogICAgb249WyJkYXkiLCAiZGF0ZSJdCikKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
