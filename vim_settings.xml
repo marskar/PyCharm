@@ -191,9 +191,10 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" timestamp="1590763191869">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="56" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" timestamp="1591360474730">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="5" />
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="37" />
       </file>
@@ -240,13 +241,14 @@
         <mark key="." line="252" column="3" />
         <mark key="^" line="252" column="4" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/usda.py" timestamp="1591359625707">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/usda.py" timestamp="1591360493116">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="38" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="267" column="2" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="197" column="35" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="209" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="210" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -345,6 +347,8 @@
       <jump line="53" column="10" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="16" column="35" filename="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,8 +370,8 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">cG9wdWxhdGlvbiA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -376,13 +380,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cG9wdWxhdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text>smoo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2FzZV9wb3BfcnRfZGYgPSBjYXNlX3BvcF9ydF9kZi5hc3NpZ24oCiAgICBtZWFuX2Nhc2VzPSgK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAoKCmRlZiBnZXRfY2Vuc3VzX2RhdGEoY29sdW1ucywgZW5jb2RpbmcpOgogICAgIiIiCiAgICBPYnRhaW4gY2Vuc3VzIGNvdW50eSBwb3B1bGF0aW9uIGRhdGEuCiAgICBodHRwczovL3d3dzIuY2Vuc3VzLmdvdi9wcm9ncmFtcy1zdXJ2ZXlzL3BvcGVzdC9kYXRhc2V0cy8yMDEwLTIwMTkvY291bnRpZXMvdG90YWxzLwoKICAgIEFyZ3M6CiAgICAgICAgY29sdW1uczoKCiAgICBSZXR1cm5zOgoKICAgICIiIgogICAgcmV0dXJuIHBkLnJlYWRfY3N2KAogICAgICAgICJodHRwczovL3d3dzIuY2Vuc3VzLmdvdi9wcm9ncmFtcy1zdXJ2ZXlzL3BvcGVzdC9kYXRhc2V0cy8iCiAgICAgICAgIjIwMTAtMjAxOS9jb3VudGllcy90b3RhbHMvY28tZXN0MjAxOS1hbGxkYXRhLmNzdiIsCiAgICAgICAgdXNlY29scz1jb2x1bW5zLAogICAgICAgIGVuY29kaW5nPWVuY29kaW5nCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
