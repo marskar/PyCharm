@@ -221,12 +221,11 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591481138253">
-        <mark key="'" line="48" column="78" />
-        <mark key="[" line="48" column="83" />
-        <mark key="]" line="48" column="93" />
-        <mark key="^" line="48" column="93" />
-        <mark key="." line="48" column="92" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591482215030">
+        <mark key="'" line="52" column="65" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/state.py" timestamp="1591366326809">
         <mark key="'" line="40" column="1" />
@@ -244,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="263" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="25" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" />
       <jump line="191" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="284" column="47" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -342,8 +339,10 @@
       <jump line="12" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="30" column="44" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="27" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="42" column="78" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="50" column="49" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="52" column="65" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -365,8 +364,8 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="4">
-        <text>scripts</text>
+      <register name="*" type="2">
+        <text encoding="base64">cnVuX3BhdGgoKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -375,43 +374,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>scripts</text>
+        <text>[Dict]</text>
       </register>
       <register name="/" type="4">
         <text>diff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFsbF90X2V4aXN0ID0gYWxsKG9zLnBhdGguZXhpc3RzKHQpIGZvciB0IGluIHRhcmdldHMpCg==</text>
+        <text encoding="base64">ZGVmIHJ1bl9pZl9uZWVkZWQodGFyZ2V0czogVHVwbGVbc3RyXSwgc2NyaXB0czogVHVwbGVbc3RyXSwgaW5wdXRzOiBUdXBsZVtzdHJdID0gKCkpIC0+IFR1cGxlW0RpY3RdOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cnVuX3BhdGgoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1heF9zY3JpcHRfbXRpbWUgPSBtYXgob3MucGF0aC5nZXRfbXRpbWUocykgZm9yIHMgaW4gc2NyaXB0cykK</text>
+      <register name="2" type="4">
+        <text>[]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBvcy5wYXRoIGltcG9ydCBnZXRfbXRpbWUK</text>
+      <register name="3" type="4">
+        <text>run_path(s, run_name=&quot;__main__&quot;) for s in scripts</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsbF90YXJnZXRzX2V4aXN0cyA9IAo=</text>
+      <register name="4" type="4">
+        <text>[]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      <register name="5" type="4">
+        <text>run_path(s, run_name=&quot;__main__&quot;) for s in scripts</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">eCA9ICgxLCAyKSArICg0LCA1KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIk5vIG5lZWQgdG8gcnVuIGFueSBzY3JpcHRzLiIpCg==</text>
+        <text encoding="base64">eApkZWYgcnVuX2lmX25lZWRlZCh0YXJnZXRzOiBUdXBsZVtzdHJdLCBzY3JpcHRzOiBUdXBsZVtzdHJdLCBpbnB1dHM6IFR1cGxlW3N0cl0gPSAoKSkgLT4gVHVwbGVbRGljdF06Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dHlwZSgoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
