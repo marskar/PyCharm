@@ -46,9 +46,9 @@
         <entry>b1</entry>
         <entry>bn</entry>
         <entry>nohlsearch</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>w</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,12 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/realtime-rt-mcmc.py" timestamp="1591195887211">
-        <mark key="'" line="9" column="16" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1591380493607">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="94" column="21" />
@@ -197,6 +191,12 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="51" />
       </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/path/code.py" timestamp="1591404550144">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/realtime-r0.py" timestamp="1591368048373">
         <mark key="'" line="309" column="8" />
         <mark key="[" line="559" column="59" />
@@ -211,6 +211,10 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/path/data.py" timestamp="1591403631009">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" timestamp="1591388006546">
         <mark key="'" line="34" column="19" />
         <mark key="[" line="2" column="10" />
@@ -218,19 +222,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591389240610">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591404161857">
         <mark key="'" line="168" column="0" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="34" />
         <mark key="." line="168" column="0" />
         <mark key="^" line="168" column="0" />
-      </file>
-      <file name="$USER_HOME$/mskar/sir/sir.py" timestamp="1591127893115">
-        <mark key="'" line="321" column="22" />
-        <mark key="[" line="321" column="21" />
-        <mark key="]" line="321" column="23" />
-        <mark key="." line="321" column="22" />
-        <mark key="^" line="321" column="23" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/state.py" timestamp="1591366326809">
         <mark key="'" line="40" column="1" />
@@ -238,21 +235,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="41" column="0" />
         <mark key="." line="40" column="1" />
-      </file>
-      <file name="$USER_HOME$/epimaps/back/helpers/daily_update.py" timestamp="1591297364214">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="528" column="15" />
-        <mark key="]" line="528" column="18" />
-        <mark key="n" line="0" column="0" />
-        <mark key="." line="528" column="17" />
-        <mark key="^" line="528" column="18" />
-      </file>
-      <file name="$USER_HOME$/epimaps/back/controllers/ctrlr_county.py" timestamp="1591303754457">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="251" column="52" />
-        <mark key="]" line="252" column="4" />
-        <mark key="." line="252" column="3" />
-        <mark key="^" line="252" column="4" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/usda.py" timestamp="1591388054530">
         <mark key="'" line="25" column="4" />
@@ -385,7 +367,7 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>shape</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -394,46 +376,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>shape</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
         <text>diff</text>
       </register>
       <register name="0" type="4">
-        <text>df[&quot;date&quot;].diff(df[&quot;peak_date&quot;])</text>
+        <text>Path(&quot;pre/census</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsicGVha19kYXRlIl0pCg==</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIHByaW50KCJPSyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">dG9kYXkgPSBkYXRlLnRvZGF5KCkuaXNvZm9ybWF0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsicGVha19kYXRlIl0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZbInJvbGxpbmdfbWVhbl9nciJdCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGZbInN0YXlfZGF0ZSJdLmxlKGRmWyJkYXRlIl0pLmZpbGxuYShGYWxzZSkK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGZbInN0YXlfZGF0ZSJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhLm1pdGlnYXRlZCBpbXBvcnQgY2FzZV9wb3BfcnRfZGYK</text>
+        <text encoding="base64">ZGZbInJvbGxpbmdfbWVhbl9nciJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwojIE1lcmdlIGluIHNoZWx0ZXItaW4tcGxhY2UgZGF0ZXMgaW50byBtZXJnZWRfZGYKZGYgPSBkZi5tZXJnZSgKICAgIHNoZWx0ZXJfZGYsCiAgICBvbj0iU3RhdGUiLAogICAgaG93PSJsZWZ0IgopCgo=</text>
+        <text encoding="base64">ZGZbInN0YXlfZGF0ZSJdLmxlKGRmWyJkYXRlIl0pLmZpbGxuYShGYWxzZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
