@@ -221,11 +221,11 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591484071246">
-        <mark key="[" line="57" column="58" />
-        <mark key="]" line="57" column="58" />
-        <mark key="." line="57" column="57" />
-        <mark key="^" line="57" column="58" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591485860085">
+        <mark key="[" line="59" column="56" />
+        <mark key="]" line="59" column="85" />
+        <mark key="." line="59" column="84" />
+        <mark key="^" line="59" column="85" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/state.py" timestamp="1591366326809">
         <mark key="'" line="40" column="1" />
@@ -371,43 +371,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>dependencies</text>
+        <text>max_dependency_mtime</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dependencies</text>
+        <text>max_dependency_mtime</text>
       </register>
       <register name="/" type="4">
         <text>diff</text>
       </register>
       <register name="0" type="4">
-        <text>isinstance(</text>
+        <text>scripts.stat().st_mtime if isinstance(scripts, Path) else max(s.stat().st_mtime for s in scripts)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyA9IFtzY3JpcHRzLChpbnB1dHMsKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwZSh0YXJnZXRfcGF0aHMpCg==</text>
+        <text encoding="base64">ICAgIHQgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1pbl90X210aW1lID0gbWluKHQuc3RhdCgpLnN0X210aW1lIGZvciB0IGluICh0YXJnZXRzLCkpIGlmIGFsbAo=</text>
+        <text encoding="base64">KGEsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHUK</text>
+        <text encoding="base64">ICAgIHQgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnVuX3BhdGgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>[]</text>
+      <register name="6" type="2">
+        <text encoding="base64">c2NyaXB0X3BhdGhzID0gY2Vuc19jb2RlLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>run_path(s, run_name=&quot;__main__&quot;) for s in scripts</text>
+      <register name="7" type="2">
+        <text encoding="base64">dGFyZ2V0X3BhdGhzID0gKGNlbnNfZGF0YSwpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -877,11 +877,11 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>[]</text>
+      <register name="8" type="2">
+        <text encoding="base64">YSA9IDEsIDIKYiA9IDMsNAphICsgYgoK</text>
       </register>
-      <register name="9" type="4">
-        <text>run_path(s, run_name=&quot;__main__&quot;) for s in scripts</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyA9IFtzY3JpcHRzLChpbnB1dHMsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
