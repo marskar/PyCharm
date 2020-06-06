@@ -47,8 +47,8 @@
         <entry>nohlsearch</entry>
         <entry>w</entry>
         <entry>action RenameElement</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -221,11 +221,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591482215030">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591483199904">
         <mark key="'" line="52" column="65" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="59" column="35" />
+        <mark key="]" line="59" column="36" />
+        <mark key="." line="59" column="35" />
+        <mark key="^" line="59" column="36" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/state.py" timestamp="1591366326809">
         <mark key="'" line="40" column="1" />
@@ -364,8 +365,8 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">cnVuX3BhdGgoKQo=</text>
+      <register name="*" type="4">
+        <text>(t)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -374,13 +375,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[Dict]</text>
+        <text>(t)</text>
       </register>
       <register name="/" type="4">
         <text>diff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHJ1bl9pZl9uZWVkZWQodGFyZ2V0czogVHVwbGVbc3RyXSwgc2NyaXB0czogVHVwbGVbc3RyXSwgaW5wdXRzOiBUdXBsZVtzdHJdID0gKCkpIC0+IFR1cGxlW0RpY3RdOgo=</text>
+        <text encoding="base64">dGFyZ2V0X2ZpbGVzID0gY2Vuc19kYXRhLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cnVuX3BhdGgoKQo=</text>
@@ -413,7 +414,7 @@
         <text encoding="base64">dHlwZSgoKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
