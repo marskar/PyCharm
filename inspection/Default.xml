@@ -4,6 +4,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="float.reset_index" />
+        <option value="tuple.stat" />
       </list>
     </option>
   </inspection_tool>
