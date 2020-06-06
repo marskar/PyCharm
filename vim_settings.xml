@@ -38,7 +38,6 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoNextBookmark</entry>
         <entry>buffers</entry>
         <entry>b</entry>
@@ -47,6 +46,7 @@
         <entry>bn</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>action RenameElement</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
@@ -191,11 +191,10 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/path/code.py" timestamp="1591404550144">
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="3" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="3" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/path/code.py" timestamp="1591404719215">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/realtime-r0.py" timestamp="1591368048373">
         <mark key="'" line="309" column="8" />
@@ -222,12 +221,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591404161857">
-        <mark key="'" line="168" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="168" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591404862855">
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/state.py" timestamp="1591366326809">
         <mark key="'" line="40" column="1" />
@@ -245,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="26" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="267" column="58" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="272" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="275" column="23" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="34" column="58" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -343,8 +340,10 @@
       <jump line="82" column="13" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="170" column="44" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="31" column="26" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="71" column="40" filename="$USER_HOME$/Skarzynski-Martin/rt/data/stay.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/path/code.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,8 +365,8 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">bm90IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICBjZW5zID0gcGQucmVhZF9jc3YoY2Vuc19kYXRhKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -376,43 +375,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>census</text>
       </register>
       <register name="/" type="4">
         <text>diff</text>
       </register>
-      <register name="0" type="4">
-        <text>Path(&quot;pre/census</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjZW5zID0gcGQucmVhZF9jc3YoY2Vuc19kYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">aWYgbm90IGNlbnNfZGF0YS5leGlzdHMoKToK</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJPSyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwZC5yZWFkX2NzdihjZW5zX2RhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dG9kYXkgPSBkYXRlLnRvZGF5KCkuaXNvZm9ybWF0KCkK</text>
+        <text encoding="base64">Y2VucyA9IHBkLnJlYWRfY3N2KGNlbnNfZGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsicGVha19kYXRlIl0pCg==</text>
+        <text encoding="base64">aWYgY2Vuc19kYXRhLmV4aXN0cygpOgogICAgaWYgY2Vuc19jb2RlLnN0YXQoKS5zdF9tdGltZSA8IGNlbnNfZGF0YS5zdGF0KCkuc3RfbXRpbWU6CiAgICAgICAgcGQucmVhZF9jc3YoY2Vuc19kYXRhKQplbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Y2Vuc19jb2RlID0gUGF0aCgicHJlcC9jZW5zdXMucHkiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGZbInJvbGxpbmdfbWVhbl9nciJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGZbInN0YXlfZGF0ZSJdLmxlKGRmWyJkYXRlIl0pLmZpbGxuYShGYWxzZSkK</text>
+        <text encoding="base64">aWYK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
