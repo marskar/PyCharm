@@ -35,7 +35,6 @@
         <entry>action NewDirectoryProject</entry>
         <entry>action GotoClass</entry>
         <entry>action JumpToLastWindow</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action GotoNextBookmark</entry>
@@ -49,6 +48,7 @@
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -151,12 +151,6 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/rt.py" timestamp="1591357025924">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/app.py" timestamp="1591357441411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="96" column="30" />
@@ -203,6 +197,12 @@
         <mark key="^" line="560" column="9" />
         <mark key="." line="560" column="8" />
       </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" timestamp="1591490156121">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="23" />
+      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/usa_facts.py" timestamp="1591388032413">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="4" column="9" />
@@ -221,11 +221,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591486917621">
-        <mark key="[" line="56" column="93" />
-        <mark key="]" line="56" column="93" />
-        <mark key="." line="56" column="93" />
-        <mark key="^" line="56" column="70" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591489595946">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="8" />
+        <mark key="^" line="21" column="9" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/state.py" timestamp="1591366326809">
         <mark key="'" line="40" column="1" />
@@ -243,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" />
-      <jump line="191" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="284" column="47" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="289" column="29" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="111" column="5" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -310,7 +309,6 @@
       <jump line="94" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="80" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="99" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="182" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="100" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -339,10 +337,13 @@
       <jump line="27" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="42" column="78" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="50" column="49" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="52" column="65" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="57" column="61" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="254" column="32" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="55" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -371,43 +372,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>s</text>
+        <text>[Any, ...]]</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>[Any, ...]]</text>
       </register>
       <register name="/" type="4">
         <text>diff</text>
       </register>
-      <register name="0" type="4">
-        <text>isinstance(target, Path)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlLCBEaWN0CmZyb20gcnVucHkgaW1wb3J0IHJ1bl9wYXRoCmZyb20gaXRlcnRvb2xzIGltcG9ydCBjaGFpbgoKCmRlZiBydW5fc2NyaXB0X2lmX25lZWRlZCh0YXJnZXQ6IFBhdGgsIHNjcmlwdDogUGF0aCwgaW5wdXRzOiBUdXBsZSA9ICgpKSAtPiBEaWN0W3N0ciwgc3RyXToKICAgIGlmICgKICAgICAgICBub3QgdGFyZ2V0LmV4aXN0cygpCiAgICAgICAgb3IgdGFyZ2V0LnN0YXQoKS5zdF9tdGltZSA8IHNjcmlwdC5zdGF0KCkuc3RfbXRpbWUKICAgICAgICBvciBpbnB1dHMgYW5kIHRhcmdldC5zdGF0KCkuc3RfbXRpbWUgPCBtYXgoaS5zdGF0KCkuc3RfbXRpbWUgZm9yIGkgaW4gaW5wdXRzKQogICAgKToKICAgICAgICByZXR1cm4gcnVuX3BhdGgoc3RyKHNjcmlwdCksIHJ1bl9uYW1lPSJfX21haW5fXyIpCgoKZGVmIHJ1bl9zY3JpcHRzX2lmX25lZWRlZCh0YXJnZXQ6IFBhdGgsIHNjcmlwdHM6IFR1cGxlLCBpbnB1dHM6IFR1cGxlID0gKCkpIC0+IFR1cGxlOgogICAgaWYgKAogICAgICAgIG5vdCB0YXJnZXQuZXhpc3RzKCkKICAgICAgICBvciB0YXJnZXQuc3RhdCgpLnN0X210aW1lIDwgbWF4KHMuc3RhdCgpLnN0X210aW1lIGZvciBzIGluIHNjcmlwdHMpCiAgICAgICAgb3IgaW5wdXRzIGFuZCB0YXJnZXQuc3RhdCgpLnN0X210aW1lIDwgbWF4KGkuc3RhdCgpLnN0X210aW1lIGZvciBpIGluIGlucHV0cykKICAgICk6CiAgICAgICAgcmV0dXJuIHR1cGxlKHJ1bl9wYXRoKHN0cihzKSwgcnVuX25hbWU9Il9fbWFpbl9fIikgZm9yIHMgaW4gc2NyaXB0cykKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aWYgY2Vuc19kYXRhLmV4aXN0cygpOgogICAgaWYgY2Vuc19jb2RlLnN0YXQoKS5zdF9tdGltZSA8IGNlbnNfZGF0YS5zdGF0KCkuc3RfbXRpbWU6CiAgICAgICAgcHJpbnQoIk5vIG5lZWQgdG8gdXBkYXRlLiIpCmVsc2U6CiAgICBydW5fbW9kdWxlKCJwcmVwLmNlbnN1cyIsIHJ1bl9uYW1lPSJfX21haW5fXyIpCg==</text>
       </register>
       <register name="q" type="4">
         <text>f-;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ZnJvbSBydW5weSBpbXBvcnQgcnVuX21vZHVsZSwgcnVuX3BhdGgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2Uoc2NyaXB0LCBQYXRoKToK</text>
+        <text encoding="base64">cnVuX3BhdGgoY2Vuc19jb2RlLmFic29sdXRlKCkpCltQYXRoKCJhcHAiKV0gKyBbTm9uZV0KUGF0CmlmIFBhdGgoImFwcCIpLmV4aXN0cygpIGFuZCBQYXRoKCJhcHAiKS5zdGF0KCkuc3RfbXRpbWU6CiAgICBwcmludCgiT0siKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">IyBkZWYgcnVuX2lmX25lZWRlZCh0YXJnZXQ6IFBhdGgsIHNjcmlwdDogUGF0aCk6CiMgICAgIGlmIHRhcmdldC5leGlzdHMoKToKIyAgICAgICAgIGlmIHRhcmdldC5zdGF0KCkuc3RfbXRpbWUgPiBzY3JpcHQuc3RhdCgpLnN0X210aW1lOgojICAgICAgICAgICAgIHByaW50KGYiUnVubmluZyB7c2NyaXB0Lm5hbWV9LiIpCiMgICAgICAgICAgICAgcmV0dXJuIHJ1bl9wYXRoKHN0cihzY3JpcHQpLCBydW5fbmFtZT0iX19tYWluX18iKQojICAgICAgICAgZWxzZToKIyAgICAgICAgICAgICBwcmludCgiTm8gbmVlZCB0byBydW4gc2NyaXB0LiIpCiMgICAgIGVsc2U6CiMgICAgICAgICBwcmludChmIlJ1bm5pbmcge3NjcmlwdC5uYW1lfS4iKQojICAgICAgICAgcmV0dXJuIHJ1bl9wYXRoKHNjcmlwdCwgcnVuX25hbWU9Il9fbWFpbl9fIikKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlucHV0X210aW1lID0gaW5wdXRzLnN0YXQoKS5zdF9tdGltZSBpZiBpc2luc3RhbmNlKGlucHV0cywgUGF0aCkgZWxzZSBtYXgoaS5zdGF0KCkuc3RfbXRpbWUgZm9yIGkgaW4gaW5wdXRzKQo=</text>
+        <text encoding="base64">ZGVmIHJ1bl9pZl9uZWVkZWQodGFyZ2V0OiBQYXRoLCBzY3JpcHQ6IFBhdGgpOgogICAgaWYgbm90IHRhcmdldC5leGlzdHMoKToKICAgICAgICBwYXNzCiAgICBlbGlmIHRhcmdldC5zdGF0KCkuc3RfbXRpbWUgPCBzY3JpcHQuc3RhdCgpLnN0X210aW1lOgogICAgICAgIHBhc3MKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoZiJObyBuZWVkIHRvIHJ1biB7c2NyaXB0Lm5hbWV9LiIpCiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHByaW50KGYiUnVubmluZyB7c2NyaXB0Lm5hbWV9LiIpCiAgICByZXR1cm4gcnVuX3BhdGgoc3RyKHNjcmlwdCksIHJ1bl9uYW1lPSJfX21haW5fXyIpCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjcmlwdF9tdGltZSA9IHNjcmlwdHMuc3RhdCgpLnN0X210aW1lIGlmIGlzaW5zdGFuY2Uoc2NyaXB0cywgUGF0aCkgZWxzZSBtYXgocy5zdGF0KCkuc3RfbXRpbWUgZm9yIHMgaW4gc2NyaXB0cykK</text>
+        <text encoding="base64">bWF4KFszLCA1XSkKYSArIFsxXQp0dXBsZShjaGFpbihbMSwyXSwgMikpCnRhcmdldF9wYXRocyA9IGNlbnNfZGF0YQpzY3JpcHRfcGF0aHMgPSBjZW5zX2NvZGUKY2Vuc19jb2RlLnRvdWNoKCkKcnVuX3NjcmlwdF9pZl9uZWVkZWQodGFyZ2V0X3BhdGhzLCBzY3JpcHRfcGF0aHMpCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHJ1bl9zY3JpcHRzX2lmX25lZWRlZCh0YXJnZXQ6IFBhdGgsIHNjcmlwdHM6IFR1cGxlLCBpbnB1dHM6IFR1cGxlID0gKCkpIC0+IFR1cGxlOgogICAgaWYgKAogICAgICAgIG5vdCB0YXJnZXQuZXhpc3RzKCkKICAgICAgICBvciB0YXJnZXQuc3RhdCgpLnN0X210aW1lIDwgbWF4KHMuc3RhdCgpLnN0X210aW1lIGZvciBzIGluIHNjcmlwdHMpCiAgICAgICAgb3IgaW5wdXRzIGFuZCB0YXJnZXQuc3RhdCgpLnN0X210aW1lIDwgbWF4KGkuc3RhdCgpLnN0X210aW1lIGZvciBpIGluIGlucHV0cykKICAgICk6CiAgICAgICAgcmV0dXJuIHR1cGxlKHJ1bl9wYXRoKHN0cihzKSwgcnVuX25hbWU9Il9fbWFpbl9fIikgZm9yIHMgaW4gc2NyaXB0cykKCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -878,13 +879,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIHJ1bl9zY3JpcHRfaWZfbmVlZGVkKHRhcmdldDogUGF0aCwgc2NyaXB0OiBQYXRoLCBpbnB1dHM6IFR1cGxlID0gKCkpIC0+IERpY3Rbc3RyLCBzdHJdOgogICAgaWYgKAogICAgICAgIG5vdCB0YXJnZXQuZXhpc3RzKCkKICAgICAgICBvciB0YXJnZXQuc3RhdCgpLnN0X210aW1lIDwgc2NyaXB0LnN0YXQoKS5zdF9tdGltZQogICAgICAgIG9yIGlucHV0cyBhbmQgdGFyZ2V0LnN0YXQoKS5zdF9tdGltZSA8IG1heChpLnN0YXQoKS5zdF9tdGltZSBmb3IgaSBpbiBpbnB1dHMpCiAgICApOgogICAgICAgIHJldHVybiBydW5fcGF0aChzdHIoc2NyaXB0KSwgcnVuX25hbWU9Il9fbWFpbl9fIikKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHQgPSAK</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlLCBEaWN0CmZyb20gcnVucHkgaW1wb3J0IHJ1bl9wYXRoCmZyb20gaXRlcnRvb2xzIGltcG9ydCBjaGFpbgoKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
   </component>
