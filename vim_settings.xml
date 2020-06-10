@@ -171,12 +171,12 @@
         <mark key="." line="71" column="3" />
         <mark key="^" line="71" column="4" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591737836536">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="28" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591801950656">
+        <mark key="'" line="100" column="8" />
+        <mark key="[" line="162" column="37" />
+        <mark key="]" line="162" column="37" />
+        <mark key="^" line="162" column="37" />
+        <mark key="." line="162" column="36" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data/state.py" timestamp="1591366326809">
         <mark key="'" line="40" column="1" />
@@ -207,12 +207,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591799629471">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="58" column="38" />
-        <mark key="]" line="58" column="44" />
-        <mark key="." line="58" column="43" />
-        <mark key="^" line="58" column="44" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591801583252">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="60" column="13" />
+        <mark key="]" line="60" column="28" />
+        <mark key="." line="60" column="27" />
+        <mark key="^" line="60" column="28" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/code.py" timestamp="1591404719215">
         <mark key="[" line="19" column="0" />
@@ -341,7 +341,6 @@
       <jump line="67" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="176" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="16" column="24" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="100" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="158" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" />
       <jump line="4" column="18" filename="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" />
@@ -353,6 +352,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -381,43 +381,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">ZmVfZm9ybXVsYSwg</text>
+        <text>df.groupby(&quot;countyFIPS&quot;)[&quot;confirmed&quot;].mean()</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmVfZm9ybXVsYSwg</text>
+        <text>mean_cases</text>
       </register>
       <register name="/" type="4">
         <text>gamm</text>
       </register>
       <register name="0" type="4">
-        <text>index=&quot;confirmed&quot;, columns=&quot;countyFIPS&quot;, values=&quot;predicted_rt&quot;</text>
+        <text>df.groupby(&quot;countyFIPS&quot;)[&quot;confirmed&quot;].mean()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVuX3JlX3ByZWQgPSBkZW5fcmVfcmVzdWx0LnByZWRpY3QoZGYpCg==</text>
+        <text encoding="base64">cHJlZF9kZi5ncm91cGJ5KCJSVUNDXzIwMTMiKS5wbG90LnNjYXR0ZXIoeD0iZGF5IiwgeT0icHJlZGljdGVkX3J0IikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVuX3JlX3ByZWQK</text>
+        <text encoding="base64">ZGVuX3JlX3ByZWQgPSBkZW5fcmVfcmVzdWx0LnByZWRpY3QoZGYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmlnID0gc20uZ3JhcGhpY3MucGxvdF9maXQoZGVuX3JlX3Jlc3VsdCwgMCkK</text>
+        <text encoding="base64">ZGVuX3JlX3ByZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVuX3JlX3Jlc3VsdC4K</text>
+        <text encoding="base64">ZmlnID0gc20uZ3JhcGhpY3MucGxvdF9maXQoZGVuX3JlX3Jlc3VsdCwgMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">ZGVuX3JlX3Jlc3VsdC4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YmluX29scyA9IHNtZi5vbHMoZm9ybXVsYT1iaW5fdmFyX2Zvcm11bGEsIGRhdGE9ZGYpCmJpbl9vbHNfcmVzID0gYmluX29scy5maXQoKQojIHl0cnVlID0gY2FzZV9wb3BfcnRfZGZbInJvbGxpbmdfbWVhbl9ydCJdCiMgeXByZWQgPSByZXMucHJlZGljdChjYXNlX3BvcF9ydF9kZlt2YXJpYWJsZXNdKQpiaW5fb2xzX3Jlcy5zdW1tYXJ5KCkKCg==</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -888,10 +888,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3Vic2V0Cg==</text>
+        <text encoding="base64">YmluX29scyA9IHNtZi5vbHMoZm9ybXVsYT1iaW5fdmFyX2Zvcm11bGEsIGRhdGE9ZGYpCmJpbl9vbHNfcmVzID0gYmluX29scy5maXQoKQojIHl0cnVlID0gY2FzZV9wb3BfcnRfZGZbInJvbGxpbmdfbWVhbl9ydCJdCiMgeXByZWQgPSByZXMucHJlZGljdChjYXNlX3BvcF9ydF9kZlt2YXJpYWJsZXNdKQpiaW5fb2xzX3Jlcy5zdW1tYXJ5KCkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">c3Vic2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
