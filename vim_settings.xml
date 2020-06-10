@@ -178,13 +178,6 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data/stay.py" timestamp="1591389247811">
-        <mark key="'" line="71" column="40" />
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="71" column="41" />
-        <mark key="." line="71" column="40" />
-        <mark key="^" line="71" column="41" />
-      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591829677139">
         <mark key="'" line="14" column="51" />
         <mark key="[" line="14" column="51" />
@@ -221,6 +214,11 @@
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/data.py" timestamp="1591824583155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591831383703">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591831213360">
         <mark key="'" line="37" column="18" />
