@@ -207,12 +207,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591794565026">
-        <mark key="'" line="72" column="41" />
-        <mark key="[" line="75" column="15" />
-        <mark key="]" line="75" column="26" />
-        <mark key="." line="75" column="25" />
-        <mark key="^" line="75" column="26" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591796276989">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="46" column="7" />
+        <mark key="^" line="45" column="10" />
+        <mark key="." line="46" column="9" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/code.py" timestamp="1591404719215">
         <mark key="[" line="19" column="0" />
@@ -253,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="37" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
@@ -353,6 +351,8 @@
       <jump line="34" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" />
       <jump line="14" column="6" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="72" column="41" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -381,13 +381,13 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>.</text>
+        <text>fit</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>fit</text>
       </register>
       <register name="/" type="4">
         <text>gamm</text>
@@ -396,28 +396,28 @@
         <text encoding="base64">ICAgIGRheXNfc2luY2Vfc3RheT1kZlsiZGF0ZSJdLnN1YnRyYWN0KGRmWyJzdGF5X2RhdGUiXSkuZHQuZGF5cy5maWxsbmEoMCkKKQoKIyBDcmVhdGUgY29sdW1uIG9mIG1lYW4gY2FzZXMgZm9yIGVhY2ggY291bnR5CmRmID0gZGYuYXNzaWduKAogICAgbWVhbl9jYXNlcz1kZi5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLm1lYW4oKQopCgojIENyZWF0ZSBjb2x1bW4gb2YgZGVtZWFuZWQgKG1lYW4tY2VudGVyZWQpIGNhc2VzIGZvciBlYWNoIGNvdW50eQpkZiA9IGRmLmFzc2lnbigKICAgIGRlbWVhbmVkX2Nhc2VzPWRmWyJjb25maXJtZWQiXS5zdWJ0cmFjdChkZlsibWVhbl9jYXNlcyJdKQopCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYuc2hhcGUK</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBjYXNlX3BvcF9ydF9kZiA9IGNhc2VfcG9wX3J0X2RmLmRyb3BuYShzdWJzZXQ9dmFyaWFibGVzKQo=</text>
+        <text encoding="base64">YmluX29scyA9IHNtZi5vbHMoZm9ybXVsYT1iaW5fdmFyX2Zvcm11bGEsIGRhdGE9ZGYpCmJpbl9vbHNfcmVzID0gYmluX29scy5maXQoKQojIHl0cnVlID0gY2FzZV9wb3BfcnRfZGZbInJvbGxpbmdfbWVhbl9ydCJdCiMgeXByZWQgPSByZXMucHJlZGljdChjYXNlX3BvcF9ydF9kZlt2YXJpYWJsZXNdKQpiaW5fb2xzX3Jlcy5zdW1tYXJ5KCkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3Vic2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdlbl9kYXRhKGRjX2RpY3QpOgogICAgZm9yIGRhdGEsIGNvZGUgaW4gZGNfZGljdC5pdGVtcygpOgogICAgICAgIHJ1bl9zY3JpcHRfaWZfbmVlZGVkKGRhdGEsIGNvZGUpCiAgICAgICAgeWllbGQgcGQucmVhZF9jc3YoZGF0YSkKCg==</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cnVuX3NjcmlwdF9pZl9uZWVkZWQoY2Vuc19kYXRhLCBjZW5zX2NvZGUpCnJ1bl9zY3JpcHRfaWZfbmVlZGVkKGNhc2VfZGF0YSwgY2FzZV9jb2RlKQpydW5fc2NyaXB0X2lmX25lZWRlZChydWNjX2RhdGEsIHJ1Y2NfY29kZSkKcnVuX3NjcmlwdF9pZl9uZWVkZWQoc3RheV9kYXRhLCBzdGF5X2NvZGUpCgo=</text>
+        <text encoding="base64">ZGYuY29sdW1ucwpkZlsiZGVtZWFuZWRfY2FzZXMiXQpkZi5pc25hKCkuc3VtKCkKCnZhcmlhYmxlcyA9IFsKICAgICJyb2xsaW5nX21lYW5fcnQiLAogICAgInNoZWx0ZXJfaW5fcGxhY2UiLCAgIyBiaW5hcnkKICAgICJwb3N0X3BlYWsiLCAgIyBiaW5hcnkKICAgICJkYXlzX3NpbmNlX3NoZWx0ZXIiLApdCgpiaW5fdmFyX2Zvcm11bGEgPSAiIiIKICAgIHJvbGxpbmdfbWVhbl9ydAogICAgfiBzaGVsdGVyX2luX3BsYWNlCiAgICAqIHBvc3RfcGVhawogICAgIiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2Vuc19kYXRhID0gZGF0YV9kaXIgLyAiY28tZXN0MjAxOS1hbGxkYXRhLmNzdiIKY2Vuc19jb2RlID0gUGF0aCgicHJlcC9jZW5zdXMucHkiKQpydWNjX2RhdGEgPSBkYXRhX2RpciAvICJydXJhbHVyYmFuY29kZXMyMDEzLnhscyIKcnVjY19jb2RlID0gUGF0aCgicHJlcC91c2RhLnB5IikKY2FzZV9kYXRhID0gZGF0YV9kaXIgLyBmInt0b2RheX1fY292aWRfY29uZmlybWVkX3VzYWZhY3RzLmNzdiIKY2FzZV9jb2RlID0gUGF0aCgicHJlcC91c2FfZmFjdHMucHkiKQpzdGF5X2RhdGEgPSBkYXRhX2RpciAvICJzdGF5LWF0LWhvbWUtb3JkZXItZGF0ZXMuY3N2IgpzdGF5X2NvZGUgPSBQYXRoKCJwcmVwL3N0YXkucHkiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -888,10 +888,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmFwaSBhcyBzbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBwYXRoLnJ1biBpbXBvcnQgcnVuX3NjcmlwdF9pZl9uZWVkZWQK</text>
+        <text encoding="base64">ZGF0YSA9IHNtLmRhdGFzZXRzLmdldF9yZGF0YXNldCgiZGlldG94IiwgImdlZXBhY2siKS5kYXRhCgptZCA9IHNtZi5taXhlZGxtKCJXZWlnaHQgfiBUaW1lIiwgZGF0YSwgZ3JvdXBzPWRhdGFbIlBpZyJdKQptZGYuc3VtbWFyeSgpCgptZGYgPSBtZC5maXQoKQoKY291bnR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
