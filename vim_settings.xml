@@ -43,12 +43,12 @@
         <entry>bn</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
-        <entry>action RenameElement</entry>
         <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -207,12 +207,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591796276989">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="46" column="7" />
-        <mark key="^" line="45" column="10" />
-        <mark key="." line="46" column="9" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591799629471">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="58" column="38" />
+        <mark key="]" line="58" column="44" />
+        <mark key="." line="58" column="43" />
+        <mark key="^" line="58" column="44" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/code.py" timestamp="1591404719215">
         <mark key="[" line="19" column="0" />
@@ -253,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="37" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/data/census.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
       <jump line="95" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data/dates.py" />
@@ -351,8 +349,10 @@
       <jump line="34" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" />
       <jump line="14" column="6" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="72" column="41" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -381,43 +381,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>fit</text>
+        <text encoding="base64">ZmVfZm9ybXVsYSwg</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>fit</text>
+        <text encoding="base64">ZmVfZm9ybXVsYSwg</text>
       </register>
       <register name="/" type="4">
         <text>gamm</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRheXNfc2luY2Vfc3RheT1kZlsiZGF0ZSJdLnN1YnRyYWN0KGRmWyJzdGF5X2RhdGUiXSkuZHQuZGF5cy5maWxsbmEoMCkKKQoKIyBDcmVhdGUgY29sdW1uIG9mIG1lYW4gY2FzZXMgZm9yIGVhY2ggY291bnR5CmRmID0gZGYuYXNzaWduKAogICAgbWVhbl9jYXNlcz1kZi5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLm1lYW4oKQopCgojIENyZWF0ZSBjb2x1bW4gb2YgZGVtZWFuZWQgKG1lYW4tY2VudGVyZWQpIGNhc2VzIGZvciBlYWNoIGNvdW50eQpkZiA9IGRmLmFzc2lnbigKICAgIGRlbWVhbmVkX2Nhc2VzPWRmWyJjb25maXJtZWQiXS5zdWJ0cmFjdChkZlsibWVhbl9jYXNlcyJdKQopCgo=</text>
+      <register name="0" type="4">
+        <text>index=&quot;confirmed&quot;, columns=&quot;countyFIPS&quot;, values=&quot;predicted_rt&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">ZGVuX3JlX3ByZWQgPSBkZW5fcmVfcmVzdWx0LnByZWRpY3QoZGYpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">ZGVuX3JlX3ByZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmluX29scyA9IHNtZi5vbHMoZm9ybXVsYT1iaW5fdmFyX2Zvcm11bGEsIGRhdGE9ZGYpCmJpbl9vbHNfcmVzID0gYmluX29scy5maXQoKQojIHl0cnVlID0gY2FzZV9wb3BfcnRfZGZbInJvbGxpbmdfbWVhbl9ydCJdCiMgeXByZWQgPSByZXMucHJlZGljdChjYXNlX3BvcF9ydF9kZlt2YXJpYWJsZXNdKQpiaW5fb2xzX3Jlcy5zdW1tYXJ5KCkKCg==</text>
+        <text encoding="base64">ZmlnID0gc20uZ3JhcGhpY3MucGxvdF9maXQoZGVuX3JlX3Jlc3VsdCwgMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3Vic2V0Cg==</text>
+        <text encoding="base64">ZGVuX3JlX3Jlc3VsdC4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwpkZlsiZGVtZWFuZWRfY2FzZXMiXQpkZi5pc25hKCkuc3VtKCkKCnZhcmlhYmxlcyA9IFsKICAgICJyb2xsaW5nX21lYW5fcnQiLAogICAgInNoZWx0ZXJfaW5fcGxhY2UiLCAgIyBiaW5hcnkKICAgICJwb3N0X3BlYWsiLCAgIyBiaW5hcnkKICAgICJkYXlzX3NpbmNlX3NoZWx0ZXIiLApdCgpiaW5fdmFyX2Zvcm11bGEgPSAiIiIKICAgIHJvbGxpbmdfbWVhbl9ydAogICAgfiBzaGVsdGVyX2luX3BsYWNlCiAgICAqIHBvc3RfcGVhawogICAgIiIiCg==</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmluX29scyA9IHNtZi5vbHMoZm9ybXVsYT1iaW5fdmFyX2Zvcm11bGEsIGRhdGE9ZGYpCmJpbl9vbHNfcmVzID0gYmluX29scy5maXQoKQojIHl0cnVlID0gY2FzZV9wb3BfcnRfZGZbInJvbGxpbmdfbWVhbl9ydCJdCiMgeXByZWQgPSByZXMucHJlZGljdChjYXNlX3BvcF9ydF9kZlt2YXJpYWJsZXNdKQpiaW5fb2xzX3Jlcy5zdW1tYXJ5KCkKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -888,13 +888,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmFwaSBhcyBzbQo=</text>
+        <text encoding="base64">c3Vic2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSA9IHNtLmRhdGFzZXRzLmdldF9yZGF0YXNldCgiZGlldG94IiwgImdlZXBhY2siKS5kYXRhCgptZCA9IHNtZi5taXhlZGxtKCJXZWlnaHQgfiBUaW1lIiwgZGF0YSwgZ3JvdXBzPWRhdGFbIlBpZyJdKQptZGYuc3VtbWFyeSgpCgptZGYgPSBtZC5maXQoKQoKY291bnR5Cg==</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
