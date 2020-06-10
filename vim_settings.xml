@@ -47,8 +47,8 @@
         <entry>action CloseProject</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -207,12 +207,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591794490248">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591794565026">
         <mark key="'" line="72" column="41" />
         <mark key="[" line="75" column="15" />
-        <mark key="]" line="75" column="15" />
-        <mark key="." line="75" column="14" />
-        <mark key="^" line="75" column="15" />
+        <mark key="]" line="75" column="26" />
+        <mark key="." line="75" column="25" />
+        <mark key="^" line="75" column="26" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/code.py" timestamp="1591404719215">
         <mark key="[" line="19" column="0" />
@@ -894,7 +894,7 @@
         <text encoding="base64">ZnJvbSBwYXRoLnJ1biBpbXBvcnQgcnVuX3NjcmlwdF9pZl9uZWVkZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
