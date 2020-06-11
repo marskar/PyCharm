@@ -45,10 +45,10 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action RenameElement</entry>
         <entry>wa</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -186,6 +186,7 @@
         <mark key="." line="14" column="52" />
         <mark key="^" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/README.md" timestamp="1591903768144" />
       <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591831340638">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="21" column="0" />
@@ -198,11 +199,6 @@
         <mark key="]" line="24" column="19" />
         <mark key="." line="24" column="19" />
         <mark key="^" line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/path/code.py" timestamp="1591404719215">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" timestamp="1591738250347">
         <mark key="'" line="34" column="8" />
@@ -220,12 +216,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591831213360">
-        <mark key="'" line="37" column="18" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="58" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591903777630">
+        <mark key="'" line="56" column="15" />
+        <mark key="[" line="43" column="3" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="15" />
+        <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/fe.py" timestamp="1591826708569" />
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591825317848">
@@ -235,11 +231,12 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1591831156965">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1591903276294">
         <mark key="'" line="10" column="19" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="8" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/models.py" timestamp="1591824587644">
         <mark key="[" line="0" column="0" />
@@ -254,10 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="12" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="30" column="44" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="27" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="42" column="78" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="50" column="49" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -333,13 +326,11 @@
       <jump line="56" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="60" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="28" column="10" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="14" column="51" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
@@ -354,6 +345,12 @@
       <jump line="10" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
       <jump line="37" column="18" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/README.md" />
+      <jump line="56" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -381,14 +378,14 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>.confirmed</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>fit</text>
+        <text>.confirmed</text>
       </register>
       <register name="/" type="4">
         <text>merged</text>
@@ -397,28 +394,28 @@
         <text encoding="base64">bWVfcmVzdWx0ID0gc20ubG9hZF9waWNrbGUoc3RyKG1lX2ZpbGUpKQptZV9yZXN1bHQuc3VtbWFyeSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>lme4, nlme</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGxvdF9maWxlLmV4aXN0cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWVfZmlsZS5leGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgIGdyb3Vwcz1zdWJzZXRbImNvdW50eV9maXBzIl0sCiAgICByZV9mb3JtdWxhPSJ+Y29uZmlybWVkIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LnNhdmVmaWcocGxvdF9maWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RklQUyA9IDM2MDYxCg==</text>
+        <text encoding="base64">ZGYuZGVtZWFuZWRfY2FzZXMuaGVhZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RklQUyA9IDM2MDYxCg==</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RklQUyA9IDM2MDYxCg==</text>
+        <text encoding="base64">ZGYuZGF5c19zaW5jZV9wZWFrLmhlYWQoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -889,13 +886,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGxvdF9maWxlID0gcGxvdF9kaXIgLyBmInt0b2RheX1fY2FzZV9wb3BfcnVjY19ydF9tZS5wbmciCg==</text>
+        <text encoding="base64">c3ViCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oZml0dGVkX3J0PW1lX3Jlc3VsdC5maXR0ZWR2YWx1ZXMpCmRmW2RmLmNvdW50eUZJUFMgPT0gMzYwNjFdLnBsb3Quc2NhdHRlcih4PSJkYXkiLCB5PSJmaXR0ZWRfcnQiKQpkZltkZi5jb3VudHlGSVBTID09IDM2MDYxXS5wbG90LnNjYXR0ZXIoeD0iZGF5IiwgeT0icm9sbGluZ19tZWFuX3J0IikKZGYuc2V0X2luZGV4KCJkYXkiKS5oZWFkKDIwMDApLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiZml0dGVkX3J0Il0ucGxvdChsZWdlbmQ9VHJ1ZSkKCmRmLmxvY1sKICAgIGRmLmNvdW50eUZJUFMgPT0gMzYwNjEsCiAgICBbImRheSIsICJyb2xsaW5nX21lYW5fcnQiLCAiZml0dGVkX3J0Il0KXS5zZXRfaW5kZXgoImRheSIpLnBsb3QoKQpwbHQuc2hvdygpCmRmLnBpdm90KGNvbHVtbnM9ImNvdW50eUZJUFMiLCB2YWx1ZXM9ImZpdHRlZF9ydCIpCgpkZi5ncm91cGJ5KCJkYXkiKVsicHJlZGljdGVkX3J0Il0ubWVhbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
