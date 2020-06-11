@@ -47,8 +47,8 @@
         <entry>wa</entry>
         <entry>w</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -186,7 +186,11 @@
         <mark key="." line="14" column="52" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/README.md" timestamp="1591903768144" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/README.md" timestamp="1591903909762">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="13" />
+        <mark key="." line="55" column="13" />
+      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" timestamp="1591831340638">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="21" column="0" />
@@ -216,12 +220,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591903777630">
-        <mark key="'" line="56" column="15" />
-        <mark key="[" line="43" column="3" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="15" />
-        <mark key="^" line="49" column="16" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591904802323">
+        <mark key="'" line="74" column="15" />
+        <mark key="[" line="76" column="10" />
+        <mark key="]" line="76" column="16" />
+        <mark key="." line="76" column="15" />
+        <mark key="^" line="76" column="16" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/fe.py" timestamp="1591826708569" />
       <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591825317848">
@@ -379,43 +383,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>.confirmed</text>
+        <text>fittedvalues</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.confirmed</text>
+        <text>fittedvalues</text>
       </register>
       <register name="/" type="4">
         <text>merged</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWVfcmVzdWx0ID0gc20ubG9hZF9waWNrbGUoc3RyKG1lX2ZpbGUpKQptZV9yZXN1bHQuc3VtbWFyeSgpCg==</text>
+        <text encoding="base64">bWVfcmVzdWx0LmZpdHRlZHZhbHVlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text>lme4, nlme</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUT0RPIE92ZXJkaXNwZXJzaW9uIC0+IHRyeSBuZWdhdGl2ZSBiaW5hcnkgbW9kZWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdyb3Vwcz1zdWJzZXRbImNvdW50eV9maXBzIl0sCiAgICByZV9mb3JtdWxhPSJ+Y29uZmlybWVkIgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text>lme4, nlme</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGYuZGVtZWFuZWRfY2FzZXMuaGVhZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">ICAgIGdyb3Vwcz1zdWJzZXRbImNvdW50eV9maXBzIl0sCiAgICByZV9mb3JtdWxhPSJ+Y29uZmlybWVkIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGYuZGF5c19zaW5jZV9wZWFrLmhlYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -886,13 +890,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ViCg==</text>
+        <text encoding="base64">ZGYuZGVtZWFuZWRfY2FzZXMuaGVhZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
