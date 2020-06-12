@@ -46,8 +46,8 @@
         <entry>action RenameElement</entry>
         <entry>action EditorKillToWordEnd</entry>
         <entry>w</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>nohlsearch</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
@@ -144,12 +144,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591993181297">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591994964881">
         <mark key="'" line="9" column="5" />
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="49" column="5" />
-        <mark key="^" line="48" column="6" />
+        <mark key="[" line="68" column="6" />
+        <mark key="]" line="68" column="37" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/me.py" timestamp="1591826875658">
         <mark key="e" line="20" column="0" />
@@ -241,12 +240,12 @@
         <mark key="." line="45" column="9" />
         <mark key="^" line="56" column="8" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1591993010545">
-        <mark key="'" line="157" column="1" />
-        <mark key="[" line="150" column="13" />
-        <mark key="]" line="150" column="13" />
-        <mark key="^" line="155" column="62" />
-        <mark key="." line="150" column="13" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1591993545617">
+        <mark key="'" line="158" column="1" />
+        <mark key="[" line="158" column="22" />
+        <mark key="]" line="158" column="31" />
+        <mark key="^" line="158" column="31" />
+        <mark key="." line="158" column="30" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/data.py" timestamp="1591824583155">
         <mark key="[" line="0" column="0" />
@@ -382,43 +381,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;,</text>
+        <text>HMiQ_TOTAL_NUM_COMM_STAFFED_BEDS</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;,</text>
+        <text>HMiQ_TOTAL_NUM_COMM_HOSPITALS</text>
       </register>
       <register name="/" type="4">
         <text>dem</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJtZWFuX3N0YXkiLAogICAgImRlbWVhbmVkX3N0YXkiLAo=</text>
+      <register name="0" type="4">
+        <text>HMiQ_TOTAL_NUM_COMM_STAFFED_BEDS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICsgSE1pUV9UT1RBTF9OVU1fQ09NTV9JQ1VfQkVEUwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGZbIgo=</text>
+        <text encoding="base64">ICAgICsgcG9zdF9wZWFrCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Il0pLAogICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgVE9ETyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGZbImRlbWVhbmVkX3N0YXkiXSA9IGRmWyJzdGF5X2F0X2hvbWUiXS5zdWJ0cmFjdChkZlsibWVhbl9zdGF5Il0pCg==</text>
+        <text encoding="base64">YWxsKGRmLmdyb3VwYnkoImNvdW50eUZJUFMiKS5kYXkubWluKCkgPT0gMCkKZGYuZGF5Lm1pbigpCmRmW2RmLmNvdW50eUZJUFMgIT0gMF0uaGVhZCgpCmRmW2RmLmNvdW50eUZJUFMgPT0gMF0uaGVhZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZbIm1lYW5fc3RheSJdID0gZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJzdGF5X2F0X2hvbWUiXS50cmFuc2Zvcm0oIm1lYW4iKQpkZlsiZGVtZWFuZWRfc3RheSJdID0gZGZbInN0YXlfYXRfaG9tZSJdLnN1YnRyYWN0KGRmWyJtZWFuX3N0YXkiXSkK</text>
+        <text encoding="base64">ZGYuY291bnR5RklQUy51bmlxdWUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGZbIm1lYW5fc3RheSJdID0gZGZbInN0YXlfYXRfaG9tZSJdLm1lYW4oKQo=</text>
+        <text encoding="base64">bWVfcmVzdWx0ID0gbWVfbW9kZWwuZml0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2Vuc19hZ2UuaGVhZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -889,10 +888,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWVfZm9ybXVsYSA9ICIiIgo=</text>
+        <text encoding="base64">ZGZbIgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IiIsCiIiCiJGSVBTdHh0IiwKIkNvdW50eSIsCiJSdXJhbFVyYmFuQ29udGludXVtQ29kZTIwMDMiLAoiVXJiYW5JbmZsdWVuY2VDb2RlMjAwMyIsCiIiLAoiIgoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Il0pLAogICAg</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
