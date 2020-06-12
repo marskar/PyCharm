@@ -45,10 +45,10 @@
         <entry>wa</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action RenameElement</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>w</entry>
         <entry>action EditorKillToWordEnd</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -144,12 +144,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591991056595">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="47" column="20" />
-        <mark key="^" line="48" column="15" />
-        <mark key="." line="47" column="5" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591992248151">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="86" column="26" />
+        <mark key="]" line="86" column="53" />
+        <mark key="^" line="86" column="53" />
+        <mark key="." line="86" column="52" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/me.py" timestamp="1591826875658">
         <mark key="e" line="20" column="0" />
@@ -205,7 +205,7 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/README.md" timestamp="1591905648790">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/README.md" timestamp="1591991540950">
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="13" />
         <mark key="." line="55" column="13" />
@@ -381,44 +381,44 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3LmNlbnN1cy5nb3YvZGF0YS90YWJsZXMvdGltZS1zZXJpZXMvZGVtby9wb3Blc3QvMjAxMHMtY291bnRpZXMtZGV0YWlsLmh0bWwK</text>
+      <register name="*" type="4">
+        <text>base</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFBvcERlbnNpdHkyMDEw</text>
+        <text>base</text>
       </register>
       <register name="/" type="4">
         <text>merged</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3LmNlbnN1cy5nb3YvZGF0YS90YWJsZXMvdGltZS1zZXJpZXMvZGVtby9wb3Blc3QvMjAxMHMtY291bnRpZXMtZGV0YWlsLmh0bWwK</text>
+        <text encoding="base64">YmFzZV9mb3JtdWxhID0gIiIiCiAgICByb2xsaW5nX21lYW5fcnQKICAgIH4gQWdlNjVBbmRPbGRlclBjdDIwMTAKICAgICsgUG9wRGVuc2l0eTIwMTAKICAgICsgTWV0cm8yMDEzCiAgICArIE1ldHJvX0FkamFjZW50MjAxMwogICAgKyBjb25maXJtZWQKICAgICsgUE9QRVNUSU1BVEUyMDE5CiAgICArIHN0YXlfYXRfaG9tZQogICAgKyBwb3N0X3BlYWsKIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">bWVfZm9ybXVsYSA9ICIiIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">IiIsCiIiCiJGSVBTdHh0IiwKIkNvdW50eSIsCiJSdXJhbFVyYmFuQ29udGludXVtQ29kZTIwMDMiLAoiVXJiYW5JbmZsdWVuY2VDb2RlMjAwMyIsCiIiLAoiIgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZWNvbHM9Wwo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNoZWV0X25hbWU9IkNvdW50eSBDbGFzc2lmaWNhdGlvbnMiLAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnVjYyA9IGdldF91c2RhKAo=</text>
+        <text encoding="base64">ICAgIHVzZWNvbHM9Wwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNoZWV0X25hbWU9IkNvdW50eSBDbGFzc2lmaWNhdGlvbnMiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGFfZGlyID0gZ2V0X2RpcigpCiAgICBjZW5zX2ZpbGUgPSBkYXRhX2RpciAvICJjZW5zdXMuY3N2Igo=</text>
+        <text encoding="base64">cnVjYyA9IGdldF91c2RhKAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -888,18 +888,11 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>.assign(
-        # Combine state and county fips to match usa facts prep fips codes
-        county_fips=(
-                cens[&quot;STATE&quot;].astype(str)
-                + cens[&quot;COUNTY&quot;].astype(str).str.zfill(3)
-        ).astype(int)
-        # merge 2018 age group populations and 2019 total population
-    )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFfZGlyID0gZ2V0X2RpcigpCiAgICBjZW5zX2ZpbGUgPSBkYXRhX2RpciAvICJjZW5zdXMuY3N2Igo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
