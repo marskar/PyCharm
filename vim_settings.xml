@@ -139,6 +139,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591915735059">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591991056595">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="47" column="20" />
+        <mark key="^" line="48" column="15" />
+        <mark key="." line="47" column="5" />
+      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/me.py" timestamp="1591826875658">
         <mark key="e" line="20" column="0" />
         <mark key="'" line="54" column="31" />
@@ -164,6 +176,13 @@
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
+        <mark key="^" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591825317848">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="55" />
+        <mark key="." line="17" column="15" />
         <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/model.py" timestamp="1591824682338">
@@ -197,42 +216,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" timestamp="1591915757750">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="79" column="4" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1591912159080">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="23" />
-        <mark key="^" line="26" column="24" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/path/data.py" timestamp="1591824583155">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591915735059">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591912055736">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="56" />
-        <mark key="^" line="12" column="45" />
-        <mark key="." line="14" column="56" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/fe.py" timestamp="1591826708569" />
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" timestamp="1591825317848">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="55" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="6" column="13" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" timestamp="1591991208500">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="89" />
+        <mark key="." line="76" column="13" />
+        <mark key="^" line="76" column="14" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1591912104039">
         <mark key="'" line="10" column="19" />
@@ -246,18 +235,25 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/usda.py" timestamp="1591911836784">
-        <mark key="'" line="64" column="7" />
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="9" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/usda.py" timestamp="1591990929971">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="55" column="32" />
         <mark key="." line="45" column="9" />
         <mark key="^" line="56" column="8" />
       </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1591912159080">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/path/data.py" timestamp="1591824583155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="21" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="163" column="44" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="11" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="175" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -355,6 +351,9 @@
       <jump line="48" column="30" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/usda.py" />
+      <jump line="75" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -383,50 +382,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3LmNlbnN1cy5nb3YvZGF0YS90YWJsZXMvdGltZS1zZXJpZXMvZGVtby9wb3Blc3QvMjAxMHMtY291bnRpZXMtZGV0YWlsLmh0bWwK</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRhdGE=</text>
+        <text encoding="base64">IFBvcERlbnNpdHkyMDEw</text>
       </register>
       <register name="/" type="4">
         <text>merged</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIENvbWJpbmUgc3RhdGUgYW5kIGNvdW50eSBmaXBzIHRvIG1hdGNoIHVzYSBmYWN0cyBwcmVwIGZpcHMgY29kZXMK</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3LmNlbnN1cy5nb3YvZGF0YS90YWJsZXMvdGltZS1zZXJpZXMvZGVtby9wb3Blc3QvMjAxMHMtY291bnRpZXMtZGV0YWlsLmh0bWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGFfZGlyID0gZ2V0X2RpcigpCiAgICBjZW5zX2ZpbGUgPSBkYXRhX2RpciAvICJjZW5zdXMuY3N2Igo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>.assign(
-        # Combine state and county fips to match usa facts prep fips codes
-        county_fips=(
-                cens[&quot;STATE&quot;].astype(str)
-                + cens[&quot;COUNTY&quot;].astype(str).str.zfill(3)
-        ).astype(int)
-        # merge 2018 age group populations and 2019 total population
-    )</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHVzZWNvbHM9Wwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNoZWV0X25hbWU9IkNvdW50eSBDbGFzc2lmaWNhdGlvbnMiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNlbnMgPSBnZXRfY2Vuc3VzKAogICAgICAgIHVzZWNvbHM9WwogICAgICAgICAgICAiU1RBVEUiLAogICAgICAgICAgICAiQ09VTlRZIiwKICAgICAgICAgICAgIlNUTkFNRSIsCiAgICAgICAgICAgICJDVFlOQU1FIiwKICAgICAgICAgICAgIlBPUEVTVElNQVRFMjAxOSIKICAgICAgICBdLAogICAgICAgIGVuY29kaW5nPSJsYXRpbi0xIgogICAgKQogICAgCg==</text>
+        <text encoding="base64">cnVjYyA9IGdldF91c2RhKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFnZS5oZWFkKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgQ29tYmluZSBzdGF0ZSBhbmQgY291bnR5IGZpcHMgdG8gbWF0Y2ggdXNhIGZhY3RzIHByZXAgZmlwcyBjb2Rlcwo=</text>
+        <text encoding="base64">ICAgIGRhdGFfZGlyID0gZ2V0X2RpcigpCiAgICBjZW5zX2ZpbGUgPSBkYXRhX2RpciAvICJjZW5zdXMuY3N2Igo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -896,14 +888,21 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFnZS5oZWFkKCkK</text>
+      <register name="8" type="4">
+        <text>.assign(
+        # Combine state and county fips to match usa facts prep fips codes
+        county_fips=(
+                cens[&quot;STATE&quot;].astype(str)
+                + cens[&quot;COUNTY&quot;].astype(str).str.zfill(3)
+        ).astype(int)
+        # merge 2018 age group populations and 2019 total population
+    )</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNlbnNfYWdlLmlsb2NbOiw6NV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorKillToWordEnd</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
@@ -915,7 +914,7 @@
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
