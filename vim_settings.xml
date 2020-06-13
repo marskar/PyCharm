@@ -29,7 +29,6 @@
         <entry>qua</entry>
       </history-search>
       <history-cmd>
-        <entry>action NewDirectoryProject</entry>
         <entry>action GotoClass</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action GotoNextBookmark</entry>
@@ -48,6 +47,7 @@
         <entry>action CloseProject</entry>
         <entry>set relativenumbers</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
@@ -160,11 +160,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1591998297359">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1592010894134">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="4" />
+        <mark key="." line="79" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1591828987146">
         <mark key="[" line="0" column="5" />
@@ -249,17 +248,15 @@
         <mark key="." line="45" column="9" />
         <mark key="^" line="56" column="8" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1591998077138">
-        <mark key="'" line="163" column="21" />
-        <mark key="[" line="123" column="49" />
-        <mark key="]" line="123" column="65" />
-        <mark key="^" line="123" column="65" />
-        <mark key="." line="123" column="64" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1592010803636">
+        <mark key="'" line="147" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="34" column="36" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/stay.py" />
       <jump line="146" column="13" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
@@ -358,6 +355,8 @@
       <jump line="146" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
       <jump line="22" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
       <jump line="162" column="21" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -386,43 +385,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">cGQuU2VyaWVzKFswXSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAubmFuCg==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>np.nan</text>
+        <text>pd.Series([0])</text>
       </register>
       <register name="/" type="4">
         <text>qua</text>
       </register>
       <register name="0" type="4">
-        <text>pd.Series([0])</text>
+        <text>df.groupby(&quot;countyFIPS&quot;).rolling(window=7, min_periods=1)[&quot;county_gr&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGQuU2VyaWVzKFswXSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAubmFuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIGV4Y2VwdCBaZXJvRGl2aXNpb25FcnJvcjoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHRyeToK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGZbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZbIlBPUEVTVElNQVRFMjAxOSJdCg==</text>
+        <text encoding="base64">ZGZbImNvdW50eV9nciJdLmlzbmEoKS5zdW0oKQpkZi5ncm91cGJ5KCJjb3VudHlGSVBTIikucm9sbGluZyh3aW5kb3c9NywgbWluX3BlcmlvZHM9MSlbImNvdW50eV9nciJdLm1lYW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGZbInJvbGxpbmdfbWVhbl9ydCJdLmlzbmEoKS5zdW0oKQo=</text>
+        <text encoding="base64">ZGZbInJvbGxpbmdfbWVhbl9nciJdLmlzbmEoKS5zdW0oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWVyZ2VfZmlsZS5leGlzdHMoKQo=</text>
+        <text encoding="base64">cGQuU2VyaWVzKFswXSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -893,10 +892,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWVyZ2VfZmlsZS5leGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWVyZ2VfZmlsZQo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBaZXJvRGl2aXNpb25FcnJvcjoK</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
