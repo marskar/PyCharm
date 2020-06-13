@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>county</entry>
-        <entry>coun</entry>
-        <entry>aver</entry>
-        <entry>avera</entry>
         <entry>df =</entry>
         <entry>stay_f</entry>
         <entry>shel</entry>
@@ -27,6 +23,10 @@
         <entry>merged</entry>
         <entry>dem</entry>
         <entry>qua</entry>
+        <entry>county_gr</entry>
+        <entry>roll</entry>
+        <entry>rolling_</entry>
+        <entry>rolling_mean_</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
@@ -39,16 +39,16 @@
         <entry>bn</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>wa</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action RenameElement</entry>
         <entry>action EditorKillToWordEnd</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>action CloseProject</entry>
         <entry>set relativenumbers</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -144,13 +144,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1591997943797">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592013259979">
         <mark key="e" line="14" column="33" />
-        <mark key="'" line="16" column="40" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="91" column="0" />
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="16" />
+        <mark key="." line="101" column="15" />
+        <mark key="^" line="101" column="16" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/me.py" timestamp="1591826875658">
         <mark key="e" line="20" column="0" />
@@ -248,32 +248,15 @@
         <mark key="." line="45" column="9" />
         <mark key="^" line="56" column="8" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1592010803636">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1592011864555">
+        <mark key="'" line="110" column="16" />
+        <mark key="[" line="120" column="18" />
+        <mark key="]" line="120" column="26" />
+        <mark key="^" line="120" column="26" />
+        <mark key="." line="120" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/stay.py" />
-      <jump line="146" column="13" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="67" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="176" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="16" column="24" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" />
-      <jump line="4" column="18" filename="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="34" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" />
-      <jump line="14" column="6" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="72" column="41" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="100" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="80" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
@@ -314,7 +297,6 @@
       <jump line="23" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="35" column="10" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
       <jump line="13" column="32" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
@@ -339,7 +321,6 @@
       <jump line="48" column="30" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/usda.py" />
       <jump line="75" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -347,7 +328,6 @@
       <jump line="149" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
       <jump line="29" column="28" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
       <jump line="157" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
-      <jump line="16" column="40" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/README.md" />
       <jump line="71" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/README.md" />
       <jump line="43" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/usda.py" />
@@ -357,6 +337,26 @@
       <jump line="162" column="21" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
       <jump line="64" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
       <jump line="147" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="126" column="49" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="120" column="18" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="166" column="25" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="40" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="22" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="39" column="13" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="54" column="13" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="131" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="97" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="110" column="16" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
+      <jump line="16" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -384,44 +384,44 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAubmFuCg==</text>
+      <register name="*" type="4">
+        <text>c</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>pd.Series([0])</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>qua</text>
+        <text>rolling_mean_</text>
       </register>
       <register name="0" type="4">
-        <text>df.groupby(&quot;countyFIPS&quot;).rolling(window=7, min_periods=1)[&quot;county_gr&quot;]</text>
+        <text>[&quot;rolling_mean_gr&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAubmFuCg==</text>
+        <text encoding="base64">c3Vic2V0LnNoYXBlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBaZXJvRGl2aXNpb25FcnJvcjoK</text>
+        <text encoding="base64">ZGZbImdyIl0uaXNuYSgpLnN1bSgpM1MzUzNTCmRmWyJyb2xsaW5nX21lYW5fZ3IiXS5pc25hKCkuc3VtKCkKZGYubG9jW2RmWyJyb2xsaW5nX21lYW5fZ3IiXS5pc25hKCksIFsiZ3IiLCAicm9sbGluZ19tZWFuX2dyIl1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAubmFuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGZbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBaZXJvRGl2aXNpb25FcnJvcjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZbImNvdW50eV9nciJdLmlzbmEoKS5zdW0oKQpkZi5ncm91cGJ5KCJjb3VudHlGSVBTIikucm9sbGluZyh3aW5kb3c9NywgbWluX3BlcmlvZHM9MSlbImNvdW50eV9nciJdLm1lYW4oKQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGZbInJvbGxpbmdfbWVhbl9nciJdLmlzbmEoKS5zdW0oKQo=</text>
+        <text encoding="base64">ZGZbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGQuU2VyaWVzKFswXSkK</text>
+        <text encoding="base64">ZGZbImNvdW50eV9nciJdLmlzbmEoKS5zdW0oKQpkZi5ncm91cGJ5KCJjb3VudHlGSVBTIikucm9sbGluZyh3aW5kb3c9NywgbWluX3BlcmlvZHM9MSlbImNvdW50eV9nciJdLm1lYW4oKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -892,21 +892,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ZGZbInJvbGxpbmdfbWVhbl9nciJdLmlzbmEoKS5zdW0oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBaZXJvRGl2aXNpb25FcnJvcjoK</text>
+        <text encoding="base64">cGQuU2VyaWVzKFswXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>qua</last-search>
+      <last-search>rolling_mean_</last-search>
       <last-offset />
-      <last-pattern>qua</last-pattern>
+      <last-pattern>rolling_mean_</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
