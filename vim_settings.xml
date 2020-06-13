@@ -47,8 +47,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -229,12 +229,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1591993135599">
-        <mark key="'" line="10" column="19" />
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="57" />
-        <mark key="." line="13" column="56" />
-        <mark key="^" line="13" column="57" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1592013374155">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="47" />
+        <mark key="^" line="23" column="48" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/path/models.py" timestamp="1591824587644">
         <mark key="[" line="0" column="0" />
@@ -257,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/data_prep.py" />
       <jump line="80" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
@@ -357,6 +356,7 @@
       <jump line="16" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -385,13 +385,13 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>c</text>
+        <text>rolling_mean_rt</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>rolling_mean_rt</text>
       </register>
       <register name="/" type="4">
         <text>rolling_mean_</text>
@@ -898,7 +898,7 @@
         <text encoding="base64">cGQuU2VyaWVzKFswXSkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
