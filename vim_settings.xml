@@ -144,13 +144,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592246325570">
-        <mark key="e" line="13" column="33" />
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="181" column="19" />
-        <mark key="]" line="181" column="20" />
-        <mark key="^" line="53" column="52" />
-        <mark key="." line="181" column="20" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592315362389">
+        <mark key="e" line="16" column="33" />
+        <mark key="[" line="21" column="89" />
+        <mark key="]" line="21" column="109" />
+        <mark key="." line="21" column="108" />
+        <mark key="^" line="21" column="109" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/me.py" timestamp="1591826875658">
         <mark key="e" line="20" column="0" />
@@ -263,10 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="18" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/__main__.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="19" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/README.md" />
       <jump line="56" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -341,7 +336,6 @@
       <jump line="124" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="121" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="33" column="21" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="34" column="21" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="114" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -363,6 +357,11 @@
       <jump line="77" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="152" column="2" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="184" column="16" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="23" column="26" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="25" column="30" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="20" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -390,44 +389,44 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="4">
-        <text>cale numeric variables</text>
+      <register name="*" type="2">
+        <text encoding="base64">ZGYuc29ydF92YWx1ZXMoKQo=</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>cale numeric variables</text>
+        <text>.new</text>
       </register>
       <register name="/" type="4">
         <text>resu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBUT0RPIHNjYWxlIG51bWVyaWMgdmFyaWFibGVzCg==</text>
+        <text encoding="base64">YnNfeCA9IGRtYXRyaXgoImJzKHgsIGRmPTUsIGtub3RzPSguMjUsLjQwLC42MCksIGRlZ3JlZT0xLCBpbmNsdWRlX2ludGVyY2VwdD1UcnVlKSAtIDEiLCB7IngiOiB4fSkKCmIgPSBucC5hcnJheShbMC4wLCAwLjEsIDAuOCwgMC40LCAwLjFdKQpwbHQucGxvdCh4LCBic194KmIpCnBsdC5wbG90KHgsIG5wLmRvdChic194LCBiKSwgY29sb3I9J2snLCBsaW5ld2lkdGg9Myk7CnBsdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWVfcmVzdWx0ID0gbW9kLmZpdCgpCg==</text>
+        <text encoding="base64">ZGYuc29ydF92YWx1ZXMoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIoZGYuY29uZmlybWVkLCBkZi5zbW9vdGhlZF9ydCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">eCA9IG5wLmxpbnNwYWNlKDAuLCAxLiwgMTAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICsgZGVtZWFuZWRfY2FzZXMK</text>
+        <text encoding="base64">eCA9IG5wLmxpbnNwYWNlKDAuLCAxLiwgMTAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICsgbG9nX3BvcHVsYXRpb25fZGVuc2l0eTpNZXRyb19BZGphY2VudDIwMTMK</text>
+        <text encoding="base64">YnNfY2FzZXMgPSBkbWF0cml4KAogICAgImJzKGRmLmNvbmZpcm1lZCwgZGY9MSwgZGVncmVlPTEsIGluY2x1ZGVfaW50ZXJjZXB0PUZhbHNlKSIsCiAgICB7ImRmLmNvbmZpcm1lZCI6IGRmLmNvbmZpcm1lZH0sCiAgICByZXR1cm5fdHlwZT0iZGF0YWZyYW1lIgopCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICsgbG9nX3BvcHVsYXRpb25fZGVuc2l0eTpNZXRybzIwMTMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICogZGVtZWFuZWRfcGVhawo=</text>
+      <register name="7" type="4">
+        <text>''</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -897,11 +896,11 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICsgbWVhbl9wZWFrCg==</text>
+      <register name="8" type="4">
+        <text>dataframe</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICsgbG9nX3BvcHVsYXRpb25fZGVuc2l0eQogICAgKyBNZXRybzIwMTMKICAgICsgTWV0cm9fQWRqYWNlbnQyMDEzCg==</text>
+      <register name="9" type="4">
+        <text>''</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
