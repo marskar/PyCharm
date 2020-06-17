@@ -45,9 +45,9 @@
         <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>action CloseProject</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
@@ -230,12 +230,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592424182516">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592424970610">
         <mark key="'" line="91" column="17" />
-        <mark key="[" line="82" column="4" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="89" column="2" />
+        <mark key="]" line="89" column="2" />
+        <mark key="^" line="89" column="2" />
+        <mark key="." line="89" column="1" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1592013374155">
         <mark key="'" line="34" column="0" />
@@ -393,13 +393,13 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>columns</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>columns</text>
       </register>
       <register name="/" type="4">
         <text>pats</text>
