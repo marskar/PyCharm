@@ -36,7 +36,6 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>wa</entry>
         <entry>action EditorKillToWordEnd</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set relativenumbers</entry>
         <entry>action GotoDeclaration</entry>
@@ -49,6 +48,7 @@
         <entry>action CloseProject</entry>
         <entry>HippieCompletion</entry>
         <entry>action HippieCompletion</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -89,10 +89,10 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -203,12 +203,12 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592407673886">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592408876825">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="143" column="21" />
-        <mark key="]" line="143" column="21" />
-        <mark key="." line="143" column="22" />
-        <mark key="^" line="20" column="2" />
+        <mark key="[" line="144" column="2" />
+        <mark key="]" line="144" column="2" />
+        <mark key="." line="144" column="1" />
+        <mark key="^" line="144" column="2" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591912264799">
         <mark key="'" line="14" column="51" />
@@ -217,6 +217,13 @@
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1592408770566">
+        <mark key="'" line="24" column="48" />
+        <mark key="[" line="154" column="56" />
+        <mark key="]" line="156" column="53" />
+        <mark key="^" line="156" column="53" />
+        <mark key="." line="156" column="52" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/README.md" timestamp="1592231833346">
         <mark key="'" line="66" column="31" />
@@ -249,11 +256,6 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/path/models.py" timestamp="1591824587644">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/usda.py" timestamp="1592245489762">
         <mark key="'" line="21" column="6" />
         <mark key="[" line="43" column="0" />
@@ -269,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/usda.py" />
       <jump line="75" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="9" column="5" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -369,6 +370,7 @@
       <jump line="20" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="143" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="24" column="48" filename="$USER_HOME$/.ideavimrc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -910,7 +912,7 @@
         <text encoding="base64">ZGYgPSBwZC5yZWFkX2NzdihtZXJnZWRfZmlsZSwgcGFyc2VfZGF0ZXM9WyJkYXRlIiwgInN0YXlfZGF0ZSJdKQoKZGYgPSBkZi5hc3NpZ24oCiAgICAjIENvdW50eSBncm93dGggcmF0ZXMKICAgIGdyPWdldF9ncm93dGhfcmF0ZV9ieV9ncm91cCgKICAgICAgICBkZj1kZiwKICAgICAgICBncm91cF9jb2w9ImNvdW50eUZJUFMiLAogICAgICAgIHRpbWVfY29sPSJkYXkiLAogICAgICAgIGNhc2VfY29sPSJjb25maXJtZWQiCiAgICApLmZpbGxuYSgwKQopCgpkZiA9IGRmLmFzc2lnbigKICAgICMgQ291bnR5IGRvdWJsaW5nIHRpbWVzCiAgICBkdD1nZXRfZG91YmxpbmdfdGltZSgKICAgICAgICBkZj1kZiwKICAgICAgICBncl9jb2w9ImdyIgogICAgKSwKICAgICMgQ291bnR5IGJldGFzCiAgICBiZXRhPWdldF9iZXRhKAogICAgICAgIGRmPWRmLAogICAgICAgIGdyX2NvbD0iZ3IiLAogICAgICAgIGdhbW1hPUdBTU1BLAogICAgICAgIHN1c2NlcHRpYmxlX2NvbD0iUE9QRVNUSU1BVEUyMDE5IgogICAgKQopCgpkZiA9IGRmLmFzc2lnbigKICAgICMgQ291bnR5IHJlcHJvZHVjdGlvbiBudW1iZXJzCiAgICBydD1nZXRfcnQoCiAgICAgICAgZGY9ZGYsCiAgICAgICAgYmV0YV9jb2w9ImJldGEiLAogICAgICAgIGdhbW1hPUdBTU1BLAogICAgICAgIHN1c2NlcHRpYmxlX2NvbD0iUE9QRVNUSU1BVEUyMDE5IgogICAgKQopCgptaW5fZGF0ZSA9IGRmWydkYXRlJ10ubWluKCkKbWF4X2RhdGUgPSBkZlsnZGF0ZSddLm1heCgpCgojIENyZWF0ZSBhIGJpbmFyeSB2YXJpYWJsZSBmb3Igc2hlbHRlci1pbi1wbGFjZQpkZiA9IGRmLmFzc2lnbigKICAgIHN0YXlfYXRfaG9tZT1kZlsic3RheV9kYXRlIl0ubGUoZGZbImRhdGUiXSkuZmlsbG5hKEZhbHNlKQopCgojIENhbGN1bGF0ZSA3LWRheSBtb3ZpbmcgYXZlcmFnZSBvZiBncm93dGggcmF0ZQpkZiA9IGRmLmFzc2lnbigKICAgIHJvbGxpbmdfbWVhbl9ncj1kZi5ncm91cGJ5KCJjb3VudHlGSVBTIikucm9sbGluZygKICAgICAgICB3aW5kb3c9NywKICAgICAgICBtaW5fcGVyaW9kcz0xCiAgICApWyJnciJdLm1lYW4oKS5yZXNldF9pbmRleCgKICAgICAgICBsZXZlbD0wLAogICAgICAgIGRyb3A9VHJ1ZQogICAgKQopCgojIFVzZSBncm93dGggcmF0ZSA3LWRheSBtb3ZpbmcgYXZlcmFnZSB0byBjYWxjdWxhdGUgYmV0YQpkZiA9IGRmLmFzc2lnbigKICAgIHNtb290aGVkX2JldGE9Z2V0X2JldGEoCiAgICAgICAgZGY9ZGYsCiAgICAgICAgZ3JfY29sPSJyb2xsaW5nX21lYW5fZ3IiLAogICAgICAgIGdhbW1hPUdBTU1BLAogICAgICAgIHN1c2NlcHRpYmxlX2NvbD0iUE9QRVNUSU1BVEUyMDE5IgogICAgKQopCgojIFVzZSBncm93dGggcmF0ZSA3LWRheSBtb3ZpbmcgYXZlcmFnZSB0byBjYWxjdWxhdGUgcnQKZGYgPSBkZi5hc3NpZ24oCiAgICBzbW9vdGhlZF9ydD1nZXRfcnQoCiAgICAgICAgZGY9ZGYsCiAgICAgICAgYmV0YV9jb2w9InNtb290aGVkX2JldGEiLAogICAgICAgIGdhbW1hPUdBTU1BLAogICAgICAgIHN1c2NlcHRpYmxlX2NvbD0iUE9QRVNUSU1BVEUyMDE5IgogICAgKQopCiMgVE9ETyB3aHkgZG8gd2UgaGF2ZSBtaXNzaW5nIHZhbHVlcyBmb3IgcG9wdWxhdGlvbj8KIyBUT0RPIHdoeSBkbyB3ZSBoYXZlIHNvIG1hbnkgbWlzc2luZyB2YWx1ZXMgZm9yIHJvbGxpbmcgbWVhbiBydD8KIyBNZXJnZSBwZWFrIGdyb3d0aCByYXRlIGRhdGVzIGluIHdpdGggY2FzZSBwb3AgcnQgZGYKZGYgPSBkZi5tZXJnZSgKICAgIGRmLnNldF9pbmRleCgiZGF0ZSIpLmdyb3VwYnkoCiAgICAgICAgImNvdW50eUZJUFMiCiAgICApWyJyb2xsaW5nX21lYW5fZ3IiXS5pZHhtYXgoYXhpcz0xKS5yZW5hbWUoInBlYWtfZGF0ZSIpLAogICAgb249ImNvdW50eUZJUFMiLAogICAgaG93PSJsZWZ0IgopCgojIENyZWF0ZSBiaW5hcnkgdmFyaWFibGU6IHBvc3QgdmVyc3VzIHByZS1wZWFrCmRmID0gZGYuYXNzaWduKAogICAgcG9zdF9wZWFrPWRmWyJkYXRlIl0uZ2UoZGZbInBlYWtfZGF0ZSJdKS5maWxsbmEoRmFsc2UpCikKCiMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIHBlYWsKZGYgPSBkZi5hc3NpZ24oCiAgICBkYXlzX3NpbmNlX3BlYWs9ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsicGVha19kYXRlIl0pLmR0LmRheXMuZmlsbG5hKDApCikKCiMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIHNoZWx0ZXItaW4tcGxhY2UKZGYgPSBkZi5hc3NpZ24oCiAgICBkYXlzX3NpbmNlX3N0YXk9ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsic3RheV9kYXRlIl0pLmR0LmRheXMuZmlsbG5hKDApCikKCiMgQ3JlYXRlIGNvbHVtbiBvZiBtZWFuIGNhc2VzIGZvciBlYWNoIGNvdW50eQpkZiA9IGRmLmFzc2lnbigKICAgIG1lYW5fY2FzZXM9ZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS50cmFuc2Zvcm0oIm1lYW4iKSwKICAgIG1lYW5fc3RheT1kZi5ncm91cGJ5KCJjb3VudHlGSVBTIilbInN0YXlfYXRfaG9tZSJdLnRyYW5zZm9ybSgibWVhbiIpLAogICAgbWVhbl9wZWFrPWRmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsicG9zdF9wZWFrIl0udHJhbnNmb3JtKCJtZWFuIiksCikKCiMgQ3JlYXRlIGNvbHVtbiBvZiBkZW1lYW5lZCAobWVhbi1jZW50ZXJlZCkgY2FzZXMgZm9yIGVhY2ggY291bnR5CmRmID0gZGYuYXNzaWduKAogICAgZGVtZWFuZWRfY2FzZXM9ZGZbImNvbmZpcm1lZCJdLnN1YnRyYWN0KGRmWyJtZWFuX2Nhc2VzIl0pLAogICAgZGVtZWFuZWRfc3RheT1kZlsic3RheV9hdF9ob21lIl0uc3VidHJhY3QoZGZbIm1lYW5fc3RheSJdKSwKICAgIGRlbWVhbmVkX3BlYWs9ZGZbInBvc3RfcGVhayJdLnN1YnRyYWN0KGRmWyJtZWFuX3BlYWsiXSkKKQoKIyBDcmVhdGUgY29sdW1uIG9mIGxvZy10cmFuc2Zvcm1lZCBwb3B1bGF0aW9uIGRlbnNpdHkKZGYgPSBkZi5hc3NpZ24oCiAgICBsb2dfcG9wdWxhdGlvbl9kZW5zaXR5PW5wLmxvZyhkZlsiUG9wRGVuc2l0eTIwMTAiXSkKKQoKIyBTYXZlIGZpbmFsIHByZXAgc2V0CmRmLnRvX2NzdihkYXRhX2RpciAvIGZpbmFsX2ZpbGUsIGluZGV4PUZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HippieCompletion</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
