@@ -230,12 +230,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592427816834">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592429039786">
         <mark key="'" line="94" column="17" />
-        <mark key="[" line="97" column="13" />
-        <mark key="]" line="97" column="13" />
-        <mark key="^" line="97" column="13" />
-        <mark key="." line="97" column="13" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="3" />
+        <mark key="^" line="116" column="3" />
+        <mark key="." line="116" column="2" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1592013374155">
         <mark key="'" line="34" column="0" />
@@ -392,8 +392,8 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">Q29uc3RydWN0IGEgc2Vjb25kIG9yZGVyIGItc3BsaW5lIG9uIFswLCAxLCAxLCAyXSwgYW5kIGNvbXBhcmUgdG8gaXRzIGV4cGxpY2l0IGZvcm06Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -408,28 +408,28 @@
         <text>fit3.params.values</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Q29uc3RydWN0IGEgc2Vjb25kIG9yZGVyIGItc3BsaW5lIG9uIFswLCAxLCAxLCAyXSwgYW5kIGNvbXBhcmUgdG8gaXRzIGV4cGxpY2l0IGZvcm06Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFuaGF0dGFuLmNvbHVtbnMK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFuaGF0dGFuID0gZGZbZGYuY291bnR5RklQUz09MzYwNjFdCgptYW5oYXR0YW4uY29sdW1ucwppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gc2NpcHkuaW50ZXJwb2xhdGUgaW1wb3J0IFVuaXZhcmlhdGVTcGxpbmUsIExTUVVuaXZhcmlhdGVTcGxpbmUKc3BsID0gTFNRVW5pdmFyaWF0ZVNwbGluZShtYW5oYXR0YW4uZGF5LnZhbHVlcywgbWFuaGF0dGFuLmNvbmZpcm1lZC52YWx1ZXMsIHQ9WzMwXSkKcGx0LnBsb3Qoc3BsKG1hbmhhdHRhbi5jb25maXJtZWQpKQpwbHQuc2NhdHRlcihtYW5oYXR0YW4uZGF5LnZhbHVlcywgbWFuaGF0dGFuLmNvbmZpcm1lZC52YWx1ZXMpCnBsdC5zY2F0dGVyKG1hbmhhdHRhbi5jb25maXJtZWQudmFsdWVzLCBtYW5oYXR0YW4uc21vb3RoZWRfcnQudmFsdWVzKQptYW5oYXR0YW4uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGxvdCgpCmRtYXRyaXgoImJzKGRmLiIpCnBsdC5zaG93KCkKbWFuaGF0dGFuLmNvbHVtbnMKeCA9IG5wLmxpbnNwYWNlKC0zLCAzLCA1MCkKeSA9IG5wLmV4cCgteCoqMikgKyAwLjEgKiBucC5yYW5kb20ucmFuZG4oNTApCnNwbCA9IFVuaXZhcmlhdGVTcGxpbmUoeCwgeSwgaz0yKQp4cyA9IG5wLmxpbnNwYWNlKC0zLCAzLCAxMDAwKQpwbHQucGxvdCh4LCB5LCAncm8nLCBtcz01KQpwbHQucGxvdCh4cywgc3BsKHhzKSwgJ2cnLCBsdz0zKQpwbHQuc2hvdygpCnBsdApwZC5EYXRhRnJhbWUoKQo=</text>
+        <text encoding="base64">bWFuaGF0dGFuLmNvbHVtbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">bWFuaGF0dGFuID0gZGZbZGYuY291bnR5RklQUz09MzYwNjFdCgptYW5oYXR0YW4uY29sdW1ucwppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gc2NpcHkuaW50ZXJwb2xhdGUgaW1wb3J0IFVuaXZhcmlhdGVTcGxpbmUsIExTUVVuaXZhcmlhdGVTcGxpbmUKc3BsID0gTFNRVW5pdmFyaWF0ZVNwbGluZShtYW5oYXR0YW4uZGF5LnZhbHVlcywgbWFuaGF0dGFuLmNvbmZpcm1lZC52YWx1ZXMsIHQ9WzMwXSkKcGx0LnBsb3Qoc3BsKG1hbmhhdHRhbi5jb25maXJtZWQpKQpwbHQuc2NhdHRlcihtYW5oYXR0YW4uZGF5LnZhbHVlcywgbWFuaGF0dGFuLmNvbmZpcm1lZC52YWx1ZXMpCnBsdC5zY2F0dGVyKG1hbmhhdHRhbi5jb25maXJtZWQudmFsdWVzLCBtYW5oYXR0YW4uc21vb3RoZWRfcnQudmFsdWVzKQptYW5oYXR0YW4uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGxvdCgpCmRtYXRyaXgoImJzKGRmLiIpCnBsdC5zaG93KCkKbWFuaGF0dGFuLmNvbHVtbnMKeCA9IG5wLmxpbnNwYWNlKC0zLCAzLCA1MCkKeSA9IG5wLmV4cCgteCoqMikgKyAwLjEgKiBucC5yYW5kb20ucmFuZG4oNTApCnNwbCA9IFVuaXZhcmlhdGVTcGxpbmUoeCwgeSwgaz0yKQp4cyA9IG5wLmxpbnNwYWNlKC0zLCAzLCAxMDAwKQpwbHQucGxvdCh4LCB5LCAncm8nLCBtcz01KQpwbHQucGxvdCh4cywgc3BsKHhzKSwgJ2cnLCBsdz0zKQpwbHQuc2hvdygpCnBsdApwZC5EYXRhRnJhbWUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3BsID0gTFNRVW5pdmFyaWF0ZVNwbGluZShtYW5oYXR0YW4uZGF0ZSwgbWFuaGF0dGFuLmNvbmZpcm1lZCwgdD1bZGYucGVha19kYXRlXSkK</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdycCA9IGRmLmdyb3VwYnkoZ3JvdXBfdmFyKQo=</text>
+        <text encoding="base64">c3BsID0gTFNRVW5pdmFyaWF0ZVNwbGluZShtYW5oYXR0YW4uZGF0ZSwgbWFuaGF0dGFuLmNvbmZpcm1lZCwgdD1bZGYucGVha19kYXRlXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdycCA9IGRmLmdyb3VwYnkoZ3JvdXBfdmFyKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
