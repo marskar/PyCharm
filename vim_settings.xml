@@ -229,12 +229,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592412429967">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592413698115">
         <mark key="'" line="5" column="25" />
-        <mark key="[" line="53" column="60" />
-        <mark key="]" line="54" column="2" />
-        <mark key="." line="54" column="1" />
-        <mark key="^" line="54" column="2" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="9" />
+        <mark key="^" line="55" column="8" />
+        <mark key="." line="55" column="9" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1592013374155">
         <mark key="'" line="34" column="0" />
@@ -391,44 +391,44 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZGZbInMxIl0gPSBkZi5ncm91cGJ5KCdjbGFzc19iJylbImRhdGExIl0udHJhbnNmb3JtKGdycGZ1bmMpCg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">cmFuZ2UobiksIA==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>data1</text>
+        <text encoding="base64">cmFuZ2UobiksIA==</text>
       </register>
       <register name="/" type="4">
         <text>resu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIoZGYuZGF0YTEsIGRmLmRhdGEyKQo=</text>
+        <text encoding="base64">cGx0LnBsb3QoZGYuczEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGZbInMxIl0gPSBkZi5ncm91cGJ5KCdjbGFzc19iJylbImRhdGExIl0udHJhbnNmb3JtKGdycGZ1bmMpCg==</text>
+        <text encoding="base64">ZGYuZ3JvdXBieShbJ2NsYXNzX2EnLCAnY2xhc3NfYiddKS50cmFuc2Zvcm0oZ3JwZnVuYykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYuZ3JvdXBieSgnY2xhc3NfYicpLnRyYW5zZm9ybShncnBmdW5jKS5wbG90KCkK</text>
+        <text encoding="base64">ZGYuZ3JvdXBieShbJ2NsYXNzX2EnLCAnY2xhc3NfYiddKS50cmFuc2Zvcm0oZ3JwZnVuYykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X2ZpbGUgPSBkYXRhX2RpciAvIGYie3RvZGF5fV9jZW5zdXNfdXNhLWZhY3RzX3VzZGEuY3N2Igo=</text>
+        <text encoding="base64">ZGZbInMxIl0gPSBkZi5ncm91cGJ5KCdjbGFzc19iJylbImRhdGExIl0udHJhbnNmb3JtKGdycGZ1bmMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">ZGYuZ3JvdXBieSgnY2xhc3NfYicpLnRyYW5zZm9ybShncnBmdW5jKS5wbG90KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwYXRoLnJ1biBpbXBvcnQgZ2VuX2RhdGEK</text>
+        <text encoding="base64">X2ZpbGUgPSBkYXRhX2RpciAvIGYie3RvZGF5fV9jZW5zdXNfdXNhLWZhY3RzX3VzZGEuY3N2Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1hcCA8Qy1wPiA8RVNDPjphY3Rpb24gSGlwcGllQmFja3dhcmRDb21wbGV0aW9uPENSPmEK</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1hcCA8Qy1uPiA8RVNDPjphY3Rpb24gSGlwcGllQ29tcGxldGlvbjxDUj5hCg==</text>
+        <text encoding="base64">ZnJvbSBwYXRoLnJ1biBpbXBvcnQgZ2VuX2RhdGEK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -899,10 +899,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmUK</text>
+        <text encoding="base64">aW1hcCA8Qy1wPiA8RVNDPjphY3Rpb24gSGlwcGllQmFja3dhcmRDb21wbGV0aW9uPENSPmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBwYW5kYXMgYXMgcGQKCg==</text>
+        <text encoding="base64">aW1hcCA8Qy1uPiA8RVNDPjphY3Rpb24gSGlwcGllQ29tcGxldGlvbjxDUj5hCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
