@@ -41,14 +41,14 @@
         <entry>actionlist</entry>
         <entry encoding="base64">YWN0aW9uIEVkaXRvclRvZ2dsZVNob3dMaW5lTnVtYmVycyA=</entry>
         <entry>HippieCompletion</entry>
-        <entry>w</entry>
-        <entry>action CloseProject</entry>
         <entry>action GotoFile</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
+        <entry>w</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -205,11 +205,12 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1592409079868">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1592418405463">
         <mark key="'" line="24" column="48" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="152" column="2" />
+        <mark key="." line="154" column="1" />
+        <mark key="^" line="152" column="2" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/README.md" timestamp="1592231833346">
         <mark key="'" line="66" column="31" />
@@ -229,12 +230,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592418354426">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592419001610">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="70" column="2" />
-        <mark key="]" line="70" column="7" />
-        <mark key="." line="70" column="6" />
-        <mark key="^" line="70" column="7" />
+        <mark key="[" line="70" column="1" />
+        <mark key="]" line="70" column="1" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="1" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1592013374155">
         <mark key="'" line="34" column="0" />
@@ -392,13 +393,13 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>reproduction</text>
+        <text>set_index</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>reproduction</text>
+        <text>set_index</text>
       </register>
       <register name="/" type="4">
         <text>resu</text>
@@ -905,7 +906,7 @@
         <text encoding="base64">ZGYuZ3JvdXBieSgnY2xhc3NfYicpLnRyYW5zZm9ybShncnBmdW5jKS5wbG90KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action HippieCompletion</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
   </component>
