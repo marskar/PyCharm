@@ -42,13 +42,13 @@
         <entry>HippieCompletion</entry>
         <entry>action GotoFile</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>action CloseProject</entry>
-        <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action HippieBackwardCompletion</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -230,12 +230,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592421024115">
-        <mark key="'" line="38" column="14" />
-        <mark key="[" line="61" column="7" />
-        <mark key="]" line="61" column="9" />
-        <mark key="." line="61" column="8" />
-        <mark key="^" line="61" column="9" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592421973721">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="73" column="22" />
+        <mark key="]" line="73" column="31" />
+        <mark key="." line="73" column="30" />
+        <mark key="^" line="73" column="31" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1592013374155">
         <mark key="'" line="34" column="0" />
@@ -265,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="166" column="25" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="40" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -359,12 +357,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="73" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="27" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="38" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
+      <jump line="61" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
+      <jump line="65" column="2" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
+      <jump line="67" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -392,44 +392,44 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>day</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>pd.D</text>
+        <text>day</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRhRnJhbWVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>df.loc[df.countyFIPS==36061, &quot;confirmed&quot;].values)</text>
+      <register name="0" type="2">
+        <text encoding="base64">cGx0LnNjYXR0ZXIobWFuaGF0dGFuLmRheS52YWx1ZXMsIG1hbmhhdHRhbi5jb25maXJtZWQudmFsdWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3BsID0gTFNRVW5pdmFyaWF0ZVNwbGluZShtYW5oYXR0YW4uZGF0ZSwgbWFuaGF0dGFuLmNvbmZpcm1lZCwgdD1bZGYucGVha19kYXRlXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdycCA9IGRmLmdyb3VwYnkoZ3JvdXBfdmFyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGxvdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHlwbG90Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TFNRVW5pdmFyaWF0ZVNwbGluZQppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgZGYK</text>
+        <text encoding="base64">cGx0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -900,13 +900,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgZGYgaXMgbm90IE5vbmU6CiAgICA=</text>
+        <text encoding="base64">cGxvdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGx0LnBsb3QoeCwgeSwgJ3JvJywgbXM9NSkK</text>
+        <text encoding="base64">cHlwbG90Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
