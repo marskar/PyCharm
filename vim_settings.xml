@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>peak_d</entry>
         <entry>diff</entry>
         <entry encoding="base64">XDxmaW5hbF9maWxlXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>todo</entry>
         <entry>resu</entry>
         <entry encoding="base64">XDxEYXRhRnJhbWVcPg==</entry>
+        <entry>pats</entry>
       </history-search>
       <history-cmd>
         <entry>b1</entry>
@@ -45,9 +45,9 @@
         <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>action CloseProject</entry>
-        <entry>action HippieCompletion</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action HippieBackwardCompletion</entry>
+        <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
@@ -230,12 +230,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592421973721">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="73" column="31" />
-        <mark key="." line="73" column="30" />
-        <mark key="^" line="73" column="31" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592424182516">
+        <mark key="'" line="91" column="17" />
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1592013374155">
         <mark key="'" line="34" column="0" />
@@ -265,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="25" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="40" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="22" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="39" column="13" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -340,7 +338,6 @@
       <jump line="24" column="48" filename="$USER_HOME$/.ideavimrc" />
       <jump line="143" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="40" column="24" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -351,7 +348,6 @@
       <jump line="52" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="4" column="23" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="53" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
-      <jump line="5" column="25" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="55" column="45" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="66" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
@@ -365,6 +361,10 @@
       <jump line="65" column="2" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="67" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
+      <jump line="5" column="5" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
+      <jump line="83" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -393,43 +393,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>day</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>day</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEYXRhRnJhbWVcPg==</text>
+        <text>pats</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIobWFuaGF0dGFuLmRheS52YWx1ZXMsIG1hbmhhdHRhbi5jb25maXJtZWQudmFsdWVzKQo=</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIoZGYuY29uZmlybWVkLnZhbHVlcywgZGYuc21vb3RoZWRfcnQudmFsdWVzKQpwbHQuc2hvdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">bWFuaGF0dGFuLmNvbHVtbnMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3BsID0gTFNRVW5pdmFyaWF0ZVNwbGluZShtYW5oYXR0YW4uZGF0ZSwgbWFuaGF0dGFuLmNvbmZpcm1lZCwgdD1bZGYucGVha19kYXRlXSkK</text>
+        <text encoding="base64">bWFuaGF0dGFuID0gZGZbZGYuY291bnR5RklQUz09MzYwNjFdCgptYW5oYXR0YW4uY29sdW1ucwppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gc2NpcHkuaW50ZXJwb2xhdGUgaW1wb3J0IFVuaXZhcmlhdGVTcGxpbmUsIExTUVVuaXZhcmlhdGVTcGxpbmUKc3BsID0gTFNRVW5pdmFyaWF0ZVNwbGluZShtYW5oYXR0YW4uZGF5LnZhbHVlcywgbWFuaGF0dGFuLmNvbmZpcm1lZC52YWx1ZXMsIHQ9WzMwXSkKcGx0LnBsb3Qoc3BsKG1hbmhhdHRhbi5jb25maXJtZWQpKQpwbHQuc2NhdHRlcihtYW5oYXR0YW4uZGF5LnZhbHVlcywgbWFuaGF0dGFuLmNvbmZpcm1lZC52YWx1ZXMpCnBsdC5zY2F0dGVyKG1hbmhhdHRhbi5jb25maXJtZWQudmFsdWVzLCBtYW5oYXR0YW4uc21vb3RoZWRfcnQudmFsdWVzKQptYW5oYXR0YW4uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGxvdCgpCmRtYXRyaXgoImJzKGRmLiIpCnBsdC5zaG93KCkKbWFuaGF0dGFuLmNvbHVtbnMKeCA9IG5wLmxpbnNwYWNlKC0zLCAzLCA1MCkKeSA9IG5wLmV4cCgteCoqMikgKyAwLjEgKiBucC5yYW5kb20ucmFuZG4oNTApCnNwbCA9IFVuaXZhcmlhdGVTcGxpbmUoeCwgeSwgaz0yKQp4cyA9IG5wLmxpbnNwYWNlKC0zLCAzLCAxMDAwKQpwbHQucGxvdCh4LCB5LCAncm8nLCBtcz01KQpwbHQucGxvdCh4cywgc3BsKHhzKSwgJ2cnLCBsdz0zKQpwbHQuc2hvdygpCnBsdApwZC5EYXRhRnJhbWUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdycCA9IGRmLmdyb3VwYnkoZ3JvdXBfdmFyKQo=</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3BsID0gTFNRVW5pdmFyaWF0ZVNwbGluZShtYW5oYXR0YW4uZGF0ZSwgbWFuaGF0dGFuLmNvbmZpcm1lZCwgdD1bZGYucGVha19kYXRlXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdycCA9IGRmLmdyb3VwYnkoZ3JvdXBfdmFyKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -900,10 +900,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGxvdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHlwbG90Cg==</text>
+        <text encoding="base64">cGx0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
@@ -912,13 +912,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxEYXRhRnJhbWVcPg==</last-search>
+      <last-search>pats</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEYXRhRnJhbWVcPg==</last-pattern>
+      <last-pattern>pats</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
