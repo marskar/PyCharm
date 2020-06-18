@@ -230,12 +230,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592487537980">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="5" />
-        <mark key="^" line="45" column="5" />
-        <mark key="." line="45" column="5" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592488501764">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="59" column="5" />
+        <mark key="^" line="44" column="4" />
+        <mark key="." line="59" column="5" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/plot/me.py" timestamp="1592013374155">
         <mark key="'" line="34" column="0" />
@@ -393,13 +393,13 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>[1., 2.]</text>
+        <text encoding="base64">MC4sIA==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>[1., 2.]</text>
+        <text encoding="base64">MC4sIA==</text>
       </register>
       <register name="/" type="4">
         <text>dmat</text>
@@ -408,19 +408,19 @@
         <text encoding="base64">dCA9IFsxLiwgMi5dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5pbnRlcnBvbGF0ZS5fYnNwbCBpbXBvcnQgZXZhbHVhdGVfYWxsX2JzcGwK</text>
+        <text encoding="base64">ICAgIFtldmFsdWF0ZV9hbGxfYnNwbCh0LCBrLCB4LCBrLTEpW2ldIGZvciB4IGluIHh4XQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cyA9IGRtYXRyaXgoCiAgICAiYnMoZGYuY29uZmlybWVkLCBkZj0yLCBkZWdyZWU9MSkiLAogICAgeyJkZi5jb25maXJtZWQiOiBkZi5jb25maXJtZWR9LAogICAgcmV0dXJuX3R5cGU9ImRhdGFmcmFtZSIKKQo=</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5pbnRlcnBvbGF0ZS5fYnNwbCBpbXBvcnQgZXZhbHVhdGVfYWxsX2JzcGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">cyA9IGRtYXRyaXgoCiAgICAiYnMoZGYuY29uZmlybWVkLCBkZj0yLCBkZWdyZWU9MSkiLAogICAgeyJkZi5jb25maXJtZWQiOiBkZi5jb25maXJtZWR9LAogICAgcmV0dXJuX3R5cGU9ImRhdGFmcmFtZSIKKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Li4uCg==</text>
@@ -900,10 +900,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9zcGxpbmUoZGF0YSwgZ3JwLCApCiAgICBmb3JtID0gImJzKGNvdW50eS5jb25maXJtZWQsIGRmPTIsIGRlZ3JlZT0xLCBpbmNsdWRlX2ludGVyY2VwdD1GYWxzZSkiCiAgICByZXR1cm4gZG1hdHJpeCgKICAgICAgICBmb3JtLAogICAgICAgIHsiZGF0YSI6IGRhdGF9LAogICAgICAgIHJldHVybl90eXBlPSJkYXRhZnJhbWUiCiAgICApCiAgICBmb3IgZmlwcyBpbgogICAgZGYuY291bnR5RklQUy51bmlxdWUoKQpdKQpkZi5wZWFrX3J0X2RheQpkZi5jb2x1bW5zCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
