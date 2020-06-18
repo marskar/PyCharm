@@ -160,6 +160,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1592483604852">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1592010894134">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="4" />
@@ -918,7 +921,7 @@
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
