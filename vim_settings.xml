@@ -144,14 +144,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592659432350">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592660580629">
         <mark key="e" line="15" column="33" />
         <mark key="'" line="35" column="0" />
         <mark key="h" line="217" column="31" />
-        <mark key="[" line="215" column="38" />
-        <mark key="]" line="215" column="47" />
-        <mark key="^" line="215" column="47" />
-        <mark key="." line="215" column="46" />
+        <mark key="[" line="216" column="21" />
+        <mark key="]" line="216" column="28" />
+        <mark key="^" line="216" column="28" />
+        <mark key="." line="216" column="27" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/me.py" timestamp="1591826875658">
         <mark key="e" line="20" column="0" />
@@ -395,43 +395,43 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>;</text>
+        <text>peak</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>peak</text>
       </register>
       <register name="/" type="4">
         <text>plt.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGZbInBlYWtfZGF0ZSJdCg==</text>
+      <register name="0" type="4">
+        <text>df[&quot;days_since_stay&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICsgbWVhbl9zdGF5Cg==</text>
+        <text encoding="base64">ICAgIGRmWyJkYXlzX3NpbmNlX3N0YXkiXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICsgZGVtZWFuZWRfY2FzZXMK</text>
+        <text encoding="base64">ICAgICsgbWVhbl9zdGF5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICsgbWVhbl9jYXNlcwo=</text>
+        <text encoding="base64">ICAgICsgZGVtZWFuZWRfY2FzZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eAo=</text>
+        <text encoding="base64">ICAgICsgbWVhbl9jYXNlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnRfZmlsZSA9IGRhdGFfZGlyIC8gZiJ7dG9kYXl9X2NlbnN1c191c2EtZmFjdHNfdXNkYV9ydC5jc3YiCg==</text>
+        <text encoding="base64">eAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWVyZ2VfZmlsZSA9IGRhdGFfZGlyIC8gZiJ7dG9kYXl9X2NlbnN1c191c2EtZmFjdHNfdXNkYV9ydC5jc3YiCg==</text>
+        <text encoding="base64">cnRfZmlsZSA9IGRhdGFfZGlyIC8gZiJ7dG9kYXl9X2NlbnN1c191c2EtZmFjdHNfdXNkYV9ydC5jc3YiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAubmFuCg==</text>
+        <text encoding="base64">bWVyZ2VfZmlsZSA9IGRhdGFfZGlyIC8gZiJ7dG9kYXl9X2NlbnN1c191c2EtZmFjdHNfdXNkYV9ydC5jc3YiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -902,10 +902,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBaZXJvRGl2aXNpb25FcnJvcjoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAubmFuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBaZXJvRGl2aXNpb25FcnJvcjoK</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
