@@ -42,12 +42,12 @@
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
-        <entry>action HippieCompletion</entry>
-        <entry>action HippieBackwardCompletion</entry>
         <entry>action CloseProject</entry>
         <entry encoding="base64">YWN0aW9uIG9yZy5pbnRlbGxpai5wbHVnaW5zLm1hcmtkb3duLnVpLmFjdGlvbnMuZWRpdG9yTGF5b3V0LkVkaXRvckFuZFByZXZpZXdMYXlvdXRDaGFuZ2VBY3Rpb24g</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action HippieBackwardCompletion</entry>
+        <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
@@ -192,12 +192,12 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592662791294">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="125" column="85" />
-        <mark key="]" line="125" column="92" />
-        <mark key="." line="125" column="91" />
-        <mark key="^" line="125" column="92" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592663502260">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="131" column="43" />
+        <mark key="]" line="131" column="48" />
+        <mark key="." line="131" column="47" />
+        <mark key="^" line="131" column="48" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591912264799">
         <mark key="'" line="14" column="51" />
@@ -394,20 +394,20 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZGYuZHJvcG5hKCkuZ3JvdXBieSgiY291bnR5RklQUyIpLnBsb3Quc2NhdHRlcih4PSJkYXkiLCB5PSJyb2xsaW5nX21lYW5fZ3IiKQo=</text>
+      <register name="*" type="4">
+        <text>5</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>rt_file</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>peak</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWVyZ2VkX2ZpbGUgPSBkYXRhX2RpciAvIGYie3RvZGF5fV9jZW5zdXNfdXNhLWZhY3RzX3VzZGEuY3N2Igo=</text>
+        <text encoding="base64">Y29uZGl0aW9uID0gZGYuY291bnR5RklQUyA+PSAxNzAzMQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGYuZHJvcG5hKCkuZ3JvdXBieSgiY291bnR5RklQUyIpLnBsb3Quc2NhdHRlcih4PSJkYXkiLCB5PSJyb2xsaW5nX21lYW5fZ3IiKQo=</text>
