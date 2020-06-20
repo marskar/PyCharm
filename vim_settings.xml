@@ -144,14 +144,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592601614526">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592659432350">
         <mark key="e" line="15" column="33" />
         <mark key="'" line="35" column="0" />
-        <mark key="h" line="215" column="31" />
-        <mark key="[" line="217" column="25" />
-        <mark key="]" line="218" column="0" />
-        <mark key="^" line="218" column="0" />
-        <mark key="." line="218" column="0" />
+        <mark key="h" line="217" column="31" />
+        <mark key="[" line="215" column="38" />
+        <mark key="]" line="215" column="47" />
+        <mark key="^" line="215" column="47" />
+        <mark key="." line="215" column="46" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/me.py" timestamp="1591826875658">
         <mark key="e" line="20" column="0" />
@@ -395,19 +395,19 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>plt.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cnRfZmlsZSA9IGRhdGFfZGlyIC8gZiJ7dG9kYXl9X2NlbnN1c191c2EtZmFjdHNfdXNkYV9ydC5jc3YiCg==</text>
+        <text encoding="base64">ZGZbInBlYWtfZGF0ZSJdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICsgbWVhbl9zdGF5Cg==</text>
