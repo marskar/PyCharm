@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>roll</entry>
         <entry>rolling_</entry>
         <entry>rolling_mean_</entry>
         <entry>sim</entry>
@@ -17,7 +16,6 @@
         <entry>resu</entry>
         <entry encoding="base64">XDxEYXRhRnJhbWVcPg==</entry>
         <entry>pats</entry>
-        <entry>peak</entry>
         <entry>d =</entry>
         <entry encoding="base64">ZCA9IA==</entry>
         <entry>cook =</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxtZV9kZl9maWxlXD4=</entry>
         <entry>sub</entry>
         <entry>plt.</entry>
+        <entry>stay</entry>
+        <entry>peak</entry>
       </history-search>
       <history-cmd>
         <entry>b1</entry>
@@ -144,14 +144,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592660580629">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592660684140">
         <mark key="e" line="15" column="33" />
         <mark key="'" line="35" column="0" />
         <mark key="h" line="217" column="31" />
-        <mark key="[" line="216" column="21" />
-        <mark key="]" line="216" column="28" />
-        <mark key="^" line="216" column="28" />
-        <mark key="." line="216" column="27" />
+        <mark key="[" line="219" column="23" />
+        <mark key="]" line="219" column="24" />
+        <mark key="^" line="219" column="24" />
+        <mark key="." line="219" column="23" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/pred/me.py" timestamp="1591826875658">
         <mark key="e" line="20" column="0" />
@@ -192,12 +192,12 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592600189927">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592661471774">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="60" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="8" />
+        <mark key="[" line="125" column="21" />
+        <mark key="]" line="125" column="21" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="124" column="18" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591912264799">
         <mark key="'" line="14" column="51" />
@@ -267,10 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="21" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="111" column="15" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="117" column="66" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="169" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -302,7 +298,6 @@
       <jump line="3" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="20" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="24" column="48" filename="$USER_HOME$/.ideavimrc" />
       <jump line="143" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
@@ -337,7 +332,6 @@
       <jump line="63" column="66" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="134" column="52" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="79" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="92" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
@@ -367,6 +361,12 @@
       <jump line="57" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="215" column="12" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="20" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="22" column="52" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="64" column="21" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="128" column="18" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -394,20 +394,20 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="4">
-        <text>peak</text>
+      <register name="*" type="2">
+        <text encoding="base64">IyBkYXlzX3NpbmNlXzNfcG9zX2dyCg==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>peak</text>
+        <text>1st_</text>
       </register>
       <register name="/" type="4">
-        <text>plt.</text>
+        <text>peak</text>
       </register>
-      <register name="0" type="4">
-        <text>df[&quot;days_since_stay&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBkYXlzX3NpbmNlXzNfcG9zX2dyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRmWyJkYXlzX3NpbmNlX3N0YXkiXQo=</text>
@@ -914,9 +914,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>plt.</last-search>
+      <last-search>peak</last-search>
       <last-offset />
-      <last-pattern>plt.</last-pattern>
+      <last-pattern>peak</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
