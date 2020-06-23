@@ -45,10 +45,10 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>nohlsearch</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action HippieCompletion</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action HippieBackwardCompletion</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action HippieCompletion</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -192,12 +192,12 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592952453356">
-        <mark key="'" line="233" column="2" />
-        <mark key="[" line="165" column="6" />
-        <mark key="]" line="165" column="7" />
-        <mark key="." line="165" column="7" />
-        <mark key="^" line="159" column="36" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592955340604">
+        <mark key="'" line="234" column="2" />
+        <mark key="[" line="159" column="58" />
+        <mark key="]" line="159" column="64" />
+        <mark key="." line="159" column="63" />
+        <mark key="^" line="159" column="64" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591912264799">
         <mark key="'" line="14" column="51" />
@@ -395,13 +395,13 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text>36061</text>
+        <text>peak_date</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>36061</text>
+        <text>peak_date</text>
       </register>
       <register name="/" type="4">
         <text>splin</text>
@@ -410,28 +410,28 @@
         <text encoding="base64">ZGYuc2V0X2luZGV4KCJjb3VudHlGSVBTIikubG9jWzM2MDYxLFsic3RheV9kYXRlIiwgInBlYWtfZGF0ZSJdXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYuc2V0X2luZGV4KCJjb3VudHlGSVBTIilbWyJzdGF5X2RhdGUiLCAicGVha19kYXRlIl1dCg==</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYuc2V0X2luZGV4KCJkYXkiKVtbImRheXNfc2luY2Vfc3RheSIsICJzcGxpbmVfc3RheSJdXS5wbG90KCkK</text>
+        <text encoding="base64">ZGYuc2V0X2luZGV4KCJjb3VudHlGSVBTIilbWyJzdGF5X2RhdGUiLCAicGVha19kYXRlIl1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">ZGYuc2V0X2luZGV4KCJkYXkiKVtbImRheXNfc2luY2Vfc3RheSIsICJzcGxpbmVfc3RheSJdXS5wbG90KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LmF4dmxpbmUoZGZbY29uZGl0aW9uMl0uKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGx0LmF4dmxpbmUoZGZbY29uZGl0aW9uMl0uKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGYuc3RheV9kYXlfYXRfcGVhawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -902,13 +902,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">ZGYuc3RheV9kYXlfYXRfcGVhawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYuc3BsaW5lX3N0YXkK</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
