@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>d =</entry>
-        <entry encoding="base64">ZCA9IA==</entry>
         <entry>cook =</entry>
         <entry>grp</entry>
         <entry>interpol</entry>
@@ -27,6 +25,8 @@
         <entry>fips</entry>
         <entry encoding="base64">XDxwb3N0X3N0YXlcPg==</entry>
         <entry>condi</entry>
+        <entry>idx</entry>
+        <entry>idxma</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
@@ -46,8 +46,8 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>nohlsearch</entry>
         <entry>action HippieBackwardCompletion</entry>
-        <entry>action HippieCompletion</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
@@ -192,12 +192,12 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592943622641">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="154" column="1" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="154" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592947029955">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="127" column="25" />
+        <mark key="]" line="127" column="40" />
+        <mark key="." line="127" column="39" />
+        <mark key="^" line="127" column="40" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591912264799">
         <mark key="'" line="14" column="51" />
@@ -267,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="20" column="6" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="2" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
@@ -367,6 +365,8 @@
       <jump line="134" column="26" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="144" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="159" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -395,19 +395,19 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>peak_day</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>peak_day</text>
       </register>
       <register name="/" type="4">
-        <text>condi</text>
+        <text>idxma</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICBkYXlzX3NpbmNlX3Jpc2U9ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsicmlzZV9kYXRlIl0pLmR0LmRheXMuZmlsbG5hKDApCikK</text>
+      <register name="0" type="4">
+        <text>stay_day_at_peak</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGYuc2V0X2luZGV4KCJjb3VudHlGSVBTIikucmlzZV9wZWFrKQo=</text>
@@ -914,9 +914,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>condi</last-search>
+      <last-search>idxma</last-search>
       <last-offset />
-      <last-pattern>condi</last-pattern>
+      <last-pattern>idxma</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
