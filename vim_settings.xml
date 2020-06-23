@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRhRnJhbWVcPg==</entry>
         <entry>pats</entry>
         <entry>d =</entry>
         <entry encoding="base64">ZCA9IA==</entry>
@@ -27,6 +26,7 @@
         <entry>&quot;gr&quot;</entry>
         <entry>post_peak</entry>
         <entry>fips</entry>
+        <entry encoding="base64">XDxwb3N0X3N0YXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
@@ -192,12 +192,12 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592940781022">
-        <mark key="'" line="134" column="26" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="27" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="134" column="27" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592941604937">
+        <mark key="'" line="144" column="7" />
+        <mark key="[" line="144" column="17" />
+        <mark key="]" line="144" column="17" />
+        <mark key="." line="144" column="16" />
+        <mark key="^" line="144" column="17" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591912264799">
         <mark key="'" line="14" column="51" />
@@ -267,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="24" column="48" filename="$USER_HOME$/.ideavimrc" />
       <jump line="18" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -367,6 +366,7 @@
       <jump line="125" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="126" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="134" column="26" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="144" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -395,16 +395,16 @@
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">ZGZbImRheXNfc2luY2Vfc3RheV9sYWc3Il0g</text>
+        <text>rolling_mean_gr</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.countyFIPS</text>
+        <text>rolling_mean_gr</text>
       </register>
       <register name="/" type="4">
-        <text>fips</text>
+        <text encoding="base64">XDxwb3N0X3N0YXlcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGZbImRheXNfc2luY2Vfc3RheV9sYWc3Il0g</text>
@@ -914,9 +914,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fips</last-search>
+      <last-search encoding="base64">XDxwb3N0X3N0YXlcPg==</last-search>
       <last-offset />
-      <last-pattern>fips</last-pattern>
+      <last-pattern encoding="base64">XDxwb3N0X3N0YXlcPg==</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
