@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pats</entry>
         <entry>d =</entry>
         <entry encoding="base64">ZCA9IA==</entry>
         <entry>cook =</entry>
@@ -27,6 +26,7 @@
         <entry>post_peak</entry>
         <entry>fips</entry>
         <entry encoding="base64">XDxwb3N0X3N0YXlcPg==</entry>
+        <entry>condi</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
@@ -192,10 +192,12 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592942599495">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592943622641">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="154" column="1" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591912264799">
         <mark key="'" line="14" column="51" />
@@ -265,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="48" filename="$USER_HOME$/.ideavimrc" />
       <jump line="18" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
@@ -365,6 +366,7 @@
       <jump line="126" column="22" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="134" column="26" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="144" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -392,44 +394,44 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">IyBUT0RPIHBvc3Rfc3RheQo=</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>rolling_mean_gr</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0X3N0YXlcPg==</text>
+        <text>condi</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGZbImRheXNfc2luY2Vfc3RheV9sYWc3Il0g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICBkYXlzX3NpbmNlX3Jpc2U9ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsicmlzZV9kYXRlIl0pLmR0LmRheXMuZmlsbG5hKDApCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUT0RPIHBvc3Rfc3RheQo=</text>
+        <text encoding="base64">ZGYuc2V0X2luZGV4KCJjb3VudHlGSVBTIikucmlzZV9wZWFrKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGh1ZT0iY291bnR5RklQUyIsCg==</text>
+        <text encoding="base64">IyBUT0RPIHBvc3Rfc3RheQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uZGl0aW9uMiA9IGRmLnJvbGxpbmdfbWVhbl9nciA8IC40Cg==</text>
+        <text encoding="base64">ICAgIGh1ZT0iY291bnR5RklQUyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uZGl0aW9uMSA9IGRmLnJvbGxpbmdfbWVhbl9nciA+PSAwCg==</text>
+        <text encoding="base64">Y29uZGl0aW9uMiA9IGRmLnJvbGxpbmdfbWVhbl9nciA8IC40Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGYucmlzZV9wZWFrX2RheXMuc3VtKCkK</text>
+        <text encoding="base64">Y29uZGl0aW9uMSA9IGRmLnJvbGxpbmdfbWVhbl9nciA+PSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGZbImRheXNfc2luY2VfCg==</text>
+        <text encoding="base64">ZGYucmlzZV9wZWFrX2RheXMuc3VtKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW55KGRmLnJpc2VfcGVhaykK</text>
+        <text encoding="base64">ZGZbImRheXNfc2luY2VfCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -900,10 +902,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvc3RfcGVhayA9IAo=</text>
+        <text encoding="base64">YW55KGRmLnJpc2VfcGVhaykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmRmID0gcGQuRGF0YUZyYW1lKHsieCI6IFswXSAqIDMgKyBsaXN0KHJhbmdlKDYpKX0pCnJkZi5hc3NpZ24ocj1yZGYueC5yb2xsaW5nKHdpbmRvdz0zLCBtaW5fcGVyaW9kcz0xLCBjZW50ZXI9RmFsc2UpLm1lYW4oKSkK</text>
+        <text encoding="base64">ICAgIHBvc3RfcGVhayA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
@@ -912,9 +914,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwb3N0X3N0YXlcPg==</last-search>
+      <last-search>condi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0X3N0YXlcPg==</last-pattern>
+      <last-pattern>condi</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
