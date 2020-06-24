@@ -45,10 +45,10 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>nohlsearch</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
-        <entry>action HippieCompletion</entry>
         <entry>action HippieBackwardCompletion</entry>
+        <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -192,11 +192,11 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592956731417">
-        <mark key="[" line="178" column="9" />
-        <mark key="]" line="178" column="11" />
-        <mark key="." line="178" column="10" />
-        <mark key="^" line="178" column="11" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592957249383">
+        <mark key="[" line="174" column="23" />
+        <mark key="]" line="174" column="26" />
+        <mark key="^" line="174" column="26" />
+        <mark key="." line="174" column="25" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591912264799">
         <mark key="'" line="14" column="51" />
@@ -393,44 +393,44 @@
       <register name="f" type="4">
         <text>action ExecuteInPyConsoleAction k</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZGYuWAo=</text>
+      <register name="*" type="4">
+        <text>helter</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>df</text>
+        <text>helter</text>
       </register>
       <register name="/" type="4">
         <text>cook</text>
       </register>
-      <register name="0" type="4">
-        <text>df.smoothed_rt.dropna()</text>
+      <register name="0" type="2">
+        <text encoding="base64">WCA9IGNvb2tbWydkYXlzX3NpbmNlX3N0YXknLCAnc3BsaW5lX3N0YXknLCAiY29uZmlybWVkIl1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYuWAo=</text>
+        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29vayA9IGRmW2RmLmNvdW50eUZJUFMgPT0gMTcwMzFdCg==</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIoY29vay5zbW9vdGhlZF9ydC5kcm9wbmEoKSwgcmVzLmZpdHRlZHZhbHVlcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzID0gbW9kLmZpdCgpCg==</text>
+        <text encoding="base64">ZGYuc21vb3RoZWRfcnQuZHJvcG5hKCkuc2hhcGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">cmVzLmZpdHRlZHZhbHVlcy5zaGFwZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGYuc2V0X2luZGV4KCJjb3VudHlGSVBTIilbWyJzdGF5X2RhdGUiLCAicGVha19kYXRlIl1dCg==</text>
+        <text encoding="base64">ZGlyKHJlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGYuc2V0X2luZGV4KCJkYXkiKVtbImRheXNfc2luY2Vfc3RheSIsICJzcGxpbmVfc3RheSJdXS5wbG90KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">ZGYucG9zdF9wZWFrCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -901,13 +901,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYuWAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGx0LmF4dmxpbmUoZGZbY29uZGl0aW9uMl0uKQo=</text>
+        <text encoding="base64">Y29vayA9IGRmW2RmLmNvdW50eUZJUFMgPT0gMTcwMzFdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
