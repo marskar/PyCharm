@@ -2,7 +2,7 @@
   <tool name="Black" description="Black is the uncompromising Python code formatter." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/miniconda/envs/py/bin/black" />
-      <option name="PARAMETERS" value="&quot;$FilePath$&quot;" />
+      <option name="PARAMETERS" value="&quot;$FilePath$&quot; --line-length 79" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

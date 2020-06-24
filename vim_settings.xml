@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>idx</entry>
-        <entry>idxma</entry>
         <entry>condi</entry>
         <entry encoding="base64">XDxzcGxpbmVfc3RheVw+</entry>
         <entry encoding="base64">XDxzdGF5X2RheV9hdF9wZWFrXD4=</entry>
@@ -27,28 +25,30 @@
         <entry encoding="base64">XDxmaW5hbF9maWxlXD4=</entry>
         <entry encoding="base64">XDxtZXJnZWRfZmlsZVw+</entry>
         <entry>erge</entry>
+        <entry>merge</entry>
+        <entry>fall dat</entry>
       </history-search>
       <history-cmd>
-        <entry>bn</entry>
-        <entry>wa</entry>
         <entry>action EditorKillToWordEnd</entry>
         <entry>set relativenumbers</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>actionlist</entry>
         <entry encoding="base64">YWN0aW9uIEVkaXRvclRvZ2dsZVNob3dMaW5lTnVtYmVycyA=</entry>
         <entry>HippieCompletion</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
-        <entry>action CloseProject</entry>
         <entry encoding="base64">YWN0aW9uIG9yZy5pbnRlbGxpai5wbHVnaW5zLm1hcmtkb3duLnVpLmFjdGlvbnMuZWRpdG9yTGF5b3V0LkVkaXRvckFuZFByZXZpZXdMYXlvdXRDaGFuZ2VBY3Rpb24g</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action HippieCompletion</entry>
         <entry>action HippieBackwardCompletion</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
-        <entry>action RenameElement</entry>
         <entry>nohlsearch</entry>
+        <entry>action CloseProject</entry>
+        <entry>action JumpToLastWindow</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>actionlist</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,8 +139,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.qy" timestamp="1593007718081">
-        <mark key="'" line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1593007947184">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.qy" timestamp="1593007968900">
+        <mark key="'" line="61" column="25" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592660684140">
+        <mark key="e" line="15" column="33" />
+        <mark key="'" line="35" column="0" />
+        <mark key="h" line="217" column="31" />
+        <mark key="[" line="219" column="23" />
+        <mark key="]" line="219" column="24" />
+        <mark key="^" line="219" column="24" />
+        <mark key="." line="219" column="23" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/01_hello.py" timestamp="1593004587639">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1592599611243">
         <mark key="'" line="57" column="57" />
@@ -148,7 +166,7 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1593007496108">
+      <file name="/a.dummy" timestamp="1593008099551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -163,12 +181,21 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="99" column="8" />
       </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/run.py" timestamp="1593005132328">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1592419045477">
         <mark key="'" line="24" column="48" />
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
         <mark key="^" line="152" column="2" />
+      </file>
+      <file name="/" timestamp="1593011084165">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" timestamp="1592662287009">
         <mark key="'" line="76" column="0" />
@@ -188,56 +215,19 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/bed.py" timestamp="1592233719757">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593007048263">
-        <mark key="'" line="22" column="50" />
-        <mark key="[" line="22" column="50" />
-        <mark key="]" line="22" column="51" />
-        <mark key="^" line="22" column="51" />
-        <mark key="." line="22" column="50" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1593005609293">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="61" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1592660684140">
-        <mark key="e" line="15" column="33" />
-        <mark key="'" line="35" column="0" />
-        <mark key="h" line="217" column="31" />
-        <mark key="[" line="219" column="23" />
-        <mark key="]" line="219" column="24" />
-        <mark key="^" line="219" column="24" />
-        <mark key="." line="219" column="23" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/01_hello.py" timestamp="1593004587639">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/run.py" timestamp="1593005132328">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" timestamp="1593006980005">
-        <mark key="'" line="26" column="0" />
-        <mark key="^" line="25" column="42" />
-      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592662302440">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="59" column="5" />
         <mark key="]" line="59" column="5" />
         <mark key="^" line="44" column="4" />
         <mark key="." line="59" column="5" />
+      </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593011829788">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="60" column="2" />
+        <mark key="]" line="60" column="2" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="60" column="2" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/usda.py" timestamp="1592245489762">
         <mark key="'" line="21" column="6" />
@@ -246,19 +236,14 @@
         <mark key="." line="45" column="9" />
         <mark key="^" line="56" column="8" />
       </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" timestamp="1593005609293">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="61" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="215" column="12" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="20" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="22" column="52" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="64" column="21" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="123" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/census.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="20" column="58" filename="$USER_HOME$/Skarzynski-Martin/rt/path/run.py" />
       <jump line="10" column="8" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
@@ -342,12 +327,23 @@
       <jump line="39" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
       <jump line="35" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
-      <jump line="23" column="50" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="22" column="50" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="21" column="6" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usda.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.qy" />
+      <jump line="71" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.qy" />
+      <jump line="1" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.qy" />
+      <jump line="61" column="25" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.qy" />
+      <jump line="45" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
+      <jump line="22" column="25" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
+      <jump line="25" column="34" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
+      <jump line="26" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11558,43 +11554,43 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>merged</text>
+        <text encoding="base64">JSUg</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>merged</text>
+        <text encoding="base64">JSUg</text>
       </register>
       <register name="/" type="4">
-        <text>erge</text>
+        <text>fall dat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGF0YV9kaXIgPSBnZXRfZGlyKCkK</text>
+        <text encoding="base64">IyBDcmVhdGUgY29sdW1uIG9mIGRheXMgc2luY2UgdGhlIHJpc2UgZGF0ZQpkZiA9IGRmLmFzc2lnbigKICAgIGRheXNfc2luY2VfcmlzZT1kZlsiZGF0ZSJdLnN1YnRyYWN0KGRmWyJyaXNlX2RhdGUiXSkuZHQuZGF5cy5maWxsbmEoMCkKKQojIENyZWF0ZSBiaW5hcnkgdmFyaWFibGU6IHBvc3QgdmVyc3VzIHByZS1yaXNlCmRmID0gZGYuYXNzaWduKHBvc3RfcmlzZT1kZlsiZGF0ZSJdLmdlKGRmWyJyaXNlX2RhdGUiXSkuZmlsbG5hKEZhbHNlKSkKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmZvcm11bGEuYXBpIGFzIHNtZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmluYWxfZmlsZSA9IGRhdGFfZGlyIC8gZiJ7dG9kYXl9X2NlbnN1c191c2EtZmFjdHNfdXNkYV9ydC5jc3YiCg==</text>
+        <text encoding="base64">IyAlJSBTdGF5IGRhdGVzCiMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIHNoZWx0ZXItaW4tcGxhY2UKZGYgPSBkZi5hc3NpZ24oCiAgICBkYXlzX3NpbmNlX3N0YXk9ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsic3RheV9kYXRlIl0pLmR0LmRheXMuZmlsbG5hKDApCikKIyBDcmVhdGUgYmluYXJ5IHZhcmlhYmxlOiBwb3N0IHZlcnN1cyBwcmUtc3RheQpkZiA9IGRmLmFzc2lnbihwb3N0X3N0YXk9ZGZbImRhdGUiXS5nZShkZlsicmlzZV9kYXRlIl0pLmZpbGxuYShGYWxzZSkpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJlcF9kaXIgPSBnZXRfZGlyKCJwcmVwIikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQoKZnJvbSBwYXRoLmRpciBpbXBvcnQgZ2V0X2Rpcgpmcm9tIHBhdGgucnVuIGltcG9ydCBydW5fc2NyaXB0X2lmX25lZWRlZAoKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAppbXBvcnQgc2VhYm9ybiBhcyBzbnMKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBwYW5kYXMgYXMgcGQKaW1wb3J0IHN0YXRzbW9kZWxzLmFwaSBhcyBzbQppbXBvcnQgc3RhdHNtb2RlbHMuZm9ybXVsYS5hcGkgYXMgc21mCgojICUlIHZhcnMKUkVDT1ZFUllfVElNRSA9IDE0CkdBTU1BID0gMSAvIFJFQ09WRVJZX1RJTUUKZGF0YV9kaXIgPSBnZXRfZGlyKCkKdG9kYXkgPSBkYXRlLnRvZGF5KCkuaXNvZm9ybWF0KCkKbWVyZ2VkX2ZpbGUgPSBkYXRhX2RpciAvIGYie3RvZGF5fV9jZW5zdXNfdXNhLWZhY3RzX3VzZGEuY3N2IgpydF9maWxlID0gZGF0YV9kaXIgLyBmInt0b2RheX1fY2Vuc3VzX3VzYS1mYWN0c191c2RhX3J0LmNzdiIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBDcmVhdGUgYmluYXJ5IHZhcmlhYmxlOiBwb3N0IHZlcnN1cyBwcmUtcGVhawpkZiA9IGRmLmFzc2lnbihwb3N0X3BlYWs9ZGZbImRhdGUiXS5nZShkZlsicGVha19kYXRlIl0pLmZpbGxuYShGYWxzZSkpCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bG93X2dybyA9IGRmWyJyb2xsaW5nX21lYW5fZ3IiXSA8IChkZlsibWF4X3JvbGxpbmdfbWVhbl9nciJdICogMC4yMCkKbGdwcCA9IGxvd19ncm8gJiBkZlsicG9zdF9wZWFrIl0KZGYgPSBkZi5qb2luKAogICAgZGZbbGdwcF0uZ3JvdXBieSgiY291bnR5RklQUyIpWyJkYXRlIl0uZmlyc3QoKS5yZW5hbWUoImZhbGxfZGF0ZSIpLAogICAgb249ImNvdW50eUZJUFMiLAopCmRmID0gZGYuam9pbigKICAgIGRmW2xncHBdLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiZGF5Il0uZmlyc3QoKS5yZW5hbWUoImZhbGxfZGF5IiksCiAgICBvbj0iY291bnR5RklQUyIsCikK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAwMV9oZWxsbyBpbXBvcnQgeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjYWxjLmdyb3d0aCBpbXBvcnQgKAogICAgZ2V0X2dyb3d0aF9yYXRlX2J5X2dyb3VwLAogICAgZ2V0X2RvdWJsaW5nX3RpbWUsCiAgICBnZXRfYmV0YSwKICAgIGdldF9ydAopCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12065,21 +12061,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAlJSByaXNlIGRhdGVzCiMgQ2FsY3VsYXRlIHBlYWsgKG1heCkgcm9sbGluZyBtZWFuIGdyb3d0aCByYXRlCmRmID0gZGYuam9pbigKICAgIGRmLmdyb3VwYnkoCiAgICAgICAgImNvdW50eUZJUFMiCiAgICApWyJyb2xsaW5nX21lYW5fZ3IiXS5tYXgoKS5yZW5hbWUoIm1heF9yb2xsaW5nX21lYW5fZ3IiKSwKICAgIG9uPSJjb3VudHlGSVBTIgopCgojIGNyZWF0ZSBib29sIHRvIGZpbmQgZmlyc3Qgcm9sbGluZyBtZWFuIGdyIGdyZWF0ZXIgdGhhbiAyMCUgb2YgbWF4CmhpZ2hfZ3IgPSBkZlsicm9sbGluZ19tZWFuX2dyIl0gPiAoZGZbIm1heF9yb2xsaW5nX21lYW5fZ3IiXSAqIC4yMCkKCiMgY3JlYXRlIGNvbHVtbiBvZiBkYXRlcyBvZiBmaXJzdCByb2xsaW5nIG1lYW4gZ3IgZ3JlYXRlciB0aGFuIDIwJSBvZiBtYXgKZGYgPSBkZi5qb2luKAogICAgZGZbaGlnaF9ncl0uZ3JvdXBieSgiY291bnR5RklQUyIpWyJkYXRlIl0uZmlyc3QoKS5yZW5hbWUoInJpc2VfZGF0ZSIpLAogICAgb249ImNvdW50eUZJUFMiCikKZGYgPSBkZi5qb2luKAogICAgZGZbaGlnaF9ncl0uZ3JvdXBieSgiY291bnR5RklQUyIpWyJkYXkiXS5maXJzdCgpLnJlbmFtZSgicmlzZV9kYXkiKSwKICAgIG9uPSJjb3VudHlGSVBTIgopCgojIENyZWF0ZSBjb2x1bW4gb2YgZGF5cyBzaW5jZSB0aGUgcmlzZSBkYXRlCmRmID0gZGYuYXNzaWduKAogICAgZGF5c19zaW5jZV9yaXNlPWRmWyJkYXRlIl0uc3VidHJhY3QoZGZbInJpc2VfZGF0ZSJdKS5kdC5kYXlzLmZpbGxuYSgwKQopCiMgQ3JlYXRlIGJpbmFyeSB2YXJpYWJsZTogcG9zdCB2ZXJzdXMgcHJlLXJpc2UKZGYgPSBkZi5hc3NpZ24oCiAgICBwb3N0X3Jpc2U9ZGZbImRhdGUiXS5nZShkZlsicmlzZV9kYXRlIl0pLmZpbGxuYShGYWxzZSkKKQoKIyAlJSBwZWFrIGRhdGVzCmRmID0gZGYuYXNzaWduKAogICAgZGF5c19zaW5jZV9mYWxsPWRmWyJkYXRlIl0uc3VidHJhY3QoZGZbImZhbGxfZGF0ZSJdKS5kdC5kYXlzLmZpbGxuYSgwKQopCgpkZiA9IGRmLmFzc2lnbigKICAgIHBvc3RfZmFsbD1kZlsiZGF0ZSJdLnN1YnRyYWN0KGRmWyJmYWxsX2RhdGUiXSkuZHQuZGF5cy5maWxsbmEoMCkKKQoKCiMgTWVyZ2UgcGVhayBncm93dGggcmF0ZSBkYXRlcyBpbiB3aXRoIGNhc2UgcG9wIHJ0IGRmCmRmID0gZGYubWVyZ2UoCiAgICBkZi5zZXRfaW5kZXgoImRhdGUiKS5ncm91cGJ5KAogICAgICAgICJjb3VudHlGSVBTIgogICAgKVsicm9sbGluZ19tZWFuX2dyIl0uaWR4bWF4KGF4aXM9MSkucmVuYW1lKCJwZWFrX2RhdGUiKSwKICAgIG9uPSJjb3VudHlGSVBTIiwKICAgIGhvdz0ibGVmdCIKKQoKZGYgPSBkZi5tZXJnZSgKICAgIGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgKICAgICAgICAiY291bnR5RklQUyIKICAgIClbInJvbGxpbmdfbWVhbl9nciJdLmlkeG1heChheGlzPTEpLnJlbmFtZSgicGVha19kYXkiKSwKICAgIG9uPSJjb3VudHlGSVBTIiwKICAgIGhvdz0ibGVmdCIKKQoKZGYuc2V0X2luZGV4KCJkYXRlIikubG9jWyIyMDIwLTA2LTIyIl0KIyBDcmVhdGUgYmluYXJ5IHZhcmlhYmxlOiBwb3N0IHZlcnN1cyBwcmUtcGVhawpkZiA9IGRmLmFzc2lnbigKICAgIHBvc3RfcGVhaz1kZlsiZGF0ZSJdLmdlKGRmWyJwZWFrX2RhdGUiXSkuZmlsbG5hKEZhbHNlKQopCgojIENyZWF0ZSBjb2x1bW4gb2YgZGF5cyBzaW5jZSBwZWFrCmRmID0gZGYuYXNzaWduKAogICAgZGF5c19zaW5jZV9wZWFrPWRmWyJkYXRlIl0uc3VidHJhY3QoZGZbInBlYWtfZGF0ZSJdKS5kdC5kYXlzLmZpbGxuYSgwKQopCgojIENyZWF0ZSBjb2x1bW4gb2YgZGF5cyBzaW5jZSBzaGVsdGVyLWluLXBsYWNlCmRmID0gZGYuYXNzaWduKAogICAgZGF5c19zaW5jZV9zdGF5PWRmWyJkYXRlIl0uc3VidHJhY3QoZGZbInN0YXlfZGF0ZSJdKS5kdC5kYXlzLmZpbGxuYSgwKQopCgoKbG93X2dybyA9IGRmWyJyb2xsaW5nX21lYW5fZ3IiXSA8IChkZlsibWF4X3JvbGxpbmdfbWVhbl9nciJdICogLjIwKQpsZ3BwID0gbG93X2dybyAmIGRmWyJwb3N0X3BlYWsiXQpkZiA9IGRmLmpvaW4oCiAgICBkZltsZ3BwXS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImRhdGUiXS5maXJzdCgpLnJlbmFtZSgiZmFsbF9kYXRlIiksCiAgICBvbj0iY291bnR5RklQUyIKKQpkZiA9IGRmLmpvaW4oCiAgICBkZltsZ3BwXS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImRheSJdLmZpcnN0KCkucmVuYW1lKCJmYWxsX2RheSIpLAogICAgb249ImNvdW50eUZJUFMiCikKCgoKZGYgPSBkZi5hc3NpZ24oCiAgICBzcGxpbmVfc3RheT0oZGZbImRheXNfc2luY2Vfc3RheSJdIC0gZGZbInN0YXlfZGF5X2F0X3BlYWsiXSkgKiBkZi5wb3N0X3BlYWsKKQoKY29uZGl0aW9uMSA9IGRmLmNvdW50eUZJUFMgPT0gMTcwMzEKY29uZGl0aW9uMiA9IGRmLmNvdW50eUZJUFMgPT0gMzYwNjEKY29uZCA9IGRmLmNvdW50eUZJUFMgPT0gNTYwNDEKY29uZCA9IGRmLmNvdW50eUZJUFMgPT0gMjQwMzEKY29uZGl0aW9uID0gY29uZGl0aW9uMSB8IGNvbmRpdGlvbjIKc25zLnNjYXR0ZXJwbG90KAogICAgeD0iZGF5IiwKICAgIHk9Im5ldyIsCiAgICAjIGh1ZT0iY291bnR5RklQUyIsCiAgICBkYXRhPWRmW2NvbmRpdGlvbjJdCikKcGx0LnNob3coKQpkZi5zZXRfaW5kZXgoImNvdW50eUZJUFMiKS5sb2NbZGYuc3RheV9kYXRlID4gZGYucGVha19kYXRlLCBbInN0YXlfZGF0ZSIsICJwZWFrX2RhdGUiXV0KZGYuc2V0X2luZGV4KCJjb3VudHlGSVBTIikubG9jWzM2MDYxLCBbInN0YXlfZGF0ZSIsICJwZWFrX2RhdGUiXV0KZGYuc2V0X2luZGV4KCJjb3VudHlGSVBTIikubG9jWzI0MDMxLCBbInN0YXlfZGF0ZSIsICJuZXciXV0udGFpbCgpCmRmLnNldF9pbmRleCgiY291bnR5RklQUyIpLmxvY1sxNzAzMSwgWwogICAgImRheXNfc2luY2Vfc3RheSIsCiAgICAic3BsaW5lX3N0YXkiLAogICAgInN0YXlfZGF5X2F0X3BlYWsiLAogICAgImRheXNfc2luY2VfcGVhayIsCiAgICAjICJwb3N0X3BlYWsiCl1dWzUwOjcwXQpkZiA9IGRmLmFzc2lnbigKICAgIGxvZ19jb25maXJtZWQ9ZGZbImNvbmZpcm1lZCJdLnRyYW5zZm9ybSgibG9nIikucmVwbGFjZSgKICAgICAgICAtbnAuaW5mLAogICAgICAgIG5wLm5hbgogICAgKQopCgpkZi5zZXRfaW5kZXgoImRheSIpW1siZGF5c19zaW5jZV9zdGF5IiwgInNwbGluZV9zdGF5Il1dLnBsb3QoKQpwbHQuc2hvdygpCm1vZCA9IHNtZi5vbHMoInNtb290aGVkX3J0IH4gZGF5c19zaW5jZV9zdGF5ICsgc3BsaW5lX3N0YXkiLCBkYXRhPWRmKQpjb29rID0gZGYuY291bnR5RklQUyA9PSAxNzAzMQptYW5oID0gZGYuY291bnR5RklQUyA9PSAzNjA2MQpjb29rbWFuaCA9IGRmW2Nvb2sgfCBtYW5oXQoKWCA9IGNvb2ttYW5oW1snZGF5c19zaW5jZV9zdGF5JywgJ3NwbGluZV9zdGF5JywgImNvbmZpcm1lZCJdXQoKWCA9IGNvb2ttYW5oW1siY29uZmlybWVkIiwgInJpc2VfcGVha19kYXlzIiwgInBlYWtfZmFsbF9kYXlzIiwgInBvc3RfZmFsbF9kYXlzIl1dCnkgPSBjb29rbWFuaFsic21vb3RoZWRfcnQiXQpmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKCkKbW9kZWwgPSBzbS5PTFMoeSwgWCkKcmVzID0gbW9kZWwuZml0KCkKcmVzLnN1bW1hcnkoKQpmaWcgPSBzbS5ncmFwaGljcy5wbG90X2ZpdChyZXMsIDAsIGF4PWF4KQpwbHQuc2hvdygpCnJlcy5maXR0ZWR2YWx1ZXMubWF4KCkKCmRmLmNvbHVtbnMKCmRmWyJyb2xsaW5nX21lYW5fZ3IiXS5pc25hKCkuc3VtKCkKZGZbIm1heF9yb2xsaW5nX21lYW5fZ3IiXQpkZi5oZWFkKDYwKQoKZGYgPSBkZi5hc3NpZ24oCiAgICByaXNlX3BlYWs9KAogICAgICAgICAgICBkZlsiZGF0ZSJdLmdlKGRmWyJyaXNlX2RhdGUiXSkKICAgICAgICAgICAgJiBkZlsiZGF0ZSJdLmx0KGRmWyJwZWFrX2RhdGUiXSkKICAgICkuZmlsbG5hKEZhbHNlKQopCgpkZiA9IGRmLmFzc2lnbigKICAgIHBlYWtfZmFsbD0oCiAgICAgICAgICAgIGRmWyJkYXRlIl0uZ2UoZGZbInBlYWtfZGF0ZSJdKQogICAgICAgICAgICAmIGRmWyJkYXRlIl0ubHQoZGZbImZhbGxfZGF0ZSJdKQogICAgKS5maWxsbmEoRmFsc2UpCikKCmRmID0gZGYuYXNzaWduKAogICAgcmlzZV9wZWFrX2RheXM9ZGZbImRheSJdICogZGZbInJpc2VfcGVhayJdCikKZGYgPSBkZi5hc3NpZ24oCiAgICBwZWFrX2ZhbGxfZGF5cz1kZlsiZGF5Il0gKiBkZlsicGVha19mYWxsIl0KKQpkZiA9IGRmLmFzc2lnbigKICAgIHBvc3RfZmFsbF9kYXlzPWRmWyJkYXkiXSAqIGRmWyJwb3N0X2ZhbGwiXQopCnBsdC5zaG93KCkKCiMgaS5lLiA3IGRheSBhdmVyYWdlIGdyb3d0aCBpbiBjYXNlcyBvZiBncmVhdGVyIHRoYW4gMjAlCiMgZGF5c19zaW5jZV8zX3Bvc19ncgojIGRheXNfc2luY2VfM19wb3NfZ3IKIyBDcmVhdGUgY29sdW1uIG9mIGRheXMgc2luY2UgZmFsbCAoZmlyc3Qgcm9sbGluZyBtZWFuIGdyIGxlc3MgdGhhbiAuMikKIyBpLmUuIDcgZGF5IGF2ZXJhZ2UgZ3Jvd3RoIGluIGNhc2VzIG9mIGxlc3MgdGhhbiAyMCUKCiMgU3BsaW5lIGRheXMgc2luY2Ugc3RheSB3aXRoIHRocmVlIGludGVybmFsIGtub3RzIChyaXNlLCBwZWFrLCBmYWxsKQojIENyZWF0ZSBjb2x1bW4gb2YgZGF5cyBzaW5jZSAgZ3I/KQoKIyAxOCB1bmlxdWUgc3RheSBkYXRlcwpkZlsic3RheV9kYXRlIl0ubnVuaXF1ZSgpCgojIExhZyBkYXlzIHNpbmNlIHN0YXkKZGZbImRheXNfc2luY2Vfc3RheV9sYWc3Il0gPSBkZlsiZGF5c19zaW5jZV9zdGF5Il0uc2hpZnQoLTcpCmRmWyJkYXlzX3NpbmNlX3N0YXlfbGFnMTQiXSA9IGRmWyJkYXlzX3NpbmNlX3N0YXkiXS5zaGlmdCgtMTQpCmRmWyJkYXlzX3NpbmNlX3N0YXlfbGFnNyJdCiMgU3BsaW5lIHN0YXkKIyBDcmVhdGUgY29sdW1uIG9mIGRheXMgYmV0d2VlbiBmaXJzdCBjYXNlIGFuZCBwZWFrCgoKIyBDcmVhdGUgY29sdW1uIG9mIGRheXMgYmV0d2VlbiBmaXJzdCBjYXNlIGFuZCBwZWFrCgojICMgQ3JlYXRlIGNvbHVtbiBvZiBtZWFuIGNhc2VzIGZvciBlYWNoIGNvdW50eQojIGRmID0gZGYuYXNzaWduKAojICAgICBtZWFuX2Nhc2VzPWRmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0udHJhbnNmb3JtKCJtZWFuIiksCiMgICAgIG1lYW5fc3RheT1kZi5ncm91cGJ5KCJjb3VudHlGSVBTIilbInN0YXlfYXRfaG9tZSJdLnRyYW5zZm9ybSgibWVhbiIpLAojICAgICBtZWFuX3BlYWs9ZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJwb3N0X3BlYWsiXS50cmFuc2Zvcm0oIm1lYW4iKSwKIyApCiMKIyAjIENyZWF0ZSBjb2x1bW4gb2YgZGVtZWFuZWQgKG1lYW4tY2VudGVyZWQpIGNhc2VzIGZvciBlYWNoIGNvdW50eQojIGRmID0gZGYuYXNzaWduKAojICAgICBkZW1lYW5lZF9jYXNlcz1kZlsiY29uZmlybWVkIl0uc3VidHJhY3QoZGZbIm1lYW5fY2FzZXMiXSksCiMgICAgIGRlbWVhbmVkX3N0YXk9ZGZbInN0YXlfYXRfaG9tZSJdLnN1YnRyYWN0KGRmWyJtZWFuX3N0YXkiXSksCiMgICAgIGRlbWVhbmVkX3BlYWs9ZGZbInBvc3RfcGVhayJdLnN1YnRyYWN0KGRmWyJtZWFuX3BlYWsiXSkKIyApCgojIENyZWF0ZSBjb2x1bW4gb2YgbG9nLXRyYW5zZm9ybWVkIHBvcHVsYXRpb24gZGVuc2l0eQpkZiA9IGRmLmFzc2lnbigKICAgIGxvZ19wb3B1bGF0aW9uX2RlbnNpdHk9bnAubG9nKGRmWyJQb3BEZW5zaXR5MjAxMCJdKQopCgo=</text>
+        <text encoding="base64">IyAlJSBQZWFrIGRhdGVzCiMgQ3JlYXRlIGNvbHVtbiBvZiBwZWFrIGdyb3d0aCByYXRlIGRhdGVzCmRmID0gZGYuam9pbigKICAgIGRmLnNldF9pbmRleCgiZGF0ZSIpCiAgICAuZ3JvdXBieSgiY291bnR5RklQUyIpWyJyb2xsaW5nX21lYW5fZ3IiXQogICAgLmlkeG1heChheGlzPTEpCiAgICAucmVuYW1lKCJwZWFrX2RhdGUiKQopCmRmID0gZGYuam9pbigKICAgIGRmLnNldF9pbmRleCgiZGF5IikKICAgIC5ncm91cGJ5KCJjb3VudHlGSVBTIilbInJvbGxpbmdfbWVhbl9nciJdCiAgICAuaWR4bWF4KGF4aXM9MSkKICAgIC5yZW5hbWUoInBlYWtfZGF5IikKKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBTYXZlIHJ0IGRhdGEgc2V0CmRmLnRvX2NzdihkYXRhX2RpciAvIHJ0X2ZpbGUsIGluZGV4PUZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>erge</last-search>
+      <last-search>fall dat</last-search>
       <last-offset />
-      <last-pattern>erge</last-pattern>
+      <last-pattern>fall dat</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
