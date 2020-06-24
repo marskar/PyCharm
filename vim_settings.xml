@@ -166,12 +166,12 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="99" column="8" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593035677812">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593037930297">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="17" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="61" column="28" />
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593030285271">
         <mark key="'" line="27" column="0" />
@@ -11557,7 +11557,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text>add line breaks and comments to census.py</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -11572,28 +11572,28 @@
         <text encoding="base64">ICAgIGluY29tZS5oZWFkKCkK</text>
       </register>
       <register name="1" type="2">
-        <text>add line breaks and comments to census.py</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVzdWx0cy5zdW1tYXJ5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzdWx0cy5zYXZlKHN0cihtb2RlbF9maWxlKSkK</text>
+        <text encoding="base64">WCA9IFguZHJvcCgibWVhbl9zbW9vdGhlZF9ydCIsIGF4aXM9MSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WCA9IFguZHJvcCgibWVhbl9zbW9vdGhlZF9ydCIsIGF4aXM9MSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>add line breaks and comments to census.py</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGUgYSBwbG90IGp1c3QgZm9yIHRoZSB2YXJpYWJsZSAnUG92ZXJ0eSc6Cg==</text>
+        <text encoding="base64">cmVzdWx0cy5zdW1tYXJ5KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmVfcmVzdWx0LnNhdmUoc3RyKG1vZGVsX2ZpbGUpKQo=</text>
+        <text encoding="base64">cmVzdWx0cy5zYXZlKHN0cihtb2RlbF9maWxlKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12064,10 +12064,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzdWx0LnNhdmUoc3RyKG1vZGVsX2ZpbGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzdWx0LnNhdmUoc3RyKG1vZGVsX2ZpbGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
