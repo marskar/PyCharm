@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sub</entry>
         <entry>plt.</entry>
         <entry>stay</entry>
         <entry>peak</entry>
@@ -27,6 +26,7 @@
         <entry>splin</entry>
         <entry>cook</entry>
         <entry>cond</entry>
+        <entry>ols</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
@@ -45,8 +45,8 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>nohlsearch</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action HippieCompletion</entry>
         <entry>action HippieBackwardCompletion</entry>
+        <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
@@ -192,12 +192,12 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1592998750815">
-        <mark key="'" line="185" column="14" />
-        <mark key="[" line="229" column="38" />
-        <mark key="]" line="229" column="42" />
-        <mark key="^" line="229" column="42" />
-        <mark key="." line="229" column="41" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1593002344701">
+        <mark key="'" line="258" column="0" />
+        <mark key="[" line="185" column="64" />
+        <mark key="]" line="185" column="78" />
+        <mark key="." line="185" column="77" />
+        <mark key="^" line="185" column="78" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1591912264799">
         <mark key="'" line="14" column="51" />
@@ -267,9 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="5" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
-      <jump line="83" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="23" column="28" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="24" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
       <jump line="33" column="26" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" />
@@ -367,6 +364,9 @@
       <jump line="179" column="12" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="147" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="185" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="255" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="98" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
+      <jump line="258" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11577,43 +11577,43 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>rise</text>
+        <text>days_since_fall</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>rise</text>
+        <text>days_since_fall</text>
       </register>
       <register name="/" type="4">
-        <text>cond</text>
+        <text>ols</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICBkYXlzX3NpbmNlX3Jpc2U9ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsicmlzZV9kYXRlIl0pLmR0LmRheXMuZmlsbG5hKDApCikKCg==</text>
+        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICBwZWFrX2ZhbGxfZGF5cz1kZlsiZGF5Il0gKiBkZlsicGVha19mYWxsIl0KKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICBwZWFrX2ZhbGxfZGF5cz1kZlsiZGF5c19zaW5jZV9wZWFrIl0gKiBkZlsicGVha19mYWxsIl0KKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICByaXNlX3BlYWtfZGF5cz1kZlsiZGF5c19zaW5jZV9zdGF5Il0gKiBkZlsicmlzZV9wZWFrIl0KKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICBkYXlzX3NpbmNlX3Jpc2VfdG9fcGVhaz1kZlsicmlzZV9kYXRlIl0ud2hlcmUoKQopCg==</text>
+        <text encoding="base64">ZGF5c190b19yaXNlID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZbImRheXNfc2luY2Vfc3RheSJdCg==</text>
+        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICByaXNlX3BlYWtfZGF5cz1kZlsiZGF5c19zaW5jZV9zdGF5Il0gKiBkZlsicmlzZV9wZWFrIl0KKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHAgPSA9PSBUcnVlCg==</text>
+        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICBkYXlzX3NpbmNlX3Jpc2VfdG9fcGVhaz1kZlsicmlzZV9kYXRlIl0ud2hlcmUoKQopCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12084,10 +12084,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGYgPSBkZi5kcm9wKCJmYWxsX2RhdGUiLCBheGlzPTEpCg==</text>
+        <text encoding="base64">ZGZbImRheXNfc2luY2Vfc3RheSJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3VtKGRmWyJwZWFrX2RhdGUiXSA8IGRmWyJmYWxsX2RhdGUiXSkK</text>
+        <text encoding="base64">cHAgPSA9PSBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
@@ -12096,13 +12096,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cond</last-search>
+      <last-search>ols</last-search>
       <last-offset />
-      <last-pattern>cond</last-pattern>
+      <last-pattern>ols</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
