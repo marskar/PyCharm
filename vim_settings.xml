@@ -45,10 +45,10 @@
         <entry>action EditorKillToWordEnd</entry>
         <entry>action RenameElement</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action HippieBackwardCompletion</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -166,12 +166,12 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="99" column="8" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593038587416">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593044087597">
         <mark key="'" line="49" column="64" />
-        <mark key="[" line="61" column="15" />
-        <mark key="]" line="61" column="15" />
-        <mark key="." line="61" column="15" />
-        <mark key="^" line="63" column="0" />
+        <mark key="[" line="89" column="45" />
+        <mark key="]" line="89" column="58" />
+        <mark key="." line="89" column="57" />
+        <mark key="^" line="89" column="58" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593030285271">
         <mark key="'" line="27" column="0" />
@@ -216,6 +216,12 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Downloads/graphics_regression_abline.py" timestamp="1593043978111">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="14" />
+      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" timestamp="1593031085042">
         <mark key="[" line="92" column="13" />
         <mark key="]" line="92" column="38" />
@@ -237,13 +243,6 @@
       </file>
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/spline.py" timestamp="1592662302440">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="59" column="5" />
-        <mark key="]" line="59" column="5" />
-        <mark key="^" line="44" column="4" />
-        <mark key="." line="59" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -11557,43 +11556,43 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>1</text>
+        <text>.sort_values()</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.sort_values()</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
       </register>
-      <register name="0" type="4">
-        <text>RuralUrbanContinuumCode2013</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXggPSBwbG90X2RmLnBsb3Quc2NhdHRlcih4PSJsb2dfcG9wX2RlbnMiLCB5PSJmaXR0ZWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVzdWx0cy5zdW1tYXJ5KCkKcmVzdWx0cy5zYXZlKHN0cihtb2RlbF9maWxlKSkK</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIoeSwgWDEudmFsdWVzLCBhbHBoYT0uNiwgYz0iYmx1ZSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB5X3ByZWQgPSByZXN1bHRzLnByZWRpY3QoeF9wcmVkMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eF9wcmVkMi5zaGFwZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WCA9IFguZHJvcCgibWVhbl9zbW9vdGhlZF9ydCIsIGF4aXM9MSkK</text>
+        <text encoding="base64">YXguc2V0X3hsaW0oWzEsIDJdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WCA9IFguZHJvcCgibWVhbl9zbW9vdGhlZF9ydCIsIGF4aXM9MSkK</text>
+        <text encoding="base64">eAo=</text>
       </register>
       <register name="6" type="2">
-        <text>add line breaks and comments to census.py</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzdWx0cy5zdW1tYXJ5KCkK</text>
+        <text encoding="base64">cGx0LnBsb3QoWDEudmFsdWVzLCByZXN1bHRzLnByZWRpY3QoWDEudmFsdWVzKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12064,13 +12063,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzdWx0cy5zYXZlKHN0cihtb2RlbF9maWxlKSkK</text>
+        <text encoding="base64">YWJsaW5lX3Bsb3QobW9kZWxfcmVzdWx0cz1tb2RlbC5maXQoKSwgYXg9YXgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXgucGxvdCh4X3ByZWQsIHlfcHJlZCwgJy0nLCBjb2xvcj0nZGFya29yY2hpZCcsIGxpbmV3aWR0aD0yKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
