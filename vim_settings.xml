@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>rise_da</entry>
-        <entry>max_r</entry>
         <entry>post_p</entry>
         <entry>stay_da</entry>
         <entry>stay_day</entry>
@@ -27,6 +25,8 @@
         <entry>plot_f</entry>
         <entry encoding="base64">XDxtZXJnZWRfZmlsZVw+</entry>
         <entry>rise_</entry>
+        <entry>plot_</entry>
+        <entry>ax =</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumbers</entry>
@@ -166,10 +166,10 @@
         <mark key="." line="67" column="52" />
         <mark key="^" line="67" column="53" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593115306273">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="20" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593117177090">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="24" />
         <mark key="." line="85" column="3" />
         <mark key="^" line="85" column="4" />
       </file>
@@ -204,13 +204,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1593115937060">
-        <mark key="'" line="50" column="38" />
-        <mark key="h" line="250" column="31" />
-        <mark key="[" line="50" column="42" />
-        <mark key="]" line="50" column="45" />
-        <mark key="^" line="50" column="45" />
-        <mark key="." line="50" column="44" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1593117771574">
+        <mark key="h" line="263" column="31" />
+        <mark key="[" line="65" column="32" />
+        <mark key="]" line="65" column="33" />
+        <mark key="^" line="53" column="5" />
+        <mark key="." line="65" column="33" />
       </file>
       <file name="$USER_HOME$/Downloads/graphics_regression_abline.py" timestamp="1593043978111">
         <mark key="[" line="15" column="14" />
@@ -241,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.qy" />
-      <jump line="61" column="25" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.qy" />
       <jump line="45" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="22" column="25" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
@@ -280,7 +277,6 @@
       <jump line="27" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="29" column="19" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
-      <jump line="30" column="25" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="31" column="17" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="33" column="32" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="34" column="27" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
@@ -338,9 +334,12 @@
       <jump line="108" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="50" column="38" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
+      <jump line="83" column="18" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
+      <jump line="82" column="5" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11551,43 +11550,43 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>*</text>
+        <text>+</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>rise_</text>
+        <text>ax =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24oCiAgICBsb2dfcG9wX2RlbnM9ZGZbIlBvcERlbnNpdHkyMDEwIl0udHJhbnNmb3JtKCJsb2ciKQopCmRmID0gZGZbZGYuZGF5ID4gMzVdCg==</text>
+        <text encoding="base64">ZmlnLCBheCA9IHBsdC5zdWJwbG90cygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogUG92ZXJ0eUFsbEFnZXNQY3QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kZWwgPSBzbS5NaXhlZExNKHksIFgsIFhbImNvdW50eUZJUFMiXSwgKQo=</text>
+        <text encoding="base64">ICAgICsgbG9nX3BvcF9kZW5zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzID0gbW9kLmZpdCgpCg==</text>
+        <text encoding="base64">ICAgICJsb2dfcG9wX2RlbnMiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WC50b19jc3YoIm1vZGVsX2lucHV0LmNzdiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WCA9IFguZHJvcCgic21vb3RoZWRfcnQiLCBheGlzPTEpCg==</text>
+        <text encoding="base64">bW9kZWwgPSBzbS5NaXhlZExNKHksIFgsIFhbImNvdW50eUZJUFMiXSwgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eSA9IFhbInNtb290aGVkX3J0Il0K</text>
+        <text encoding="base64">cmVzID0gbW9kLmZpdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGYgPSBkZgo=</text>
+        <text encoding="base64">WC50b19jc3YoIm1vZGVsX2lucHV0LmNzdiIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12058,10 +12057,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WCA9IFguZHJvcCgic21vb3RoZWRfcnQiLCBheGlzPTEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">eSA9IFhbInNtb290aGVkX3J0Il0K</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
@@ -12070,9 +12069,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>rise_</last-search>
+      <last-search>ax =</last-search>
       <last-offset />
-      <last-pattern>rise_</last-pattern>
+      <last-pattern>ax =</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
