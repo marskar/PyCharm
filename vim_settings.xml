@@ -46,8 +46,8 @@
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action HippieCompletion</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
@@ -159,12 +159,12 @@
         <mark key="." line="67" column="52" />
         <mark key="^" line="67" column="53" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593098016559">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593105372936">
         <mark key="'" line="68" column="29" />
-        <mark key="[" line="75" column="40" />
-        <mark key="]" line="75" column="41" />
-        <mark key="." line="75" column="41" />
-        <mark key="^" line="76" column="0" />
+        <mark key="[" line="76" column="63" />
+        <mark key="]" line="76" column="66" />
+        <mark key="." line="76" column="65" />
+        <mark key="^" line="76" column="66" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593030285271">
         <mark key="'" line="27" column="0" />
@@ -11549,19 +11549,19 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>data</text>
+        <text>text</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>summ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBhdGgoCiAgICAgICAgZGF0YV9kaXIgLyBmInt0b2RheX1fbW9kZWx7aX1fc3VtbWFyeS5jc3YiCiAgICApLndyaXRlX3RleHQoc20uT0xTKHksIHNtLmFkZF9jb25zdGFudChkYXRhKSkuZml0KCkuc3VtbWFyeSgpLmFzX2NzdigpKQo=</text>
+        <text encoding="base64">WDMgPSBYW1sibG9nX3BvcF9kZW5zIiwgIkFnZTY1QW5kT2xkZXJQY3QyMDEwIiwgIlBvdmVydHlBbGxBZ2VzUGN0Il1dCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
