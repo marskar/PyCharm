@@ -45,9 +45,9 @@
         <entry>action EditorKillToWordEnd</entry>
         <entry>action RenameElement</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action HippieCompletion</entry>
-        <entry>action HippieBackwardCompletion</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action HippieBackwardCompletion</entry>
+        <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
@@ -166,12 +166,12 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="99" column="8" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593044087597">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593045178920">
         <mark key="'" line="49" column="64" />
-        <mark key="[" line="89" column="45" />
-        <mark key="]" line="89" column="58" />
-        <mark key="." line="89" column="57" />
-        <mark key="^" line="89" column="58" />
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="87" column="40" />
+        <mark key="." line="87" column="39" />
+        <mark key="^" line="87" column="40" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593030285271">
         <mark key="'" line="27" column="0" />
@@ -11556,19 +11556,19 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>.sort_values()</text>
+        <text>in</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.sort_values()</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXggPSBwbG90X2RmLnBsb3Quc2NhdHRlcih4PSJsb2dfcG9wX2RlbnMiLCB5PSJmaXR0ZWQiKQo=</text>
+        <text encoding="base64">bWluX3JvdyA9IFg0LnNvcnRfdmFsdWVzKCJsb2dfcG9wX2RlbnMiKS5pbG9jWzBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGx0LnNjYXR0ZXIoeSwgWDEudmFsdWVzLCBhbHBoYT0uNiwgYz0iYmx1ZSIpCg==</text>
