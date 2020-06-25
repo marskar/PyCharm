@@ -41,14 +41,14 @@
         <entry>actionlist</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorKillToWordEnd</entry>
-        <entry>action HippieBackwardCompletion</entry>
         <entry>action RenameElement</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -181,12 +181,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593085125741">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593107421407">
         <mark key="'" line="98" column="31" />
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="85" column="10" />
-        <mark key="." line="85" column="9" />
-        <mark key="^" line="85" column="10" />
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="27" />
       </file>
       <file name="$USER_HOME$/Downloads/graphics_plot_fit_ex.py" timestamp="1593031459335">
         <mark key="[" line="23" column="0" />
@@ -11549,13 +11549,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>text</text>
+        <text>36061</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>36061</text>
       </register>
       <register name="/" type="4">
         <text>summ</text>
@@ -12062,7 +12062,7 @@
         <text encoding="base64">ICAgIG9uPSJjb3VudHlGSVBTIiwK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
