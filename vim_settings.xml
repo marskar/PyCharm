@@ -166,12 +166,12 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="99" column="8" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593048793303">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593049631829">
         <mark key="'" line="6" column="14" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="120" column="20" />
+        <mark key="[" line="128" column="26" />
+        <mark key="]" line="128" column="27" />
+        <mark key="." line="128" column="26" />
+        <mark key="^" line="128" column="27" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593030285271">
         <mark key="'" line="27" column="0" />
@@ -11556,13 +11556,13 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ZG91YmxlLmZpdHRlZC5tYXAoezB9KQo=</text>
+        <text encoding="base64">ZiwgYXggPSBwbHQuc3VicGxvdHMoKQo=</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
@@ -11571,28 +11571,28 @@
         <text>line_kws={'alpha': .5}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG91YmxlLmZpdHRlZC5tYXAoezB9KQo=</text>
+        <text encoding="base64">ZiwgYXggPSBwbHQuc3VicGxvdHMoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c25zLnJlZ3Bsb3QoWDEudmFsdWVzLCByZXN1bHRzLmZpdHRlZHZhbHVlcykK</text>
+        <text encoding="base64">YXguc2V0KHhsaW09KFgxLm1pbigpLCBYMS5tYXgoKSksIHlsaW09KHkubWluKCksIHkubWF4KCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WCA9IGRmW1sKICAgICJtZWFuX3Ntb290aGVkX3J0IiwKICAgICJsb2dfcG9wX2RlbnMiLAogICAgIlJ1cmFsVXJiYW5Db250aW51dW1Db2RlMjAxMyIsCiAgICAiVXJiYW5JbmZsdWVuY2VDb2RlMjAxMyIsCiAgICAiTWV0cm8yMDEzIiwKICAgICJNZXRyb19BZGphY2VudDIwMTMiLApdXS5kcm9wbmEoKS5kcm9wX2R1cGxpY2F0ZXMoKQo=</text>
+        <text encoding="base64">ZG91YmxlLmZpdHRlZC5tYXAoezB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJNZXRyb19BZGphY2VudDIwMTMiLAo=</text>
+        <text encoding="base64">c25zLnJlZ3Bsb3QoWDEudmFsdWVzLCByZXN1bHRzLmZpdHRlZHZhbHVlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJNZXRybzIwMTMiLAo=</text>
+        <text encoding="base64">WCA9IGRmW1sKICAgICJtZWFuX3Ntb290aGVkX3J0IiwKICAgICJsb2dfcG9wX2RlbnMiLAogICAgIlJ1cmFsVXJiYW5Db250aW51dW1Db2RlMjAxMyIsCiAgICAiVXJiYW5JbmZsdWVuY2VDb2RlMjAxMyIsCiAgICAiTWV0cm8yMDEzIiwKICAgICJNZXRyb19BZGphY2VudDIwMTMiLApdXS5kcm9wbmEoKS5kcm9wX2R1cGxpY2F0ZXMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJVcmJhbkluZmx1ZW5jZUNvZGUyMDEzIiwK</text>
+        <text encoding="base64">ICAgICJNZXRyb19BZGphY2VudDIwMTMiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJSdXJhbFVyYmFuQ29udGludXVtQ29kZTIwMTMiLAo=</text>
+        <text encoding="base64">ICAgICJNZXRybzIwMTMiLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12063,10 +12063,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJBZ2U2NUFuZE9sZGVyUGN0MjAxMCIsCg==</text>
+        <text encoding="base64">ICAgICJVcmJhbkluZmx1ZW5jZUNvZGUyMDEzIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJQb3ZlcnR5QWxsQWdlc1BjdCIsCg==</text>
+        <text encoding="base64">ICAgICJSdXJhbFVyYmFuQ29udGludXVtQ29kZTIwMTMiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
