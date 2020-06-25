@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>splin</entry>
-        <entry>cook</entry>
         <entry>cond</entry>
         <entry>ols</entry>
         <entry>rise_da</entry>
@@ -27,6 +25,8 @@
         <entry>group</entry>
         <entry>by_grou</entry>
         <entry>summ</entry>
+        <entry>plot_df</entry>
+        <entry>p1</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumbers</entry>
@@ -45,9 +45,9 @@
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
-        <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
+        <entry>action HippieBackwardCompletion</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
@@ -148,6 +148,13 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1593109538068">
+        <mark key="'" line="68" column="57" />
+        <mark key="[" line="46" column="76" />
+        <mark key="]" line="46" column="90" />
+        <mark key="." line="46" column="89" />
+        <mark key="^" line="46" column="90" />
+      </file>
       <file name="/a.dummy" timestamp="1593029091314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -159,21 +166,15 @@
         <mark key="." line="67" column="52" />
         <mark key="^" line="67" column="53" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593105508607">
-        <mark key="'" line="68" column="29" />
-        <mark key="[" line="76" column="63" />
-        <mark key="]" line="76" column="66" />
-        <mark key="." line="76" column="65" />
-        <mark key="^" line="76" column="66" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593108549078">
+        <mark key="'" line="78" column="7" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="47" />
+        <mark key="^" line="32" column="48" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593030285271">
         <mark key="'" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/date.py" timestamp="1593004408473">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593082727327">
         <mark key="'" line="27" column="0" />
@@ -181,12 +182,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593107421407">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593107984938">
         <mark key="'" line="98" column="31" />
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="26" />
-        <mark key="^" line="24" column="27" />
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/Downloads/graphics_plot_fit_ex.py" timestamp="1593031459335">
         <mark key="[" line="23" column="0" />
@@ -239,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
@@ -339,6 +338,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="167" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="68" column="29" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
+      <jump line="78" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11549,19 +11550,19 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>36061</text>
+        <text encoding="base64">ZGZbZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwXQ==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>36061</text>
+        <text encoding="base64">ZGZbZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwXQ==</text>
       </register>
       <register name="/" type="4">
-        <text>summ</text>
+        <text>p1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">WDMgPSBYW1sibG9nX3BvcF9kZW5zIiwgIkFnZTY1QW5kT2xkZXJQY3QyMDEwIiwgIlBvdmVydHlBbGxBZ2VzUGN0Il1dCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAw</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -12068,9 +12069,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>summ</last-search>
+      <last-search>p1</last-search>
       <last-offset />
-      <last-pattern>summ</last-pattern>
+      <last-pattern>p1</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
