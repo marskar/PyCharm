@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF5X2RheV9hdF9wZWFrXD4=</entry>
         <entry>splin</entry>
         <entry>cook</entry>
         <entry>cond</entry>
@@ -27,6 +26,7 @@
         <entry>fall dat</entry>
         <entry>group</entry>
         <entry>by_grou</entry>
+        <entry>summ</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumbers</entry>
@@ -45,10 +45,10 @@
         <entry>action RenameElement</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>w</entry>
         <entry>action HippieCompletion</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -159,19 +159,12 @@
         <mark key="." line="67" column="52" />
         <mark key="^" line="67" column="53" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" timestamp="1593004374217">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="99" column="8" />
-      </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593093995688">
-        <mark key="'" line="150" column="1" />
-        <mark key="[" line="149" column="7" />
-        <mark key="]" line="149" column="19" />
-        <mark key="." line="149" column="18" />
-        <mark key="^" line="149" column="19" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593097327974">
+        <mark key="'" line="167" column="1" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="16" />
+        <mark key="." line="66" column="15" />
+        <mark key="^" line="66" column="16" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593030285271">
         <mark key="'" line="27" column="0" />
@@ -246,8 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="42" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/merge.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
@@ -346,6 +337,8 @@
       <jump line="98" column="31" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="159" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="150" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
+      <jump line="167" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11556,16 +11549,16 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>PovertyAllAgesPct</text>
+        <text>Percent poverty</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>PovertyAllAgesPct</text>
+        <text>Percent poverty</text>
       </register>
       <register name="/" type="4">
-        <text>by_grou</text>
+        <text>summ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgRGF0ZXMgb2YgZmlyc3QgcG9zdCBwZWFrIHJvbGxpbmcgbWVhbiBnciBsZXNzIHRoYW4gMjAlIG9mIG1heAo=</text>
@@ -12069,15 +12062,15 @@
         <text encoding="base64">ZGYgPSBkZi5hc3NpZ24ocmlzZV9wZWFrX2RheXM9ZGZbImRheSJdICogZGZbInJpc2VfcGVhayJdKQpkZiA9IGRmLmFzc2lnbihwZWFrX2ZhbGxfZGF5cz1kZlsiZGF5Il0gKiBkZlsicGVha19mYWxsIl0pCmRmID0gZGYuYXNzaWduKHBvc3RfZmFsbF9kYXlzPWRmWyJkYXkiXSAqIGRmWyJwb3N0X2ZhbGwiXSkKcGx0LnNob3coKQoK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>by_grou</last-search>
+      <last-search>summ</last-search>
       <last-offset />
-      <last-pattern>by_grou</last-pattern>
+      <last-pattern>summ</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
