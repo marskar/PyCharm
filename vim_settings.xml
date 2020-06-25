@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGxpbmVfc3RheVw+</entry>
         <entry encoding="base64">XDxzdGF5X2RheV9hdF9wZWFrXD4=</entry>
         <entry>splin</entry>
         <entry>cook</entry>
@@ -27,14 +26,13 @@
         <entry>merge</entry>
         <entry>fall dat</entry>
         <entry>group</entry>
+        <entry>by_grou</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumbers</entry>
-        <entry>action GotoDeclaration</entry>
         <entry encoding="base64">YWN0aW9uIEVkaXRvclRvZ2dsZVNob3dMaW5lTnVtYmVycyA=</entry>
         <entry>HippieCompletion</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry encoding="base64">YWN0aW9uIG9yZy5pbnRlbGxpai5wbHVnaW5zLm1hcmtkb3duLnVpLmFjdGlvbnMuZWRpdG9yTGF5b3V0LkVkaXRvckFuZFByZXZpZXdMYXlvdXRDaGFuZ2VBY3Rpb24g</entry>
         <entry>nohlsearch</entry>
         <entry>action CloseProject</entry>
@@ -43,12 +41,14 @@
         <entry>actionlist</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorKillToWordEnd</entry>
+        <entry>action HippieBackwardCompletion</entry>
+        <entry>action HippieCompletion</entry>
         <entry>action RenameElement</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
-        <entry>action HippieCompletion</entry>
-        <entry>action HippieBackwardCompletion</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -166,12 +166,12 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="99" column="8" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593083152654">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" timestamp="1593083256167">
         <mark key="'" line="154" column="14" />
-        <mark key="[" line="148" column="1" />
-        <mark key="]" line="148" column="2" />
-        <mark key="." line="148" column="2" />
-        <mark key="^" line="140" column="5" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="157" column="4" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593030285271">
         <mark key="'" line="27" column="0" />
@@ -188,12 +188,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593082990242">
-        <mark key="'" line="43" column="1" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593085125741">
+        <mark key="'" line="98" column="31" />
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="85" column="10" />
+        <mark key="." line="85" column="9" />
+        <mark key="^" line="85" column="10" />
       </file>
       <file name="$USER_HOME$/Downloads/graphics_plot_fit_ex.py" timestamp="1593031459335">
         <mark key="[" line="23" column="0" />
@@ -205,10 +205,10 @@
         <mark key="]" line="10" column="61" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593035736000">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1593083938412">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/01_hello.py" timestamp="1593004587639">
         <mark key="[" line="2" column="7" />
@@ -234,27 +234,18 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" timestamp="1593082822781">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="86" column="2" />
-        <mark key="]" line="86" column="15" />
-        <mark key="." line="86" column="14" />
-        <mark key="^" line="86" column="15" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" timestamp="1593084498745">
+        <mark key="'" line="78" column="4" />
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="166" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="167" column="45" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="188" column="5" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="223" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="309" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/date.py" />
       <jump line="312" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="103" column="7" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
       <jump line="101" column="42" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/rt.py" />
@@ -304,7 +295,6 @@
       <jump line="66" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
-      <jump line="7" column="23" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="69" column="18" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usda.py" />
       <jump line="20" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
@@ -346,6 +336,16 @@
       <jump line="154" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="42" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="11" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="80" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
+      <jump line="7" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
+      <jump line="41" column="23" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="226" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="98" column="31" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11555,48 +11555,44 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZGYuaGVhZCgpCg==</text>
+      <register name="*" type="4">
+        <text>tes</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.countyFIPS==36061]</text>
+        <text>tes</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>by_grou</text>
       </register>
-      <register name="0" type="4">
-        <text>df.set_index(&quot;date&quot;)
-    .groupby(&quot;countyFIPS&quot;)[&quot;rolling_mean_gr&quot;]
-    .idxmax(axis=1)
-    .rename(&quot;peak_date&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICMgRGF0ZXMgb2YgZmlyc3QgcG9zdCBwZWFrIHJvbGxpbmcgbWVhbiBnciBsZXNzIHRoYW4gMjAlIG9mIG1heAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYuaGVhZCgpCg==</text>
+        <text encoding="base64">ICAgIGRmLmpvaW4oCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">ICAgIG9uPSJjb3VudHlGSVBTIiwK</text>
       </register>
-      <register name="3" type="4">
-        <text>Poverty&quot;)
-plt</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG9uPSJjb3VudHlGSVBTIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWJsaW5lX3Bsb3QobW9kZWxfcmVzdWx0cz1yZXN1bHRzLCBheD1heCkK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgZGF5cyBzaW5jZSB2YXJpYWJsZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIGJpbmFyeSB2YXJpYWJsZTogcG9zdCB2ZXJzdXMgcHJlLWZhbGwKICAgIGRheXNfc2luY2VfZmFsbD1kZlsiZGF0ZSJdLnN1YnRyYWN0KGRmWyJmYWxsX2RhdGUiXSkuZHQuZGF5cy5maWxsbmEoMCksCiAgICAjIENyZWF0ZSBjb2x1bW4gb2YgZGF5cyBzaW5jZSB0aGUgZmFsbCBkYXRlCiAgICBwb3N0X2ZhbGw9ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsiZmFsbF9kYXRlIl0pLmR0LmRheXMuZmlsbG5hKDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzdGF0c21vZGVscy5ncmFwaGljcy5yZWdyZXNzaW9ucGxvdHMgaW1wb3J0IGFibGluZV9wbG90Cg==</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIGJpbmFyeSB2YXJpYWJsZTogcG9zdCB2ZXJzdXMgcHJlLXBlYWsKICAgIHBvc3RfcGVhaz1kZlsiZGF0ZSJdLmdlKGRmWyJwZWFrX2RhdGUiXSkuZmlsbG5hKEZhbHNlKSwKICAgICMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIHBlYWsKICAgIGRheXNfc2luY2VfcGVhaz1kZlsiZGF0ZSJdLnN1YnRyYWN0KGRmWyJwZWFrX2RhdGUiXSkuZHQuZGF5cy5maWxsbmEoMCksCiAgICAjIENyZWF0ZSBiaW5hcnkgdmFyaWFibGU6IHBvc3QgdmVyc3VzIHByZS1zdGF5CiAgICBwb3N0X3N0YXk9ZGZbImRhdGUiXS5nZShkZlsic3RheV9kYXRlIl0pLmZpbGxuYShGYWxzZSksCiAgICAjIENyZWF0ZSBjb2x1bW4gb2YgZGF5cyBzaW5jZSBzaGVsdGVyLWluLXBsYWNlCiAgICBkYXlzX3NpbmNlX3N0YXk9ZGZbImRhdGUiXS5zdWJ0cmFjdChkZlsic3RheV9kYXRlIl0pLmR0LmRheXMuZmlsbG5hKDApLAogICAgIyBDcmVhdGUgYmluYXJ5IHZhcmlhYmxlOiBwb3N0IHZlcnN1cyBwcmUtcmlzZQogICAgcG9zdF9yaXNlPWRmWyJkYXRlIl0uZ2UoZGZbInJpc2VfZGF0ZSJdKS5maWxsbmEoRmFsc2UpLAogICAgIyBDcmVhdGUgY29sdW1uIG9mIGRheXMgc2luY2UgdGhlIHJpc2UgZGF0ZQogICAgZGF5c19zaW5jZV9yaXNlPWRmWyJkYXRlIl0uc3VidHJhY3QoZGZbInJpc2VfZGF0ZSJdKS5kdC5kYXlzLmZpbGxuYSgwKSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12067,21 +12063,21 @@ plt</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHhfZXN0aW1hdG9yPW5wLm1lYW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHhfZXN0aW1hdG9yPW5wLm1lYW4K</text>
+        <text encoding="base64">ZGYgPSBkZi5hc3NpZ24ocmlzZV9wZWFrX2RheXM9ZGZbImRheSJdICogZGZbInJpc2VfcGVhayJdKQpkZiA9IGRmLmFzc2lnbihwZWFrX2ZhbGxfZGF5cz1kZlsiZGF5Il0gKiBkZlsicGVha19mYWxsIl0pCmRmID0gZGYuYXNzaWduKHBvc3RfZmFsbF9kYXlzPWRmWyJkYXkiXSAqIGRmWyJwb3N0X2ZhbGwiXSkKcGx0LnNob3coKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>group</last-search>
+      <last-search>by_grou</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>by_grou</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
