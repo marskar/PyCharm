@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>stay_day</entry>
         <entry>days_since_ri</entry>
         <entry>bin</entry>
         <entry>rt_f</entry>
@@ -27,6 +26,7 @@
         <entry>ax =</entry>
         <entry>dens</entry>
         <entry>log</entry>
+        <entry>days_sin</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumbers</entry>
@@ -42,11 +42,11 @@
         <entry>action EditorKillToWordEnd</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action HippieCompletion</entry>
         <entry>action HippieBackwardCompletion</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
+        <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
@@ -184,19 +184,17 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593185233997">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="25" />
-        <mark key="^" line="25" column="26" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593185577460">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593180063767">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="107" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593186473120">
+        <mark key="'" line="78" column="20" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="114" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/graphics_plot_fit_ex.py" timestamp="1593031459335">
         <mark key="[" line="23" column="0" />
@@ -208,7 +206,7 @@
         <mark key="]" line="10" column="61" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593083938412">
+      <file name="/Dummy.txt" timestamp="1593186518114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -241,17 +239,16 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593114891922">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593186365376">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="36" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" />
       <jump line="107" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" />
       <jump line="86" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" />
@@ -351,6 +348,7 @@
       <jump line="38" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
       <jump line="19" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
       <jump line="23" column="12" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
+      <jump line="78" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11560,25 +11558,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>df</text>
+      <register name="*" type="2">
+        <text>reset and set index after and before joins, working on date vars for me model</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>df</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>days_sin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNlbnMuc2V0X2luZGV4KCJjb3VudHlfZmlwcyIpLAo=</text>
+        <text encoding="base64">IyBDcmVhdGUgY29sdW1uIG9mIGRheXMgc2luY2UgZmFsbCAoZmlyc3Qgcm9sbGluZyBtZWFuIGdyIGxlc3MgdGhhbiAuMikK</text>
       </register>
-      <register name="1" type="4">
-        <text>.set_index(&quot;State&quot;).join(
-    stay.set_index(&quot;state&quot;)  
-)</text>
+      <register name="1" type="2">
+        <text>reset and set index after and before joins, working on date vars for me model</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -11587,22 +11583,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2Vucy5oZWFkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvcCA9IAo=</text>
+        <text encoding="base64">ZGZbImRheXNfc2luY2Vfc3RheV9sYWc3Il0K</text>
       </register>
-      <register name="5" type="4">
-        <text>get_pop(
-        usecols=[
-            &quot;STATE&quot;,
-            &quot;COUNTY&quot;,
-            &quot;STNAME&quot;,
-            &quot;CTYNAME&quot;,
-            &quot;POPESTIMATE2019&quot;
-        ],
-        encoding=&quot;latin-1&quot;
-    )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGZbImRheXNfc2luY2Vfc3RheV9sYWc3Il0gPSBkZlsiZGF5c19zaW5jZV9zdGF5Il0uc2hpZnQoLTcpCmRmWyJkYXlzX3NpbmNlX3N0YXlfbGFnMTQiXSA9IGRmWyJkYXlzX3NpbmNlX3N0YXkiXS5zaGlmdCgtMTQpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -14059,10 +14046,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIGZhbGwgKGZpcnN0IHJvbGxpbmcgbWVhbiBnciBsZXNzIHRoYW4gLjIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYWdlLmpvaW4oWwogICAgIyAgICAgcG9wLAogICAgIyAgICAgcG92CiAgICAjIF0pLnRvX2NzdihjZW5zX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIHRoZSBmYWxsIGRhdGUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14533,10 +14520,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIHRoZSBmYWxsIGRhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYWdlID0gZ2V0X2FnZSgKICAgICMgICAgIHVzZWNvbHM9WwogICAgIyAgICAgICAgICJTVEFURSIsCiAgICAjICAgICAgICAgIkNPVU5UWSIsCiAgICAjICAgICAgICAgIlNUTkFNRSIsCiAgICAjICAgICAgICAgIkNUWU5BTUUiLAogICAgIyAgICAgICAgICJZRUFSIiwKICAgICMgICAgICAgICAiQUdFR1JQIiwKICAgICMgICAgICAgICAiVE9UX1BPUCIKICAgICMgICAgIF0sCiAgICAjICAgICBlbmNvZGluZz0ibGF0aW4tMSIKICAgICMgKQogICAgIyBhZ2UgPSBjb21iaW5lX2ZpcHMoCiAgICAjICAgICBhZ2UsCiAgICAjICAgICAiU1RBVEUiLAogICAgIyAgICAgIkNPVU5UWSIKICAgICMgKVthZ2VbIllFQVIiXSA9PSAxMV0ucGl2b3QoCiAgICAjICAgICBpbmRleD0iY291bnR5X2ZpcHMiLAogICAgIyAgICAgY29sdW1ucz0iQUdFR1JQIiwKICAgICMgICAgIHZhbHVlcz0iVE9UX1BPUCIKICAgICMgKS5hZGRfcHJlZml4KCJhZ2VfZ3JvdXAiKQogICAgIyBwb3YgPSBnZXRfcG92KAogICAgIyAgICAgdXNlY29scz1bCiAgICAjICAgICAgICAgIlN0YXRlIEZJUFMgQ29kZSIsCiAgICAjICAgICAgICAgIkNvdW50eSBGSVBTIENvZGUiLAogICAgIyAgICAgICAgICJOYW1lIiwKICAgICMgICAgICAgICAiUG92ZXJ0eSBQZXJjZW50LCBBbGwgQWdlcyIsCiAgICAjICAgICAgICAgIk1lZGlhbiBIb3VzZWhvbGQgSW5jb21lIgogICAgIyAgICAgXSwKICAgICMgICAgIHNraXByb3dzPXJhbmdlKDMpCiAgICAjICkKICAgICMgcG92ID0gY29tYmluZV9maXBzKAogICAgIyAgICAgcG92LAogICAgIyAgICAgIlN0YXRlIEZJUFMgQ29kZSIsCiAgICAjICAgICAiQ291bnR5IEZJUFMgQ29kZSIsCiAgICAjICkuc2V0X2luZGV4KCJjb3VudHlfZmlwcyIpCg==</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIGJpbmFyeSB2YXJpYWJsZTogcG9zdCB2ZXJzdXMgcHJlLWZhbGwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
@@ -14545,13 +14532,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>log</last-search>
+      <last-search>days_sin</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>days_sin</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
