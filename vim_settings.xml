@@ -45,10 +45,10 @@
         <entry>action HippieBackwardCompletion</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry>action HippieCompletion</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -206,10 +206,10 @@
         <mark key="]" line="10" column="61" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593186518114">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1593190580273">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1593177413293">
         <mark key="'" line="74" column="11" />
@@ -239,12 +239,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593190288362">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593195053970">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="28" column="4" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="27" column="4" />
       </file>
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
@@ -11560,38 +11560,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>eak_days</text>
+      <register name="*" type="2">
+        <text encoding="base64">c3VtKAo=</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>eak_days</text>
+        <text encoding="base64">IDwgMCk=</text>
       </register>
       <register name="/" type="4">
         <text>stay_a</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlbWVhbmVkX3N0YXk9ZGZbInBvc3Rfc3RheSJdLnN1YnRyYWN0KGRmWyJtZWFuX3N0YXlfZGF5cyJdKSwKICAgIGRlbWVhbmVkX3BlYWs9ZGZbInBvc3RfcGVhayJdLnN1YnRyYWN0KGRmWyJtZWFuX3BlYWtfZGF5cyJdKSwK</text>
+      <register name="0" type="4">
+        <text>.groupby(&quot;countyFIPS&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkKcwpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5wbG90KCkKcGx0LnNob3coKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5taW4oKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWRbOjYwXQpzdW0oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQooc3VtKGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKDEpIDwgMCkKLyBsZW4oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQopCmJsaXN0ID0gbGlzdChkZi5zZXRfaW5kZXgoImRheSIpLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgxKSA8IDApCmRmLmNvbHVtbnMKZGYubG9jW2JsaXN0LCJDb3VudHkgTmFtZSJdLmRyb3BfZHVwbGljYXRlcygpCg==</text>
+        <text encoding="base64">c3VtKAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkKcwpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5wbG90KCkKcGx0LnNob3coKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5taW4oKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWRbOjYwXQpzdW0oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQooc3VtKGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKDEpIDwgMCkKLyBsZW4oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQopCmJsaXN0ID0gbGlzdChkZi5zZXRfaW5kZXgoImRheSIpLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgxKSA8IDApCmRmLmNvbHVtbnMKZGYubG9jW2JsaXN0LCJDb3VudHkgTmFtZSJdLmRyb3BfZHVwbGljYXRlcygpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkKcwpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5wbG90KCkKcGx0LnNob3coKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5taW4oKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWRbOjYwXQpzdW0oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQooc3VtKGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKDEpIDwgMCkKLyBsZW4oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQopCmJsaXN0ID0gbGlzdChkZi5zZXRfaW5kZXgoImRheSIpLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgxKSA8IDApCmRmLmNvbHVtbnMKZGYubG9jW2JsaXN0LCJDb3VudHkgTmFtZSJdLmRyb3BfZHVwbGljYXRlcygpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cnRfZmlsZSA9IGRhdGFfZGlyIC8gZiJ7dG9kYXl9X2NlbnN1c191c2EtZmFjdHNfdXNkYV9ydC5jc3YiCg==</text>
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -14048,10 +14048,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkKcwpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5wbG90KCkKcGx0LnNob3coKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5taW4oKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWRbOjYwXQpzdW0oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQooc3VtKGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKDEpIDwgMCkKLyBsZW4oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQopCmJsaXN0ID0gbGlzdChkZi5zZXRfaW5kZXgoImRheSIpLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgxKSA8IDApCmRmLmNvbHVtbnMKZGYubG9jW2JsaXN0LCJDb3VudHkgTmFtZSJdLmRyb3BfZHVwbGljYXRlcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14522,13 +14522,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">cnRfZmlsZSA9IGRhdGFfZGlyIC8gZiJ7dG9kYXl9X2NlbnN1c191c2EtZmFjdHNfdXNkYV9ydC5jc3YiCg==</text>
       </register>
       <register name="9" type="2">
-        <text>reset and set index after and before joins, working on date vars for me model</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
