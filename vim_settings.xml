@@ -189,12 +189,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593186473120">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593188048779">
         <mark key="'" line="78" column="20" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="114" column="5" />
+        <mark key="[" line="109" column="22" />
+        <mark key="]" line="109" column="31" />
+        <mark key="." line="109" column="30" />
+        <mark key="^" line="109" column="31" />
       </file>
       <file name="$USER_HOME$/Downloads/graphics_plot_fit_ex.py" timestamp="1593031459335">
         <mark key="[" line="23" column="0" />
@@ -239,7 +239,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593186872605">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593188031448">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -11560,14 +11560,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkKcwpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5wbG90KCkKcGx0LnNob3coKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5taW4oKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWRbOjYwXQpzdW0oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQooc3VtKGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKDEpIDwgMCkKLyBsZW4oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQopCmJsaXN0ID0gbGlzdChkZi5zZXRfaW5kZXgoImRheSIpLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgxKSA8IDApCmRmLmNvbHVtbnMKZGYubG9jW2JsaXN0LCJDb3VudHkgTmFtZSJdLmRyb3BfZHVwbGljYXRlcygpCg==</text>
+      <register name="*" type="4">
+        <text>w_at_home</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>w_at_home</text>
       </register>
       <register name="/" type="4">
         <text>days_sin</text>
