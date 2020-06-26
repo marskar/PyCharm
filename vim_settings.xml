@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>days_since_ri</entry>
         <entry>bin</entry>
         <entry>rt_f</entry>
         <entry encoding="base64">XDxmaW5hbF9maWxlXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>dens</entry>
         <entry>log</entry>
         <entry>days_sin</entry>
+        <entry>stay_a</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumbers</entry>
@@ -45,8 +45,8 @@
         <entry>action HippieBackwardCompletion</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
-        <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action HippieCompletion</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
@@ -189,12 +189,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593188048779">
-        <mark key="'" line="78" column="20" />
-        <mark key="[" line="109" column="22" />
-        <mark key="]" line="109" column="31" />
-        <mark key="." line="109" column="30" />
-        <mark key="^" line="109" column="31" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" timestamp="1593190482142">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="114" column="58" />
+        <mark key="]" line="114" column="66" />
+        <mark key="." line="114" column="65" />
+        <mark key="^" line="114" column="66" />
       </file>
       <file name="$USER_HOME$/Downloads/graphics_plot_fit_ex.py" timestamp="1593031459335">
         <mark key="[" line="23" column="0" />
@@ -239,7 +239,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593188031448">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593190288362">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -251,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" />
       <jump line="36" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="81" column="42" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="85" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
@@ -351,6 +350,7 @@
       <jump line="78" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11561,19 +11561,19 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>w_at_home</text>
+        <text>eak_days</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>w_at_home</text>
+        <text>eak_days</text>
       </register>
       <register name="/" type="4">
-        <text>days_sin</text>
+        <text>stay_a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBDcmVhdGUgY29sdW1uIG9mIGRheXMgc2luY2UgZmFsbCAoZmlyc3Qgcm9sbGluZyBtZWFuIGdyIGxlc3MgdGhhbiAuMikK</text>
+        <text encoding="base64">ICAgIGRlbWVhbmVkX3N0YXk9ZGZbInBvc3Rfc3RheSJdLnN1YnRyYWN0KGRmWyJtZWFuX3N0YXlfZGF5cyJdKSwKICAgIGRlbWVhbmVkX3BlYWs9ZGZbInBvc3RfcGVhayJdLnN1YnRyYWN0KGRmWyJtZWFuX3BlYWtfZGF5cyJdKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkKcwpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5wbG90KCkKcGx0LnNob3coKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5taW4oKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWRbOjYwXQpzdW0oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQooc3VtKGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKDEpIDwgMCkKLyBsZW4oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQopCmJsaXN0ID0gbGlzdChkZi5zZXRfaW5kZXgoImRheSIpLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgxKSA8IDApCmRmLmNvbHVtbnMKZGYubG9jW2JsaXN0LCJDb3VudHkgTmFtZSJdLmRyb3BfZHVwbGljYXRlcygpCg==</text>
@@ -14534,9 +14534,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>days_sin</last-search>
+      <last-search>stay_a</last-search>
       <last-offset />
-      <last-pattern>days_sin</last-pattern>
+      <last-pattern>stay_a</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
