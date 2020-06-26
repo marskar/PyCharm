@@ -47,8 +47,8 @@
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
-        <entry>action ExecuteInPyConsoleAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
+        <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -204,13 +204,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1593122766077">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/fit/me.py" timestamp="1593123018082">
         <mark key="'" line="74" column="11" />
         <mark key="h" line="280" column="31" />
-        <mark key="[" line="79" column="21" />
-        <mark key="]" line="79" column="23" />
-        <mark key="." line="79" column="22" />
-        <mark key="^" line="79" column="23" />
+        <mark key="[" line="75" column="22" />
+        <mark key="]" line="75" column="22" />
+        <mark key="." line="75" column="22" />
+        <mark key="^" line="75" column="40" />
       </file>
       <file name="$USER_HOME$/Downloads/graphics_regression_abline.py" timestamp="1593043978111">
         <mark key="[" line="15" column="14" />
@@ -11550,8 +11550,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -12064,7 +12064,7 @@
         <text encoding="base64">ICAgICsgbG9nX3BvcF9kZW5zCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
+        <text>action ExecuteInPyConsoleAction</text>
       </register>
     </registers>
   </component>
