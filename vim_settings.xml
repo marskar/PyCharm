@@ -178,11 +178,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="85" column="4" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593203276053">
-        <mark key="[" line="53" column="46" />
-        <mark key="]" line="53" column="46" />
-        <mark key="." line="53" column="46" />
-        <mark key="^" line="35" column="49" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593204111488">
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="48" column="24" />
+        <mark key="^" line="48" column="24" />
+        <mark key="." line="48" column="23" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593197847974">
         <mark key="[" line="37" column="0" />
@@ -11560,38 +11560,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">ImRheSIsIA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">Y2FzZS5jb2x1bW5zCiAgICA0OTA0NjQvMTU2CiAgICBjYXNlLmRhdGUpCg==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ImRheSIsIA==</text>
+        <text>case = case</text>
       </register>
       <register name="/" type="4">
         <text>stay_a</text>
       </register>
-      <register name="0" type="4">
-        <text>case.sort_values([&quot;countyFIPS&quot;, &quot;confirmed&quot;])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNhc2UubG9jW2Nhc2UuY291bnR5RklQUz09MzYwNjEsIFsiZGF0ZSIsICJjb3JyZWN0ZWRfZGF0ZSIsICJjb25maXJtZWQiXV1bNDg6NTVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZS5jb2x1bW5zCiAgICA0OTA0NjQvMTU2CiAgICBjYXNlLmRhdGUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FzZVsiZGF0ZSJdLm1heCgpCg==</text>
+        <text encoding="base64">ICAgIGNvcnJlY3RlZF9kYXlzID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGVzID0gY2FzZVsiZGF0ZSJdCg==</text>
+        <text encoding="base64">ICAgIGNvcnJlY3RlZF9kYXRlcyA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UuY29sdW1ucwo=</text>
+        <text encoding="base64">ICAgICAgICBkYXk9KGNhc2VbJ2RhdGUnXSAtIGNhc2VbJ2RhdGUnXS5taW4oKSkuZHQuZGF5cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGNhc2VbJ2RhdGUnXSAtIGNhc2VbJ2RhdGUnXS5taW4oKSkuZHQuZGF5cwo=</text>
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBhIGRheSB2YXJpYWJsZSBmcm9tIHRoZSBkYXRlIHZhcmlhYmxlCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -14048,10 +14048,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkZi5hc3NpZ24oCiAgICAgICAgIyBDYWxjdWxhdGUgbmV3IGNhc2VzIGZyb20gY29uZmlybWVkIGNhc2VzCiAgICAgICAgbmV3PWRmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0uZGlmZigpLmZpbGxuYSgwKSwKICAgICAgICAjIENyZWF0ZSBhIGRheSB2YXJpYWJsZSBmcm9tIHRoZSBkYXRlIHZhcmlhYmxlCiAgICAgICAgZGF5PShkZlsnZGF0ZSddIC0gZGZbJ2RhdGUnXS5taW4oKSkuZHQuZGF5cwogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXc9Y2FzZS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLmRpZmYoKS5maWxsbmEoMCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhc2UubG9jW2Nhc2UuY291bnR5RklQUz09MzYwNjEsIFsiZGF0ZSIsICJkYXkiLCAiY29uZmlybWVkIl1dWzQ4OjU1XQo=</text>
+        <text encoding="base64">ICAgICAgICAjIENhbGN1bGF0ZSBuZXcgY2FzZXMgZnJvbSBjb25maXJtZWQgY2FzZXMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -18155,13 +18155,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGVzID0gZGZbImRhdGUiXS5jb3B5KCkKICAgIGRmID0gZGYuc29ydF92YWx1ZXMoCiAgICAgICAgIyBTb3J0IGNhc2VzIChkYXRlcyB3aWxsIGJlIG91dCBvZiBvcmRlcikKICAgICAgICBbImNvdW50eUZJUFMiLCAiY29uZmlybWVkIl0KICAgICkuYXNzaWduKAogICAgICAgICMgUmVwbGFjZSB0aGUgb3V0IG9mIG9yZGVyIGRhdGVzIHdpdGggdGhlIG9yaWdpbmFsIGRhdGVzCiAgICAgICAgZGF0ZT1kYXRlcwogICAgKQo=</text>
+        <text encoding="base64">ICAgIGNvcnJlY3RlZF9kYXRlcyA9IAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.sort_values(
-        # Sort cases
-        [&quot;countyFIPS&quot;, &quot;confirmed&quot;]
-    )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpPXJhbmdlc2tjYXNlLmdyb3VwYnkoImNvdW50eUZJUFMiKS5jb25maXJtZWQuY291bnQoKS5tYXgoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
