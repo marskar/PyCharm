@@ -45,9 +45,9 @@
         <entry>action HippieBackwardCompletion</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
-        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>action HippieCompletion</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
@@ -152,11 +152,11 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1593109856611">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1593186841975">
         <mark key="'" line="69" column="57" />
-        <mark key="[" line="47" column="45" />
-        <mark key="]" line="47" column="45" />
-        <mark key="." line="47" column="45" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
         <mark key="^" line="47" column="45" />
       </file>
       <file name="/a.dummy" timestamp="1593029091314">
@@ -239,18 +239,18 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593186365376">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" timestamp="1593186872605">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="28" column="4" />
       </file>
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" />
-      <jump line="107" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" />
       <jump line="86" column="11" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" />
       <jump line="36" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="81" column="42" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
@@ -349,6 +349,8 @@
       <jump line="19" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
       <jump line="23" column="12" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
       <jump line="78" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/04_spline.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11559,7 +11561,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text>reset and set index after and before joins, working on date vars for me model</text>
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkKcwpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5wbG90KCkKcGx0LnNob3coKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5taW4oKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWRbOjYwXQpzdW0oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQooc3VtKGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKDEpIDwgMCkKLyBsZW4oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQopCmJsaXN0ID0gbGlzdChkZi5zZXRfaW5kZXgoImRheSIpLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgxKSA8IDApCmRmLmNvbHVtbnMKZGYubG9jW2JsaXN0LCJDb3VudHkgTmFtZSJdLmRyb3BfZHVwbGljYXRlcygpCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -11574,22 +11576,22 @@
         <text encoding="base64">IyBDcmVhdGUgY29sdW1uIG9mIGRheXMgc2luY2UgZmFsbCAoZmlyc3Qgcm9sbGluZyBtZWFuIGdyIGxlc3MgdGhhbiAuMikK</text>
       </register>
       <register name="1" type="2">
-        <text>reset and set index after and before joins, working on date vars for me model</text>
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkKcwpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5wbG90KCkKcGx0LnNob3coKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5taW4oKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWRbOjYwXQpzdW0oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQooc3VtKGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKDEpIDwgMCkKLyBsZW4oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQopCmJsaXN0ID0gbGlzdChkZi5zZXRfaW5kZXgoImRheSIpLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgxKSA8IDApCmRmLmNvbHVtbnMKZGYubG9jW2JsaXN0LCJDb3VudHkgTmFtZSJdLmRyb3BfZHVwbGljYXRlcygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhsaXN0KHJhbmdlKDUpKSkKcwpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5wbG90KCkKcGx0LnNob3coKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWQucGN0X2NoYW5nZSgxKS5taW4oKQpkZltkZi5jb3VudHlGSVBTPT0zNjA2MV0uc2V0X2luZGV4KCJkYXkiKS5jb25maXJtZWRbOjYwXQpzdW0oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQooc3VtKGRmLnNldF9pbmRleCgiZGF5IikuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKDEpIDwgMCkKLyBsZW4oZGYuc2V0X2luZGV4KCJkYXkiKS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoMSkgPCAwKQopCmJsaXN0ID0gbGlzdChkZi5zZXRfaW5kZXgoImRheSIpLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgxKSA8IDApCmRmLmNvbHVtbnMKZGYubG9jW2JsaXN0LCJDb3VudHkgTmFtZSJdLmRyb3BfZHVwbGljYXRlcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGZbImRheXNfc2luY2Vfc3RheV9sYWc3Il0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZbImRheXNfc2luY2Vfc3RheV9sYWc3Il0gPSBkZlsiZGF5c19zaW5jZV9zdGF5Il0uc2hpZnQoLTcpCmRmWyJkYXlzX3NpbmNlX3N0YXlfbGFnMTQiXSA9IGRmWyJkYXlzX3NpbmNlX3N0YXkiXS5zaGlmdCgtMTQpCg==</text>
+        <text encoding="base64">cnRfZmlsZSA9IGRhdGFfZGlyIC8gZiJ7dG9kYXl9X2NlbnN1c191c2EtZmFjdHNfdXNkYV9ydC5jc3YiCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -14046,10 +14048,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIGZhbGwgKGZpcnN0IHJvbGxpbmcgbWVhbiBnciBsZXNzIHRoYW4gLjIpCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIHRoZSBmYWxsIGRhdGUK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14520,10 +14522,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgQ3JlYXRlIGNvbHVtbiBvZiBkYXlzIHNpbmNlIHRoZSBmYWxsIGRhdGUK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgQ3JlYXRlIGJpbmFyeSB2YXJpYWJsZTogcG9zdCB2ZXJzdXMgcHJlLWZhbGwK</text>
+        <text>reset and set index after and before joins, working on date vars for me model</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
