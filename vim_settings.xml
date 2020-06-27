@@ -45,8 +45,8 @@
         <entry>w</entry>
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>actionlist</entry>
-        <entry>action HippieCompletion</entry>
         <entry>action HippieBackwardCompletion</entry>
+        <entry>action HippieCompletion</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
@@ -221,12 +221,10 @@
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593271855756">
-        <mark key="'" line="57" column="42" />
-        <mark key="[" line="51" column="63" />
-        <mark key="]" line="52" column="16" />
-        <mark key="." line="52" column="15" />
-        <mark key="^" line="52" column="16" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593272466951">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="59" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593210903953">
         <mark key="'" line="9" column="8" />
@@ -11560,13 +11558,13 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c29ydF9kZlsiY29uZmlybWVkIl0gPSBzb3J0X2RmWyJjb25maXJtZWQiXS5mZmlsbCgpCg==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ne</text>
       </register>
       <register name="/" type="4">
         <text>sum</text>
@@ -11575,19 +11573,19 @@
         <text>[&quot;countyFIPS&quot;, &quot;day&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c29ydF9kZlsiY29uZmlybWVkIl0gPSBzb3J0X2RmWyJjb25maXJtZWQiXS5mZmlsbCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hpbGUgc29ydF9kZi5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoKS5ndCgwKS5hbnkoKToKICAgIHNvcnRfZGYubG9jW3NvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCksICJjb25maXJtZWQiXSA9IHNvcnRfZGZbCiAgICAgICAgc29ydF9kZi5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoKS5ndCgwKS5zaGlmdCgtMSkuZmlsbG5hKEZhbHNlKV0KICAgIHByaW50KHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuc3VtKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzb3J0X2RmWyJjb25maXJtZWQiXSA9IHNvcnRfZGZbImNvbmZpcm1lZCJdLmZmaWxsKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuc3VtKCkpCg==</text>
+        <text encoding="base64">c29ydF9kZlsiY29uZmlybWVkIl0gPSBzb3J0X2RmWyJjb25maXJtZWQiXS5mZmlsbCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0X2RmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgpLmd0KDApLnNoaWZ0KC0xKS5maWxsbmEoRmFsc2UpXQo=</text>
+        <text encoding="base64">ICAgICMgY2FzZSA9IGNhc2Uuc29ydF92YWx1ZXMoCiAgICAjICAgICAjIFNvcnQgY2FzZXMgd2l0aGluIGVhY2ggY291bnR5IChkYXRlcyB3aWxsIGJlIG91dCBvZiBvcmRlcikKICAgICMgICAgIFsiY291bnR5RklQUyIsICJjb25maXJtZWQiXQogICAgIyApLmFzc2lnbigKICAgICMgICAgICMgQWRkIHNvcnRlZCBkYXRlcyBhbmQgZGF5cwogICAgIyAgICAgY29ycmVjdGVkX2RhdGU9Y2FzZS5zb3J0X3ZhbHVlcyhbImNvdW50eUZJUFMiLCAiZGF0ZSJdKVsiZGF0ZSJdLnZhbHVlcywKICAgICMgICAgIGNvcnJlY3RlZF9kYXk9Y2FzZS5zb3J0X3ZhbHVlcyhbImNvdW50eUZJUFMiLCAiZGF5Il0pWyJkYXkiXS52YWx1ZXMKICAgICMgKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -14047,10 +14045,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIGNhc2UuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkubHQoMCkuYW55KCk6CiAgICAgICAgY2FzZS5sb2NbCiAgICAgICAgICAgIGNhc2UKICAgICAgICAgICAgLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0KICAgICAgICAgICAgLnBjdF9jaGFuZ2UoKQogICAgICAgICAgICAubHQoMCkKICAgICAgICAgICAgLnNoaWZ0KC0xKQogICAgICAgICAgICAuZmlsbG5hKEZhbHNlKSwKICAgICAgICAgICAgWyJjb25maXJtZWQiXQogICAgICAgIF0gPSBjYXNlLmxvY1sKICAgICAgICAgICAgY2FzZQogICAgICAgICAgICAgICAgLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0KICAgICAgICAgICAgICAgIC5wY3RfY2hhbmdlKCkKICAgICAgICAgICAgICAgIC5sdCgwKQogICAgICAgICAgICAgICAgLmZpbGxuYShGYWxzZSksCiAgICAgICAgICAgIFsiY29uZmlybWVkIl0KICAgICAgICBdCiAgICAgICAgcHJpbnQoY2FzZS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoKS5sdCgwKS5zdW0oKSkKICAgIGNhc2UubG9jWwogICAgICAgIGNhc2UKICAgICAgICAgICAgLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSg1KQogICAgICAgICAgICAubHQoMCkuc2hpZnQoLTEpLmZpbGxuYShGYWxzZSksCiAgICAgICAgWyJjb25maXJtZWQiXQogICAgXSA9IG5wLm5hbgogICAgY2FzZVsiY29uZmlybWVkIl0gPSBjYXNlLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0uYXBwbHkobGFtYmRhIGdyb3VwOiBncm91cC5pbnRlcnBvbGF0ZSgpKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -18154,10 +18152,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvcnRfZGZbImNvbmZpcm1lZCJdID0gc29ydF9kZi5jb25maXJtZWQuZmZpbGwoKQo=</text>
+        <text encoding="base64">ICAgIGNhc2UuY29uZmlybWVkLmlzbmEoKS5zdW0oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNvcnRfZGZbc29ydF9kZi5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLnBjdF9jaGFuZ2UoKS5ndCgwKV0gPSBucC5uYW4K</text>
+        <text encoding="base64">ICAgIHNvcnRfZGYgPSBzb3J0X2RmLmNvbmZpcm1lZC5mZmlsbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
