@@ -39,7 +39,6 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorKillToWordEnd</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
@@ -47,6 +46,7 @@
         <entry>actionlist</entry>
         <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
+        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
       </history-cmd>
@@ -221,10 +221,10 @@
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593272466951">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="59" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593273840232">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593210903953">
         <mark key="'" line="9" column="8" />
@@ -11558,37 +11558,37 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">c29ydF9kZlsiY29uZmlybWVkIl0gPSBzb3J0X2RmWyJjb25maXJtZWQiXS5mZmlsbCgpCg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuYW55KCk6CiAgICAgICAgc29ydF9kZi5sb2NbCiAgICAgICAgICAgIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCksCiAgICAgICAgICAgICJjb25maXJtZWQiXSA9IHNvcnRfZGYubG9jWwogICAgICAgICAgICBzb3J0X2RmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgpLmd0KDApLnNoaWZ0KC0xKS5maWxsbmEoRmFsc2UpLAogICAgICAgICAgICAiY29uZmlybWVkIl0K</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ne</text>
+        <text encoding="base64">bnAubmFuOyA=</text>
       </register>
       <register name="/" type="4">
         <text>sum</text>
       </register>
       <register name="0" type="4">
-        <text>[&quot;countyFIPS&quot;, &quot;day&quot;]</text>
+        <text>&quot;confirmed&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c29ydF9kZlsiY29uZmlybWVkIl0gPSBzb3J0X2RmWyJjb25maXJtZWQiXS5mZmlsbCgpCg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuYW55KCk6CiAgICAgICAgc29ydF9kZi5sb2NbCiAgICAgICAgICAgIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCksCiAgICAgICAgICAgICJjb25maXJtZWQiXSA9IHNvcnRfZGYubG9jWwogICAgICAgICAgICBzb3J0X2RmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgpLmd0KDApLnNoaWZ0KC0xKS5maWxsbmEoRmFsc2UpLAogICAgICAgICAgICAiY29uZmlybWVkIl0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0X2RmWyJjb25maXJtZWQiXSA9IHNvcnRfZGZbImNvbmZpcm1lZCJdLmZmaWxsKCkK</text>
+        <text encoding="base64">ICAgICMgUmV2ZXJzZSBvcmRlciAoaGlnaGVzdCB0byBsb3dlc3QgZGF5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c29ydF9kZlsiY29uZmlybWVkIl0gPSBzb3J0X2RmWyJjb25maXJtZWQiXS5mZmlsbCgpCg==</text>
+        <text encoding="base64">ICAgIHNvcnRfZGYgPSBjYXNlLnNvcnRfdmFsdWVzKFsiY291bnR5RklQUyIsICJkYXkiXSwgYXNjZW5kaW5nPUZhbHNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgY2FzZSA9IGNhc2Uuc29ydF92YWx1ZXMoCiAgICAjICAgICAjIFNvcnQgY2FzZXMgd2l0aGluIGVhY2ggY291bnR5IChkYXRlcyB3aWxsIGJlIG91dCBvZiBvcmRlcikKICAgICMgICAgIFsiY291bnR5RklQUyIsICJjb25maXJtZWQiXQogICAgIyApLmFzc2lnbigKICAgICMgICAgICMgQWRkIHNvcnRlZCBkYXRlcyBhbmQgZGF5cwogICAgIyAgICAgY29ycmVjdGVkX2RhdGU9Y2FzZS5zb3J0X3ZhbHVlcyhbImNvdW50eUZJUFMiLCAiZGF0ZSJdKVsiZGF0ZSJdLnZhbHVlcywKICAgICMgICAgIGNvcnJlY3RlZF9kYXk9Y2FzZS5zb3J0X3ZhbHVlcyhbImNvdW50eUZJUFMiLCAiZGF5Il0pWyJkYXkiXS52YWx1ZXMKICAgICMgKQo=</text>
+        <text encoding="base64">ICAgIHNvcnRfZGZbImNvbmZpcm1lZCJdID0gc29ydF9kZlsiY29uZmlybWVkIl0uZmZpbGwoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb3J0X2RmWyJjb25maXJtZWQiXSA9IHNvcnRfZGZbImNvbmZpcm1lZCJdLmZmaWxsKCkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -14045,10 +14045,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgIGNhc2UuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkubHQoMCkuc3VtKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
+        <text encoding="base64">ICAgIGNhc2UuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkubHQoMCkuc3VtKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -18152,10 +18152,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UuY29uZmlybWVkLmlzbmEoKS5zdW0oKQo=</text>
+        <text encoding="base64">ICAgIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuc3VtKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNvcnRfZGYgPSBzb3J0X2RmLmNvbmZpcm1lZC5mZmlsbCgpCg==</text>
+        <text encoding="base64">OTAgLyAzNDU1MjUK</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
