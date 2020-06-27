@@ -221,12 +221,11 @@
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593220570543">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="75" column="4" />
-        <mark key="]" line="75" column="8" />
-        <mark key="." line="75" column="7" />
-        <mark key="^" line="75" column="8" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593221356459">
+        <mark key="'" line="71" column="41" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593210903953">
         <mark key="'" line="9" column="8" />
@@ -250,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="24" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="154" column="14" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
@@ -350,6 +348,7 @@
       <jump line="29" column="5" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
       <jump line="84" column="9" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="26" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
+      <jump line="75" column="41" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11559,28 +11558,37 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>.sum()</text>
+      <register name="*" type="2">
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhbMSwgMiwgNCwgMywgNV0pCnMudG9saXN0KCkKc1tzLnBjdF9jaGFuZ2UoKS5sdCgwKS5zaGlmdCgtMSkuZmlsbG5hKEZhbHNlKV0gPSBucC5uYW4Kcy5pbnRlcnBvbGF0ZSgpLnRvbGlzdCgpCnMuYmZpbGwoKS50b2xpc3QoKQo=</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.sum()</text>
+        <text>st(</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UubG9jWwogICAgICAgIGNhc2UKICAgICAgICAuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXQogICAgICAgIC5wY3RfY2hhbmdlKCkKICAgICAgICAubHQoMCkKICAgICAgICAuc2hpZnQoLTEpCiAgICAgICAgLmZpbGxuYShGYWxzZSksCiAgICAgICAgWyJjb25maXJtZWQiXQogICAgXSA9IGNhc2UubG9jWwogICAgICAgIGNhc2UKICAgICAgICAgICAgLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0KICAgICAgICAgICAgLnBjdF9jaGFuZ2UoKQogICAgICAgICAgICAubHQoMCkKICAgICAgICAgICAgLmZpbGxuYShGYWxzZSksCiAgICAgICAgWyJjb25maXJtZWQiXQogICAgXQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">c1tzLnBjdF9jaGFuZ2UoKS5sdCgwKS5zaGlmdCgtMSkuZmlsbG5hKEZhbHNlKV0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2VbImNvbmZpcm1lZCJdID0gY2FzZS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLmFwcGx5KGxhbWJkYSBncm91cDogZ3JvdXAuaW50ZXJwb2xhdGUobWV0aG9kPSdpbmRleCcpKS5pbnRlcnBvbGF0ZSgpCg==</text>
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhbMSwgMiwgNCwgMywgNV0pCnMudG9saXN0KCkKc1tzLnBjdF9jaGFuZ2UoKS5sdCgwKS5zaGlmdCgtMSkuZmlsbG5hKEZhbHNlKV0gPSBucC5uYW4Kcy5pbnRlcnBvbGF0ZSgpLnRvbGlzdCgpCnMuYmZpbGwoKS50b2xpc3QoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">cy50b2xpc3QoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cy5pbnRlcnBvbGF0ZSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNhc2VbImNvbmZpcm1lZCJdID0gY2FzZS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLmFwcGx5KGxhbWJkYSBncm91cDogZ3JvdXAuaW50ZXJwb2xhdGUobWV0aG9kPSdpbmRleCcpKS5pbnRlcnBvbGF0ZSgpCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>case.loc[
         case
             .groupby(&quot;countyFIPS&quot;)[&quot;confirmed&quot;]
@@ -11589,15 +11597,6 @@
             .fillna(False),
         [&quot;confirmed&quot;]
     ]</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNoaWZ0KC0xKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRyb3AgPSAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -14054,10 +14053,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFueShkcm9wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNoaWZ0KC0xKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmZvcm11bGEuYXBpIGFzIHNtZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -18161,10 +18160,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UK</text>
+        <text encoding="base64">ICAgIGRyb3AgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldF91c2FfZmFjdHNfZGF0YSgpLnRvX2NzdihjYXNlX2ZpbGUsIGluZGV4PUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIGFueShkcm9wKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
