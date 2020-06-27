@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5hbF9maWxlXD4=</entry>
         <entry>erge</entry>
         <entry>merge</entry>
         <entry>fall dat</entry>
@@ -27,6 +26,7 @@
         <entry>stay_a</entry>
         <entry>date</entry>
         <entry>sum</entry>
+        <entry>data points</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumbers</entry>
@@ -221,10 +221,12 @@
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593273840232">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593274061340">
+        <mark key="'" line="56" column="37" />
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="37" />
+        <mark key="^" line="40" column="38" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593210903953">
         <mark key="'" line="9" column="8" />
@@ -248,10 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="20" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
-      <jump line="59" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/02_rt.py" />
-      <jump line="41" column="23" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="226" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/03_date.py" />
       <jump line="159" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
@@ -291,7 +289,6 @@
       <jump line="31" column="1" filename="$USER_HOME$/Skarzynski-Martin/rt/fit/fe.py" />
       <jump line="59" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usda.py" />
       <jump line="51" column="4" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_census.py" />
-      <jump line="35" column="24" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
       <jump line="19" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
       <jump line="23" column="12" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" />
@@ -348,6 +345,11 @@
       <jump line="90" column="29" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
       <jump line="49" column="42" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
+      <jump line="35" column="38" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
+      <jump line="41" column="3" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
+      <jump line="40" column="37" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
+      <jump line="43" column="29" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
+      <jump line="56" column="37" filename="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -11557,38 +11559,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuYW55KCk6CiAgICAgICAgc29ydF9kZi5sb2NbCiAgICAgICAgICAgIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCksCiAgICAgICAgICAgICJjb25maXJtZWQiXSA9IHNvcnRfZGYubG9jWwogICAgICAgICAgICBzb3J0X2RmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgpLmd0KDApLnNoaWZ0KC0xKS5maWxsbmEoRmFsc2UpLAogICAgICAgICAgICAiY29uZmlybWVkIl0K</text>
+      <register name="*" type="4">
+        <text>data points</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnAubmFuOyA=</text>
+        <text>data points</text>
       </register>
       <register name="/" type="4">
-        <text>sum</text>
+        <text>data points</text>
       </register>
       <register name="0" type="4">
         <text>&quot;confirmed&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuYW55KCk6CiAgICAgICAgc29ydF9kZi5sb2NbCiAgICAgICAgICAgIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCksCiAgICAgICAgICAgICJjb25maXJtZWQiXSA9IHNvcnRfZGYubG9jWwogICAgICAgICAgICBzb3J0X2RmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgpLmd0KDApLnNoaWZ0KC0xKS5maWxsbmEoRmFsc2UpLAogICAgICAgICAgICAiY29uZmlybWVkIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgUmV2ZXJzZSBvcmRlciAoaGlnaGVzdCB0byBsb3dlc3QgZGF5KQo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuYW55KCk6CiAgICAgICAgc29ydF9kZi5sb2NbCiAgICAgICAgICAgIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCksCiAgICAgICAgICAgICJjb25maXJtZWQiXSA9IHNvcnRfZGYubG9jWwogICAgICAgICAgICBzb3J0X2RmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgpLmd0KDApLnNoaWZ0KC0xKS5maWxsbmEoRmFsc2UpLAogICAgICAgICAgICAiY29uZmlybWVkIl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNvcnRfZGYgPSBjYXNlLnNvcnRfdmFsdWVzKFsiY291bnR5RklQUyIsICJkYXkiXSwgYXNjZW5kaW5nPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICMgUmV2ZXJzZSBvcmRlciAoaGlnaGVzdCB0byBsb3dlc3QgZGF5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNvcnRfZGZbImNvbmZpcm1lZCJdID0gc29ydF9kZlsiY29uZmlybWVkIl0uZmZpbGwoKQo=</text>
+        <text encoding="base64">ICAgIHNvcnRfZGYgPSBjYXNlLnNvcnRfdmFsdWVzKFsiY291bnR5RklQUyIsICJkYXkiXSwgYXNjZW5kaW5nPUZhbHNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0X2RmWyJjb25maXJtZWQiXSA9IHNvcnRfZGZbImNvbmZpcm1lZCJdLmZmaWxsKCkK</text>
+        <text encoding="base64">ICAgIHNvcnRfZGZbImNvbmZpcm1lZCJdID0gc29ydF9kZlsiY29uZmlybWVkIl0uZmZpbGwoKQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -14045,7 +14047,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhc2UuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkubHQoMCkuc3VtKCkK</text>
+        <text encoding="base64">ICAgICAgICBzb3J0X2RmWyJjb25maXJtZWQiXSA9IHNvcnRfZGZbImNvbmZpcm1lZCJdLmZmaWxsKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNhc2UuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkubHQoMCkuc3VtKCkK</text>
@@ -18152,10 +18154,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuc3VtKCkK</text>
+        <text encoding="base64">ICAgIGNhc2UuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkubHQoMCkuc3VtKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">OTAgLyAzNDU1MjUK</text>
+        <text encoding="base64">ICAgIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuc3VtKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
@@ -18164,9 +18166,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sum</last-search>
+      <last-search>data points</last-search>
       <last-offset />
-      <last-pattern>sum</last-pattern>
+      <last-pattern>data points</last-pattern>
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
