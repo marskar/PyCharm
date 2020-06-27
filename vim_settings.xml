@@ -47,8 +47,8 @@
         <entry>action ActivatePythonConsoleToolWindow</entry>
         <entry>actionlist</entry>
         <entry>action HippieCompletion</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -221,11 +221,12 @@
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593221356459">
-        <mark key="'" line="71" column="41" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593223708584">
+        <mark key="'" line="78" column="41" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="4" />
+        <mark key="." line="70" column="4" />
+        <mark key="^" line="68" column="74" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593210903953">
         <mark key="'" line="9" column="8" />
@@ -11559,44 +11560,37 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">cyA9IHBkLlNlcmllcyhbMSwgMiwgNCwgMywgNV0pCnMudG9saXN0KCkKc1tzLnBjdF9jaGFuZ2UoKS5sdCgwKS5zaGlmdCgtMSkuZmlsbG5hKEZhbHNlKV0gPSBucC5uYW4Kcy5pbnRlcnBvbGF0ZSgpLnRvbGlzdCgpCnMuYmZpbGwoKS50b2xpc3QoKQo=</text>
+        <text encoding="base64">c29ydF9kZltzb3J0X2RmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgpLmd0KDApXSA9IG5wLm5hbgpzb3J0X2RmWyJjb25maXJtZWQiXSA9IHNvcnRfZGYuY29uZmlybWVkLmZmaWxsKCkK</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>st(</text>
+        <text>.sum()</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c1tzLnBjdF9jaGFuZ2UoKS5sdCgwKS5zaGlmdCgtMSkuZmlsbG5hKEZhbHNlKV0g</text>
+        <text>sort_df.groupby(&quot;countyFIPS&quot;)[&quot;confirmed&quot;].pct_change().gt(0).sum()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cyA9IHBkLlNlcmllcyhbMSwgMiwgNCwgMywgNV0pCnMudG9saXN0KCkKc1tzLnBjdF9jaGFuZ2UoKS5sdCgwKS5zaGlmdCgtMSkuZmlsbG5hKEZhbHNlKV0gPSBucC5uYW4Kcy5pbnRlcnBvbGF0ZSgpLnRvbGlzdCgpCnMuYmZpbGwoKS50b2xpc3QoKQo=</text>
+        <text encoding="base64">c29ydF9kZltzb3J0X2RmLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0ucGN0X2NoYW5nZSgpLmd0KDApXSA9IG5wLm5hbgpzb3J0X2RmWyJjb25maXJtZWQiXSA9IHNvcnRfZGYuY29uZmlybWVkLmZmaWxsKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cy50b2xpc3QoKQo=</text>
+        <text encoding="base64">cyA9IHBkLlNlcmllcyhbMSwgMiwgNCwgMywgNV0pCnMudG9saXN0KCkKc1tzLnBjdF9jaGFuZ2UoKS5sdCgwKS5zaGlmdCgtMSkuZmlsbG5hKEZhbHNlKV0gPSBucC5uYW4Kcy5pbnRlcnBvbGF0ZSgpLnRvbGlzdCgpCnMuYmZpbGwoKS50b2xpc3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cy5pbnRlcnBvbGF0ZSgpCg==</text>
+        <text encoding="base64">cy50b2xpc3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2VbImNvbmZpcm1lZCJdID0gY2FzZS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLmFwcGx5KGxhbWJkYSBncm91cDogZ3JvdXAuaW50ZXJwb2xhdGUobWV0aG9kPSdpbmRleCcpKS5pbnRlcnBvbGF0ZSgpCg==</text>
+        <text encoding="base64">cy5pbnRlcnBvbGF0ZSgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>case.loc[
-        case
-            .groupby(&quot;countyFIPS&quot;)[&quot;confirmed&quot;]
-            .pct_change()
-            .lt(0)
-            .fillna(False),
-        [&quot;confirmed&quot;]
-    ]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNhc2VbImNvbmZpcm1lZCJdID0gY2FzZS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLmFwcGx5KGxhbWJkYSBncm91cDogZ3JvdXAuaW50ZXJwb2xhdGUobWV0aG9kPSdpbmRleCcpKS5pbnRlcnBvbGF0ZSgpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -14052,11 +14046,18 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNoaWZ0KC0xKQo=</text>
+      <register name="6" type="4">
+        <text>case.loc[
+        case
+            .groupby(&quot;countyFIPS&quot;)[&quot;confirmed&quot;]
+            .pct_change()
+            .lt(0)
+            .fillna(False),
+        [&quot;confirmed&quot;]
+    ]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNoaWZ0KC0xKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -18160,13 +18161,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRyb3AgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFueShkcm9wKQo=</text>
+        <text encoding="base64">ICAgIGRyb3AgPSAK</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</text>
       </register>
     </registers>
   </component>
