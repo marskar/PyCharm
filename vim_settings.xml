@@ -221,12 +221,12 @@
       <file name="/" timestamp="1593011084165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593219059776">
+      <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593220570543">
         <mark key="'" line="26" column="4" />
-        <mark key="[" line="45" column="41" />
-        <mark key="]" line="45" column="62" />
-        <mark key="." line="45" column="61" />
-        <mark key="^" line="45" column="62" />
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="8" />
+        <mark key="." line="75" column="7" />
+        <mark key="^" line="75" column="8" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593210903953">
         <mark key="'" line="9" column="8" />
@@ -11560,37 +11560,44 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.sum()</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.sum()</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y2FzZVsiY29uZmlybWVkIl0g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNhc2UubG9jWwogICAgICAgIGNhc2UKICAgICAgICAuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXQogICAgICAgIC5wY3RfY2hhbmdlKCkKICAgICAgICAubHQoMCkKICAgICAgICAuc2hpZnQoLTEpCiAgICAgICAgLmZpbGxuYShGYWxzZSksCiAgICAgICAgWyJjb25maXJtZWQiXQogICAgXSA9IGNhc2UubG9jWwogICAgICAgIGNhc2UKICAgICAgICAgICAgLmdyb3VwYnkoImNvdW50eUZJUFMiKVsiY29uZmlybWVkIl0KICAgICAgICAgICAgLnBjdF9jaGFuZ2UoKQogICAgICAgICAgICAubHQoMCkKICAgICAgICAgICAgLmZpbGxuYShGYWxzZSksCiAgICAgICAgWyJjb25maXJtZWQiXQogICAgXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFueShkcm9wKQo=</text>
+        <text encoding="base64">ICAgIGNhc2VbImNvbmZpcm1lZCJdID0gY2FzZS5ncm91cGJ5KCJjb3VudHlGSVBTIilbImNvbmZpcm1lZCJdLmFwcGx5KGxhbWJkYSBncm91cDogZ3JvdXAuaW50ZXJwb2xhdGUobWV0aG9kPSdpbmRleCcpKS5pbnRlcnBvbGF0ZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmZvcm11bGEuYXBpIGFzIHNtZgo=</text>
+      <register name="2" type="4">
+        <text>case.loc[
+        case
+            .groupby(&quot;countyFIPS&quot;)[&quot;confirmed&quot;]
+            .pct_change()
+            .lt(0)
+            .fillna(False),
+        [&quot;confirmed&quot;]
+    ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNoaWZ0KC0xKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldF91c2FfZmFjdHNfZGF0YSgpLnRvX2NzdihjYXNlX2ZpbGUsIGluZGV4PUZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGRyb3AgPSAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -14047,10 +14054,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFueShjYXNlLmdyb3VwYnkoImNvdW50eUZJUFMiKS5jb25maXJtZWQucGN0X2NoYW5nZSgpIDwgMCkK</text>
+        <text encoding="base64">ICAgIGFueShkcm9wKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhc2UubG9jW2Nhc2UuY291bnR5RklQUz09MzYwNjEsIFsiZGF5IiwgImNvcnJlY3RlZF9kYXkiLCAiY29uZmlybWVkIl1dWzQ4OjU0XQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmZvcm11bGEuYXBpIGFzIHNtZgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -18154,10 +18161,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UubG9jW2Nhc2UuY291bnR5RklQUz09MzYwNjEsIFsiZGF0ZSIsICJjb3JyZWN0ZWRfZGF0ZSIsICJjb25maXJtZWQiXV1bNDg6NTRdCg==</text>
+        <text encoding="base64">ICAgIGNhc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNvcnQgY2FzZXMgKGRhdGVzIHdpbGwgYmUgb3V0IG9mIG9yZGVyKQo=</text>
+        <text encoding="base64">ICAgIGdldF91c2FfZmFjdHNfZGF0YSgpLnRvX2NzdihjYXNlX2ZpbGUsIGluZGV4PUZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ExecuteInPyConsoleAction</text>
