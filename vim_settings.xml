@@ -34,7 +34,6 @@
         <entry>HippieCompletion</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">YWN0aW9uIG9yZy5pbnRlbGxpai5wbHVnaW5zLm1hcmtkb3duLnVpLmFjdGlvbnMuZWRpdG9yTGF5b3V0LkVkaXRvckFuZFByZXZpZXdMYXlvdXRDaGFuZ2VBY3Rpb24g</entry>
-        <entry>action CloseProject</entry>
         <entry>action JumpToLastWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ReformatCode</entry>
@@ -49,6 +48,7 @@
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhlY3V0ZUluUHlDb25zb2xlQWN0aW9u</entry>
         <entry>action ExecuteInPyConsoleAction</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -178,6 +178,9 @@
         <mark key="." line="64" column="34" />
         <mark key="^" line="64" column="35" />
       </file>
+      <file name="/Python Console" timestamp="1593444668488">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/calc/growth.py" timestamp="1593186841975">
         <mark key="'" line="69" column="57" />
         <mark key="[" line="35" column="0" />
@@ -222,11 +225,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/00_usa_facts.py" timestamp="1593274061340">
-        <mark key="'" line="56" column="37" />
-        <mark key="[" line="59" column="32" />
-        <mark key="]" line="59" column="32" />
-        <mark key="." line="59" column="37" />
-        <mark key="^" line="40" column="38" />
+        <mark key="'" line="55" column="37" />
+        <mark key="[" line="58" column="32" />
+        <mark key="]" line="58" column="32" />
+        <mark key="." line="58" column="37" />
+        <mark key="^" line="39" column="38" />
       </file>
       <file name="$USER_HOME$/Skarzynski-Martin/rt/prep/01_merge.py" timestamp="1593210903953">
         <mark key="'" line="9" column="8" />
@@ -18160,7 +18163,7 @@
         <text encoding="base64">ICAgIHNvcnRfZGYuZ3JvdXBieSgiY291bnR5RklQUyIpWyJjb25maXJtZWQiXS5wY3RfY2hhbmdlKCkuZ3QoMCkuc3VtKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ExecuteInPyConsoleAction</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
   </component>
@@ -18172,7 +18175,7 @@
       <last-replace>None</last-replace>
       <last-substitute>No order</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
