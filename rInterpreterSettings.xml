@@ -8,6 +8,12 @@
           <option name="timestamp" value="1587723647000" />
           <option name="version" value="4.0.0" />
         </RSerializableInterpreter>
+        <RSerializableInterpreter>
+          <option name="name" value="r" />
+          <option name="path" value="$USER_HOME$/miniconda/envs/r/bin/R" />
+          <option name="timestamp" value="1595868082184" />
+          <option name="version" value="4.0.2" />
+        </RSerializableInterpreter>
       </list>
     </option>
   </component>
